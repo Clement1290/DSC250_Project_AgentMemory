@@ -46,7 +46,7 @@ from dataset import MultiSessionDialog
 dataset = MultiSessionDialog()
 print(len(dataset))
 
-dialog, qa = dataset[0]
+dialog, qa = dataset[1]
 print(dialog)
 print(qa)
 ```
