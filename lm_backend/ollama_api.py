@@ -1,18 +1,18 @@
 # %%
 import os
-from ollama import chat, Client
-
+import ollama
 
 class OllamaAgent():
     def __init__(self, model_name='qwen2.5:3b'):
         os.system("ollama serve")
         self.model_name = model_name
+        ollama.pull(self.model_name)
         self.reset()
     def query(self, prompt, reset=False):
         if reset:
             self.reset()
         self.history.append({"role": "user", "content": prompt})
-        response = chat(model=self.model_name, messages=self.history)
+        response = ollama.chat(model=self.model_name, messages=self.history)
         self.history.append(response['message'])
         return response['message']['content']
 
