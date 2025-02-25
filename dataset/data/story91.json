@@ -1,0 +1,25 @@
+{
+    "User Id": 91,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Zara has just returned from a summer internship at a local environmental advocacy group. While she enjoyed the hands-on experience, she feels overwhelmed by the realization of how much work remains to be done in conservation. She struggles with feelings of inadequacy, questioning whether her efforts were impactful enough. Zara confides in her brother Rohan about her frustrations and the emotional toll of witnessing environmental degradation during her internship.",
+            "Mental State": ["overwhelmed", "inadequate", "frustrated"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Back at school, Zara begins her new semester. However, she finds it hard to focus on her studies because of her lingering anxiety about not making a meaningful impact in her field. While working on a group project about sustainable practices, she feels anxious about sharing her ideas, worried her contributions won't be valued. She particularly feels overshadowed by a charismatic classmate, Mia, who loudly advocates for her own ideas during discussions.",
+            "Mental State": ["anxious", "self-doubting", "frustrated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As the project progresses, Zara feels increasingly isolated. She withdraws from her study group as her anxiety grows, feeling like she can't keep up with the group's dynamics. Her friends notice her absence, and Mia reaches out to check on her. Zara feels guilty for distancing herself but is unsure how to reconnect with her peers, fearing they won't understand her struggles or take her seriously. Her internal conflict heightens her sense of loneliness and hopelessness.",
+            "Mental State": ["isolated", "guilty", "hopeless"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After a heart-to-heart conversation with her mother about her feelings of inadequacy, Zara is encouraged to re-engage with her group. With newfound determination, she decides to attend the next group meeting. During this meeting, she takes a deep breath and finally shares her insights and experiences from her internship. Zara is warmly received, and her contributions spark lively discussion, helping her feel valued and understood. This pivotal moment revitalizes her confidence and reaffirms her commitment to her studies and goals.",
+            "Mental State": ["determined", "valued", "rejuvenated"]
+        }
+    }
+}

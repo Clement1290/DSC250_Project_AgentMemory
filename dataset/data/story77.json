@@ -1,0 +1,25 @@
+{
+    "User Id": 77,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Michael starts his final semester in Environmental Studies with excitement about his upcoming thesis project on sustainable tourism. However, he quickly learns that his thesis advisor, Professor Mitchell, has very high expectations and becomes critical of Michael's initial ideas. This criticism leaves Michael feeling anxious and questioning his abilities, especially since he has always wanted to impress his mentor.",
+            "Mental State": ["anxious", "self-doubting", "overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks go by, Michael finds himself increasingly stressed about the project. He struggles to meet Professor Mitchell's expectations and feels isolated from his classmates, who seem to be more confident. Michael often discusses his struggles with his friend Sarah, who encourages him to believe in himself and to seek help when needed. However, he feels embarrassed admitting the extent of his doubts.",
+            "Mental State": ["frustrated", "isolated", "ashamed"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "During a crucial meeting with Professor Mitchell, Michael presents a revised version of his project proposal, but Professor Mitchell dismissively critiques it and suggests Michael should start over. Feeling undermined and defeated, Michael becomes defensive and struggles to keep his composure. This interaction leaves him feeling hurt and confused about how to proceed, exacerbating his self-doubt and leading him to question whether he should continue pursuing this project.",
+            "Mental State": ["hurt", "conflicted", "disheartened"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "As the deadline for his thesis approaches, Michael reflects on the emotional toll the past months have taken on him. Realizing he cannot afford to give up, he decides to seek support from a campus counselor and to approach Professor Mitchell with a request for constructive feedback instead of criticism. Although feeling nervous about showing vulnerability, Michael is determined to express his struggles and seek clarity about how he can improve his project.",
+            "Mental State": ["hopeful", "nervous", "determined"]
+        }
+    }
+}

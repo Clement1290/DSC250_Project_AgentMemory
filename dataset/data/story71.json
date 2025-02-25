@@ -1,0 +1,25 @@
+{
+    "User Id": 71,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sofia begins the semester feeling optimistic and inspired after attending various workshops on mental health and environmental issues over the summer. However, during her first few classes, she quickly encounters a group of classmates who prioritize grades over discussions about the real-world implications of biochemistry. This causes her to feel disheartened when her attempts to dive deeper into meaningful dialogues are met with dismissive comments.",
+            "Mental State": ["Frustrated", "Isolated", "Disheartened"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Seeking advice, Sofia confides in her younger brother Daniel about her struggles connecting with her classmates. While Daniel is supportive, he doesn’t fully understand the academic pressures Sofia faces. He suggests focusing on individual projects instead of worrying about group dynamics. Feeling somewhat dismissed, Sofia starts to doubt her social skills and whether she can successfully advocate for her interests in a competitive environment.",
+            "Mental State": ["Lonely", "Discouraged", "Doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-15",
+            "Description": "As part of a community health project, Sofia feels excited about having the opportunity to advocate for mental health awareness. She proposes incorporating elements of her summer experiences into the project, but her group opts for a more conventional approach, leaving her feeling sidelined. This lack of support from her team causes her to feel defeated and she begins to withdraw from the group, questioning whether her ideas are valuable.",
+            "Mental State": ["Frustrated", "Defeated", "Conflicted"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-01",
+            "Description": "On the day of the presentation for the community health project, Sofia feels a mix of excitement and anxiety. Despite her passion for the topic, she struggles to engage her peers and detect their indifference. After the presentation, she feels a profound sense of disappointment and starts to question her suitability for a career in biochemistry. She contemplates switching to a more artistic path, such as art therapy or photography, where she believes she might find more fulfillment and connection with others.",
+            "Mental State": ["Defeated", "Uncertain", "Reflective"]
+        }
+    }
+}

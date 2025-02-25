@@ -1,0 +1,25 @@
+{
+    "User Id": 17,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Elena finds herself overwhelmed with her coursework in psychology. As the semester progresses, her professors assign numerous projects and readings, and the pressure begins to mount. She feels anxious about meeting her own high standards, particularly as she strives to maintain a good GPA. At the same time, she faces familial expectations—her father often reminds her of the importance of academic success, leading her to feel additional pressure to excel. This pressure contributes to her growing sense of self-doubt.",
+            "Mental State": ["Anxious", "Overwhelmed", "Self-doubting"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Elena's brother, Alex, who usually provides her with support, becomes extremely busy with his demanding medical program. He can no longer join her for their regular hiking trips or art sessions. Feeling isolated and stressed from her studies, Elena struggles to communicate her feelings to her family, fearing they won't understand the pressure she’s under. She becomes withdrawn, spending more time alone reading or painting, but finds that these activities no longer provide her with comfort or relief from stress.",
+            "Mental State": ["Isolated", "Frustrated", "Withdrawn"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms approach, Elena's emotional burden becomes heavier. Unable to reach out to friends for help, she starts to feel resentful towards them for not noticing her struggles. She becomes more critical of herself and anxious about her performance in class. One evening, during a group study session, she lashes out at her friends over a minor disagreement regarding study techniques, which only leaves her feeling guilty and more alone. This incident makes her question her relationships and her ability to seek help.",
+            "Mental State": ["Guilty", "Resentful", "Anxious"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "With finals looming, Elena decides to seek help from a campus counselor after a breakdown while preparing for an important presentation. This moment of vulnerability marks a turning point as she expresses her fears and anxieties out loud for the first time. The counselor suggests coping strategies and reassures her that many students face similar challenges. While she feels a sense of relief from having spoken about her struggles, she also feels uncertain about whether she can change her situation and maintain her grades. The lack of resolution leaves her mentally drained yet hopeful for improvement.",
+            "Mental State": ["Relieved", "Hopeful", "Uncertain"]
+        }
+    }
+}

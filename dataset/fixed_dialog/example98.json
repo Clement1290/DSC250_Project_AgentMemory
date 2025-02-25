@@ -1,0 +1,198 @@
+{
+    "User Id": 98,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Emily Johnson. I'm a 23-year-old studying psychology."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Emily! It's nice to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Thanks! I'm feeling excited but also a bit anxious about the new semester."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That\u2019s completely normal! Starting a new semester can bring a mix of emotions. What aspects are making you feel anxious?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I\u2019ve noticed that some of my classmates are really outgoing, and it makes me self-conscious about being introverted."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "I see. It can be tough when you compare yourself to others. How has this affected your thoughts about connecting with your classmates?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I worry that I won\u2019t be able to make meaningful connections as an introvert."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It\u2019s understandable to feel that way, but being an introvert can also bring unique strengths to your relationships. Have you thought about small steps to connect with others?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I guess I could try to engage in smaller groups or one-on-one conversations."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That sounds like a great idea! Building connections gradually might ease some of that anxiety. Remember, it\u2019s okay to be yourself."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-10-01T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I'm feeling a bit more isolated lately. I tried to participate in group projects, but I often feel overlooked."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I'm sorry to hear that, Emily. Can you share more about what happened in those group projects?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "In a recent discussion, I attempted to contribute, but I got interrupted, and it discouraged me."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds frustrating. It\u2019s hard to feel heard, especially when you\u2019re trying to express your ideas. How did that make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It made me feel vulnerable and like I don\u2019t belong."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's okay to feel vulnerable. It shows you're navigating new social dynamics. Have you talked to your roommate, Sarah, about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I did, and she was supportive. But I still have this lingering fear that I won\u2019t fit in."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Having someone like Sarah to talk to is valuable. It might help to focus on the qualities that make you unique and bring value to your group."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-21T14:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello again. I joined a study group recently, hoping it would help me feel more integrated, but I struggled to share my thoughts."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That sounds challenging. What made you feel hesitant in the study group?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I felt anxious about being judged and often found it hard to voice my opinions."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It\u2019s completely normal to feel anxious in new group settings. Have you had any experiences in the past that were similar?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Yes, I often feel this way in social situations."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It\u2019s good to recognize this pattern. Building confidence takes time. Maybe you can prepare some thoughts before meetings to help ease your anxiety."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "That sounds helpful. I just wish I could be more relatable."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "You are more relatable than you think! Everyone has their own uniqueness to bring to the table. Try to focus on your strengths during discussions."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I\u2019ve had a rough week. I overheard some classmates making jokes about introverted students."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I'm really sorry to hear that, Emily. How did that make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It triggered a lot of emotions in me\u2014anger, hurt, and I feel so disconnected."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "Feeling hurt from such comments is completely valid. It's tough to hear negative remarks about something so personal."
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I wanted to speak up, but I held back out of fear of rejection."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It\u2019s a challenging position to be in. Sometimes, addressing those situations can be powerful, but it\u2019s also okay to take your time to process your feelings."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I decided to write in my journal to process everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's a great coping strategy! Journaling can help you clarify your feelings. Just remember, you\u2019re not defined by others\u2019 perceptions of you."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Thank you for the support. I will try to focus on that."
+            }
+        ]
+    }
+}

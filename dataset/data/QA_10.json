@@ -1,0 +1,31 @@
+{
+    "User Id": 10,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019m hoping for some understanding and possibly to find out about more opportunities to connect with others who share my interests."
+        },
+        "question": "What does Emily hope to gain from talking to a professor about her feelings?",
+        "answer": "Understanding and opportunities to connect with others who share her interests."
+    },
+    "long_term_QA": {
+        "question": "How did Emily feel before her decision to seek assistance, and what led her to consider reaching out for support?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel a bit hopeful, but I\u2019m also nervous about opening up."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I still left feeling like nobody understands what I'm going through."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It shows you\u2019re taking action to address how you\u2019ve been feeling."
+        },
+        "answer": "Before considering to talk to a professor, Emily felt disconnected and believed that nobody understood her struggles. This realization prompted her to reflect on her situation and ultimately led her to feel hopeful about reaching out for help."
+    }
+}

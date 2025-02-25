@@ -1,0 +1,25 @@
+{
+    "User Id": 35,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As Ethan starts the semester, he feels excited about his Mechanical Engineering courses. However, he soon starts to sense the pressure of maintaining good grades while also participating in a new sustainability project that he is passionate about. This project involves collaboration with his peers, and the expectations to contribute significantly make him anxious about balancing his time and energy. Ethan often reflects on how important it is for him to create a positive impact through engineering, leading to an internal conflict between his idealism and the reality of his workload.",
+            "Mental State": ["Excited", "Anxious", "Overwhelmed", "Determined"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Having settled into his classes, Ethan begins to feel the cumulative stress from both his academic responsibilities and the group project. During a study group session, he encounters disagreement with a team member, Alex, regarding the direction of their project. This disagreement leaves Ethan feeling frustrated and unsupported, especially since he values harmony in team dynamics. Instead of addressing the conflict, he retreats into himself, feeling isolated and doubting his ability to lead the project effectively.",
+            "Mental State": ["Isolated", "Frustrated", "Doubtful", "Sad"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With midterms approaching, Ethan’s anxiety intensifies. He feels torn between devoting himself to his studies and addressing the unresolved tension in his project group. As he tries to focus on studying for his mechanical engineering exams, the concerns about the project weigh heavily on his mind. One day, he overhears Alex sharing critical remarks about him with another classmate, which further deepens his sense of alienation. Ethan feels heartbroken and second-guesses his contributions not only to the project but also to his friendships, making him reluctant to reach out for help.",
+            "Mental State": ["Defeated", "Anxious", "Heartbroken", "Lonely"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of internal struggle, Ethan finally decides to talk to his mentor, Dr. Lewis, about his feelings of isolation and his frustrations with the project. During their meeting, he opens up about his need for harmony and his fear of conflict affecting his relationships and academic performance. Dr. Lewis listens attentively, providing him with guidance on effective communication strategies and encouraging him to express his concerns to his team openly. Though Ethan still feels anxious about the impending confrontation with Alex and the group, he begins to foster a sense of hope that addressing these challenges can lead to personal growth and stronger connections with his classmates.",
+            "Mental State": ["Hopeful", "Anxious about confrontation", "Empowered", "Determined"]
+        }
+    }
+}

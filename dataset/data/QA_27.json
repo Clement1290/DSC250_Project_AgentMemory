@@ -1,0 +1,31 @@
+{
+    "User Id": 27,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel hopeful but also apprehensive. I'm scared of opening up to someone else."
+        },
+        "question": "What emotions is Sophie experiencing about seeking help?",
+        "answer": "She feels hopeful but also apprehensive."
+    },
+    "long_term_QA": {
+        "question": "How does Sophie initially experience feelings of being overwhelmed and isolated, and what leads her to recognize her need for support?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I had a moment during my photography class where I realized I need to take care of myself, but deciding to seek help feels so daunting."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I\u2019ve been feeling really isolated. After a tough conversation with Claire, I feel drained."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It\u2019s completely normal to feel apprehensive. Remember, seeking help signifies strength and self-awareness."
+        },
+        "answer": "Sophie initially feels overwhelmed and isolated, stating, 'I\u2019ve been feeling really isolated. After a tough conversation with Claire, I feel drained.' This experience prompts a breakthrough during her photography class, leading her to realize, 'I need to take care of myself,' which helps her acknowledge her need for support."
+    }
+}

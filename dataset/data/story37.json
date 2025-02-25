@@ -1,0 +1,25 @@
+{
+    "User Id": 37,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the semester begins, Samuel is eager to dive into his History courses but begins to feel the weight of expectations placed on him by his family and himself. With his mother being a university professor, he feels compelled to excel academically. He also joins a history club that aims to organize a large exhibition on local history, further adding to his workload. While he is excited about the project, the growing pressure creates a nagging anxiety about his performance and the possibility of disappointing those around him.",
+            "Mental State": ["Excited", "Anxious", "Overwhelmed", "Hopeful"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks progress, Samuel struggles with balancing his course schedule and commitments to the history club. During a planning meeting for the exhibition, he feels overshadowed by more vocal members who seem confident in their abilities. Samuel attempts to contribute ideas but finds himself doubting the value of his input, leading to feelings of frustration and isolation. The conflict between wanting to be a team player and feeling inadequate intensifies, causing him to withdraw from participating actively in discussions.",
+            "Mental State": ["Frustrated", "Insecure", "Isolated", "Sad"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With midterms approaching, Samuel feels a deep sense of defeat. He receives a lower grade than expected on a paper, reinforcing his fears of inadequacy. The situation worsens during a group project, where a team member, Lily, inadvertently criticizes him for not taking initiative. Feeling disheartened, Samuel internalizes these criticisms, making him question his capabilities. He starts to withdraw from both his studies and social activities, believing he is not good enough to belong.",
+            "Mental State": ["Defeated", "Anxious", "Heartbroken", "Lonely"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "In light of his ongoing struggles, Samuel finally reaches out to his academic advisor, Dr. Richards, who has been supportive throughout his academic journey. During their conversation, he opens up about his feelings of inadequacy and isolation. Dr. Richards helps him recognize that everyone faces challenges and encourages him to bring his ideas to the forefront instead of retreating. Samuel leaves the meeting feeling a slight spark of hope and empowerment, realizing that he can advocate for himself and his ideas, even in the face of criticism and self-doubt.",
+            "Mental State": ["Hopeful", "Anxious about applying changes", "Empowered", "Determined"]
+        }
+    }
+}

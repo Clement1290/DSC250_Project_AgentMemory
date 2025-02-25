@@ -1,0 +1,59 @@
+{
+    "User Id": 92,
+    "Stage 1 dialogue": 
+    {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Samuel Torres. This is my first time visiting.",
+            "Counselor": "Hello, Samuel! It’s great to meet you. How are you feeling today?",
+            "Student": "I’m a bit anxious, to be honest. I just returned to campus after summer break.",
+            "Counselor": "That’s understandable. Coming back after a break can be stressful. What’s been on your mind?",
+            "Student": "I feel this pressure to perform well this semester to keep my scholarship, and I worry I haven't done enough during my break.",
+            "Counselor": "It's completely normal to have those worries. What kind of activities did you do over the summer?",
+            "Student": "I had a good time, but with my friends talking about internships and job opportunities, I wonder if I missed out.",
+            "Counselor": "It's easy to feel that way when comparing ourselves to others. Remember, everyone's journey looks different. What are your main concerns about the upcoming semester?",
+            "Student": "I guess I’m just worried about balancing my coursework and expectations. I want to make my family proud."
+        }
+    },
+    "Stage 2 dialogue": 
+    {
+        "timestamp": "2023-09-30T15:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I'm still feeling overwhelmed with everything.",
+            "Counselor": "Welcome back, Samuel! I’m glad you reached out. What’s been overwhelming you?",
+            "Student": "I’m struggling to balance my coursework and extracurriculars. Group assignments are stressing me out.",
+            "Counselor": "Group projects can be challenging, especially if you feel overshadowed by more assertive members. How have those interactions been for you?",
+            "Student": "There's this guy, Alex, in my group who always dominates the conversations. I feel like my ideas don’t matter.",
+            "Counselor": "It’s tough to navigate those dynamics. Have you considered discussing your thoughts with him or the group directly?",
+            "Student": "I haven't. I just get anxious and hold back. It frustrates me.",
+            "Counselor": "That’s perfectly valid. It might help to prepare your thoughts in advance; it could boost your confidence when it's time to share."
+        }
+    },
+    "Stage 3 dialogue": 
+    {
+        "timestamp": "2023-10-20T11:00:00Z",
+        "Dialogue": {
+            "Student": "Hello again. I'm feeling more withdrawn lately.",
+            "Counselor": "Hi Samuel! It’s good to see you back. What’s going on?",
+            "Student": "As midterms approach, I feel the pressure building. I’m missing out on social events and feel guilty.",
+            "Counselor": "That’s a lot to carry. It’s understandable to want to focus on your studies, but it’s also important to maintain connections. Have you spoken to anyone about how you’re feeling?",
+            "Student": "I bumped into my sister, Sofia, but I just brushed it off. I don’t want to burden anyone with my issues.",
+            "Counselor": "It's not burdening; sharing can help you feel less alone. Your family wants to support you. Have you told Sofia how you're struggling?",
+            "Student": "I just feel like I’m letting her down by not being the supportive brother I usually am."
+        }
+    },
+    "Stage 4 dialogue": 
+    {
+        "timestamp": "2023-11-05T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hi! I finally talked to a friend about how I've been feeling.",
+            "Counselor": "That’s wonderful to hear, Samuel! How did that conversation go?",
+            "Student": "It felt good to open up. They encouraged me to seek help, and I think that’s what I need to do.",
+            "Counselor": "I’m glad you reached out. Talking about your experiences can be really therapeutic. What are you thinking of doing next?",
+            "Student": "I’m planning to make an appointment with the campus counselor. I'm realizing that my struggles can also help me in my pursuit to become a counselor.",
+            "Counselor": "That's a powerful insight! Your experiences can indeed inform your future work. How are you feeling about your path now?",
+            "Student": "I feel hopeful and determined to push through. I want to inspire others in the same way my friend inspired me.",
+            "Counselor": "That’s a fantastic perspective, Samuel. Keep holding onto that motivation, and remember, you’re not alone on this journey."
+        }
+    }
+}

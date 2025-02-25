@@ -1,0 +1,163 @@
+{
+    "User Id": 94,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Liam Patel. This is my first time meeting with a counselor."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Liam! It's nice to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a bit overwhelmed. I just started the new semester."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's completely understandable. Starting a new semester can bring a lot of pressure. What's been concerning you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I've received my syllabus and it looks like I have a lot of projects and assignments coming up. It's stressing me out."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's common to feel anxious when faced with a heavy workload. Have you had a chance to talk to anyone about your feelings?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I mentioned it to my mom during dinner, but I still feel a lot of pressure to keep my grades up to maintain my scholarship."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. Things haven't gotten any easier."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Liam! I'm here to listen. What's going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm struggling with time management. I felt really intimidated in a group project, and I found it hard to speak up."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It sounds frustrating to deal with such pressure in group dynamics. Can you tell me more about what happened?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "There's a classmate, Sarah, who tends to dominate discussions. I got so nervous that I just didn't contribute."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That can be really tough. Have you thought about ways to assert yourself in group settings?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I guess I could try preparing my ideas in advance, but it's just hard to break through the anxiety."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T12:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I've been feeling pretty lonely lately."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Liam! I appreciate you coming back in. What's been on your mind?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "With midterms coming up, I feel pressure, and I've been declining invites to hang out. I miss hanging out with my friends and family."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's common to isolate yourself during stressful times, but connection is important, too. How did you feel when your sister Aanya invited you to an event recently?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I told her I was too busy. I feel guilty for missing out on family time and worry they think I don't care."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that way. It's okay to communicate your struggles to them. Your family wants to support you."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T15:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, I took a big step and talked to my advisor this week."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's amazing, Liam! How did that go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I opened up about my anxiety and struggles with my confidence in group settings."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm glad you felt comfortable sharing that. What advice did they give you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "They encouraged me to embrace my creativity and to look for small ways to contribute during group discussions."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds very encouraging! How do you feel about implementing their advice?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I feel hopeful. I think I can slowly start reconnecting with my friends and try to express my ideas more."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's a great plan! Remember, it's about progress, not perfection. If you need support, I'm here for you."
+            }
+        ]
+    }
+}

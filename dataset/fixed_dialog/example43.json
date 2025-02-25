@@ -1,0 +1,263 @@
+{
+    "User Id": 43,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Amara ElSayed. This is my first time here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Amara! It's great to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, I'm feeling quite anxious about starting my senior year. I'm worried about what's next after graduation."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's understandable. Senior year can be a time of uncertainty. What specific concerns are on your mind?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I have a strong desire to make a difference in cultural advocacy, but I'm feeling overwhelmed with uncertainty about job prospects in my field."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It sounds like you have a lot of pressure to succeed, especially given your passion for cultural advocacy. Have you thought about what you would like to do after graduation?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I feel left behind because many of my friends have accepted internships or job offers already."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's normal to feel like you're falling behind when your peers seem to have things figured out. Remember, everyone's journey is different. Have you considered talking to someone about potential opportunities?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I haven't, but it's a good idea. I guess I just need to figure things out on my own."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's okay to seek guidance. There are often resources available through your school that can help connect you with career advice. Would you be open to exploring that?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Yeah, I suppose I could reach out for advice from my professors or career services."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "That's a great step! Building connections can open doors for you. How does that sound?"
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "It sounds good. I'll try to do that. Thank you for your support."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "You're welcome, Amara! Remember, seeking help shows strength. I'm here for you if you need to talk again."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T15:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. I wanted to talk about a conference I attended recently."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Amara! How did the conference go for you?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was overwhelming. I was surrounded by other students confidently presenting their ideas, and I felt really out of place."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds tough. It's easy to feel isolated when you're in an environment where others are expressing themselves so openly. What emotions did that bring up for you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt frustrated and insecure. I wanted to share my ideas, but I hesitated because I feared they wouldn't be good enough."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's a common feeling, especially in a competitive environment. It might help to explore why you felt that way. What made you doubt your contributions?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I guess it's just the pressure I put on myself to succeed and not measure up to my peers."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's understandable to feel pressured, especially with your aspirations in cultural advocacy. Have you thought about how you could express your ideas more confidently in the future?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I could prepare more before speaking up and remind myself that my voice matters too."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Absolutely! Practicing what you want to say beforehand might help you feel more empowered. How will you apply that in the next opportunity?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I'll definitely try that! Thanks for your encouragement."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "Of course! Remember that your experiences and thoughts are valuable. I'm here if you want to talk again."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:30:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I wanted to share something that happened during a dinner I hosted."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Amara! I'm glad you're here. How was the dinner?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I invited my classmates over, and it turned into a conversation about their internships. I felt overwhelmed when they talked about their achievements."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds challenging. It's tough to hear others' successes when you're feeling unsure about your own path. How did that affect you during the evening?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I started feeling helpless. I just wanted to be happy for them, but I couldn't help feeling disappointed in myself."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's normal to feel that way in competitive scenarios. When you stepped away to gather your thoughts, what reflections came to you?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I realized how much I've been questioning my own progress and if I'm even good enough to succeed in this field."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's important to recognize those feelings. Remember that it's okay to feel lost; many people experience doubts. What do you think could help you shift your focus back to yourself?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Maybe I should write down my achievements, however small they might be, to remind myself of my progress."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That sounds like a powerful exercise! Acknowledging your growth can help build your confidence. How do you feel about starting that?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I think it's a good idea. Thank you for the suggestion!"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T11:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. I spoke with my brother, Khaled, about everything I've been feeling."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Amara! I'm glad you're here again. How did your conversation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was supportive. He suggested I think about talking to a career counselor for advice, but I still feel unsure about reaching out."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a positive step, and I'm glad you have Khaled's support. What concerns do you have about seeking help?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I worry that it might reveal my uncertainties and make me feel even more vulnerable."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's natural to feel that way, but seeking help is a sign of strength. Career counselors are there to guide you, not judge you. What resonates with you about that idea?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Knowing they're there to support me makes it seem less scary. I just want to make sure I'm going in the right direction."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Absolutely! Taking that step could provide you the clarity you're seeking. How do you think you might approach setting up that meeting?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I could start by looking up appointments online or asking my professors for a recommendation."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That sounds like a great plan! You've got this, Amara. Just remember to take it one step at a time."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Thank you for believing in me! I feel more hopeful after talking it through."
+            }
+        ]
+    }
+}

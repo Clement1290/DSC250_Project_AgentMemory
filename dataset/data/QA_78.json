@@ -1,0 +1,31 @@
+{
+    "User Id": 78,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019ve decided I need to confront Kyle about how I've been feeling and the group's dynamic."
+        },
+        "question": "What prompted Isabella to decide to confront Kyle?",
+        "answer": "Isabella felt the need to confront Kyle about how she's been feeling and the group's dynamic."
+    },
+    "long_term_QA": {
+        "question": "How did Isabella's feelings about confronting Kyle evolve, and what specific incident prompted her to reconsider her approach?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019ve decided I need to confront Kyle about how I've been feeling and the group's dynamic."
+        },
+        "long-term evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "I\u2019m afraid of confrontation and how it might impact the group dynamic."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "It must have been very hurtful to have your ideas dismissed like that."
+        },
+        "answer": "Isabella transitioned from feeling 'afraid of confrontation and how it might impact the group dynamic' to deciding 'I need to confront Kyle about how I've been feeling and the group's dynamic' after the incident where she felt 'humiliated and discouraged' by his sarcastic comments."
+    }
+}

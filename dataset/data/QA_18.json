@@ -1,0 +1,31 @@
+{
+    "User Id": 18,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I think I\u2019ll start small and try to reach out to my club members."
+        },
+        "question": "What did Sophie decide to do after meeting with the university counselor?",
+        "answer": "She decided to reach out to her club members."
+    },
+    "long_term_QA": {
+        "question": "What was Sophie experiencing before she sought help, and what influenced her decision to reach out for support?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel a bit relieved after talking about my struggles, but I still worry about disappointing others."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m excited but a bit overwhelmed. I just started my semester in Environmental Science."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I decided to meet with a university counselor."
+        },
+        "answer": "Before seeking help, Sophie was feeling overwhelmed with her classes and responsibilities, saying she was excited but a bit overwhelmed. Her decision to reach out for support came after much encouragement from her friend Mia, which led her to meet with a university counselor."
+    }
+}

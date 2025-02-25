@@ -1,0 +1,158 @@
+{
+    "User Id": 13,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Maya Patel. I'm 22 and studying Psychology."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Maya! Nice to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a bit off, actually. I just started my semester, and I'm excited, but something happened in my group project."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. What happened during your group project?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "During the first meeting, my teammate Emma kept dominating the conversation and dismissed my ideas. It made me feel sidelined."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds frustrating. It's tough when you're trying to contribute, and your ideas aren't acknowledged. How did that affect your confidence?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "It really undermined my confidence. I'm starting to feel self-doubt creep in, like maybe I don't belong in this major."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I'm feeling more anxious now. I find it hard to connect with my peers."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I'm glad you came back, Maya. What's been happening since our last meeting?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "After that group meeting, I've been really hesitant to speak up. My friend Kevin and I had lunch, and I mentioned how I feel left out."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a good step, talking to someone. But it sounds like you're still feeling really anxious about it."
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Yeah, I'm worried I don't fit in or won't be able to keep up with everyone else. It's making me second guess my decision to study Psychology."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's natural to feel this way, especially in a new environment. Have you thought about ways to re-engage with your classmates that might feel comfortable?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "I'm back. Things have gotten overwhelming. With midterms approaching, I feel lost."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I appreciate you sharing that, Maya. What's contributing to your feelings of being overwhelmed?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm struggling to keep up, and I sometimes think about dropping the group project altogether to avoid embarrassment."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like a lot of pressure. Have you had any conversations with your family or friends about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I talked to my family, and they encouraged me, but I still feel trapped in my negative thoughts."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's great that you have their support, but it can be tough to manage those thoughts alone. What are some small steps you could take to open up about your struggles in the project?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T12:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I've been thinking about what we discussed, and I want to reach out to my professor for help."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That sounds like a positive step forward, Maya! What do you hope to achieve from that conversation?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I want to express how anxious I feel about the project and see if I can find some support."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a solid plan. How do you feel about approaching this conversation with your professor?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Nervous, but also hopeful that I can get some guidance. I realize now I can't do this alone."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Absolutely! It takes courage to ask for help, and it can open up many possibilities for support. Remember, your feelings are valid."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Thanks for the encouragement! I'll update you on how it goes."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "I look forward to hearing from you, Maya! Best of luck. You've got this!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "User Id": 41,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Ella starts her third year of college, feeling overwhelmed by the pressures of her coursework in psychology. With her brother Mark in medical school, she feels a subtle competition to succeed academically, and this comparison weighs heavily on her mind, leading her to doubt her own capabilities. She has also been juggling part-time work at a local mental health outreach program, which, while fulfilling, adds to her stress.",
+            "Mental State": ["overwhelmed", "insecure", "anxious"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Ella attends a family gathering to celebrate Jason's soccer championship. Despite the joyous occasion, she feels out of place and struggles with feelings of inadequacy. Her parents praise Mark for his achievements in medical school, which deepens Ella's sense of self-doubt. She smiles and engages with her family, but inside, she feels disconnected and worries that she is not living up to expectations.",
+            "Mental State": ["disconnected", "frustrated", "sad"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "While working at the mental health outreach program, Ella encounters a young woman named Sarah who is struggling with severe anxiety and depression. Ella tries to offer support, drawing on her studies in psychology, but becomes emotionally drained by Sarah's situation. She begins to internalize Sarah's struggles, feeling a sense of helplessness as she realizes that her own emotional state is deteriorating. Ella starts to isolate herself from friends and activities she once enjoyed.",
+            "Mental State": ["helpless", "exhausted", "withdrawn"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Ella finally confronts her feelings after a late-night discussion with her close friend Mia. They talk about Ella's struggles with anxiety and the pressure she places on herself. Mia encourages her to seek professional help and reminds her that it's okay to not be perfect. Though Ella feels a bit of relief in sharing, she is still uncertain about taking that step. The internal battle between her feelings of inadequacy and her desire to improve leaves her at a crossroads.",
+            "Mental State": ["conflicted", "hopeful", "scared"]
+        }
+    }
+}

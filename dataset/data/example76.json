@@ -1,0 +1,68 @@
+{
+    "User Id": 76,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Sophia Chen. It’s really nice to meet you!",
+            "Counselor": "Hi Sophia! It’s great to meet you too. How are you feeling today?",
+            "Student": "I’m feeling a bit excited but also a little apprehensive. It’s the start of my final year in biochemistry.",
+            "Counselor": "That’s a significant milestone! What’s causing the apprehension?",
+            "Student": "I’ve just been assigned to lead a research project on sustainable energy solutions, and I’m really worried about how it will go.",
+            "Counselor": "Leading a project can certainly feel daunting. What concerns you the most?",
+            "Student": "I’m worried about working with my group, especially because one member, Alex, often dismisses my ideas. It makes me doubt myself.",
+            "Counselor": "I can understand why that would be concerning. Feeling unsupported can really impact your confidence. How have you been coping with this worry so far?",
+            "Student": "I’ve just been trying to focus on the work, but I can feel my confidence eroding.",
+            "Counselor": "It’s important to address those feelings. Have you thought about how you might approach Alex or your group about these issues?",
+            "Student": "Not really. I’m afraid of confrontation, especially because I want to keep a good dynamic in the group.",
+            "Counselor": "That’s a valid fear. Starting a conversation about how you’re feeling might actually strengthen the group dynamic. Would you like to explore some strategies together?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again! I’m feeling more frustrated today.",
+            "Counselor": "Hello, Sophia! I'm here to help. What’s making you feel frustrated?",
+            "Student": "I just can’t seem to motivate my teammates, especially Alex. He still undermines my ideas.",
+            "Counselor": "That sounds really difficult. Have you had a chance to talk to anyone about what you've been experiencing?",
+            "Student": "I talked to my friend Mia, and she suggested I open up to my group, but I’m scared it might lead to conflict.",
+            "Counselor": "It’s understandable to feel that way. Acknowledging your hesitations is a good first step. What do you think would happen if you brought it up?",
+            "Student": "I fear they will think I’m overreacting or too sensitive.",
+            "Counselor": "It can be tough to share your feelings, especially when you worry about judgment. But sometimes that openness can lead to more understanding.",
+            "Student": "That makes sense. I’ve just been feeling really isolated since the project started.",
+            "Counselor": "It’s important to remember that you’re not alone in this. Have you thought about setting small goals to help tackle this issue?",
+            "Student": "I could set a goal to talk to them about it before our next meeting.",
+            "Counselor": "That’s a fantastic idea! Let’s work on how you can approach that conversation constructively."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m back. I’m feeling pretty down today.",
+            "Counselor": "Hi Sophia! I'm glad you're here. What’s been bothering you?",
+            "Student": "I tried to present my findings in our last group meeting, but Alex kept interrupting me and making sarcastic comments.",
+            "Counselor": "I'm sorry to hear that. It's hurtful when you’re not allowed to express your thoughts. How did that make you feel?",
+            "Student": "I felt really hurt and unsupported. Afterward, I even started to question if I should just step back from leading this project.",
+            "Counselor": "It's understandable to feel conflicted when you’re not being heard. Have you thought about discussing your feelings with your group?",
+            "Student": "I thought about it, but I'm afraid it would create more tension.",
+            "Counselor": "It could. Yet, sharing your experience might lead to improvement. How do you think your teammates would respond?",
+            "Student": "I don’t know. Part of me wants to believe they would be supportive, but I’m just not sure.",
+            "Counselor": "Your concerns are valid. Recognizing your feelings is important, and it’s vital to prioritize your well-being. Perhaps focusing on the project's goals could help frame the conversation?",
+            "Student": "That’s a good point. I think I’ll need to remind them we’re all working towards the same end goal."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi! I’ve been thinking a lot since we last talked.",
+            "Counselor": "Hi Sophia! I’m glad you came back. What’s been on your mind?",
+            "Student": "I’ve finally decided I need to confront Alex and express how I feel. But I’m really nervous about it.",
+            "Counselor": "That’s a courageous decision, Sophia. It’s completely normal to feel nervous before discussing personal feelings like that. What’s your goal for this conversation?",
+            "Student": "I want him to understand how his dismissive attitude affects me and the group’s progress.",
+            "Counselor": "That sounds like a healthy approach. Have you thought about how you’ll start the conversation?",
+            "Student": "I plan to be honest and straightforward but in a calm way. Hopefully, I can emphasize teamwork.",
+            "Counselor": "That’s excellent. Starting from a collaborative angle can help reduce defensiveness. How do you plan to handle any pushback?",
+            "Student": "I guess I’ll try to stay calm and remember that it’s about improving our teamwork, not personal attacks.",
+            "Counselor": "That’s a wise perspective. Remember, it takes strength and vulnerability to express your feelings. Let’s debrief after the meeting to discuss how it went!"
+        }
+    }
+}

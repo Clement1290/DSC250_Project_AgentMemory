@@ -1,0 +1,31 @@
+{
+    "User Id": 90,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I want to continue participating actively and keep improving my confidence."
+        },
+        "question": "What does Emily plan to do next?",
+        "answer": "Continue participating actively."
+    },
+    "long_term_QA": {
+        "question": "How was Emily feeling about her participation in group settings before she had a breakthrough, and what helped her gain a new perspective that prompted this change?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I took a leap of faith and shared my thoughts. It was a good experience."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I feel like I can\u2019t keep up with everyone. I\u2019ve started to withdraw from the group, and it makes me feel so lonely."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I talked to my mom about everything, and she helped me realize that I need to focus on progress, not perfection."
+        },
+        "answer": "Before her breakthrough, Emily felt like she could not keep up with everyone, had started to withdraw from the group, and felt lonely. Talking to her mom helped her realize the importance of focusing on progress, which encouraged her to share her thoughts with the group."
+    }
+}

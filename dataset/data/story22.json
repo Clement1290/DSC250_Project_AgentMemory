@@ -1,0 +1,25 @@
+{
+    "User Id": 22,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the semester begins, Aisha is enthusiastic about her classes in Biochemistry and eager to engage in group projects and volunteer activities. However, as the workload increases, she starts feeling overwhelmed by the sheer volume of assignments and labs. Her earnest desire to excel academically clashes with her compassion for her friends, who are also struggling. This tension leads to anxiety about her ability to manage her responsibilities without compromising her relationships.",
+            "Mental State": ["Anxious", "Overwhelmed", "Eager"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "With several deadlines approaching, Aisha becomes increasingly stressed and finds herself working late into the night. Her close friend, Maya, notices Aisha's withdrawal and expresses concern about her well-being. Aisha declines invitations to social events, convincing herself she needs to prioritize her studies, but this decision leaves her feeling isolated and guilty for not being there for her friends. The pressure of her academic commitments takes a toll on her emotional health, spiraling her into frustration.",
+            "Mental State": ["Frustrated", "Isolated", "Guilty"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms approach, Aisha faces a particularly tough week. After receiving unexpectedly low feedback on a lab report, she feels inadequate and begins doubting her capabilities. The stress culminates in a heated exchange with Maya when Aisha lashes out, feeling overwhelmed by both her workload and the pressure of maintaining her friendships. This confrontation leaves Aisha feeling regretful and emotionally drained, as she worries about damaging her important relationships and feels lost in her academic journey.",
+            "Mental State": ["Defensive", "Regretful", "Emotionally drained"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After reflecting on her recent struggles, Aisha reaches out to Maya to apologize for her outburst. They meet for coffee, where Aisha opens up about her overwhelming feelings regarding her academic pressure and the support she needs. Maya reassures her and shares her own challenges, making Aisha feel understood. Although this heart-to-heart conversation brings relief, Aisha still grapples with anxiety over her academic performance and a lingering fear of neglecting her friendships moving forward.",
+            "Mental State": ["Relieved", "Hopeful", "Anxious"]
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "User Id": 63,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I felt relieved, but they emphasized the need for self-care and boundaries."
+        },
+        "question": "What did Aiden feel after talking to the campus counselor?",
+        "answer": "He felt relieved."
+    },
+    "long_term_QA": {
+        "question": "What challenges does Aiden face that contribute to his feelings of inadequacy, and what leads him to seek help from a counselor?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "During their session, Aiden discusses his anxiety and responsibilities, and feels a sense of relief after sharing, even while grappling with uncertainty."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "In a group assignment, Aiden is unable to contribute as effectively as he hoped due to his mounting stress. He feels embarrassed when his peers have to pick up the slack."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It's completely normal to feel uncertain about implementing change."
+        },
+        "answer": "Aiden feels overwhelmed and inadequate due to stress from his responsibilities and an inability to contribute in group projects, which leads him to seek help from a campus counselor to articulate his feelings and consider self-care."
+    }
+}

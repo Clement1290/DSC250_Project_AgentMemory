@@ -1,0 +1,153 @@
+{
+    "User Id": 59,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Amira. It's nice to meet you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Amira! It's great to meet you too. What brings you in today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a bit overwhelmed as the semester just started. I'm leading a group project in my Environmental Science class, and I'm worried about meeting everyone's expectations."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like a significant responsibility to take on right at the start of the semester. How are you coping with that pressure?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I try to stay organized, but I'm also concerned about my younger brother, Faisal. He's been feeling a bit withdrawn lately, and I want to be there for him."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's completely understandable to feel anxious about both your academic responsibilities and your brother's well-being. How do you plan to balance these two parts of your life?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:15:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I'm feeling even more overwhelmed now. My classmates don't seem very motivated for the project, and I'm struggling to keep everything together."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Amira. I'm glad you're back. I can see how that would be really tough for you. Have you had a chance to talk to your classmates about how everyone's feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I tried, but the conversation didn't go well. I feel frustrated and inadequate. I really take their attitudes to heart."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's normal to feel frustrated when team members aren't as engaged. It sounds like you care very much about the group succeeding. How is Faisal doing? Do you feel you can still support him?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm not sure. I've been so focused on school that I haven't had the time to check in with him. I feel guilty."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's important to remember that you're doing your best in a challenging situation. Finding small moments to connect with Faisal could help relieve some of that guilt."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T16:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, I had a group meeting today, and it was really discouraging. My classmates expressed doubts about the project, and I felt defeated."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I'm sorry to hear that, Amira. It sounds like a tough meeting. How did that affect you after the conversation?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I confided in my friend, Zara, about my fears, but I left feeling even more burdened. I feel a weight of responsibility that I can't seem to escape."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's understandable to feel burdened, especially when you care about both the project and your brother. Have you had a moment to reflect on what you need at this point?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I think I need to find a way to lighten that emotional load, but I also want to be there for everyone else."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's admirable that you want to support others. Remember, you also deserve support. What might that look like for you right now?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T11:45:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! After thinking about everything, I decided to see a campus counselor for support. I shared my feelings, and it felt good to open up."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's wonderful to hear, Amira! It can be really helpful to express your feelings. What did the counselor suggest you do next?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "They encouraged me to create a self-care schedule and even suggested a fun team-building activity for my classmates, which gave me a bit of hope."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like a positive direction! It's great that you're starting to feel a spark of hope. How are you feeling about implementing those strategies?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm a little hesitant about whether I can truly follow through with them, but I want to try."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Taking small steps can make a big difference. What's one thing you'd feel most comfortable starting with this week?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I think reaching out for that team-building activity could be a good start. Thank you for your support; it means a lot to me!"
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Of course, Amira! I'm here for you. Just remember to take things one step at a time. Looking forward to hearing how it goes!"
+            }
+        ]
+    }
+}

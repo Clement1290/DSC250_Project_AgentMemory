@@ -1,0 +1,31 @@
+{
+    "User Id": 31,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I participated in a workshop on mental health, and it made me realize I\u2019ve been neglecting my self-care."
+        },
+        "question": "What realization did Isabella have about her well-being after attending the workshop?",
+        "answer": "She realized she had been neglecting her self-care."
+    },
+    "long_term_QA": {
+        "question": "How does Isabella feel about her mental health and responsibilities at the beginning, and what causes her guilt and distraction later on?",
+        "local evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m a bit overwhelmed, to be honest. I just started my final year in Art History."
+        },
+        "long-term evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "I'm still feeling guilty. I want to support Sarah, but I'm falling behind in my studies."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Counselor",
+            "quote": "What has you feeling especially guilty?"
+        },
+        "answer": "Initially, Isabella feels overwhelmed with her responsibilities and begins to experience guilt because she wants to support Sarah, but is falling behind in her studies."
+    }
+}

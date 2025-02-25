@@ -1,0 +1,25 @@
+{
+    "User Id": 39,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the new semester begins, Mia feels a mix of excitement and anxiety about her biochemistry courses. With her mother's expectations of excelling in science and her father's constant encouragement to explore her creative side, she feels pressure to balance both aspects of her life. Additionally, she has signed up for multiple volunteer projects related to science communication, which adds to her overwhelming feelings about maintaining a perfect academic record while contributing positively to the community.",
+            "Mental State": ["Excited", "Anxious", "Overwhelmed", "Hopeful"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As midterms approach, Mia’s anxiety intensifies. During a group project in her biochemistry class, she expresses her ideas, but a more confident classmate, Kevin, dismisses her contributions. This incident leaves Mia feeling inadequate, increasing her insecurities about her place in the group. She starts to question whether her input is valuable and whether she truly belongs in the major, leading to feelings of isolation as she withdraws from her peers.",
+            "Mental State": ["Frustrated", "Insecure", "Isolated", "Sad"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms draw near, Mia receives disappointing grades on her first two exams, which deepens her feelings of inadequacy. The stress from these grades affects her performance in the lab, where she begins to second-guess her abilities during practical sessions. In a moment of self-doubt, she overhears Kevin and another student discussing her performance in a way that feels dismissive. This compounds her feelings of defeat, prompting her to withdraw further from social interactions and academic engagements.",
+            "Mental State": ["Defeated", "Anxious", "Heartbroken", "Lonely"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of silent struggle, Mia finally decides to seek support from her academic advisor, Professor Thomson. During their meeting, she opens up about her feelings of inadequacy, the stress from her coursework, and the impact of Kevin’s criticisms. Professor Thomson listens attentively, validates her feelings, and encourages her to recognize her strengths. Mia leaves feeling a renewed sense of hope, realizing that she can take charge of her studies and assert her voice in group projects. While there is still anxiety about how to approach Kevin, she feels empowered to address her challenges.",
+            "Mental State": ["Hopeful", "Anxious about confrontation", "Empowered", "Determined"]
+        }
+    }
+}

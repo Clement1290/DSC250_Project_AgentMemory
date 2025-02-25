@@ -1,0 +1,148 @@
+{
+    "User Id": 62,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Isabella. It's nice to meet you!"
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Isabella! It's great to meet you too. What's on your mind today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm really excited for the semester to start. I'm studying Graphic Design, and I have an upcoming art exhibition!"
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds fantastic! It must feel great to have such an exciting opportunity. Are there any concerns that come with it?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Yeah, I'm feeling pressure to balance my coursework with my art preparation, especially since my dad hasn't been feeling well. I want to support my family too."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's wonderful that you care about your family, but it's understandable to feel anxious. How are you managing these responsibilities?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I'm feeling really overwhelmed now. There's so much going on."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello again, Isabella! I'm glad you're back. What's been particularly overwhelming for you?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "With my dad being unwell and the exhibition approaching, I've been losing sleep. I feel like I'm not giving enough to either my studies or my family."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like a heavy burden to bear. Have you had any time for yourself lately to recharge?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Not really, I've been so focused on everything else... I miss sketching and cooking."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's important to take breaks and engage with your hobbies. What if you set short time limits for both study and personal time?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T15:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, I just came back from a group critique and I didn't feel good about it. I feel inadequate."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Isabella. I'm sorry to hear that. What happened during the critique?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "My designs were criticized harshly, and I just felt so exposed. It makes me doubt my skills."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "Feeling vulnerable during critiques is common, especially when you care about your work. Did you get any constructive feedback?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Some, but I'm still feeling the weight of it all. I talked to Clara about my feelings, but I'm still disheartened."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's okay to feel disheartened. Remember that every artist faces criticism. Can you think of one positive takeaway from the critique?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T12:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I saw a counselor on campus. Sharing my thoughts felt good, but I'm still figuring things out."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's great to hear, Isabella! How did it feel to talk about your struggles?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was relieving, but they emphasized the need for self-care and boundaries. I'm worried about whether I can really make those changes."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's normal to feel unsure about implementing change. What's one small step you could take to practice self-care this week?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I think I'll try to set aside some time for either sketching or cooking\u2014something I enjoy."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds like a wonderful plan! Even small moments of creativity can help rejuvenate your spirit. Keep me updated on how it goes!"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Thank you so much for your support! I really appreciate it."
+            }
+        ]
+    }
+}

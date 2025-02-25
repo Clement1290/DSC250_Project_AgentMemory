@@ -1,0 +1,82 @@
+{
+    "User Id": 73,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Sarah Patel. It’s nice to meet you!",
+            "Counselor": "Hi Sarah! It’s great to meet you too. How are you feeling today?",
+            "Student": "I’m feeling a bit overwhelmed, honestly. I just started my psychology class, and I’m really excited, but I’m struggling to speak up.",
+            "Counselor": "I understand. It can be intimidating to find your voice in a new environment. What’s been challenging for you?",
+            "Student": "There’s this classmate, Jenny, who seems to dominate the conversations. I find it hard to share my ideas.",
+            "Counselor": "That sounds tough. It’s normal to feel overshadowed when someone is very vocal. Have you found any strategies that help you participate?",
+            "Student": "Not really. I just feel like I’m not being heard.",
+            "Counselor": "Feeling unheard can be really frustrating. Would it help to brainstorm some ways to express your thoughts more confidently?",
+            "Student": "That could be helpful. I’d like to feel more comfortable sharing in group discussions.",
+            "Counselor": "Absolutely, let’s work on that together!  Maybe starting with small group discussions can help ease you in.",
+            "Student": "That sounds like a good idea. I’ll try that.",
+            "Counselor": "Awesome! Remember, your ideas are valuable. You have a unique perspective to bring to the group.",
+            "Student": "Thank you! I appreciate your support.",
+            "Counselor": "You're welcome, Sarah. Keep in mind that everyone has their own pace, and it’s okay to take your time. Let’s check in again soon!",
+            "Student": "I would like that. See you!"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, it’s Sarah again.",
+            "Counselor": "Hi Sarah! Good to see you back. How have things been since we last spoke?",
+            "Student": "To be honest, I’ve been really anxious. I keep avoiding group discussions.",
+            "Counselor": "That sounds difficult. What do you think is causing you to avoid those situations?",
+            "Student": "I just feel that I’m not good enough compared to others, especially Jenny.",
+            "Counselor": "It’s okay to feel anxious about that. You’re not alone in dealing with those feelings. Have you talked to anyone about it?",
+            "Student": "I spoke to my brother Vikram. He’s supportive, but I still feel conflicted about it.",
+            "Counselor": "It’s good that you have supportive family. Did he offer any suggestions?",
+            "Student": "He suggested I should express my thoughts and be more confident.",
+            "Counselor": "That sounds like solid advice. It can be hard to put it into practice, though. What makes you feel anxious when you think about sharing your ideas?",
+            "Student": "I worry about being ignored or dismissed.",
+            "Counselor": "Those feelings are valid. Maybe setting small goals, like sharing one thought in each discussion, could help you gradually build your confidence.",
+            "Student": "That could work! I’ll try to keep that in mind.",
+            "Counselor": "Great! Remember, it's your learning process, and everyone progresses at their own pace. You have the capability to do this.",
+            "Student": "Thanks for reminding me. It helps a lot.",
+            "Counselor": "Anytime, Sarah! Let’s check in next time to see how you’re doing."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi there! I’m back again.",
+            "Counselor": "Hi Sarah! Welcome back. How have things been working out for you?",
+            "Student": "I’m still feeling anxious, especially with group projects. We just got assigned to work together again.",
+            "Counselor": "I see. Being paired with Jenny might be really triggering for those feelings. How have you been handling that situation?",
+            "Student": "I tried to contribute, but I feel like my ideas don’t really get acknowledged. I become hesitant.",
+            "Counselor": "That’s understandable. It can be disheartening to feel overlooked. Have you noticed anything that helps you speak up more?",
+            "Student": "Not really. I just end up feeling frustrated by the end of our meetings.",
+            "Counselor": "Frustration is a completely natural reaction. Perhaps taking a moment before each meeting to jot down your points can help you feel more prepared.",
+            "Student": "That might work! I haven’t tried that yet.",
+            "Counselor": "Preparation can grant you more confidence. Remember, your insights are important, and it’s okay to take your own space to express them.",
+            "Student": "I’ll give it a shot. I want to feel empowered.",
+            "Counselor": "That’s a great mindset! Believe in yourself, Sarah. Change takes time, but you’re on the right track.",
+            "Student": "Thank you! I appreciate your encouragement.",
+            "Counselor": "You’re welcome! I’m here to support you. Let’s talk again after your presentation and see how it went."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi! I’m back with some updates.",
+            "Counselor": "Hi Sarah! I’m glad to see you again. How did your project presentation go?",
+            "Student": "I decided to assert myself, but I was still so nervous. I felt like I was shaking!",
+            "Counselor": "That’s completely understandable. How did you feel afterwards?",
+            "Student": "I shared my ideas, but I was worried they wouldn’t be well received.",
+            "Counselor": "It takes real bravery to put yourself out there. What was the feedback like?",
+            "Student": "It was good! Some of my teammates even agreed with my points.",
+            "Counselor": "That’s fantastic to hear! It sounds like your preparation paid off.",
+            "Student": "It did! I realized that my voice matters, even if I have to push myself a bit.",
+            "Counselor": "That’s a wonderful realization, Sarah. It’s great to see you embracing your voice.",
+            "Student": "Thank you! I feel more hopeful about future discussions now.",
+            "Counselor": "I’m so proud of you! Keep nurturing that confidence and remember it’s all part of the learning journey.",
+            "Student": "I definitely will! Thank you for all your support.",
+            "Counselor": "You’re very welcome! I look forward to hearing about your next steps. Take care!"
+        }
+    }
+}

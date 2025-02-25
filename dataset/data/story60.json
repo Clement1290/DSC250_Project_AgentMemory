@@ -1,0 +1,25 @@
+{
+    "User Id": 60,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Ethan starts the semester excited about his Psychology major and the opportunity to volunteer more widely in mental health advocacy. However, he feels pressure mounting as he is also expected to excel academically and help support his friend Jake, who has been struggling with anxiety. Ethan values their friendship deeply and feels a responsibility to help Jake, but he worries about the emotional toll that Jake's situation could take on him, as he is still navigating his own academic pressures.",
+            "Mental State": ["Excitement", "Concern", "Responsibility"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks progress, Ethan finds himself increasingly overwhelmed. He tries to juggle his studies, volunteer commitments, and supporting Jake, who has become more withdrawn. He notices that he often stays awake late at night, worrying about whether he’s doing enough for Jake and if he’s falling behind in his own work. This stress begins to affect his sleep and mood, making it harder for him to engage with others and enjoy his hobbies like playing guitar and photography.",
+            "Mental State": ["Overwhelmed", "Anxiety", "Fatigue"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "During a particularly tough week, Ethan attends a meeting for a campus mental health initiative where he expected to feel inspired. Instead, he feels detached from the discussions and worried about Jake. After speaking to the group about plans for their event, he realizes he isn't as prepared as he should be. After the meeting, Ethan confides in his sister Mia about feeling lost and burdened, expressing his fears that he’s letting both Jake and himself down. Despite Mia's reassurance, Ethan feels increasingly disenfranchised and uncertain about his ability to help.",
+            "Mental State": ["Detachment", "Burdened", "Sadness"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After much reflection and encouragement from his family, Ethan decides to seek professional support. He meets with a campus counselor, where he shares his feelings of being overwhelmed and his fears about his friendship with Jake. The counselor suggests creating boundaries and self-care strategies, which brings Ethan some relief. However, he still feels uncertain about being able to manage everything moving forward, including helping Jake while taking care of his own mental and emotional health.",
+            "Mental State": ["Relief", "Hopefulness", "Uncertainty"]
+        }
+    }
+}

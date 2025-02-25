@@ -1,0 +1,58 @@
+{
+    "User Id": 98,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I'm Emily Johnson. I'm a 23-year-old studying psychology.",
+            "Counselor": "Hello, Emily! It's nice to meet you. How are you feeling today?",
+            "Student": "Thanks! I'm feeling excited but also a bit anxious about the new semester.",
+            "Counselor": "That’s completely normal! Starting a new semester can bring a mix of emotions. What aspects are making you feel anxious?",
+            "Student": "I’ve noticed that some of my classmates are really outgoing, and it makes me self-conscious about being introverted.",
+            "Counselor": "I see. It can be tough when you compare yourself to others. How has this affected your thoughts about connecting with your classmates?",
+            "Student": "I worry that I won’t be able to make meaningful connections as an introvert.",
+            "Counselor": "It’s understandable to feel that way, but being an introvert can also bring unique strengths to your relationships. Have you thought about small steps to connect with others?",
+            "Student": "I guess I could try to engage in smaller groups or one-on-one conversations.",
+            "Counselor": "That sounds like a great idea! Building connections gradually might ease some of that anxiety. Remember, it’s okay to be yourself."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-10-01T11:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I'm feeling a bit more isolated lately. I tried to participate in group projects, but I often feel overlooked.",
+            "Counselor": "I'm sorry to hear that, Emily. Can you share more about what happened in those group projects?",
+            "Student": "In a recent discussion, I attempted to contribute, but I got interrupted, and it discouraged me.",
+            "Counselor": "That sounds frustrating. It’s hard to feel heard, especially when you’re trying to express your ideas. How did that make you feel?",
+            "Student": "It made me feel vulnerable and like I don’t belong.",
+            "Counselor": "It's okay to feel vulnerable. It shows you're navigating new social dynamics. Have you talked to your roommate, Sarah, about how you're feeling?",
+            "Student": "I did, and she was supportive. But I still have this lingering fear that I won’t fit in.",
+            "Counselor": "Having someone like Sarah to talk to is valuable. It might help to focus on the qualities that make you unique and bring value to your group."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-21T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hello again. I joined a study group recently, hoping it would help me feel more integrated, but I struggled to share my thoughts.",
+            "Counselor": "That sounds challenging. What made you feel hesitant in the study group?",
+            "Student": "I felt anxious about being judged and often found it hard to voice my opinions.",
+            "Counselor": "It’s completely normal to feel anxious in new group settings. Have you had any experiences in the past that were similar?",
+            "Student": "Yes, I often feel this way in social situations.",
+            "Counselor": "It’s good to recognize this pattern. Building confidence takes time. Maybe you can prepare some thoughts before meetings to help ease your anxiety.",
+            "Student": "That sounds helpful. I just wish I could be more relatable.",
+            "Counselor": "You are more relatable than you think! Everyone has their own uniqueness to bring to the table. Try to focus on your strengths during discussions."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’ve had a rough week. I overheard some classmates making jokes about introverted students.",
+            "Counselor": "I'm really sorry to hear that, Emily. How did that make you feel?",
+            "Student": "It triggered a lot of emotions in me—anger, hurt, and I feel so disconnected.",
+            "Counselor": "Feeling hurt from such comments is completely valid. It's tough to hear negative remarks about something so personal.",
+            "Student": "I wanted to speak up, but I held back out of fear of rejection.",
+            "Counselor": "It’s a challenging position to be in. Sometimes, addressing those situations can be powerful, but it’s also okay to take your time to process your feelings.",
+            "Student": "I decided to write in my journal to process everything.",
+            "Counselor": "That's a great coping strategy! Journaling can help you clarify your feelings. Just remember, you’re not defined by others’ perceptions of you.",
+            "Student": "Thank you for the support. I will try to focus on that."
+        }
+    }
+}

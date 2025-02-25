@@ -1,0 +1,198 @@
+{
+    "User Id": 79,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Amara Patel. It's so nice to meet you!"
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Amara! It's great to meet you too. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a bit anxious. It's the start of my final year in psychology."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That makes sense! Starting a new year can be both exciting and overwhelming. What's on your mind?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm really eager about my thesis project on cultural representation in media. But I'm also feeling overwhelmed about it."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's a significant topic! What's been causing you to feel overwhelmed?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Well, my group dynamics aren't ideal. One member, Kyle, keeps dismissing my ideas, which makes me anxious about the project's success."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "I can see how that would create a lot of stress. Have you had a chance to discuss your concerns with your group?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Not yet. I'm afraid it might lead to conflict, and I don't want to disrupt the team."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That fear is totally understandable. Would you like to discuss some strategies for addressing this situation?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again! I'm feeling more isolated this week."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Amara! I'm here to listen. What's been making you feel isolated?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I didn't realize how much I'd end up neglecting my studies to help Sarah with her family issues. It's weighing on me."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It sounds like you're carrying a lot of emotional weight. Have you had a chance to open up to anyone about how you're handling this?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I talked a little with my friend Maria, who encourages me to stand up for myself, but I feel embarrassed to admit how much I'm struggling."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's okay to feel embarrassed, but reaching out often helps lighten that burden. What do you think holds you back from being more open with friends?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I fear they'll judge me or think I can't handle things."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's a common worry. However, sharing your feelings can create deeper connections. Have you considered talking to your group about how you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I haven't yet, but maybe I should. I just don't want to create more tension."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. I'm feeling pretty hurt today."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Amara! I'm here to support you. What's been troubling you?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "In our last meeting, I tried to present my thesis ideas, but Kyle interrupted me and belittled my contributions."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm really sorry to hear that. It must be very hurtful to have your ideas dismissed like that. How did you handle it during the meeting?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I got really defensive, but afterwards, I just felt humiliated and disheartened. Now, I'm rethinking if I should keep leading the project."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel conflicted. Have you thought about expressing your feelings to Kyle or the rest of the group?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I've considered it, but I'm afraid of further conflict and what they might think of me."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Fear of conflict is natural, but communicating your feelings can sometimes lead to growth and understanding. You deserve to have your voice heard."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I've been thinking a lot since we last talked."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Amara! I'm glad to see you back. What's been on your mind?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I decided I need to confront Kyle about how I feel. I've realized I can't keep suppressing my emotions."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a strong choice! How do you plan to approach that conversation?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I want to be honest and emphasize that I care about the group's success while sharing how his behavior affects me."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's a thoughtful approach. Aiming for open communication shows leadership. How are you feeling about the upcoming conversation?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm nervous, but I'm hopeful that it could lead to a better dynamic within the group."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's a great mindset! Remember, being transparent about your feelings can positively impact your relationship with your team. Let's check in after you talk to him to see how it went."
+            }
+        ]
+    }
+}

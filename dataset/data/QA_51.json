@@ -1,0 +1,31 @@
+{
+    "User Id": 51,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I just wanted to talk about the presentation today."
+        },
+        "question": "What did Sophia want to discuss during her last session?",
+        "answer": "The presentation."
+    },
+    "long_term_QA": {
+        "question": "How did Sophia initially feel about expressing her ideas, and what led to her growing frustration and doubts as the project progressed?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "By the time of the presentation, Sophia feels paralyzed by anxiety and doubts her capabilities, which results in a poor performance despite having prepared well."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019ve been feeling a bit anxious lately. I have a group project in my Environmental Science class that\u2019s coming up."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "As the deadline approaches, I find it hard to voice my opinions in meetings. Mark\u2019s ideas seem to always take the lead."
+        },
+        "answer": "Sophia initially felt anxious but passionate about her ideas in the group project, but as Mark dominated discussions, she began to find it hard to voice her opinions, leading to growing frustration and doubts about her worth."
+    }
+}

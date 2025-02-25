@@ -1,0 +1,31 @@
+{
+    "User Id": 94,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I opened up about my anxiety and struggles with my confidence in group settings."
+        },
+        "question": "What did Liam do this week regarding his anxiety and confidence?",
+        "answer": "He talked to his advisor."
+    },
+    "long_term_QA": {
+        "question": "What were Liam's feelings about managing his workload and social connections prior to his conversation with his advisor, and what caused him to realize he could address these challenges effectively?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel hopeful. I think I can slowly start reconnecting with my friends and try to express my ideas more."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling a bit overwhelmed. I just started the new semester."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "I\u2019m glad you felt comfortable sharing that. What advice did they give you?"
+        },
+        "answer": "Before talking to his advisor, Liam felt overwhelmed by the new semester and managing projects, expressing that he was 'feeling a bit overwhelmed.' After sharing his anxiety and struggles, he realized he could 'embrace [his] creativity' and find ways to balance his responsibilities."
+    }
+}

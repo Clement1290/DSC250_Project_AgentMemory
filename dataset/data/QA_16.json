@@ -1,0 +1,31 @@
+{
+    "User Id": 16,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I want to explain my anxiety and see if there are ways to improve my participation in class."
+        },
+        "question": "What does Liam plan to discuss with his professor in their upcoming conversation?",
+        "answer": "His anxiety and ways to improve his participation in class."
+    },
+    "long_term_QA": {
+        "question": "How does Liam's initial feeling of being overshadowed by classmates impact him, and what motivates him to take action regarding his participation?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I want to explain my anxiety and see if there are ways to improve my participation in class."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling a bit embarrassed. I had my first seminar yesterday, and I messed up during a presentation."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "That sounds like a positive step forward, Liam! What do you hope to achieve in that conversation?"
+        },
+        "answer": "Initially, Liam felt embarrassed and overshadowed during his seminar presentation, which frustrated him. However, he realized that he needed to address his anxiety about participation and decided to take action by talking to his professor."
+    }
+}

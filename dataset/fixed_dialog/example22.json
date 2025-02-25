@@ -1,0 +1,153 @@
+{
+    "User Id": 22,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Aisha Patel. This is my first time here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Aisha! It's nice to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a little bit anxious about the new semester, to be honest."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's completely normal, especially when starting a new semester. What's specifically making you feel anxious?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm excited about my Biochemistry classes, but I'm worried about managing all my projects and volunteer activities. I want to do well in everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's admirable to want to excel, but that pressure can be overwhelming. Have you had a chance to talk about these feelings with anyone in your life?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I feel guilty for needing help when others are facing their own challenges too."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's understandable to feel that way, but seeking support from others can be beneficial. Would you like to explore some strategies for managing your workload?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I'm feeling more stressed this week."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Aisha! I'm glad you returned. What's been going on this week?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I've been working late at night to keep up with assignments. I've also noticed that I'm avoiding my friends, especially Maya."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds tough. Avoiding friends can make you feel even more isolated. How did you feel when Maya reached out to you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt guilty for not being there for her. I keep telling myself I need to focus, but I miss that connection."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's important to connect with friends, especially during stressful times. Have you thought about setting aside specific short breaks to recharge with your friends?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello, I had a challenging week."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Aisha! I'm sorry to hear that. What happened this week?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I received disappointing feedback on a lab report, and I broke down during a group presentation. I lashed out at Maya because I felt overwhelmed."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds very stressful. How did you feel afterward when you realized how you reacted?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt horrible and regretted it. I value our friendship, and I don't want to push her away."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's commendable that you're aware of how your actions impact your relationships. Have you considered reaching out to her to talk about it?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T15:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I talked to Maya and apologized for my outburst."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's wonderful to hear, Aisha! How did that conversation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was a really good talk. I was able to express what I've been feeling, and she was very understanding."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's great! How are you feeling about your academic pressure now?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I feel relieved to open up, but I'm still anxious about my grades and whether I can maintain a balance with everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's okay to have that anxiety. Setting small, achievable goals may help you feel more in control. Have you thought about how you might implement that moving forward?"
+            }
+        ]
+    }
+}

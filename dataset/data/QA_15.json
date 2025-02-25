@@ -1,0 +1,31 @@
+{
+    "User Id": 15,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019ve decided I want to reach out to my professor about my concerns."
+        },
+        "question": "What does Nina plan to do next after this conversation with her counselor?",
+        "answer": "Reach out to her professor."
+    },
+    "long_term_QA": {
+        "question": "How did Nina feel about her situation before seeking help, and what prompted her to change her approach to advocating for herself?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "Nina feels a sense of hope and determination as she plans to express her feelings to her professor and seek guidance."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I\u2019m considering dropping the group project because I\u2019m scared of failing."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel like it\u2019s important to advocate for myself. I can\u2019t do this alone anymore."
+        },
+        "answer": "Before seeking help, Nina felt overwhelmed and considered dropping the group project due to her fears of failure. This experience prompted her to realize the importance of advocating for herself, leading her to feel hopeful and determined to express her feelings to her professor."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "User Id": 61,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I think I\u2019m going to try to set specific times for studying and family time, and also reserve at least one evening for painting."
+        },
+        "question": "What specific plan did Sophia decide to try in order to manage her time better?",
+        "answer": "Set specific times for studying and family time, and also reserve at least one evening for painting."
+    },
+    "long_term_QA": {
+        "question": "What was Sophia feeling before she sought help, and what influences led her to decide to reach out for support?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "While Sophia feels a sense of relief after sharing, she remains uncertain if she can implement these strategies effectively while still being there for her brother."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I was too preoccupied with my worries about Diego and not being able to articulate my ideas clearly. Afterward, I talked to Clara, but I still feel burdened."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "The counselor encourages her to prioritize self-care and establish clearer boundaries between her commitments."
+        },
+        "answer": "Sophia was feeling overwhelmed and burdened, struggling with a sense of inadequacy and doubt in her roles, which influenced her decision to seek help as she needed to prioritize self-care and set boundaries."
+    }
+}

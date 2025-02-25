@@ -1,0 +1,31 @@
+{
+    "User Id": 85,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I think talking to a mentor could help, but I\u2019m hesitating."
+        },
+        "question": "What does Isabella think could help her feel more confident?",
+        "answer": "Talking to a mentor."
+    },
+    "long_term_QA": {
+        "question": "How did Isabella's feelings of frustration and isolation in her group project lead her to take charge during a meeting despite the anxiety it caused her?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I spoke up after the presentation, and it felt a bit better."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling a bit frustrated about my new semester in environmental science."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "I tried to take charge during our last meeting, but my ideas weren\u2019t well received."
+        },
+        "answer": "Isabella initially felt frustrated about her new semester in environmental science, which led her to speak up after the presentation, feeling a bit better after addressing her concerns. Despite the anxiety caused by her ideas not being well received, she attempted to take charge during her group's meetings."
+    }
+}

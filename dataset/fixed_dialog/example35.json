@@ -1,0 +1,293 @@
+{
+    "User Id": 35,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Ethan Carter. It's nice to meet you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello Ethan! It's great to meet you too. How are you feeling today as the semester begins?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm really excited about my Mechanical Engineering courses, but I'm also feeling a bit anxious."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That combination of excitement and anxiety is quite common. What's causing your anxiety?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I recently joined a sustainability project team, and I'm worried about keeping up with deadlines while maintaining good grades."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It sounds like you have a lot on your plate. Managing academics and a team project can be challenging. Do you have a plan in place?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really, I'm still figuring things out. I want to make a positive impact, but the pressure is daunting."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's wonderful that you want to create a positive impact. Perhaps breaking down your tasks into smaller chunks could help you feel more in control?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "That sounds like a good idea. I could definitely try to manage my time better."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Absolutely! And remember, it's also okay to ask for help when needed. Have you talked to your team about your concerns?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Not yet. I'm worried they might think I'm not capable enough."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "It's natural to have those fears, but open communication with your team can lead to better collaboration. It might also relieve some pressure for you."
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "I'll think about reaching out; thank you."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "You're welcome, Ethan! It's great that you're recognizing these feelings. Let's check in again soon. How's next week for you?"
+            },
+            {
+                "role": "Student",
+                "round": 8,
+                "content": "Next week works for me! I'll see you then."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again, Counselor. It's Ethan. I've been feeling really stressed this past week."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Ethan! I'm glad to see you back. I'm sorry to hear that you're feeling stressed. What's been going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Managing my coursework and the sustainability project is getting to me. We had a disagreement during a study group session."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I can see how that would be frustrating. How did that disagreement make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt unsupported and frustrated, especially since I value harmony in the group."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's tough when conflicts arise in teamwork. Have you had a chance to address the disagreement with your team?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "No, I've been avoiding it. I'm not sure how to approach it without causing more issues."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Avoiding the conversation can sometimes make things worse. Consider framing it as a way to find common ground rather than focusing on the conflict."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "That sounds reasonable, but I still feel anxious about it."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That's completely valid. Perhaps practicing what you want to say beforehand could help you feel more prepared."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I could do that. Thanks for the suggestion."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "You're welcome! Taking small steps is key. Remember to care for your own well-being as well. Have you found time for any of your hobbies?"
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "Not really. I'm too wrapped up in stress."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "Making time for activities you enjoy is essential for managing stress. Try setting aside even a small amount of time for something you love."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, it's Ethan again. I'm feeling really overwhelmed right now."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Ethan! It's good to see you. I'm sorry to hear you're feeling overwhelmed. What's happening?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Midterms are coming up, and I'm trying to juggle my studies with the project. It's just a lot."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's understandable. Balancing exams and a project can create a lot of pressure. What's been the most stressful part for you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I overheard Alex making some negative remarks about my contributions, which made me feel heartbroken and lonely."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "I'm really sorry to hear that. It's hurtful when others speak negatively. How did that affect your motivation?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "It's made me doubt myself and my abilities, and I feel like withdrawing from both the project and my friends."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Those feelings are valid. But remember, this experience doesn't define your worth. Have you reached out to any friends or classmates for support?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I haven't. I feel embarrassed."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's okay to feel embarrassed, but sharing your feelings with a close friend could offer relief and perspective. You are not alone in these struggles."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I see your point. I'll try to open up more."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "That's a great decision! Alongside that, consider focusing on your strengths and what you bring to the project."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello, Counselor. I finally talked to Dr. Lewis about everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Ethan! I'm really glad to see you again. How did the conversation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It felt relieving to share my feelings about the project and my need for harmony."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's wonderful to hear! How did Dr. Lewis respond?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "They were really understanding and provided me with communication strategies. I feel a bit more empowered now."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's great! Having those strategies can help a lot. What are your plans going forward?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm going to express my concerns openly with my project team. I think that will ease my mind."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That sounds like a proactive step! How do you feel about having that conversation now?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I'm still anxious, but I feel hopeful that addressing these issues will help me grow."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Hope is a great feeling to lean on. Have you managed to find any time for your hobbies since our last chat?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Yes! I went cycling this weekend, and it felt fantastic."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "That's wonderful! Keeping up with activities you enjoy is important. I'm proud of the progress you've made."
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "Thank you! I appreciate your ongoing support. I feel ready to tackle these challenges."
+            }
+        ]
+    }
+}

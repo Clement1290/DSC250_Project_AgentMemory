@@ -1,0 +1,50 @@
+{
+    "User Id": 15,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T09:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I'm Nina Schmidt. I'm 19 and studying Environmental Science.",
+            "Counselor": "Hello, Nina! It's nice to meet you. How are you feeling today?",
+            "Student": "I’m feeling a bit embarrassed, actually. I had my first group project meeting yesterday.",
+            "Counselor": "I'm sorry to hear that. What happened during your meeting?",
+            "Student": "I proposed an idea for a sustainability campaign, but my teammate Grace dismissed it and said it was impractical.",
+            "Counselor": "That sounds tough. It’s challenging when your ideas aren’t taken seriously, especially in a team setting. How did that make you feel?",
+            "Student": "It made me feel frustrated and unnoticed. I’m starting to doubt my contributions to the group."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I’ve been feeling more anxious since our last talk. I don’t want to share my ideas in class anymore.",
+            "Counselor": "I’m glad you returned, Nina. What’s been going on since we last spoke?",
+            "Student": "After the meeting, I’m withdrawing from discussions. I talked to my brother about feeling like I don’t belong.",
+            "Counselor": "It's good you are reaching out to your brother. What was his response?",
+            "Student": "He encouraged me, but it’s hard not to feel like I’m not capable. I think that meeting affected my confidence.",
+            "Counselor": "That sounds understandable. Have you thought about ways you could gradually re-engage in discussions with your classmates?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T11:00:00Z",
+        "Dialogue": {
+            "Student": "I’ve been really overwhelmed, and midterms are making it worse. I feel so disconnected from everyone.",
+            "Counselor": "I appreciate you sharing that, Nina. What specifically is contributing to your feelings of being overwhelmed?",
+            "Student": "I just feel like I’m falling behind, and I’m considering dropping the group project because I’m scared of failing.`,
+            "Counselor": "That’s a substantial amount of pressure. Have you had a chance to discuss these concerns with anyone, like friends or family?",
+            "Student": "I talked to my family, and they’re supportive, but I still feel stuck in my own negative thoughts.",
+            "Counselor": "Those thoughts can be hard to shake off. What if you set small, manageable goals for yourself in the project?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T12:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’ve decided I want to reach out to my professor about my concerns. I think I need support.",
+            "Counselor": "That sounds like a positive step, Nina! What are you hoping to achieve in that conversation?",
+            "Student": "I want to express my anxieties and ask for guidance on how to better engage with my group.",
+            "Counselor": "That’s a great plan! How do you feel about initiating this conversation with your professor?",
+            "Student": "I’m nervous, but I feel like it’s important to advocate for myself. I can’t do this alone anymore.",
+            "Counselor": "Absolutely! It takes strength to seek help, and doing so can lead to a better understanding of your situation. Remember, your feelings are valid.",
+            "Student": "Thank you for your support! I’ll keep you updated on how it goes.",
+            "Counselor": "You’re welcome, Nina! I look forward to hearing from you. Best of luck with your conversation!"
+        }
+    }
+}

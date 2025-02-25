@@ -1,0 +1,31 @@
+{
+    "User Id": 8,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I could discuss a recent environmental policy that caught my attention\u2014it aligns with my interests in international relations."
+        },
+        "question": "What topic did Olivia consider discussing in class that aligns with her interests in international relations?",
+        "answer": "A recent environmental policy."
+    },
+    "long_term_QA": {
+        "question": "How did Olivia's initial feelings of being overwhelmed and self-critical lead her to seek help for her anxiety?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "In her first session, she shares her feelings of inadequacy and while she feels relief in opening up, deeper issues of perfectionism remain unresolved."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling a bit overwhelmed with the start of the semester. There\u2019s so much going on in my International Relations classes."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It\u2019s completely normal to feel anxious about performance, especially with family expectations."
+        },
+        "answer": "Olivia felt overwhelmed with the start of the semester and shared that she felt anxious and self-critical, leading her to eventually seek help, where she opened up about her feelings of inadequacy."
+    }
+}

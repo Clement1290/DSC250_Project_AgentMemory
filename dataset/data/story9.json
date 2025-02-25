@@ -1,0 +1,25 @@
+{
+    "User Id": 9,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sophia goes on a hiking trip with her friends, including her best friend, Mira. During the trip, their group comes across a group of volunteers collecting trash from the trails. Inspired, Sophia expresses her desire to lead an environmental awareness campaign on campus. However, she notices that Mira seems unenthusiastic and dismissive about the idea, which makes Sophia feel slightly offended.",
+            "Mental State": ["Inspired", "Slightly Offended", "Confused"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Encouraged by the hiking trip, Sophia starts planning the environmental campaign but finds it hard to get her peers engaged. She invites Mira to help her, but Mira, preoccupied with personal matters and a part-time job, continually makes excuses, leaving Sophia feeling unsupported. This causes tension in their friendship, leading Sophia to question her friendship with Mira and whether her goals are worth pursuing.",
+            "Mental State": ["Frustrated", "Lonely", "Doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As the deadline for the campaign approaches, Sophia feels overwhelmed by the lack of participation and support. She tries to reach out to others for collaboration but receives little interest. One evening, she confronts Mira about her lack of involvement. This conversation leads to a heated argument where Mira expresses that she feels like Sophia is trying to push her into commitments she is not ready for. This only deepens Sophia's feelings of isolation and misunderstanding.",
+            "Mental State": ["Overwhelmed", "Angry", "Isolated"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "With the campaign starting next week and her worries mounting, Sophia reflects on her friendships and goals. She decides to take a step back, considering whether to proceed with the campaign solo or to postpone until she has more support. This self-reflection leads her to realize she needs to communicate her feelings more openly with Mira, as well as seek new allies for her cause. Although the situation is still unresolved, Sophia feels determined to address her emotions and reconnect with her friend.",
+            "Mental State": ["Reflective", "Determined", "Hopeful"]
+        }
+    }
+}

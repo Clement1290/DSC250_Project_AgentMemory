@@ -1,0 +1,31 @@
+{
+    "User Id": 76,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019ve finally decided I need to confront Alex and express how I feel."
+        },
+        "question": "What does Sophia plan to do next after the conversation with the counselor?",
+        "answer": "Confront Alex and express how she feels."
+    },
+    "long_term_QA": {
+        "question": "What was Sophia's confidence level regarding her role in the project before taking any action, and what factors contributed to her reluctance to confront the issues within her group?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019ve finally decided I need to confront Alex and express how I feel."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019ve just been assigned to lead a research project on sustainable energy solutions, and I\u2019m really worried about how it will go."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "I just can\u2019t seem to motivate my teammates, especially Alex. He still undermines my ideas."
+        },
+        "answer": "Initially, Sophia was overwhelmed and full of self-doubt, expressing worry about leading the project and feeling that she couldn't motivate her teammates, particularly due to Alex's dismissive behavior. These factors contributed to her reluctance to confront the issues within her group."
+    }
+}

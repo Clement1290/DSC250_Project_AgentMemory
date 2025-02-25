@@ -1,0 +1,31 @@
+{
+    "User Id": 21,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "Have you thought about how you will move forward?"
+        },
+        "question": "What does Elena plan to do next after talking to Maya?",
+        "answer": "Taking small steps towards balance and communication."
+    },
+    "long_term_QA": {
+        "question": "How did Elena's feelings of devastation after lashing out at Maya reflect her struggles, and what prompted her to change her approach to their friendship?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I felt defensive initially, but then I realized I might have hurt our friendship."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I received disappointing feedback on a presentation, and I broke down during a group project."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I opened up about my struggles, and she was very understanding."
+        },
+        "answer": "Elena felt defensive after lashing out at Maya, realizing she possibly hurt their friendship due to her struggles with stress and disappointment. This reflection prompted her to open up about her challenges to Maya, leading to an understanding conversation."
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "User Id": 7,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the new semester begins, Maya feels overwhelmed by the academic pressures of her Biochemistry major. She's just completed a challenging summer internship that required a lot of technical knowledge and skill, and although she worked extremely hard, she received feedback that left her feeling criticized rather than supported. This feedback, combined with her family's high expectations, causes her to question her abilities and feel anxious about the upcoming semester.",
+            "Mental State": ["anxious", "self-critical", "overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "During a collaborative project in one of her classes, Maya struggles to find her voice. Her classmates are confident and assertive, and she feels intimidated by their participation. This situation makes her withdraw more, resulting in feelings of frustration and exclusion. As she becomes increasingly quiet in group discussions, Maya worries that her contributions won't be valued, reinforcing her self-doubt about her academic capabilities.",
+            "Mental State": ["frustrated", "isolated", "insecure"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As the semester progresses, Maya's anxiety worsens. She finds herself avoiding social interactions, both in class and with friends. At a family gathering, where her brother Arjun discusses his latest achievements in medical school, Maya feels overshadowed and inadequate. This comparison heightens her despair and leads her to believe she may never achieve the same level of success, causing her to feel trapped in her own thoughts and aspirations.",
+            "Mental State": ["despairing", "unmotivated", "frustrated"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of struggling with her emotions, Maya decides to seek support from her university’s counseling center. In her first session, she shares her feelings of inadequacy and anxiety regarding her academic performance and social interactions. Although she feels some relief in expressing her struggles, she recognizes that her fears of judgment and perfectionism are deeply rooted and unresolved. Maya knows she needs to work on her confidence and coping mechanisms, but she feels uncertain about how to navigate this process.",
+            "Mental State": ["relieved", "uncertain", "hopeful"]
+        }
+    }
+}

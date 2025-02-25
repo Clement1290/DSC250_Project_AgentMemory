@@ -1,0 +1,54 @@
+{
+    "User Id": 67,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I'm Sofia Reyes. This is my first time here.",
+            "Counselor": "Hello, Sofia! It’s great to meet you. How are you feeling today?",
+            "Student": "Honestly, I feel a bit overwhelmed. I just returned to uni after a summer working in a mental health charity.",
+            "Counselor": "That sounds like a profound experience! What did you learn during your summer?",
+            "Student": "I loved the work, but I also witnessed some harsh realities. Now I feel disconnected from my classmates who seem unaware.",
+            "Counselor": "It’s understandable to feel that way. Having such a deep experience can create a gap with others. Do you want to talk about what you've been feeling?",
+            "Student": "I just get frustrated when they trivialize mental health issues. It makes me feel isolated.",
+            "Counselor": "That frustration is valid, especially when you’re passionate about a subject. Have you considered sharing your experiences with them?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00",
+        "Dialogue": {
+            "Student": "Hi, I'm back. Things have been tough lately.",
+            "Counselor": "Welcome back, Sofia! What’s been going on?",
+            "Student": "I tried to speak to my friend Alicia about how I feel, but she brushed it off, telling me to focus on my art.",
+            "Counselor": "I'm sorry to hear that. It can hurt to feel dismissed by someone close to you. How did that make you feel?",
+            "Student": "It made me feel lonely and invalidated, like my passions don't matter.",
+            "Counselor": "Those feelings are tough to navigate. Sometimes people don’t realize the depth of what we feel. What do you think you need right now?",
+            "Student": "I guess I just want someone to understand and listen to me.",
+            "Counselor": "That’s completely reasonable. Have you thought about talking to someone else who might share your interests, or maybe even expressing your feelings through your art?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-15T11:00:00",
+        "Dialogue": {
+            "Student": "Hey, I need to share something about class discussions.",
+            "Counselor": "Hi, Sofia! I’m glad you reached out. What happened?",
+            "Student": "We were talking about mental health strategies, and I tried to share insights from my internship, but my classmates didn’t seem interested.",
+            "Counselor": "That must have been disheartening, especially when you’re passionate about the topic. How did that impact you?",
+            "Student": "I ended up withdrawing and not saying anything. It really hurt.",
+            "Counselor": "I can only imagine. Have you had a chance to speak to your brother Carlos about how you're feeling?",
+            "Student": "Yes, he encouraged me to keep going, but I’m torn about whether I should focus on mental health advocacy or my studies.",
+            "Counselor": "It’s normal to feel conflicted when pursuing your passions. Sometimes taking small steps to balance both can help. What do you think?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-01T13:00:00",
+        "Dialogue": {
+            "Student": "Hi, I need to talk about my presentation on mental health awareness.",
+            "Counselor": "Hi, Sofia! I’m here for you. What’s on your mind regarding the presentation?",
+            "Student": "I felt so much pressure. Even though I was passionate, I struggled to connect with the audience.",
+            "Counselor": "That sounds difficult. Presentations can be challenging, especially when it’s a topic you care deeply about. How do you feel about the outcome?",
+            "Student": "I felt like a failure. I’m now questioning if I should change my focus from psychology to something less emotionally charged.",
+            "Counselor": "It’s understandable to feel that way after such an intense experience. But remember, feeling challenging emotions can be part of the growth process. Have you thought about exploring new paths while holding onto what you love?",
+            "Student": "I think I need to reflect on that. I really care about mental health."
+        }
+    }
+}

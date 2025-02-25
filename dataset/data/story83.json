@@ -1,0 +1,25 @@
+{
+    "User Id": 83,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Ethan was excited to start the semester, particularly looking forward to his political science class, where he hoped to engage in passionate debates and discussions. However, he soon learned that the class was predominantly focused on rote memorization and lectures, leaving little room for the interactive learning environment he craved. Frustrated, he reached out to his professor, Mr. Thompson, to express his concerns, but his feedback was met with indifference. This interaction left Ethan feeling disheartened and questioning whether he had chosen the right major.",
+            "Mental State": ["frustrated", "disheartened", "questioning"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Ethan's frustration grew as he noticed that his classmates also felt disengaged but were reluctant to voice their opinions. He decided to take the initiative by setting up a study group to foster discussion and collaboration outside of class. However, when he spoke to his peers, many expressed doubts about the professor’s teaching style and expressed that they felt overwhelmed by the material. Ethan felt compelled to motivate them but began to feel anxious about his ability to lead effectively, fearing that he might not be taken seriously.",
+            "Mental State": ["anxious", "determined", "overwhelmed"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As the semester progressed, the stress of maintaining the study group, combined with pressure to perform well in class, started to take a toll on Ethan’s mental health. He found it increasingly difficult to balance his academic responsibilities, social commitments, and personal time, leading to moments of burnout. One evening, while preparing a group presentation, he had a breakdown, feeling that he was letting everyone down by not being able to enhance their learning experience as he had hoped. Feeling unsupported, he withdrew from his friends and spent hours questioning his capabilities.",
+            "Mental State": ["overwhelmed", "burnt out", "withdrawn"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Finally, during the study group meeting, Ethan expressed his struggles with balancing his mentality and his role as a group leader. To his surprise, his peers empathized with him and revealed their own challenges, creating an atmosphere of understanding and support. However, although he felt relieved to share his burden, he still struggled with feelings of inadequacy, particularly regarding his leadership abilities and class performance. Realizing he needed additional support, Ethan considered reaching out to his university’s counseling services but was unsure about taking that step. He left the meeting feeling simultaneously uplifted by the camaraderie and anxious about addressing his ongoing struggles.",
+            "Mental State": ["relieved", "anxious", "hopeful"]
+        }
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "User Id": 65,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Maya Patel. I just started my Environmental Science major."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Maya! It's great to meet you. How are you finding your studies so far?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It's been overwhelming, to be honest. I attended a seminar yesterday, and the issues discussed felt so massive."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds intense. It's completely normal to feel overwhelmed when confronted with such big challenges in your field."
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Yeah, I spoke to a classmate who expressed doubts about whether we can actually make a difference, and that got to me."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that way, especially when you're just starting out. What part of that discussion affected you the most?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I guess it was hearing about how little change we see despite our efforts. It made me question my abilities and passion."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Those feelings of doubt can be unsettling. Have you had similar feelings in the past about your passions?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Not like this. I've always been pretty confident about wanting to help the environment."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's important to acknowledge how you feel. Remember, even the most passionate people face doubts. You're not alone. What do you think could help you regain that confidence?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Maybe talking it out more often? I feel like I'm shutting myself off."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "That sounds like a good plan. Opening up can really help clarify your thoughts and feelings."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, I'm back. Things have been rough recently."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Maya! I'm here for you. What's been happening?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I've started to isolate myself from friends and family. I feel disconnected."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. Sometimes when we're struggling, it's natural to withdraw, but it can worsen feelings of isolation."
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Yeah, it's frustrating. I feel inadequate compared to my brother who's studying biology. He seems so focused."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's tough to feel compared to others, especially with those we care about. Have you shared your feelings with anyone in your family?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I feel like they might think I'm weak for feeling this way."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's common to worry about how others perceive us, but expressing your feelings could actually lead to support and understanding."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I guess I'm just scared of being judged."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That's completely valid. Sometimes, we need to give ourselves permission to be vulnerable. It can lead to deeper connections."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I really need help again. I struggled during a group project."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Maya! I'm glad you're here. What happened during the project?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I couldn't voice my ideas in the planning sessions. I kept feeling overshadowed by my team members."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds frustrating. It's tough when assertive people dominate discussions. What were your thoughts while that was happening?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt inadequate. Their confidence just highlighted how I was doubting myself."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Self-doubt can be so challenging. Could you think of specific ideas you wished to share?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Yes, I had ideas about engaging the community better, but I just held back."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's important! Next time, perhaps try jotting down your thoughts before the meeting. What do you feel about that?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "That sounds like a good strategy. But I'm still questioning if this is the right path for me."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's natural to question your path, especially during challenging times. You mentioned your passion for the environment\u2014try to reconnect with that."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T15:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, I just had the project presentation, and it was a disaster."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Maya! I'm here to support you. Tell me what happened."
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I froze up while speaking, and I couldn't express my passion for the project."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I can imagine how that feels. Presentations can be quite stressful, especially when you care deeply about the topic."
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Some classmates praised my ideas, but I can't stop thinking about how I messed up."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's important to recognize your moments of strength too. What do you take from the feedback?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I appreciate the praise, but I keep fixating on my anxiety."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That fixation can be hard to shake off. What do you think would help you process this experience?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I'm not sure. I might even consider changing my studies because of this."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's okay to feel conflicted. Take your time to process it. Remember, setbacks can also lead to growth, and your commitment to environmental causes is still at the core of who you are."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Thanks. I think I need to give myself time to reflect."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "That's a good idea. I'm here whenever you need someone to talk to. Take care of yourself, Maya."
+            }
+        ]
+    }
+}

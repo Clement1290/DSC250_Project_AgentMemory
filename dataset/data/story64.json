@@ -1,0 +1,25 @@
+{
+    "User Id": 64,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Liam starts the semester excited about his Political Science major and the prospect of engaging in advocacy work. However, he begins to feel anxious about the imminent elections and the pressure to perform well in his classes while actively participating in student government. Furthermore, Liam feels deeply concerned for his younger sister Priya, who is going through a tough time adjusting to high school and is anxious about her own academic performance. This sense of responsibility weighs heavily on him.",
+            "Mental State": ["Excitement", "Anxiety", "Concern"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks go by, Liam feels increasingly overwhelmed. The combination of his commitments to student government, schoolwork, and trying to support Priya leaves him exhausted. He often stays up working late, which impacts his mental health. Liam notices he hasn’t been able to enjoy his hobbies, such as playing soccer and volunteering. His friends start to notice his withdrawal, and he begins to distance himself because he fears he’s becoming a burden.",
+            "Mental State": ["Overwhelmed", "Fatigue", "Isolation"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "During a student government meeting, Liam attempts to lead a discussion on upcoming initiatives, but he struggles to focus and articulate his thoughts due to stress and fatigue. After the meeting, he confides in his best friend Josh, expressing his feelings of inadequacy and worries that he’s failing as a student and a brother. Josh tries to reassure him, but Liam leaves the conversation feeling more uncertain and burdened by his responsibilities.",
+            "Mental State": ["Inadequate", "Burdened", "Sadness"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After reflecting on his situation over the weekend, Liam decides to seek guidance from a campus counselor. In their session, he opens up about his anxiety, his academic pressures, and his concerns regarding Priya. The counselor suggests that Liam prioritize self-care and address his responsibilities more realistically. While he feels a mix of relief after the session, Liam is still uncertain about how to follow through and balance everything effectively moving forward.",
+            "Mental State": ["Relief", "Hopefulness", "Uncertainty"]
+        }
+    }
+}

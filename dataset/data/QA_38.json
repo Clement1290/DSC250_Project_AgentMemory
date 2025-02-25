@@ -1,0 +1,31 @@
+{
+    "User Id": 38,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I finally spoke with Dr. Garcia about everything."
+        },
+        "question": "What did Olivia do before this conversation with the counselor?",
+        "answer": "spoke with Dr. Garcia"
+    },
+    "long_term_QA": {
+        "question": "How did Olivia feel about her situation before reaching out for help, and what specific guidance prompted her to feel more empowered and determined afterward?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I felt a little lighter afterward."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "It made me feel like I\u2019m not good enough, especially after what happened in the volunteer group last time."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It\u2019s important to take care of yourself."
+        },
+        "answer": "Before reaching out for help, Olivia felt like she wasn\u2019t good enough and experienced defeat and anxiety. After receiving encouragement and self-care techniques from Professor Garcia, she felt lighter and more empowered."
+    }
+}

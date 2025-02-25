@@ -1,0 +1,97 @@
+{
+    "User Id": 33,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Emma Thompson. It’s great to meet you.",
+            "Counselor": "Hi Emma! It's lovely to meet you too. How are you feeling today?",
+            "Student": "Honestly, I’m a bit overwhelmed. I just started my final year, and I feel the pressure already.",
+            "Counselor": "That’s completely understandable. Final year can bring a lot of expectations. Can you tell me more about what’s on your plate?",
+            "Student": "I’ve got heavier coursework than I expected, and I’m also volunteering, which is exciting but time-consuming.",
+            "Counselor": "It sounds like you’re juggling quite a bit. How do you usually manage your stress?",
+            "Student": "I usually enjoy yoga and photography, but I haven’t had time for them lately.",
+            "Counselor": "It’s important to make time for activities that help you recharge. Have you thought about how you can fit them back into your schedule?",
+            "Student": "I guess I could try to schedule mini-breaks. I just feel guilty if I take time away from studying.",
+            "Counselor": "Taking breaks can actually help with productivity. You deserve to take care of yourself—it's not selfish at all.",
+            "Student": "That makes sense. Thank you for the advice! I’ll try to keep that in mind.",
+            "Counselor": "You're welcome, Emma. It sounds like you're on the right track. Do you have any specific goals for this semester?",
+            "Student": "I want to maintain my grades and also enjoy my last year, but it feels hard to balance both.",
+            "Counselor": "It’s a delicate balance, but setting specific priorities might help. What’s most important to you right now?",
+            "Student": "I think enjoying my time with friends and pursuing my studies simultaneously is important.",
+            "Counselor": "That’s a wonderful goal. Remember, being present is key. It’s okay to ask for help from friends and family too.",
+            "Student": "I’ll try to reach out more. Thanks for being so understanding!",
+            "Counselor": "Of course! I'm here to support you. Let’s check in again soon—how’s next week for you?",
+            "Student": "Next week works for me! I’ll see you then.",
+            "Counselor": "Looking forward to it, Emma! Take care until then."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hey, Counselor. It’s Emma again. I feel even more exhausted than last time.",
+            "Counselor": "Hi Emma! I’m glad you came back. I’m sorry to hear you’re feeling this way. What’s been happening?",
+            "Student": "I’ve been neglecting my self-care. I stopped doing yoga and taking photos, and I’m just so tired all the time.",
+            "Counselor": "That’s tough. It can be easy to push those enjoyable activities aside when you’re busy. Are your friends noticing any changes?",
+            "Student": "Yeah, they’ve commented on how I seem distracted and tired. My sister even worried about me.",
+            "Counselor": "It sounds like your loved ones care about you. How does hearing their concern make you feel?",
+            "Student": "It makes me feel guilty for not being the happy person I usually am.",
+            "Counselor": "It's okay to feel that way. Remember, you can’t pour from an empty cup. What could help you feel more balanced?",
+            "Student": "Maybe if I can find small ways to reconnect with my hobbies, it could help?",
+            "Counselor": "Absolutely! Even a few minutes of yoga or a short photography session might brighten your day.",
+            "Student": "I’ll try to do that more often. It’s just hard to push through the fatigue sometimes.",
+            "Counselor": "That’s understandable. Maybe you could set aside just 10 minutes for yourself—would that feel manageable?",
+            "Student": "That sounds doable. I’ll give it a shot.",
+            "Counselor": "Great! And remember, it’s okay to reach out to your friends when you’re feeling low. They might want to support you.",
+            "Student": "I definitely should. Thanks for reminding me of that.",
+            "Counselor": "You’re very welcome, Emma. You deserve to feel better and enjoy your time.",
+            "Student": "I appreciate your support. Let’s chat again soon.",
+            "Counselor": "Of course! Take care, and I look forward to hearing about your progress."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hey, it’s Emma again. I am feeling really down after failing my midterm.",
+            "Counselor": "Hi Emma. I’m sorry to hear that. It’s completely natural to feel defeated after a setback.",
+            "Student": "I just feel like I’ve let everyone down, especially myself.",
+            "Counselor": "That’s a tough feeling to carry. Can you tell me more about why this affected you so deeply?",
+            "Student": "I’ve always wanted to do well and be a good student. Now I feel like a failure.",
+            "Counselor": "That’s a heavy burden to bear. Remember, one exam doesn’t define your entire academic career or your worth.",
+            "Student": "I know logically, but emotionally, it just feels so real.",
+            "Counselor": "That makes sense. Sometimes our emotions can overwhelm our rational thoughts. Have you shared this with anyone?",
+            "Student": "Not yet. I’m kind of scared of how they’ll react.",
+            "Counselor": "Talking about it can help lighten the load even if it feels daunting at first. What do you think might happen if you share your experience with a friend?",
+            "Student": "They might be disappointed, or think I’m not cut out for my major.",
+            "Counselor": "You might be surprised! Friends often want to support each other, especially in tough times. They could even relate to your struggles.",
+            "Student": "You’re right. I should at least try.",
+            "Counselor": "That’s a good first step! Writing in your journal is also a great way to process your feelings. How has that been for you?",
+            "Student": "It was cathartic, but I still just feel so isolated, like I’m going through this all alone.",
+            "Counselor": "It’s understandable to feel that way, but reaching out to others can help bridge that gap of isolation.",
+            "Student": "I’ll think about it. Thank you for listening—I feel a bit lighter already.",
+            "Counselor": "I’m glad to hear that, Emma! Remember, you’re not alone in this. I’m here to support you.",
+            "Student": "Thanks, I really appreciate your help. Can we talk again soon?",
+            "Counselor": "Absolutely! Let’s keep the lines of communication open."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hello, Counselor! It’s Emma again. I finally reached out for counseling services.",
+            "Counselor": "Hi Emma! I’m so proud of you for taking that step. How did it go?",
+            "Student": "It was nerve-wracking at first, but I felt relieved to talk to someone who understood.",
+            "Counselor": "That’s wonderful to hear! It’s a big step towards feeling better. How are you feeling now compared to before?",
+            "Student": "I’m still anxious about change, but I feel a glimmer of hope for the future.",
+            "Counselor": "That’s a great mindset! Progress often comes along with uncertainty, but it sounds like you’re determined.",
+            "Student": "I really want to reconnect with my hobbies too. I miss my photography and yoga.",
+            "Counselor": "Yes! What plans do you have to incorporate those activities back into your routine?",
+            "Student": "I’m thinking of scheduling short sessions, like a mini photo walk or a brief yoga practice.",
+            "Counselor": "That sounds like a perfect plan! Starting small can make a big difference.",
+            "Student": "I also want to remind myself that setbacks are part of the journey, not the end.",
+            "Counselor": "Exactly! Each experience can teach us something valuable. It’s all part of growing.",
+            "Student": "Thanks for your continued support! It means a lot to know someone is in my corner.",
+            "Counselor": "I’m glad to be here for you, Emma. You’ve shown incredible strength through these challenges.",
+            "Student": "I’ll keep pushing forward. Let’s check in again next week?",
+            "Counselor": "Definitely! I'm looking forward to hearing about your progress. Take care until then."
+        }
+    }
+}

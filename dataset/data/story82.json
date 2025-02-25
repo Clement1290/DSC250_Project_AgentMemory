@@ -1,0 +1,25 @@
+{
+    "User Id": 82,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Amira was in a group project for her Environmental Science class aimed at creating a community garden. Initially excited about the project and sharing her passion for sustainability, she hoped to collaborate with her classmates effectively. However, she quickly noticed that one of her group members, Sam, seemed disengaged and was not contributing to discussions. After a team meeting, Amira approached Sam to encourage him, but he brushed her off, making her feel frustrated and concerned about the group's dynamics.",
+            "Mental State": ["frustrated", "concerned", "disheartened"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the project developed, Amira took on additional responsibilities to compensate for Sam's lack of participation, leading to mounting pressure. During a group meeting, she voiced her concerns about the workload, but the rest of the group ignored her feelings, suggesting that Amira was just being too sensitive. This dismissal made her anxious, and she began doubting whether she should continue putting effort into the project since her contributions seemed unappreciated. Additionally, she felt a growing rift with her team, which increased her stress levels.",
+            "Mental State": ["anxious", "doubtful", "isolated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Approaching the project deadline, Amira felt overwhelmed and ready to give up. Despite her hard work, the lack of teamwork and support from her peers left her feeling demoralized. She tried to reach out to her professor for guidance but left the meeting feeling unheard as her professor suggested that she find ways to motivate her team. This suggestion felt like a further burden rather than a solution. Amira became more withdrawn, hesitant to reach out even to her family for support as she internalized her feelings of inadequacy.",
+            "Mental State": ["overwhelmed", "demoralized", "withdrawn"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "At the project's presentation, Amira felt a mix of relief and disappointment. Although her presentation went well, the unresolved issues within the group left her feeling unfulfilled. During the feedback session, Sam finally acknowledged Amira's hard work, but she struggled to accept his praise due to her lingering feelings of frustration. Amira decided it was time to reflect on her experience and reach out for help. She set up a meeting with a campus counselor to discuss her emotions regarding the project and her difficulties with teamwork, looking for insights on moving forward positively.",
+            "Mental State": ["relieved", "disappointed", "hopeful"]
+        }
+    }
+}

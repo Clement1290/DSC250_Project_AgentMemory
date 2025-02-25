@@ -1,0 +1,31 @@
+{
+    "User Id": 11,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I want to express my struggles and hopefully reconnect with the group."
+        },
+        "question": "What does Aiden hope to achieve by talking to his group and professor?",
+        "answer": "He hopes to express his struggles and reconnect with the group."
+    },
+    "long_term_QA": {
+        "question": "How did Aiden initially feel about his contributions to the group, and what led to his worsened confidence and withdrawal from participating?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I want to express my struggles and hopefully reconnect with the group. I need to regain my confidence."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I felt undervalued and insecure about my abilities. It\u2019s frustrating because I was really excited about the project."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I feel like I'm stuck and doubting whether I should even continue with this major."
+        },
+        "answer": "Initially, Aiden felt 'undervalued and insecure about my abilities' after his ideas were dismissed, which worsened to feeling 'stuck and doubting' his major and led to him wanting to express his struggles to regain confidence."
+    }
+}

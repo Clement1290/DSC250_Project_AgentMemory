@@ -1,0 +1,61 @@
+{
+    "User Id": 81,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi there! I’m Sofia Martinez. It’s nice to meet you.",
+            "Counselor": "Hi Sofia! It’s great to meet you too. How can I assist you today?",
+            "Student": "I recently found out that I have to present a research paper in front of the class, and I’m feeling pretty anxious about it.",
+            "Counselor": "That sounds really challenging. Presenting in front of others can definitely be nerve-wracking. What specifically worries you about it?",
+            "Student": "I have this fear of public speaking. I usually like leading groups, but speaking in front of my peers feels overwhelming.",
+            "Counselor": "It's completely normal to feel that way. What helps you when you're feeling overwhelmed in other situations?",
+            "Student": "I suppose I usually talk to my friends or do some yoga to stay calm, but this is different.",
+            "Counselor": "Those are excellent strategies! Maybe trying some of those calming techniques might help you as you prepare for your presentation. Have you thought about discussing this with a friend to share your feelings?",
+            "Student": "I talked to my friend Emma, and she was really supportive. But I still can’t shake off this self-doubt.",
+            "Counselor": "It’s wonderful that you have a supportive friend. Remember that self-doubt is normal, especially when faced with new challenges. Try to focus on your strengths and how you’ve succeeded in the past."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m back! Things have gotten a bit tougher since we last talked.",
+            "Counselor": "Welcome back, Sofia! I’m here to help. What’s been going on?",
+            "Student": "I'm spending long nights preparing for my presentation, but I’m feeling even more stressed. I can’t concentrate.",
+            "Counselor": "That sounds exhausting. It’s understandable to feel stress when you put in so much effort. Are you allowing yourself any breaks?",
+            "Student": "No, I feel guilty about taking breaks. My brother suggested that, but I just keep pushing myself.",
+            "Counselor": "It’s important to give yourself some grace. Breaks can actually make you more productive. How about trying a quick break next time you feel stressed?",
+            "Student": "I don’t know... what if I fall behind?",
+            "Counselor": "Taking short breaks can help recharge your mind, allowing you to focus better when you return to studying. Remember, balance is key! How about you try it tomorrow and see how you feel?",
+            "Student": "Okay, I’ll give it a shot. But I'm still really struggling to articulate my ideas.",
+            "Counselor": "That’s common when we’re anxious. Perhaps practice speaking your ideas out loud to yourself or to someone you trust. It can help build your confidence."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": {
+            "Student": "I ended up having a panic attack last night. I couldn’t sleep at all.",
+            "Counselor": "Oh no, I’m really sorry to hear that, Sofia. Panic attacks can be very frightening. What was going through your mind when it happened?",
+            "Student": "I was stressing about how I’d embarrass myself in front of the class. I felt like I’d let everyone down.",
+            "Counselor": "It’s easy to get caught up in those thoughts, especially under pressure. Remember, your worth is not defined by a single presentation. How did you cope this morning?",
+            "Student": "I tried to remind myself of my mom’s support, but I still felt heavy going into class.",
+            "Counselor": "It’s great that you have your mother’s support. Sometimes just taking one step, like showing up, is a huge accomplishment. How do you feel about the presentation now?",
+            "Student": "I’m really reluctant to speak at all. My friends seemed worried, but I just want to disappear.",
+            "Counselor": "It’s okay to feel that way. It shows that you care about how you're perceived. Keep in mind, this is just one moment in your journey, not the defining moment of your abilities."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": {
+            "Student": "I had my presentation, and while it wasn’t as bad as I expected, I’m still feeling disappointed.",
+            "Counselor": "Thank you for sharing that, Sofia. It’s normal to feel a mix of relief and disappointment. What do you think led to those feelings?",
+            "Student": "I had set such high expectations for myself. I thought I’d feel proud afterward, but I didn’t.",
+            "Counselor": "It’s understandable to feel that way when our expectations don’t match reality. How do you feel about seeking help or talking about how to move forward?",
+            "Student": "I think it’s definitely time to do something about it. I’m tired of feeling this way.",
+            "Counselor": "That’s a fantastic realization. Speaking with a campus counselor can provide you with new tools to manage these emotions. What specific goals do you want to focus on moving forward?",
+            "Student": "I want to learn to accept myself more and not be so hard on myself.",
+            "Counselor": "That’s such a positive goal. Self-acceptance is a process, but you are taking the right steps. Remember, I’m here to support you as you navigate this journey.",
+            "Student": "Thank you for all your help! I really appreciate it.",
+            "Counselor": "You’re very welcome, Sofia. It’s been great to talk with you today. Take care, and don’t hesitate to reach out anytime you need support!"
+        }
+    }
+}

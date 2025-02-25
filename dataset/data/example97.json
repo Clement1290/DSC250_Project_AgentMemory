@@ -1,0 +1,62 @@
+{
+    "User Id": 97,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, my name is Sophia Adams. I'm a 22-year-old student majoring in Environmental Science.",
+            "Counselor": "Hello, Sophia! It's great to meet you. How can I assist you today?",
+            "Student": "Well, I'm feeling a bit overwhelmed. The semester just started, and my workload is already piling up.",
+            "Counselor": "That sounds really challenging. What specific aspects of your workload are making you feel this way?",
+            "Student": "I have multiple assignments and group projects, along with my volunteer commitments. I’m worried I won’t be able to keep up.",
+            "Counselor": "It's understandable to feel anxious when things get hectic. Have you had any strategies to manage your time and responsibilities?",
+            "Student": "Not really. I usually try to stay organized, but right now, everything feels like too much.",
+            "Counselor": "It can help to break down your tasks into smaller, manageable goals. Would that be something you might try?",
+            "Student": "I think I could try that. It’s just hard to think clearly right now.",
+            "Counselor": "Take your time, Sophia. Remember, it’s okay to feel this way, and you're not alone in facing these challenges. I'm here for you."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-10-01T11:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I think I'm getting worse. I feel more anxious and isolated.",
+            "Counselor": "I’m sorry to hear that, Sophia. Can you tell me more about what's been happening?",
+            "Student": "In my group project, I struggled to contribute ideas. I felt so drained, and then I thought my classmates noticed.",
+            "Counselor": "It's tough to feel like you're not participating as much. How did your classmates respond?",
+            "Student": "Liam tried to encourage me, but I ended up feeling like he was just pitying me, which made me withdraw more.",
+            "Counselor": "I can see how that would deepen your feelings of isolation. It's important to recognize those feelings but also to communicate your experiences. Have you tried sharing how you felt with them?",
+            "Student": "No, I haven’t. I’m afraid they won’t understand how I feel.",
+            "Counselor": "Sharing can be scary, but it might also strengthen your connections. It can be helpful to remind yourself that your feelings are valid. Would you like to practice communicating that with me?",
+            "Student": "Yeah, maybe that would help."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-21T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’ve had a rough week. I tried to work on my photography project, but I got really frustrated.",
+            "Counselor": "I’m here to listen, Sophia. What happened during your project?",
+            "Student": "While editing, I just felt like my photos lacked depth. Then I shared them with my family, and my brother criticized them.",
+            "Counselor": "That sounds hurtful, especially when you're already feeling vulnerable with your work. How did his criticism affect you?",
+            "Student": "It made me angry and also self-critical. I started questioning my abilities.",
+            "Counselor": "It's normal to feel that way when facing criticism, especially from someone close to us. What do you think you could do to cope with those feelings?",
+            "Student": "I don't know. I just feel lost about my art and studies.",
+            "Counselor": "Perhaps taking a short break from editing or going back to the basics of what you enjoy about photography could help. Remember why you started this project in the first place.",
+            "Student": "That makes sense. I loved capturing nature before. I should focus on that again."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:00:00Z",
+        "Dialogue": {
+            "Student": "Hello, I’m back. I had a really tough week. I ended up arguing with a friend.",
+            "Counselor": "I’m sorry to hear that, Sophia. What led to the argument?",
+            "Student": "It was over a minor disagreement about our project, but I totally lost my cool and said some hurtful things.",
+            "Counselor": "It happens to many people when we're under stress. How did you feel afterward?",
+            "Student": "I felt regretful and ashamed. I didn't want to hurt my friend, and now I'm not sure how to mend things.",
+            "Counselor": "Recognizing that regret is an important first step. Have you thought about reaching out to your friend to discuss how you felt?",
+            "Student": "I’m nervous about that. What if they don’t want to talk?",
+            "Counselor": "It’s natural to feel apprehensive, but expressing your feelings could lead to healing. You might be surprised by their response.",
+            "Student": "I guess that's true. I need to try, but I’m still feeling lost.",
+            "Counselor": "It’s okay to feel lost sometimes. Remember, it's part of the journey. You’re making progress by just acknowledging these feelings.",
+            "Student": "Thanks for your support. I’ll try to reach out and see what happens."
+        }
+    }
+}

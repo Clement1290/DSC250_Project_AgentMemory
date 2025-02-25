@@ -1,0 +1,65 @@
+{
+    "User Id": 90,
+    "Stage 1 dialogue": 
+    {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I'm Emily Johnson. This is my first time visiting.",
+            "Counselor": "Hello, Emily! It’s so nice to meet you. How are you feeling today?",
+            "Student": "Honestly, I'm a bit disappointed. I just got my midterm grades and they were lower than I expected.",
+            "Counselor": "I’m really sorry to hear that. That can be really tough to process. Can you tell me more about how you’re feeling about your grades?",
+            "Student": "I worked really hard, and I just feel like I'm falling behind compared to everyone else. It's making me doubt myself.",
+            "Counselor": "It’s completely normal to feel this way, especially when you've put in so much effort. Have you had a chance to talk to anyone about it?",
+            "Student": "I talked to my brother, Mark, and he suggested I reach out to my professors for help, but I'm hesitant to do that.",
+            "Counselor": "That’s a good suggestion from Mark. Talking to professors can provide you with clarity and guidance. What’s holding you back from reaching out?",
+            "Student": "I’m afraid they’ll think I’m not capable or just not trying hard enough.",
+            "Counselor": "It’s important to remember that professors are there to help and support you. You're clearly committed to your studies, and asking for help is a strength, not a weakness."
+        }
+    },
+    "Stage 2 dialogue": 
+    {
+        "timestamp": "2023-09-30T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I've been attending tutoring sessions, but I still feel anxious speaking up in class.",
+            "Counselor": "Welcome back, Emily! I'm glad you came in today. It’s great that you’re attending tutoring. What specifically makes you feel anxious?",
+            "Student": "Every time I want to contribute something, I worry about being judged. Especially during group work, I feel overshadowed by my classmate, Sarah.",
+            "Counselor": "That sounds really challenging. It’s tough when you feel like your voice isn’t being heard. Have you thought about discussing your feelings with your group?",
+            "Student": "I’ve considered it, but I’m scared I’ll just freeze up or they won’t take me seriously.",
+            "Counselor": "Those feelings are valid, but you might be surprised by how supportive your classmates can be. What if you prepared a few points in advance to share?",
+            "Student": "That might help, but I still feel like I'm not as knowledgeable as they are.",
+            "Counselor": "Remember, everyone has different strengths. Your insights are valuable, and your unique perspective can enhance the group's work. Trust in what you bring to the table."
+        }
+    },
+    "Stage 3 dialogue": 
+    {
+        "timestamp": "2023-10-20T15:00:00Z",
+        "Dialogue": {
+            "Student": "Hey. I’m feeling really overwhelmed with the group project; it’s getting close to the deadline.",
+            "Counselor": "Hi, Emily. Thank you for coming in to talk. I’m here for you. Can you share what’s overwhelming you?",
+            "Student": "I feel like I can’t keep up with everyone. I’ve started to withdraw from the group, and it makes me feel so lonely.",
+            "Counselor": "That’s understandable, especially under pressure. It might help to communicate with your group about how you’re feeling. Have you thought about talking to them?",
+            "Student": "I don’t know. I feel trapped and like I'm letting them down. Avoiding them seems easier.",
+            "Counselor": "I see that it’s a tough situation, but avoiding them might increase your feelings of loneliness. You’re a part of the team, and they might be more understanding than you think.",
+            "Student": "You're right; I just keep blaming myself for not being more proactive.",
+            "Counselor": "Blaming yourself won’t help. Focus on what you can control, like sharing your thoughts and discussing your contributions. Working through this together can strengthen your group dynamics."
+        }
+    },
+    "Stage 4 dialogue": 
+    {
+        "timestamp": "2023-11-05T16:00:00Z",
+        "Dialogue": {
+            "Student": "Hi! I had a really good breakthrough last week.",
+            "Counselor": "That’s wonderful to hear, Emily! What happened?",
+            "Student": "I talked to my mom about everything, and she helped me realize that I need to focus on progress, not perfection.",
+            "Counselor": "That’s a fantastic perspective! How did you feel about sharing your ideas in the group meeting?",
+            "Student": "I was really nervous at first, but I took a leap of faith and shared my thoughts. It was a good experience.",
+            "Counselor": "That’s amazing! How have you felt since expressing yourself?",
+            "Student": "I feel hopeful and more empowered! I realized how important my voice is within the group.",
+            "Counselor": "I’m so proud of you for embracing that opportunity! It shows your growth. What are your next steps?",
+            "Student": "I want to continue participating actively and keep improving my confidence.",
+            "Counselor": "That’s a great goal! Keep reminding yourself of your strengths and the value you bring. If you ever need further support, I’m here to help.",
+            "Student": "Thank you so much! Your support means a lot!",
+            "Counselor": "You’re very welcome, Emily! Enjoy the rest of your semester and take care!"
+        }
+    }
+}

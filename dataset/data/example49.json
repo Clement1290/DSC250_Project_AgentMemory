@@ -1,0 +1,69 @@
+{
+    "User Id": 49,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I'm Samantha Patel. It's nice to meet you.",
+            "Counselor": "Hi Samantha! It's great to meet you too. How are you feeling today?",
+            "Student": "Honestly, I'm feeling quite overwhelmed with my coursework. Midterms are coming up, and I just don't know if I'm keeping up.",
+            "Counselor": "That sounds really stressful. It's completely normal to feel that way as exams approach. Can you tell me more about what's been overwhelming you?",
+            "Student": "Well, I'm balancing my Biology major with extracurriculars and family expectations. My brother is doing really well in law school, so I feel this pressure to excel too.",
+            "Counselor": "I can see how that would make things tough for you. It sounds like you have a lot on your plate. How do you usually cope with this pressure?",
+            "Student": "I try to study hard, but it just feels like I'm falling behind. It’s hard to even talk about my feelings with my friends.",
+            "Counselor": "It's perfectly okay to feel this way, Samantha. It's important to acknowledge your feelings. Have you tried sharing your feelings with your friends or family?",
+            "Student": "I've been hesitant to, but I also feel like I'm letting them down if I admit I'm struggling.",
+            "Counselor": "It’s understandable to feel that way, but remember that vulnerability can strengthen your relationships. Sometimes sharing can really lighten your emotional load.",
+            "Student": "That makes sense. I want to open up more, but it's difficult.",
+            "Counselor": "Take your time. Small steps can lead to greater support from those who care about you. Would it help to set some goals for managing your time effectively?",
+            "Student": "Maybe, that could help me feel more organized.",
+            "Counselor": "Great! We can work on that together. Just remember, you're not alone in this."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I've been struggling even more lately.",
+            "Counselor": "Hi, Samantha. I’m glad you came back. What’s been bothering you?",
+            "Student": "I feel continuously isolated and frustrated. I don't think my friends really understand the pressure I'm under.",
+            "Counselor": "It sounds like you're feeling quite alone in this. Have you been able to talk to them about your feelings?",
+            "Student": "No, I actually got into an argument with my sister recently, and I feel guilty about that too.",
+            "Counselor": "Conflicts can happen, especially when stress is high. It's good to acknowledge your feelings of guilt. Would you like to explore how to mend that relationship with your sister?",
+            "Student": "I’d like to. But I'm not sure how to approach her without feeling defensive.",
+            "Counselor": "That’s a thoughtful consideration. Sometimes expressing your feelings first can help lower defenses. You could start by telling her you’re under pressure and need support.",
+            "Student": "That could work. I hope she understands.",
+            "Counselor": "It’s okay to be unsure. The important thing is that you're willing to communicate. How about sharing some of what you’ve been studying with her too? Maybe she can relate!",
+            "Student": "That’s a good idea! I’ll try that.",
+            "Counselor": "That’s a positive step. Managing relationships while under pressure can be tough, but I believe you can navigate through it."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-21T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I feel so withdrawn lately. I just can't seem to concentrate.",
+            "Counselor": "Hi, Samantha. I’m here for you. Can you share what’s contributing to your feelings of withdrawal?",
+            "Student": "I haven’t gone out with friends for weeks. They invited me hiking, but I just can't enjoy anything right now.",
+            "Counselor": "That sounds really tough. It can be hard to miss out on social interactions when you're feeling low.",
+            "Student": "Exactly! And every time I see my friends, I feel even more guilty for not being there.",
+            "Counselor": "It's a challenging cycle. It’s important to remember that taking care of yourself is essential too. Have you thought about scheduling a specific study time so you can allow some breaks for social interaction?",
+            "Student": "Not really, I’ve been trying to fit everything in, but it just feels impossible.",
+            "Counselor": "Creating a balanced schedule can help. Perhaps set aside specific times to step away from studying? It might help ease your guilt in missing out.",
+            "Student": "That sounds reasonable. I really want to be better about that.",
+            "Counselor": "That's a good mindset. Remember to communicate with your friends about where you are as well. They care about you and likely miss you too."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I finally broke down the other day and talked to my family. It was hard.",
+            "Counselor": "Hi, Samantha! I'm so proud of you for opening up. How did it feel?",
+            "Student": "I felt so vulnerable, but also relieved. They listened and were supportive, which I really needed.",
+            "Counselor": "That’s wonderful to hear! It must have been a huge relief to share your struggles. What do you think you're going to do next?",
+            "Student": "I think I need to keep talking to them and maybe even my friends. I realized I don't have to go through this alone.",
+            "Counselor": "Absolutely! Continuing those conversations can foster support. Remember, it’s okay to lean on those around you.",
+            "Student": "Yeah, I just hope I can manage my fear of the exams ahead.",
+            "Counselor": "That’s a normal fear, especially when so much is at stake. Let’s focus on creating a study plan together to help you feel more prepared.",
+            "Student": "I would appreciate that a lot. Thank you.",
+            "Counselor": "Of course! You’re taking positive steps toward addressing your emotions. You can do this, Samantha."
+        }
+    }
+}

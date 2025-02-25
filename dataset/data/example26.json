@@ -1,0 +1,74 @@
+{
+    "User Id": 26,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I'm Aisha Malik. I think this is my first session with you.",
+            "Counselor": "Hello Aisha! It’s great to meet you. How are you feeling today?",
+            "Student": "Honestly, I'm a bit anxious. I have a lot on my plate right now.",
+            "Counselor": "I understand. Can you tell me more about what's been making you feel this way?",
+            "Student": "I'm organizing a mental health seminar at my university, and it's coming up soon. I've also got my classes and a friend who needs my support.",
+            "Counselor": "That sounds like a lot to handle at once! It’s understandable to feel overwhelmed. How are you managing your time with everything?",
+            "Student": "Not very well, to be honest. I feel like I'm constantly running out of time.",
+            "Counselor": "That can be really tough. Have you had a chance to take breaks for yourself amidst all the responsibilities?",
+            "Student": "Not really. I feel guilty when I take time off.",
+            "Counselor": "Guilt often accompanies the feeling of being busy. Remember, taking breaks can be essential for your mental health. It can help you recharge and be more effective.",
+            "Student": "I know, I just struggle to allow myself to rest.",
+            "Counselor": "It’s a common challenge. Setting small breaks might help you ease into the idea. Would that be something you’d consider trying?",
+            "Student": "I think I'll try that. Thank you for your support!",
+            "Counselor": "You're very welcome, Aisha! I'm here to help. Let’s check in about how things go next time. Take care!"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-10-01T11:00:00",
+        "Dialogue": {
+            "Student": "Hi again! Aisha here.",
+            "Counselor": "Hi Aisha! It’s nice to see you again. How did the seminar turn out?",
+            "Student": "It went okay, but I felt so stressed leading up to it. I had a hard time focusing on my studies.",
+            "Counselor": "That sounds challenging. Managing stress can be difficult, especially with high expectations. How did the day of the seminar go?",
+            "Student": "I felt unprepared, like I let everyone down even though it went well. I was just so distracted in class.",
+            "Counselor": "It's understandable to feel that way, especially with so much pressure. Did you get any positive feedback from attendees?",
+            "Student": "Yes, some people said they found it helpful, but I still felt bad about my own performance.",
+            "Counselor": "It’s common to be hard on ourselves. Could focusing on the positive outcomes help you acknowledge your achievements?",
+            "Student": "I suppose. I'm just worried about Fatima too. She's still having a tough time.",
+            "Counselor": "Supporting a friend during a difficult time can be emotionally taxing. Have you thought about how you could balance supporting her with taking care of yourself?",
+            "Student": "I haven't been, honestly. It's just been overwhelming.",
+            "Counselor": "Finding a balance is important. It might help to set boundaries for your support so you can also take care of your own needs. What do you think?",
+            "Student": "That could be a good idea. Thank you for the suggestion!"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-21T14:00:00",
+        "Dialogue": {
+            "Student": "Hi, I’m back.",
+            "Counselor": "Hi Aisha! Welcome back. How have you been since our last session?",
+            "Student": "Honestly, I've been feeling really exhausted and guilty. I can't stop thinking I should be doing more for Fatima.",
+            "Counselor": "That must be a heavy burden for you. It's normal to feel that way, especially when you care about someone. How has that affected your interactions with others?",
+            "Student": "Well, I’ve become more irritable, especially with my family and friends. They don't understand how much I'm feeling right now.",
+            "Counselor": "It can be tough when those around us don’t fully grasp our struggles. Have you been able to talk to them about how you’re feeling?",
+            "Student": "Not really. I just pull away because I don't want to burden them with my problems.",
+            "Counselor": "It might be beneficial to communicate your feelings to them. Sharing your struggles can often strengthen relationships and help others understand your needs better.",
+            "Student": "I guess I could try. I just worry about how they'll react.",
+            "Counselor": "That’s a valid concern, but remember that expressing yourself can open avenues for support. Would you feel more comfortable sharing your feelings with Fatima directly?",
+            "Student": "Maybe. I’ve just been so drained that talking sometimes feels impossible.",
+            "Counselor": "It’s okay to take your time. Being vulnerable can be challenging, but it’s part of forming deeper connections."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:30:00",
+        "Dialogue": {
+            "Student": "Hi, it’s me again.",
+            "Counselor": "Hi Aisha! I’m glad you came back. How have things been since our last session?",
+            "Student": "Not great. I had a moment at the charity volunteer event and snapped at someone for no reason.",
+            "Counselor": "I’m sorry to hear that. It sounds like it was a shocking moment for you. What do you think triggered that response?",
+            "Student": "I just realized how much I've been holding in. It caught me off guard.",
+            "Counselor": "That realization can be a powerful indicator of needing to address what you’re feeling. Are you considering seeking help for the emotions you’ve been experiencing?",
+            "Student": "I want to, but I feel apprehensive about it. I'm scared of being judged.",
+            "Counselor": "Your feelings are completely valid. Remember that seeking help is a step toward taking care of your well-being. It doesn’t signify weakness; rather, it’s a strength.",
+            "Student": "I understand that, but what if people think less of me?",
+            "Counselor": "Most people appreciate honesty when it comes to mental health struggles. It might be helpful to remind yourself that seeking help indicates self-awareness and desire for growth.",
+            "Student": "That makes sense. I still feel trapped in my thoughts though.",
+            "Counselor": "Feeling trapped can be exhausting. Take your time to sort through your emotions, and know that it’s okay to reach out for support when you're ready. You’re not alone in this."
+        }
+    }
+}

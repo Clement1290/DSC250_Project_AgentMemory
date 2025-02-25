@@ -1,0 +1,153 @@
+{
+    "User Id": 83,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi there! I\u2019m Ethan Smith. This is my first time here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello Ethan! It's great to meet you. How can I assist you today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I\u2019m feeling a bit frustrated about my political science class. I was really looking forward to some engaging debates, but it's mostly lectures and memorization."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds disappointing, especially when you were looking forward to a dynamic learning environment. Have you discussed this with your professor?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Yes, I approached Mr. Thompson, but he seemed indifferent to my concerns. Now I\u2019m questioning if I chose the right major."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that way when you expect a certain atmosphere and don't receive it. What do you enjoy most about political science?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, I\u2019m back! I feel more anxious now."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Ethan! What's been going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I noticed my classmates feel the same way, so I started a study group hoping to foster more discussions. But now I\u2019m feeling overwhelmed."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That shows a lot of initiative! What specifically is making you feel overwhelmed?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I really want to motivate everyone, but I\u2019m starting to worry I\u2019m not effective at leading. I\u2019m scared they won't take me seriously."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's normal to have those fears, especially when you're in a leadership position. What traits do you think make you a good candidate to inspire others?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi there! I\u2019m feeling really burnt out this week."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Ethan. I\u2019m here to help. What has been causing this burnout?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Maintaining the study group while trying to excel in class is harder than I thought. I feel like I\u2019m failing at both."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a heavy load to carry. Have you reached out to your friends or peers about how you\u2019re feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Not really. I just feel ashamed of being unable to enhance their learning experiences."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's okay to express these feelings. Sometimes sharing your struggles can strengthen bonds and make everyone feel supported. Would you consider opening up to them?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "I finally opened up during our last group meeting, and it felt good to share my struggles."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's a big step, Ethan! How did your peers respond?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "They were very receptive and shared their own challenges. But I still struggle with feelings of inadequacy."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's wonderful that you created an atmosphere of support. Remember, it's okay to feel inadequate sometimes, but it doesn't define your abilities."
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Realizing I need support is tough. I\u2019m thinking about reaching out to counseling services."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's a positive decision. It's great that you're recognizing you deserve support. I'm here for you as you navigate this process."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Thanks so much! I appreciate your help."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "You're very welcome, Ethan. Take care and feel free to return whenever you need support!"
+            }
+        ]
+    }
+}

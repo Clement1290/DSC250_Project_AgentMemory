@@ -1,0 +1,198 @@
+{
+    "User Id": 29,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Oliver Chen. This is my first time here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello Oliver! It's nice to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a bit overwhelmed as I just started my final year in Environmental Science."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's completely understandable. Can you share what specifically is making you feel overwhelmed?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "There's a lot of pressure with multiple projects, and I'm also trying to set a good example for my younger sister, who is interested in my field."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It sounds like you have many responsibilities. How are you managing your time with everything?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not very well. I feel stressed and fatigued, and it's hard to keep everything balanced."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Have you found time to care for yourself amidst all these obligations?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Not really, I feel guilty taking breaks since I have so much to do."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's common to feel guilty about taking time for self-care. Remember, short breaks can actually boost your productivity. Would you consider that?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again, it's Oliver."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Oliver! How have you been since our last session?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm still feeling guilty about not keeping up with my studies. I keep getting distracted by my commitments, especially with the environmental club."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds frustrating. It can be tough to find balance. What's been distracting you the most?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I often find myself worrying about the club events and how to support my sister instead of focusing on my project deadlines."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that way. Have you had a chance to talk to your sister about your concerns?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I haven't. I worry that if I focus more on my studies, she'll think I'm abandoning her."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It might help to communicate your situation to her; she may understand and support your need to prioritize your studies. Have you thought about that?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I suppose I could try that. I just don't want to let her down."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, I'm back again."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Oliver! It's good to see you again. How are things since our last conversation?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, it's been tough. I had a fight with my fellow club members, and now I feel really isolated."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. Conflicts can really take an emotional toll. What led to the fight?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "They were upset with me for not being more involved, and I snapped back. Now, I feel misunderstood and alone."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It sounds like you're carrying a lot of emotional weight. Have you reached out to anyone in the club since the argument?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I haven't. I'm worried that opening up about my struggles will just add more drama."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Avoiding confrontation can often feel like the safest option, but it can lead to isolation. Communication can sometimes resolve misunderstandings. Would you consider discussing your feelings with a trusted member?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:30:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, it's me, Oliver."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Oliver! I'm glad to see you back. What's been going on since our last session?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I attended a workshop on mental health recently, and it made me realize that I need to prioritize my own well-being."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a big step! How does that make you feel about seeking help?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I feel hopeful, but I'm still apprehensive about opening up. I'm scared of how others might perceive my struggles."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Those feelings are completely valid. It's often perceived as a weakness, but many view seeking help as an act of strength. Would you like to talk about how to facilitate reaching out for support?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Yeah, I think I need help figuring out how to do that without feeling like I'm burdening someone else."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's okay. We can come up with a plan together to make it easier for you to share your feelings with someone you trust."
+            }
+        ]
+    }
+}

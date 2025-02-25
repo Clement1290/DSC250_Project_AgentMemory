@@ -1,0 +1,258 @@
+{
+    "User Id": 4,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-11-06T09:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Daniela Rossi. It's nice to meet you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Daniela! It's great to meet you too. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, I'm feeling pretty overwhelmed with my Graphic Design program. It's just started, and I'm already feeling the pressure."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I understand. Starting a new semester can feel intense, especially with the demands of your field. What's particularly been weighing on you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I submitted my first major project, but I received some constructive criticism from my professor that left me questioning my skills."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds really tough. Constructive feedback can sometimes feel disheartening, especially if you're already feeling insecure. How are you coping with those feelings?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm not sure. I just feel anxious about living up to my family's expectations, particularly since my dad is a successful painter."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "I can see how that pressure could be overwhelming. It's natural to want to impress those we admire. Have you talked to anyone in your family about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I haven't really. I don't want to worry them or seem like I can't handle things."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's understandable to feel that way, but keeping things inside can sometimes make it harder to cope. It might help to share your feelings. Would you consider talking to them?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I might, but I'm nervous about it. I really don't want to fail in their eyes."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "Remember, everyone has their struggles, even successful people. Talking to them might provide some comfort and support. Would you like to set a goal about reaching out to someone?"
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "Yes, that sounds good. Maybe I can talk to my brother Matteo about it since he's studying architecture."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "That sounds like a solid plan! Let's check in next week to see how that conversation goes. Does that work for you?"
+            },
+            {
+                "role": "Student",
+                "round": 8,
+                "content": "Definitely! Thank you for your help today. I really appreciate it."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-11-13T09:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, it's me again. This week has been pretty challenging."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Daniela! What's been happening since we last spoke?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I talked to Matteo about my feelings. It helped a bit, but I still find it hard to voice my opinions in group projects."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm glad you reached out to your brother! It's great to hear it helped. When you say it's hard to voice your opinions, can you tell me more about that?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Well, I feel overshadowed by more outspoken classmates. I worry that my ideas won't be valued."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's a common concern, especially in creative fields. Have you thought about ways to assert yourself or slowly work on expressing your thoughts?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I just kind of freeze up when it's my turn to speak."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "How about setting a small goal for your next group session, like raising your hand to share at least one idea? It could help ease you back into it."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "That sounds doable! I can at least try to contribute more."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That's a fantastic mindset! Taking one step at a time is key. Remember, your contributions matter just as much as anyone else's."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Thank you for that reminder. I think I really need to hear it."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "Of course! Let's follow up next week to see how it goes. You're doing great, Daniela!"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-11-20T09:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I'm back. I've been feeling really anxious again."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Daniela! I'm glad you're here. What's been happening this week?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I went to a family gathering, and my dad showcased his artwork. It made me feel so inferior."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. Family gatherings can often trigger comparisons. How did that experience make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It intensified my feelings of inadequacy. I felt like I was stuck in a shadow, and it made me less motivated in my design work."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's tough to feel overshadowed, especially in a creative field. Have you found any ways to express those feelings after the gathering?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I just felt trapped and didn't want to talk to anyone."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It might help to express those feelings, even through journaling or creating art. Have you thought about using your creativity as an outlet?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "That could be helpful! Maybe I can try channeling those feelings into a painting or a design project."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That sounds like a wonderful idea, Daniela. Art can be a therapeutic way to process emotions. Would you like to set a goal to create something this week?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Yes! I'll aim to start a new painting this weekend."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-27T09:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back again! I did start painting this weekend."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Daniela! I'm happy to see you again. That's great news! How did the painting go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It felt really good to express myself. I think I managed to channel a lot of my feelings into it."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's wonderful! Art is such a powerful way to express emotions. Do you feel like this helped alleviate some of your anxiety?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Yes, it did. But I still struggle with my confidence in class."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's okay. Remember progress isn't linear, and it's great that you're finding ways to express yourself. What's the next small step you can take in class?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Maybe I can share my painting experience with my classmates, just to open up a conversation."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That sounds like a fantastic plan! Sharing your experiences can help you connect. Let's keep working together on building your confidence."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Thank you so much! I appreciate all your support. I feel hopeful about the changes I'm making."
+            }
+        ]
+    }
+}

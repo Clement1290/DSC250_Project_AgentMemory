@@ -1,0 +1,49 @@
+{
+    "User Id": 53,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Maya Chen. It’s nice to meet you.",
+            "Counselor": "Hello, Maya! It’s great to meet you too. How are you feeling today?",
+            "Student": "I've been feeling a bit overwhelmed lately. I have multiple projects due for my graphic design classes.",
+            "Counselor": "That sounds stressful. What kind of projects are you working on?",
+            "Student": "I’m preparing for an exhibition where I need to showcase my best work, but I’m worried it won’t meet my standards.",
+            "Counselor": "It’s natural to have high expectations, especially for something so important. What specifically makes you feel like you're not meeting those standards?",
+            "Student": "I keep looking at what my classmates are creating, and I feel like mine won’t stand out. My parents also have high hopes, which adds to the pressure.",
+            "Counselor": "It’s understandable to feel that way. Have you found any ways to cope with this pressure when it arises?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I wanted to talk about my anxiety around the upcoming exhibition. It's getting worse.",
+            "Counselor": "Hi, Maya! I'm here to help. What’s been making your anxiety increase?",
+            "Student": "As the exhibition date gets closer, I doubt my creative abilities even more. I saw Alice’s project, and it’s amazing. I feel like I’m falling behind.",
+            "Counselor": "Comparison can be really tough. Have you talked with your friends about how you’re feeling?",
+            "Student": "I tried, but I don’t think they get it. I feel disconnected and out of place. Even Ella, who’s usually supportive, seems busy.",
+            "Counselor": "It can be hard when you feel like you’re in this alone, but your feelings are valid. Have you considered expressing your emotions through your art? It might be a good way to cope."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hello, I feel even more lost now. I tried to work late nights on my designs, but I’m just so stuck.",
+            "Counselor": "Hi, Maya! It’s okay to feel stuck sometimes. What have you been working on?",
+            "Student": "I’ve been trying to finalize a piece for the exhibition, but I keep second-guessing everything. I avoided my friends and hobbies too.",
+            "Counselor": "That sounds really isolating. How did your brother Leo respond when he noticed you were distressed?",
+            "Student": "He asked me if I was okay, but I just brushed him off. I feel ashamed that I'm struggling when I should be thriving.",
+            "Counselor": "You’re not alone in feeling this way. Remember that it’s okay to ask for help, even from family. They want to support you."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I made it to the exhibition, but I felt so anxious the whole time.",
+            "Counselor": "Hi, Maya! I’m glad you’re here. How did the exhibition go for you overall?",
+            "Student": "It was overwhelming. While setting up, I wanted to engage with everyone, but my anxiety held me back.",
+            "Counselor": "That’s understandable. Did you receive any feedback on your work?",
+            "Student": "Some visitors praised my design, but instead of feeling happy, I brushed it off like they were just being nice.",
+            "Counselor": "It's common to downplay praise, especially when you’re in a vulnerable state. However, remember that their feedback reflects your talent. Have you thought about how to embrace your creative voice moving forward?"
+        }
+    }
+}

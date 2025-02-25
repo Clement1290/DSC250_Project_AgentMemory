@@ -1,0 +1,31 @@
+{
+    "User Id": 13,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I want to express how anxious I feel about the project and see if I can find some support."
+        },
+        "question": "What does Maya want to express to her professor?",
+        "answer": "She wants to express how anxious she feels about the project."
+    },
+    "long_term_QA": {
+        "question": "How was Maya feeling before she decided to reach out for help, and what prompted her to make that decision?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "Nervous, but also hopeful that I can get some guidance. I realize now I can\u2019t do this alone."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I\u2019m struggling to keep up, and I sometimes think about dropping the group project altogether to avoid embarrassment."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It takes courage to ask for help, and it can open up many possibilities for support."
+        },
+        "answer": "Before deciding to reach out, Maya was feeling overwhelmed and was struggling to keep up, thinking about dropping the group project altogether. This led her to realize, after discussions with her family, that she needed to seek guidance and support."
+    }
+}

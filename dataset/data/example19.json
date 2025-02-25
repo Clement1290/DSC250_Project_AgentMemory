@@ -1,0 +1,53 @@
+{
+    "User Id": 19,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T09:30:00Z",
+        "Dialogue": {
+            "Student": "Hi, I'm Oliver Martinez. This is my first time here.",
+            "Counselor": "Hello, Oliver! It’s great to meet you. How are you feeling today?",
+            "Student": "I’m feeling a mix of excitement and anxiety about the new semester.",
+            "Counselor": "That’s completely normal! Starting a new semester can be quite overwhelming at times. What are some of the things that are causing you anxiety?",
+            "Student": "I’m taking on a lot this semester—my psychology classes are demanding, and I’m also leading a couple of volunteer projects.",
+            "Counselor": "It sounds like you have a full plate! Have you had a chance to talk to anyone about how you're feeling?",
+            "Student": "Not really. I’m a bit embarrassed to say that I’m struggling.",
+            "Counselor": "There’s no need to feel embarrassed. Many students face similar challenges. Would you like to explore ways to better manage your responsibilities?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I’m feeling more stressed this week.",
+            "Counselor": "Hi, Oliver! I’m glad you came back. What’s been going on this week?",
+            "Student": "I just can’t seem to catch a break. I’m worried about meeting all my deadlines, and I’ve been irritable with my friends and family.",
+            "Counselor": "That sounds really tough. It can be hard to balance everything. Are you feeling like you can connect with your friends, especially your sister Sofia?",
+            "Student": "Not really. I feel guilty for not being there for her like I used to. I just can’t find the energy.",
+            "Counselor": "It’s understandable to feel that way under pressure. It’s okay to prioritize taking care of yourself. Have you thought about what you might do to address these feelings with her?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:30:00Z",
+        "Dialogue": {
+            "Student": "Hello, I had a really hard time this week.",
+            "Counselor": "Hi, Oliver! I’m sorry to hear that. What happened?",
+            "Student": "I had a breakdown after a volunteer event when my friend Jake confronted me about not being around lately.",
+            "Counselor": "That sounds really intense. How did that conversation make you feel?",
+            "Student": "I felt attacked at first but then I realized I was just shutting everyone out. I haven’t been managing my responsibilities well.",
+            "Counselor": "Acknowledging that can be a difficult step. Do you feel like you’re able to express these feelings to Jake?",
+            "Student": "I didn’t, and now I feel regretful for not being open. I’m worried this will affect our friendship.",
+            "Counselor": "It's completely normal to fear how others will perceive you, but sharing your feelings could actually strengthen your friendship. Have you thought about reaching out to him?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T15:00:00Z",
+        "Dialogue": {
+            "Student": "Hi! I finally talked to Jake, and it helped. I apologized for shutting him out.",
+            "Counselor": "That’s wonderful to hear, Oliver! How did that conversation go?",
+            "Student": "It was really good. I opened up about the pressure I’ve been feeling, and he was really supportive.",
+            "Counselor": "That’s fantastic! It sounds like you found some relief in being honest. What did he suggest?",
+            "Student": "He offered to help with the volunteer projects and get back on track together. I feel relieved, but I’m still anxious about balancing everything.",
+            "Counselor": "That’s understandable. It’s okay to still feel some anxiety. Just take it one step at a time and remember to lean on your support system when you need it.",
+            "Student": "Thanks for your advice. I really appreciate it!",
+            "Counselor": "You’re welcome! I’m here to help. Don’t hesitate to check in again if you need to talk."
+        }
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "User Id": 77,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Michael Thompson. It's nice to meet you!"
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Michael! It's great to meet you too. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, I'm a bit anxious. It's the start of my final semester in Environmental Studies."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's understandable. Starting a new semester can be exciting but nerve-wracking. What's on your mind?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm tasked with leading a thesis project on sustainable tourism, but my advisor, Professor Mitchell, has very high expectations."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's normal to feel some pressure, especially with a project like that. What specifically about the project is causing you anxiety?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I feel like my initial ideas aren't good enough. Professor Mitchell has been critical, and it's really shaking my confidence."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "I can see how that would be tough. It sounds like you've really put yourself in a challenging position. Have you thought about how to approach this feedback?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Not really. I'm just kind of frozen, worried that nothing I come up with will meet his expectations."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's completely natural to feel overwhelmed. Maybe we can brainstorm ways to turn his feedback into constructive steps forward?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back! I've been feeling pretty frustrated this week."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Michael! I'm here to help. What's been causing that frustration?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm stressed about my project. I feel isolated from my classmates. They seem so confident, and I'm struggling to keep up."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's really difficult. It can be hard to see others succeeding when you're feeling overwhelmed. Have you talked to anyone about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I talked a little to my friend Sarah, but I felt embarrassed admitting just how much I'm struggling."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's okay to feel that way, but opening up can be a powerful tool. Sometimes, sharing helps us realize we're not alone. What do you think holds you back from sharing more?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I guess I just worry they'll think I'm not cut out for this."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Many people feel that way at times, especially in demanding fields like environmental studies. It takes courage to pursue these paths. Perhaps focusing on small steps for improvement might help alleviate some of that pressure?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi there! I'm feeling really down today."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Michael! It's great to see you again. What's been troubling you?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I had a meeting with Professor Mitchell, and he completely dismissed my revised project proposal."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. That must have felt really discouraging. How did you respond in that moment?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I got defensive and tried to explain my ideas, but I just ended up feeling hurt and confused about what to do next."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's understandable. It can be tough when you put in the effort and don't receive the acknowledgment you hope for. Are you questioning your ability to continue leading this project?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Yes, I'm really conflicted. Part of me wants to give up, but another part wants to push through."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That inner conflict is so common. Have you considered talking to your advisor about your feelings and seeking guidance on how to improve?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I want to, but I fear more criticism. I feel like I need support without more pressure."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's completely valid to seek support. It could help clarify things and help you understand his expectations better. Let's think of a positive way to approach it."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I'm back, and I've done a lot of thinking."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Michael! I'm glad you're here. What's been on your mind?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I've decided I need to confront Professor Mitchell about my struggles and ask for constructive feedback."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a brave decision! It shows a lot of maturity to express your feelings. What do you hope to achieve in this conversation?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I want him to understand my perspective, and hopefully, I can get specific guidance on where I can improve."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's a great goal. How are you planning to open the conversation?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm thinking about keeping it straightforward and honest, highlighting my dedication to the project."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That sounds like a solid plan. Approaching it from a collaborative standpoint can help build rapport. How are you feeling about confronting him?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I'm nervous but also hopeful that it will help improve my project and my confidence."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That's a healthy perspective! Remember, it's a two-way conversation, and you deserve support as well. I'm here if you want to debrief afterward!"
+            }
+        ]
+    }
+}

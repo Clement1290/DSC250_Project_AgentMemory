@@ -1,0 +1,25 @@
+{
+    "User Id": 66,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-10",
+            "Description": "Tara recently returned to university after spending the summer interning at an NGO focused on refugee rights. During her time there, she forged strong connections with the team and experienced the impact of community work firsthand. However, returning to her academic life made her feel a sense of disconnection from her peers, who seemed less aware of global issues. In a group discussion in her International Relations class, she attempted to share her experiences but felt underappreciated for her insights.",
+            "Mental State": ["Frustrated", "Disconnected", "Overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-25",
+            "Description": "Tara started to feel isolated and lonely as she struggled to find common ground with her classmates. She reached out to her close friend, Layla, to express her concerns. Layla, who was focused on preparing for exams, reassured Tara that her experiences were valuable but suggested she focus more on her studies. Feeling dismissed, Tara became even more distressed, questioning whether her passion for global issues made her an outsider.",
+            "Mental State": ["Lonely", "Discouraged", "Questioning"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-15",
+            "Description": "During a group project in class, Tara attempted to lead the discussion, passionate about incorporating her insights from her internship. However, her peers seemed indifferent, opting for more conventional views and solutions. In response to their apathy, Tara withdrew and defaulted to silence, bottling up her frustration and disappointment. She confided in her brother, Amir, who encouraged her to stand firm, yet she felt increasingly torn between her desire to contribute and the fear of being marginalized.",
+            "Mental State": ["Frustrated", "Defeated", "Conflicted"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-01",
+            "Description": "In a pivotal class presentation where she was responsible for presenting their group's findings, Tara felt immense pressure. She worked hard to prepare but noticed that her teammates were unenthusiastic, which drained her motivation. During her presentation, she struggled to articulate her insights, leading to a sense of failure afterward. Reflecting on the experience, she began reconsidering her focus on international relations and whether she should pivot toward communication strategies instead, feeling torn about her path while still deeply caring for her causes.",
+            "Mental State": ["Defeated", "Uncertain", "Reflective"]
+        }
+    }
+}

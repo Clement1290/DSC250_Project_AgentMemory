@@ -1,0 +1,31 @@
+{
+    "User Id": 87,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019m still conflicted about how to approach my teammates."
+        },
+        "question": "What is Omar feeling conflicted about in relation to his team?",
+        "answer": "Omar is feeling conflicted about how to approach his teammates."
+    },
+    "long_term_QA": {
+        "question": "How did Omar initially feel about his group project and what led him to take a more proactive role in engaging his teammates?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I think I need to express my feelings honestly but respectfully."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I was excited about this group project on global humanitarian efforts, but one teammate, Alex, seems completely disengaged."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "I tried to encourage Alex to share his thoughts, but he dismissed me completely, saying he was too busy."
+        },
+        "answer": "Omar initially felt excited about the project, but was frustrated by Alex's disengagement, which prompted him to try to engage Alex and bring the group together."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "User Id": 92,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019m realizing that my struggles can also help me in my pursuit to become a counselor."
+        },
+        "question": "What profession is Samuel considering pursuing based on his experiences?",
+        "answer": "Counselor."
+    },
+    "long_term_QA": {
+        "question": "How did Samuel's feelings of anxiety and pressure change, and what led him to seek help and rediscover his passion for counseling?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019m realizing that my struggles can also help me in my pursuit to become a counselor."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I feel this pressure to perform well this semester to keep my scholarship, and I worry I haven't done enough during my break."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "Talking about your experiences can be really therapeutic."
+        },
+        "answer": "Samuel's feelings changed from intense pressure and anxiety about his performance and feelings of inadequacy to a sense of hope after opening up to a friend and realizing that his struggles can inform his future work as a counselor."
+    }
+}

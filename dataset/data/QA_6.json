@@ -1,0 +1,31 @@
+{
+    "User Id": 6,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I think I could start small by sharing my thoughts on a recent environmental issue we learned about in class."
+        },
+        "question": "What specific action does Ethan plan to take to engage in class discussions next time?",
+        "answer": "Share his thoughts on a recent environmental issue we learned about in class."
+    },
+    "long_term_QA": {
+        "question": "How did Ethan feel before seeking help, and what led him to realize the need for support?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "After weeks of battling his anxiety and feelings of inadequacy, Ethan decides to seek help from the campus counseling center."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I keep thinking I'm not cut out for this."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "The comparisons to his family's achievements intensified his despair and led to a continuous cycle of negative thoughts about his potential."
+        },
+        "answer": "Before seeking help, Ethan felt inadequate and thought, 'I keep thinking I'm not cut out for this.' This feeling was intensified by comparing himself to his family's achievements, prompting him to realize he needed support."
+    }
+}

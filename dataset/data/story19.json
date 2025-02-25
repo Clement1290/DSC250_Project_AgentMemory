@@ -1,0 +1,25 @@
+{
+    "User Id": 19,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the semester begins, Oliver is excited to dive deeper into his psychology studies and take on leadership roles in various campus organizations. However, he quickly realizes that balancing his academic workload, volunteer commitments, and social life is more challenging than he anticipated. He starts to feel the pressure of ensuring that everything runs smoothly, especially in his volunteer projects, which are close to his heart. This creates an underlying sense of anxiety as he worries about failing to meet expectations.",
+            "Mental State": ["Anxious", "Overwhelmed", "Hopeful"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As weeks pass, Oliver becomes more consumed by worries over meeting deadlines for school and managing his roles in his volunteer projects. He begins to notice that he is feeling more irritable and finds it difficult to connect with his friends and family, including his sister Sofia, who enjoys sharing her art with him. His inability to engage leaves him feeling guilty for not being the supportive brother he wants to be, which adds to his stress levels.",
+            "Mental State": ["Guilty", "Frustrated", "Isolated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms approach, the accumulated stress weighs heavily on Oliver. He has a significant breakdown after a volunteer event when a friend, Jake, confronts him about his aloofness and how he's been missing in action lately. Feeling attacked, Oliver reacts defensively but later feels regretful for not being open. He grapples with self-doubt and questions his capacity to manage his responsibilities. This situation leaves him emotionally drained, wondering if he can regain his connection with those important to him.",
+            "Mental State": ["Defensive", "Regretful", "Emotionally drained"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After some time to reflect, Oliver decides to reach out to Jake and apologize for his behavior. He finds solace in their conversation, where he opens up about the pressure he has been feeling. Jake offers his support and suggests they create a plan to tackle their volunteer projects together. While Oliver feels relieved to have shared his feelings, he is still anxious about whether he can truly balance everything moving forward and fears letting his friends down again.",
+            "Mental State": ["Relieved", "Hopeful", "Anxious"]
+        }
+    }
+}

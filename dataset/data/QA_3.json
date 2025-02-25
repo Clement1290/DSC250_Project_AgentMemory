@@ -1,0 +1,31 @@
+{
+    "User Id": 3,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I still feel unqualified in class and worry I won\u2019t make it through my degree."
+        },
+        "question": "What does Amina feel regarding her qualifications in class?",
+        "answer": "She feels unqualified."
+    },
+    "long_term_QA": {
+        "question": "How did Amina perceive herself and her ability to participate in class prior to expressing her concerns, and what led her to seek help to address these feelings?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I missed a couple of opportunities to participate in class because of my fear of judgment. It\u2019s like my anxiety is just growing."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I feel isolated when I see others easily share their thoughts."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "It was a bit relieving to talk about my feelings, but I still feel uncertain about how to improve."
+        },
+        "answer": "Amina felt isolated and anxious about participating in class, perceiving her self-doubt as a barrier to speaking up, which ultimately led her to seek help in discussing her feelings and finding ways to improve."
+    }
+}

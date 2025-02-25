@@ -1,0 +1,25 @@
+{
+    "User Id": 10,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Emily starts her semester excited about her psychology major and plans a small get-together with friends from her classes to build connections. However, the day before the event, one of her close friends, Mia, cancels at the last minute, claiming she has too much schoolwork and cannot make it. This leaves Emily feeling disappointed and questioning her ability to form lasting friendships in her new environment.",
+            "Mental State": ["Disappointed", "Insecure", "Lonely"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Following the cancelled gathering, Emily tries to reach out to other classmates but finds it challenging to connect. At a group study session, she attempts to engage with her peers, but they seem preoccupied and unresponsive. The feeling of isolation deepens as she realizes she might struggle to connect with anyone in her new environment, leading to heightened feelings of anxiety and self-doubt.",
+            "Mental State": ["Anxious", "Frustrated", "Isolated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms approach, Emily is overwhelmed with stress and seeks support by attending a campus mental health workshop. During the workshop, she shares her experience of feeling disconnected and lonely, hoping to gain insights. However, she leaves feeling like no one truly understands her struggles, leading her to withdraw even more and question if she should continue pursuing her major in psychology, despite her passion for it.",
+            "Mental State": ["Overwhelmed", "Doubtful", "Withdrawn"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After some reflection, Emily considers talking to a trusted professor about her feelings of isolation and her passion for psychology. She contemplates whether to seek out new groups or organizations on campus to connect with people who share her interests. Although she feels nervous about opening up, she realizes she needs to take proactive steps to improve her situation. Despite the uncertainty, hope begins to surface as she prepares to reach out for help.",
+            "Mental State": ["Hopeful", "Determined", "Nervous"]
+        }
+    }
+}

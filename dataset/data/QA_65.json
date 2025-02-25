@@ -1,0 +1,31 @@
+{
+    "User Id": 65,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I think I need to give myself time to reflect."
+        },
+        "question": "What does Maya plan to do next after the project presentation?",
+        "answer": "Give herself time to reflect."
+    },
+    "long_term_QA": {
+        "question": "How did Maya initially express her engagement in environmental studies, and what led her to start questioning her abilities in this field?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I froze up while speaking, and I couldn\u2019t express my passion for the project."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I've always been pretty confident about wanting to help the environment."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "I feel inadequate compared to my brother who's studying biology. He seems so focused."
+        },
+        "answer": "Initially, Maya expressed her engagement by saying she's always been confident about wanting to help the environment. However, she began to feel inadequate when she compared herself to her brother, leading her to question her abilities."
+    }
+}

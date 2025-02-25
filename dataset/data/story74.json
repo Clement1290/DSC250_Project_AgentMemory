@@ -1,0 +1,25 @@
+{
+    "User Id": 74,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Chloe starts her final semester in Environmental Science, feeling excited yet anxious about her upcoming responsibilities. She has been selected to lead a group project focused on wildlife conservation. However, she runs into challenges with team dynamics as some group members seem uninterested, particularly Dan, who frequently dismisses her ideas. This interaction begins to shake her confidence in her leadership abilities.",
+            "Mental State": ["excited", "anxious", "insecure"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the project progresses, Chloe struggles to motivate her team members. She reaches out to her friend Mia for advice and expresses her frustrations. Mia suggests trying to connect with Dan to understand his perspective. However, Chloe feels overwhelmed by the pressure and worries about the implications of the project's success on her academic record.",
+            "Mental State": ["frustrated", "overwhelmed", "doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "During a critical group meeting, Chloe attempts to facilitate a brainstorming session, but Dan interrupts her multiple times, making snide comments. Feeling unsupported, Chloe becomes upset and defensive, leading to a heated exchange with Dan. The conflict leaves her feeling isolated, and she questions whether she should continue leading the project or step back.",
+            "Mental State": ["hurt", "isolated", "conflicted"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "As the due date for their project approaches, Chloe reflects on her leadership style and the group dynamics. She decides to have a one-on-one conversation with Dan to clear the air and express her feelings. While preparing for this conversation, she feels nervous but also hopeful that it will improve communication within the group. The outcome hangs in the balance, and she is unsure if this will resolve the tension or lead to further conflict.",
+            "Mental State": ["nervous", "hopeful", "determined"]
+        }
+    }
+}

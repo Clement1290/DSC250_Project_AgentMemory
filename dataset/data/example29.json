@@ -1,0 +1,58 @@
+{
+    "User Id": 29,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I'm Oliver Chen. This is my first time here.",
+            "Counselor": "Hello Oliver! It's nice to meet you. How are you feeling today?",
+            "Student": "I’m feeling a bit overwhelmed as I just started my final year in Environmental Science.",
+            "Counselor": "That’s completely understandable. Can you share what specifically is making you feel overwhelmed?",
+            "Student": "There’s a lot of pressure with multiple projects, and I’m also trying to set a good example for my younger sister, who is interested in my field.",
+            "Counselor": "It sounds like you have many responsibilities. How are you managing your time with everything?",
+            "Student": "Not very well. I feel stressed and fatigued, and it's hard to keep everything balanced.",
+            "Counselor": "Have you found time to care for yourself amidst all these obligations?",
+            "Student": "Not really, I feel guilty taking breaks since I have so much to do.",
+            "Counselor": "It’s common to feel guilty about taking time for self-care. Remember, short breaks can actually boost your productivity. Would you consider that?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00",
+        "Dialogue": {
+            "Student": "Hi again, it’s Oliver.",
+            "Counselor": "Welcome back, Oliver! How have you been since our last session?",
+            "Student": "I’m still feeling guilty about not keeping up with my studies. I keep getting distracted by my commitments, especially with the environmental club.",
+            "Counselor": "That sounds frustrating. It can be tough to find balance. What’s been distracting you the most?",
+            "Student": "I often find myself worrying about the club events and how to support my sister instead of focusing on my project deadlines.",
+            "Counselor": "It’s understandable to feel that way. Have you had a chance to talk to your sister about your concerns?",
+            "Student": "I haven’t. I worry that if I focus more on my studies, she’ll think I’m abandoning her.",
+            "Counselor": "It might help to communicate your situation to her; she may understand and support your need to prioritize your studies. Have you thought about that?",
+            "Student": "I suppose I could try that. I just don't want to let her down."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00",
+        "Dialogue": {
+            "Student": "Hey, I'm back again.",
+            "Counselor": "Hi Oliver! It's good to see you again. How are things since our last conversation?",
+            "Student": "Honestly, it’s been tough. I had a fight with my fellow club members, and now I feel really isolated.",
+            "Counselor": "I'm sorry to hear that. Conflicts can really take an emotional toll. What led to the fight?",
+            "Student": "They were upset with me for not being more involved, and I snapped back. Now, I feel misunderstood and alone.",
+            "Counselor": "It sounds like you’re carrying a lot of emotional weight. Have you reached out to anyone in the club since the argument?",
+            "Student": "I haven’t. I’m worried that opening up about my struggles will just add more drama.",
+            "Counselor": "Avoiding confrontation can often feel like the safest option, but it can lead to isolation. Communication can sometimes resolve misunderstandings. Would you consider discussing your feelings with a trusted member?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:30:00",
+        "Dialogue": {
+            "Student": "Hi, it’s me, Oliver.",
+            "Counselor": "Hi Oliver! I’m glad to see you back. What’s been going on since our last session?",
+            "Student": "I attended a workshop on mental health recently, and it made me realize that I need to prioritize my own well-being.",
+            "Counselor": "That’s a big step! How does that make you feel about seeking help?",
+            "Student": "I feel hopeful, but I’m still apprehensive about opening up. I’m scared of how others might perceive my struggles.",
+            "Counselor": "Those feelings are completely valid. It’s often perceived as a weakness, but many view seeking help as an act of strength. Would you like to talk about how to facilitate reaching out for support?",
+            "Student": "Yeah, I think I need help figuring out how to do that without feeling like I’m burdening someone else.",
+            "Counselor": "That's okay. We can come up with a plan together to make it easier for you to share your feelings with someone you trust."
+        }
+    }
+}

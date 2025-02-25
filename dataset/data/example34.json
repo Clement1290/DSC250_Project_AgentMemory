@@ -1,0 +1,84 @@
+{
+    "User Id": 34,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T09:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Sophia Martinez. It's nice to meet you.",
+            "Counselor": "Hi Sophia! It’s great to meet you too. How are you feeling today?",
+            "Student": "I’m excited to start the semester, but I’m also feeling a bit anxious.",
+            "Counselor": "That’s understandable. What’s been on your mind?",
+            "Student": "Well, I just took on a leadership role in a sustainability organization, and I’m worried about meeting everyone’s expectations.",
+            "Counselor": "It sounds like a fantastic opportunity, but it can also feel overwhelming. What are you worried about specifically?",
+            "Student": "I’m concerned about balancing my coursework with my responsibilities in the organization.",
+            "Counselor": "Balancing everything can be challenging. Have you thought about how you might manage your time differently?",
+            "Student": "I haven’t really made a plan yet. I’m just feeling a bit lost with it all.",
+            "Counselor": "Creating a plan can help to ease some of that anxiety. Maybe you could list your tasks and prioritize them?",
+            "Student": "That sounds like a good idea. I’ll try that.",
+            "Counselor": "Great! And don’t forget to carve out some time for yourself too. What do you like to do for fun?",
+            "Student": "I love painting and hiking, but I haven’t had much time for those lately.",
+            "Counselor": "Those activities are important for your well-being. Perhaps you could schedule some time for them?",
+            "Student": "Yeah, I’ll make sure to do that.",
+            "Counselor": "I’m glad to hear that! You’re doing great by recognizing how you feel. Let’s check in again soon.",
+            "Student": "Thank you! I appreciate your help. I’ll see you next week."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T09:00:00Z",
+        "Dialogue": {
+            "Student": "Hello again, Counselor. It’s Sophia. I’m feeling quite stressed now.",
+            "Counselor": "Hi Sophia! It’s nice to see you again. I’m sorry to hear you’re feeling stressed. What’s going on?",
+            "Student": "Between classes and my leadership role, I feel isolated. I haven’t had a moment to unwind.",
+            "Counselor": "That sounds tough. It's so important to maintain connections with others. Have you talked to your brother about how you feel?",
+            "Student": "He asked me if I was okay, but I didn’t want to burden him with my problems.",
+            "Counselor": "It’s understandable to feel that way, but reaching out can really help. He might want to support you.",
+            "Student": "I guess so. I just feel guilty for not being the happy, creative person I usually am.",
+            "Counselor": "It’s okay to not feel okay. Acknowledging your feelings is a strong step. What can you do for yourself this week?",
+            "Student": "Maybe I could try to go for a hike or paint a little.",
+            "Counselor": "Absolutely! Prioritizing your hobbies could help you recharge. How does that sound?",
+            "Student": "That sounds nice, but I still feel overwhelmed.",
+            "Counselor": "That’s normal. Taking small steps is key. Try to take even a 10-minute break for yourself each day.",
+            "Student": "Okay, I’ll commit to that. Thank you for listening.",
+            "Counselor": "Of course! You’re doing your best, and that’s what matters. Let’s chat again next week?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T09:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, it’s Sophia again. I’m feeling really lost now.",
+            "Counselor": "Hey Sophia, I'm glad you came back. What’s causing you to feel this way?",
+            "Student": "I’m overwhelmed with everything, and now there’s tension with one of my team members at the organization.",
+            "Counselor": "I’m sorry to hear that. Conflicts can be really tough, especially when there’s so much else going on. Can you tell me more?",
+            "Student": "We had a disagreement about our project, and it made me doubt my leadership skills.",
+            "Counselor": "It’s easy to feel that way after a conflict. How are you coping with these feelings?",
+            "Student": "I’m just doubting myself. I feel disheartened and want to withdraw from my friends.",
+            "Counselor": "It's common to feel that way after tension with others. Have you considered talking to your team member about the disagreement?",
+            "Student": "I’m scared to, honestly. What if they judge me?",
+            "Counselor": "It can be difficult, but addressing it might clear the air. Communication usually helps resolve conflicts.",
+            "Student": "That makes sense, but I still feel lonely.",
+            "Counselor": "Feeling lonely is tough. Reaching out to friends or family, even if it feels hard, can lighten that burden.",
+            "Student": "I’ve been withdrawn, though. I’ll really try to reach out this week.",
+            "Counselor": "That’s a great plan. Remember, you’re not alone in this. You’re showing so much courage!",
+            "Student": "Thank you. I appreciate your support. I’ll update you next time."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T09:00:00Z",
+        "Dialogue": {
+            "Student": "Hello, Counselor. It’s Sophia again. I finally talked to my mentor!",
+            "Counselor": "Hi Sophia! I’m proud of you for reaching out. How did it go?",
+            "Student": "It was relieving to share my feelings. I expressed my fears about leadership and expectations.",
+            "Counselor": "That’s a huge step! How did your mentor respond?",
+            "Student": "They were supportive and offered some great advice. I’m feeling a bit more empowered now.",
+            "Counselor": "That’s wonderful to hear! What plans do you have moving forward?",
+            "Student": "I’m going to start delegating some tasks in the organization and focus on my well-being.",
+            "Counselor": "That sounds very healthy! Finding balance is so important. How are you feeling about your responsibilities now?",
+            "Student": "I’m still anxious, but I feel like I can manage them better. I’m hopeful.",
+            "Counselor": "Hopefulness is a great feeling! It sounds like you’re on the right path. Have you managed to find time for your hobbies?",
+            "Student": "Yes! I went hiking this weekend and painted a little, which felt amazing.",
+            "Counselor": "That’s fantastic! Keeping those activities in your life will help maintain your balance.",
+            "Student": "Thanks for encouraging me to prioritize them. I’ll keep working on it.",
+            "Counselor": "You’re doing a great job, Sophia. I’m here to support you as you navigate your journey.",
+            "Student": "Thank you! I really appreciate all the help. I look forward to our next chat."
+        }
+    }
+}

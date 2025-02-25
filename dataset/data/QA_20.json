@@ -1,0 +1,31 @@
+{
+    "User Id": 20,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I talked to my friends about what happened. I apologized for my behavior."
+        },
+        "question": "What did Amara do before this conversation with the counselor?",
+        "answer": "She talked to her friends and apologized for her behavior."
+    },
+    "long_term_QA": {
+        "question": "How did Amara's defensiveness impact her relationships, and what led her to recognize the need to communicate her struggles more openly?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I talked to my friends about what happened. I apologized for my behavior."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I lashed out at my friends."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "It sounds really overwhelming."
+        },
+        "answer": "Amara's defensiveness led her to lash out at her friends, which created a rift in her relationships. This overwhelming stress prompted her to recognize the need to communicate more openly, leading her to apologize for her behavior."
+    }
+}

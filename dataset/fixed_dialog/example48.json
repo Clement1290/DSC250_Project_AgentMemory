@@ -1,0 +1,203 @@
+{
+    "User Id": 48,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Priya Sharma. This is my first time visiting."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Priya! It's nice to meet you. How are you feeling as you start your senior year?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, I'm feeling pretty anxious. There's a lot of pressure to apply for graduate school."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds challenging. Senior year can be full of expectations. What's specifically weighing heavy on your mind?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I worry about meeting my family's high expectations, especially my mom's. She often talks about my future in social work and it stresses me out."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's completely natural to feel that pressure, especially from loved ones. How does that affect your confidence?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "It makes me feel insecure, like I'm not sure if I'm good enough to pursue a career in this field."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Those feelings are valid. Have you thought about how to approach these goals in a way that feels manageable?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Maybe breaking down the application process into smaller tasks could help."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That sounds like an excellent strategy! Taking it one step at a time can reduce anxiety. How do you feel about making a plan for that?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I feel a little better knowing I can take it step by step. Thank you!"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. I attended a seminar on social advocacy and it didn't go well."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Priya! I'm here to listen. What happened at the seminar?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I struggled to voice my ideas during the group discussion. My peers seemed so confident, while I just froze up."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds frustrating. How did that make you feel during and after the event?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "During the discussion, I felt embarrassed. Afterward, I overheard my friends talking about their internships, which really made me feel inadequate."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel disheartened in moments like that. Have you reached out to anyone for support after the seminar?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I just kept it to myself. I don't want to bother anyone with my feelings."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's common to feel that way, but sharing might lighten the burden. Would you consider talking to a friend about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I suppose I could. It might do me some good."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T13:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I wanted to share my experience volunteering at a local shelter."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Priya! I'm glad you're here. How did volunteering go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was emotional. I met some young people there who were really passionate about advocacy, and I felt overshadowed."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's understandable. Being around motivated individuals can evoke a lot of feelings. How did that experience impact you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Instead of feeling inspired, I felt discouraged. I kept comparing myself to them and questioning my own contributions."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's common to have those thoughts, Priya. Have you had a chance to reflect on your own accomplishments?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I guess I've been so focused on how I'm not measuring up that I forgot to celebrate my own progress."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Observing your own growth can be powerful. What would help you to remember and acknowledge your contributions positively?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T15:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I spoke with my brother Rohan about how I'm feeling."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Priya! That's great to hear. How did your conversation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "He was really supportive. I told him about my worries and he suggested looking for a mentor to guide me."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a wonderful idea! How do you feel about seeking mentorship?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I think it's a good opportunity, but I'm worried that it might expose my insecurities further."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's natural to feel that way, but remember, mentors are there to help you grow. What's one small step you could take toward this?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I could start by researching potential mentors in my field and reaching out to them."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That sounds like a perfect first step! Taking action can help turn your anxieties into tangible progress. I'm here to support you whenever you need."
+            }
+        ]
+    }
+}

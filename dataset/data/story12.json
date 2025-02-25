@@ -1,0 +1,25 @@
+{
+    "User Id": 12,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sofia is excited to start her new semester and has high hopes for her Biochemistry major. She enrolls in a challenging lab course that requires collaboration with classmates. However, during the first lab meeting, she overhears her lab partner, Henry, making jokes about her enthusiasm, labeling her ‘too bubbly’ for a serious science class. This undermines Sofia's confidence, causing her to feel embarrassed and self-conscious about her personality and approach to learning.",
+            "Mental State": ["Embarrassed", "Self-conscious", "Frustrated"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Sofia tries to shake off the initial negative impression but feels increasingly isolated in the group. During lab sessions, she finds it hard to speak up and share her ideas. Her attempts to connect with other classmates are met with indifference. This leaves her feeling anxious about her performance and doubting whether she belongs in the rigorous environment of Biochemistry, leading her to avoid socializing with her peers entirely.",
+            "Mental State": ["Anxious", "Isolated", "Doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms approach, Sofia's anxiety peaks. She feels overwhelmed and considers dropping the lab course because she fears failing. Despite wanting to reach out to her professor for guidance, she hesitates, worried about being rejected again. Instead, she spends her nights studying alone, feeling more withdrawn. This situation leads her to question her ability to succeed in Biochemistry, and she begins to contemplate whether she made the right choice in her major.",
+            "Mental State": ["Overwhelmed", "Self-doubting", "Withdrawn"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After several weeks of struggle, Sofia reflects on her experiences and recognizes the need for support. She resolves to reach out to her professor and express her concerns about the lab work and her participation. Feeling apprehensive but determined, she hopes to get advice that could help her regain her confidence. Although uncertain about the outcome, she feels a flicker of hope as she prepares to take this next step towards addressing her challenges.",
+            "Mental State": ["Hopeful", "Determined", "Nervous"]
+        }
+    }
+}

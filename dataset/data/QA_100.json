@@ -1,0 +1,31 @@
+{
+    "User Id": 100,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I overheard Sam making a joke about me needing to 'speak up more.'"
+        },
+        "question": "What specific incident caused Aisha to feel angry and sad during the week?",
+        "answer": "Aisha overheard Sam making a joke about her needing to 'speak up more.'"
+    },
+    "long_term_QA": {
+        "question": "How did Aisha initially feel motivated as she started her semester, and what caused her self-esteem to decline when working on a group project?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel so detached from everyone lately."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling excited about my classes, but I\u2019m also a bit overwhelmed."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "In a group project, I feel overshadowed by Sam, a confident classmate who always dominates discussions."
+        },
+        "answer": "Aisha initially felt excited about her classes, but her self-esteem declined as she felt overshadowed by a confident classmate during a group project."
+    }
+}

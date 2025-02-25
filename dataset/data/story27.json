@@ -1,0 +1,25 @@
+{
+    "User Id": 27,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sophie Leclerc has been feeling increasingly overwhelmed as the semester progresses. While she is passionate about her Biology major, she finds herself struggling to keep up with her coursework while also volunteering at a local wildlife rehabilitation center. The long hours of work and study begin to take a toll on her mental health, leading to feelings of stress and fatigue. Sophie also learns that a close friend, Claire, is experiencing personal troubles, which makes her feel obligated to provide support while managing her own workload.",
+            "Mental State": ["overwhelmed", "fatigued", "obligated"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks go by, Sophie attempts to balance her studies and her commitment to helping Claire. However, she starts to feel guilty for not being able to devote enough time to her studies while also worrying about Claire's well-being. During class, her mind frequently drifts to Claire's struggles, making it challenging for her to concentrate on her own assignments. Despite her efforts, Sophie feels unprepared for upcoming exams and begins to dread her responsibilities, exacerbating her feelings of self-doubt and anxiety.",
+            "Mental State": ["guilty", "anxious", "distracted"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "After a few weeks of tension, Sophie finally realizes that she's been neglecting her own mental health. Following a particularly tough conversation with Claire, where Claire expresses anger and frustration, Sophie feels even more drained and upset. The emotional weight of supporting Claire and her academic pressures leads to feelings of isolation. She withdraws from social events and avoids reaching out to her family, fearing that her struggles will burden them further. In this emotional turmoil, she feels lost and unsure of how to navigate her responsibilities.",
+            "Mental State": ["isolated", "overwhelmed", "lost"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Feeling trapped in her situation, Sophie has a breakthrough moment during a self-reflection session in her nature photography class. She realizes that she cannot pour from an empty cup. This revelation causes her to reconsider seeking help, yet she still feels apprehensive about opening up to others. As she contemplates talking to a counselor, she battles feelings of shame and vulnerability. Although Sophie is starting to acknowledge her need for support, she remains unsure about how to take the first step towards healing, causing her to feel both hopeful and scared.",
+            "Mental State": ["hopeful", "apprehensive", "vulnerable"]
+        }
+    }
+}

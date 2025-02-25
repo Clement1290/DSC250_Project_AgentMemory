@@ -1,0 +1,31 @@
+{
+    "User Id": 2,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I want to try setting specific times to study and then go hiking afterward as a reward."
+        },
+        "question": "What does Sarah want to do as a reward for studying?",
+        "answer": "Go hiking."
+    },
+    "long_term_QA": {
+        "question": "What was Sarah experiencing that made her feel overwhelmed, and what led her to seek help to address these feelings?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "That\u2019s fantastic that you took that step! It often helps to share those feelings."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "Honestly, I'm feeling a bit overwhelmed. The semester just started, and I'm already feeling the pressure."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I talked about my anxiety and feelings of inadequacy."
+        },
+        "answer": "Before seeking help, Sarah was feeling overwhelmed with the pressures of the new semester, stating, 'I'm feeling a bit overwhelmed,' and she felt anxious about her performance. Her decision to seek help came after discussing her struggles, which included talking about her anxiety and feelings of inadequacy."
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "User Id": 78,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Isabella Rojas. It's so nice to meet you!"
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Isabella! It's great to meet you too. How are you doing today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a little excited but also kind of anxious about the new semester."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's understandable. Starting a new semester always brings a mix of emotions. What's on your mind?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm working on a big communications project about cultural representation in media, and I'm excited about it, but I feel like my group may not be as committed as I am."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds like a significant project! Can you tell me more about your group dynamics?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "One member, Kyle, keeps dismissing my ideas, which really frustrates me. I'm worried about how it's going to affect our project's success."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "I can see how that would be frustrating. Have you had a chance to speak with Kyle about how his comments make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Not yet. I'm afraid of confrontation and how it might impact the group dynamic."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's normal to have those fears. But discussing how you feel could strengthen the group. Would you like to explore ways to approach this conversation?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. I've been feeling pretty isolated lately."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Isabella! I'm glad to see you again. What's been making you feel isolated?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "The group project is really stressful. I can't seem to get Kyle to take my ideas seriously, and it's wearing me down."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really challenging. Have you had any discussions with your friend Sarah about it?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Yes, she encourages me to talk to Kyle, but I still feel embarrassed to confront him."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "I understand that feeling. It's tough to speak up when you're afraid of how it might affect things. What do you think would happen if you did talk to him?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I worry he'll think I'm being too sensitive or overreacting."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Those worries are common, but sometimes a little vulnerability can go a long way. Would it help to plan what you want to say in advance?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "That could help. I just want to express how his comments affect my confidence without causing drama."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I'm feeling really down today."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Isabella! I'm here for you. What's been bothering you this time?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I presented my ideas in the last meeting, but Kyle interrupted me repeatedly and made sarcastic comments."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm so sorry to hear that. It must have been very hurtful to have your ideas dismissed like that. How did you feel during and after the meeting?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt humiliated and discouraged. I'm wondering if I should just step back from the project altogether."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel conflicted about your role when faced with such challenges. Have you talked to anyone else in your group about what happened?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not yet. I don't want to create tension but I also feel like I need to address it somewhere."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That makes sense. Would it be more comforting to reach out to someone who might understand your position, like Sarah? She could provide support and encouragement."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I'll think about it. I just want to feel valued and not invisible in my group."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I've been thinking a lot since we last talked."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Isabella! I'm glad you returned. What reflections do you have?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I've decided I need to confront Kyle about how I've been feeling and the group's dynamic."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a courageous choice! I'm proud of you for considering it. How do you feel about approaching him now?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm feeling a bit nervous, but also hopeful that it might lead to a better understanding."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's a healthy mindset. What's your plan for starting that conversation?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I want to be honest and share how his comments affect my contributions, while also emphasizing that I value the project."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's an excellent approach. It focuses on collaboration and your commitment to the work. How can I support you through this?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Maybe after I talk to him, we can discuss how it went? I'd want some feedback."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Absolutely! I'd love to hear how it goes. Just remember, no matter the outcome, taking this step is a sign of your growth."
+            }
+        ]
+    }
+}

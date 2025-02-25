@@ -1,0 +1,31 @@
+{
+    "User Id": 88,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "Perhaps you could write down your thoughts. It might help organize what you want to communicate."
+        },
+        "question": "What did Sophia plan to do to help communicate her feelings to her team?",
+        "answer": "Write down her thoughts."
+    },
+    "long_term_QA": {
+        "question": "What challenges did Sophia face in her group project prior to discussing her feelings with her family, and what motivated her to seek open communication with her teammates?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I\u2019ve taken on most of the work, hoping to compensate for Liam and others. My presentation rehearsal went poorly, and I felt embarrassed afterward."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling a bit frustrated with my graphic design class. ... one of my teammates, Liam, seems really disengaged."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I finally opened up to my family about the group project, and they encouraged me to talk to my teammates."
+        },
+        "answer": "Before discussing her feelings with her family, Sophia faced challenges such as taking on most of the work, feeling embarrassed after her presentation rehearsal went poorly, and experiencing frustration with Liam's disengagement. This prompted her to seek open communication with her teammates after receiving encouragement from her family."
+    }
+}

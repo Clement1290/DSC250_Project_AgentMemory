@@ -1,0 +1,31 @@
+{
+    "User Id": 69,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel like I failed and now I\u2019m questioning if Graphic Design is really for me."
+        },
+        "question": "What is causing Amina to question her choice in pursuing Graphic Design?",
+        "answer": "She feels like she failed during her presentation."
+    },
+    "long_term_QA": {
+        "question": "How did Amina initially feel about her creative abilities, and what led her to start doubting herself?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel like I failed and now I\u2019m questioning if Graphic Design is really for me."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling a little overwhelmed. I just started my Graphic Design classes."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "It made me feel invalidated and question my own creative instincts."
+        },
+        "answer": "Initially, Amina was feeling inspired about her Graphic Design classes, but after talking to her brother, she felt invalidated and began to question her own creative instincts."
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "User Id": 51,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello! I'm Sophia Patel. Nice to meet you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Sophia! It's great to meet you too. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I've been feeling a bit anxious lately. I have a group project in my Environmental Science class that's coming up."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds stressful. What specifically is making you feel anxious about it?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm just worried I won't be able to express my ideas in the group. There's this classmate, Mark, who tends to dominate the discussions."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that way, especially if you're passionate about the topic. Can you tell me more about the project?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "We have to research a local environmental issue and present it together. I really want to contribute but feel overshadowed."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It sounds like you're feeling a lot of pressure. What ideas do you have for how you can express your thoughts during the project meetings?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I wanted to talk about the group project. I'm feeling really stressed."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Sophia! I'm glad you came back. What's been stressing you out specifically?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "As the deadline approaches, I find it hard to voice my opinions in meetings. Mark's ideas seem to always take the lead."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really frustrating. Have you had the chance to voice your concerns with your group or perhaps with Mark?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "No, I haven't. I'm afraid of conflict and worry they won't take my ideas seriously."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's completely natural to feel that way, but keeping everything inside can make it worse. What if you started by sharing your thoughts with Mark privately first?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I guess that could work. At least I'd know he heard me, but I'm still scared."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's okay to feel scared. Remember, you deserve to be heard, and expressing yourself could lead to a better group dynamic."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-21T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I really need to talk about the project again. It's getting worse."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Sophia! I'm here for you. What's been going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "With only a week left before the presentation, I've started to withdraw. I just don't feel good enough."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really tough. Has withdrawing helped or made you feel worse?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It's made me feel worse. I miss the feedback and support from the group, but I don't want to feel inadequate."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That makes sense. Missing that sense of collaboration can leave you feeling isolated. Maybe you could find a small way to re-engage with the group?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I should try. I've been avoiding social situations in general, thinking I'd better focus on my work."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Balance is important. Connecting with your peers might help alleviate some of that pressure you're feeling."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I just wanted to talk about the presentation today."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi again, Sophia! How did it go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, it was really nerve-wracking. I stumbled through my part, and afterward, I felt so frustrated."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. It's important to acknowledge how you felt during the presentation. Did you receive any positive feedback?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Mark did say that my sections were good, but I just couldn't shake the feeling of inadequacy."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's completely valid. Sometimes, even positive feedback doesn't erase that inner critic. How do you feel now reflecting on it?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I feel conflicted. I want to believe in myself, but it's hard when I compare myself to Mark."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's a process to build self-esteem, especially when you have high standards for yourself. Remember, your unique perspective is valuable too."
+            }
+        ]
+    }
+}

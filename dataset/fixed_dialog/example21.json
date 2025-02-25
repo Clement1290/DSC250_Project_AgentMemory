@@ -1,0 +1,153 @@
+{
+    "User Id": 21,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Elena Brooks. This is my first time in this counseling space."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Elena! It's great to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a mix of excitement and anxiety about the new semester."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's quite normal! Starting a new semester can be both thrilling and overwhelming. What's making you feel anxious?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm involved in a lot of cultural initiatives alongside my International Relations classes. I worry about not being able to manage everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It sounds like you have a lot on your plate. Have you had a chance to talk about how you're feeling with anyone close to you?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I feel guilty for even thinking about needing help when I should be able to handle it."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's important to remember that asking for help is a strength, not a weakness. Would you be open to discussing some strategies that might help you manage everything?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I've been feeling even more stressed this week."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Elena! I'm here to listen. What's been happening this week?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Deadlines are approaching, and I feel buried under my assignments. I've stopped hanging out with my friends, even my best friend Maya."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's understandable to feel that way with so much going on. How do you feel when you decline their invitations?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I feel guilty and lonely. I want to spend time with them, but I keep telling myself I need more study time."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's tough to find that balance. Taking breaks can actually help improve your focus and productivity. Have you considered setting aside specific times for both studying and spending time with friends?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello, I had a really tough week."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Elena! I'm sorry to hear that. What happened this week?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I received disappointing feedback on a presentation, and I broke down during a group project. I ended up lashing out at Maya, who was just concerned about me."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really stressful. How did that confrontation affect you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt defensive initially, but then I realized I might have hurt our friendship. I worry that my stress is pushing everyone away."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's natural to react defensively when stressed, but acknowledging that is a good first step. Have you thought about reaching out to Maya to talk things through?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T15:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I finally talked to Maya and apologized for how I acted."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's wonderful to hear, Elena! How did that conversation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was really meaningful. I opened up about my struggles, and she was very understanding. It felt good to be honest."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's great! How are you feeling about your commitments now?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I feel relieved after sharing, but I'm still anxious about my academic workload and keeping my friends close."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's perfectly okay to have some anxiety. Perhaps taking small steps towards balance and communication can help you feel more at ease. Have you thought about how you will move forward?"
+            }
+        ]
+    }
+}

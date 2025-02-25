@@ -1,0 +1,77 @@
+{
+    "User Id": 3,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-11-06T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I'm Amina El-Sayed. It's nice to meet you.",
+            "Counselor": "Hi Amina! It's great to meet you too. How are you feeling today?",
+            "Student": "I’m feeling a bit anxious, to be honest. The semester just started, and I’m already struggling.",
+            "Counselor": "I understand. Starting a new semester can be overwhelming. Can you tell me more about what’s been bothering you?",
+            "Student": "Well, I had a rough experience in a group project recently. I found it hard to present my ideas, and I felt embarrassed afterward.",
+            "Counselor": "That sounds really tough. It’s completely normal to feel anxious about public speaking. How has this incident affected you?",
+            "Student": "I’ve become more self-conscious in class discussions. I worry about participating now.",
+            "Counselor": "It’s understandable to feel that way after a difficult experience. Have you noticed if this affects your overall participation in your classes?",
+            "Student": "Yes, I've been retreating more and avoiding group activities. I feel overshadowed by my classmates.",
+            "Counselor": "That isolation can make things harder. What do you think might help you feel more comfortable participating again?",
+            "Student": "I guess I just need to build some confidence back, but I'm not sure how to start.",
+            "Counselor": "One approach could be to practice speaking in smaller, less intimidating settings before engaging in larger discussions. Would that be something you’d consider?",
+            "Student": "Yes, that sounds less intimidating. I might try discussing topics with friends first.",
+            "Counselor": "That’s a great idea! Also, remember that everyone has their own journey with public speaking. You're not alone in this.",
+            "Student": "Thank you, I appreciate your understanding. It’s comforting to know I’m not the only one who struggles.",
+            "Counselor": "Absolutely! Let’s follow up on this next week and see how things are going. How does that sound?",
+            "Student": "That sounds good! Thank you for your help today."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-11-13T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I’m back. This week has been pretty challenging.",
+            "Counselor": "Welcome back, Amina! What’s been going on this week?",
+            "Student": "I attended a mid-term exam prep session with my classmates, but I couldn’t bring myself to speak up. I felt really overshadowed.",
+            "Counselor": "I’m sorry to hear that. It can be difficult when you feel lesser in a group. How did that experience impact you?",
+            "Student": "It made me feel even more insecure about my ideas. I ended up saying nothing at all.",
+            "Counselor": "That sounds tough. Have you thought about why you might be feeling so inhibited in that setting?",
+            "Student": "I’m not sure, but I just feel inadequate compared to how easily others communicate.",
+            "Counselor": "That's understandable. A lot of people feel comparison can be discouraging. Maybe instead of comparing, you can focus on what you can contribute.",
+            "Student": "That makes sense, but it’s hard when everyone else seems so confident.",
+            "Counselor": "Absolutely, that’s a common feeling. Would it help to set a small goal for your next group session, like sharing at least one thought?",
+            "Student": "Yes, I think that could help. Having a goal might make me feel more committed to speaking up.",
+            "Counselor": "Great! Setting a clear and achievable goal can pave the way for more involvement. Let me know how that goes next time we meet.",
+            "Student": "I will! Thanks for encouraging me."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-11-20T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I’m back again. I’m still feeling pretty anxious.",
+            "Counselor": "Hi Amina! I’m glad you’re here. What’s been happening this week?",
+            "Student": "I missed a couple of opportunities to participate in class because of my fear of judgment. It’s like my anxiety is just growing.",
+            "Counselor": "That sounds really difficult. Feeling stuck like that can be frustrating. What do you think is holding you back the most?",
+            "Student": "I think it’s just my self-doubt. I feel isolated when I see others easily share their thoughts.",
+            "Counselor": "It’s tough to feel isolated among peers. Have you considered reaching out to a classmate or friend for support?",
+            "Student": "I haven't tried that yet. I think I’m afraid they’ll judge me or think I’m weak.",
+            "Counselor": "It’s completely normal to feel that way, but remember that sharing your feelings might actually strengthen your connections with others.",
+            "Student": "That’s a good point! I’ll think about reaching out.",
+            "Counselor": "That’s great! Also, don't forget that everyone has insecurities, even those who seem confident.",
+            "Student": "I appreciate you reminding me of that. Sometimes I forget I’m not alone in this.",
+            "Counselor": "Absolutely, Amina! You're not alone. We can work through these feelings together. Let’s check in next week and see how things are progressing."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-27T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I'm back again. I went to counseling last week.",
+            "Counselor": "Hi Amina! I’m glad you came back. How did the session go?",
+            "Student": "It was a bit relieving to talk about my feelings, but I still feel uncertain about how to improve.",
+            "Counselor": "That’s completely understandable. What specific worries are you facing right now?",
+            "Student": "I still feel unqualified in class and worry I won’t make it through my degree.",
+            "Counselor": "It’s normal to feel that way, especially in an academic environment. Have you thought of taking small steps towards improving your confidence?",
+            "Student": "I want to, but I’m just not sure where to start.",
+            "Counselor": "How about starting with setting a goal of speaking up in class just once a week? That’s manageable, right?",
+            "Student": "Yes, that seems doable! I think that would help me improve over time.",
+            "Counselor": "Absolutely! Remember, each small step you take is progress. It might feel uncomfortable initially, but you can do it!",
+            "Student": "Thank you for the encouragement. It helps to have a plan.",
+            "Counselor": "You're welcome, Amina! Let’s check in next time to celebrate your progress. You’ve got this!"
+        }
+    }
+}

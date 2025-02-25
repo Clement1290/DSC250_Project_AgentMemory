@@ -1,0 +1,188 @@
+{
+    "User Id": 99,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Daniela Garcia. I'm 21 and majoring in biology."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Daniela! It's great to meet you. How's your semester going so far?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Thanks! I'm feeling excited about my classes, but I'm already feeling a bit overwhelmed."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's understandable. Starting a new semester can be both exciting and challenging. What has you feeling overwhelmed?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "The coursework is more demanding than I expected. I\u2019m also trying to balance my hobbies and volunteering."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It sounds like you have a lot on your plate. How have you been managing your time so far?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I\u2019m trying to keep up, but I sometimes doubt my ability to handle everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's common to feel that way, especially with so many commitments. Have you considered prioritizing your tasks or breaking them into smaller goals?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I think that might help. I just don't want to let anyone down."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It\u2019s admirable that you care about others, but remember to take care of yourself too. Finding a balance is key. Let\u2019s explore some strategies together."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I\u2019m feeling more anxious lately. My stress is increasing."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I'm glad you reached out, Daniela. What's been causing your stress?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I feel isolated, especially during group projects. Liam keeps dominating discussions, and it makes me feel overshadowed."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds frustrating. It can be really difficult when someone else takes the lead. How did that make you feel about your contributions?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It hit my self-esteem hard. I tried to share my ideas, but I felt like no one noticed."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that way. Have you talked to anyone else in your group about your feelings?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not yet. I'm scared they might think I'm just being sensitive."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Your feelings are valid, and communication is key. Perhaps you could express how you feel during your next meeting. You deserve to be heard."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-21T14:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello again. I tried to take on a leadership role in a community service project, but I ended up feeling lost during the meeting."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I'm sorry to hear that, Daniela. It can be intimidating to take the lead. What happened in the meeting?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I got so nervous and struggled to articulate my vision. My classmates seemed supportive, but I felt they misunderstood my hesitation."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That can certainly be disheartening. It's normal to feel nervous in leadership roles. Do you think preparation could help you feel more confident?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Yeah, I think practicing what to say might help. But I can't shake off the feeling of inadequacy."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It\u2019s important to remember that everyone feels unsure at times. Have you thought about focusing on your strengths and what you bring to the table?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I guess I could try to remind myself of that. It just feels tough right now."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I\u2019ve had a rough week. I overheard Liam joking about me needing to 'come out of my shell'."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Oh, Daniela, I'm really sorry to hear that. How did that make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It hurt a lot and made me feel angry. I can't believe he would say something like that."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That\u2019s completely understandable. It's painful to hear negative comments about ourselves. Have you thought about confronting him?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I want to, but I fear it might end badly. What if he just brushes it off?"
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That fear is valid, and it\u2019s okay to take your time to process. Sometimes expressing how you feel can open up a dialogue, but it\u2019s also important to protect your emotional well-being."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I\u2019ve been turning to my art as a way to cope, but I still feel really isolated."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Art can be a great way to express your feelings. Just remember, you\u2019re not alone in this, and I\u2019m here for you whenever you need support."
+            }
+        ]
+    }
+}

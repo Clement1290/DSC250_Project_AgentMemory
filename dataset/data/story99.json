@@ -1,0 +1,25 @@
+{
+    "User Id": 99,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Daniela starts her semester feeling excited about her biology classes and eager to engage with her peers. However, she soon realizes that the coursework is more demanding than expected. As she struggles to balance her studies with her hobbies and volunteering commitments, she feels the pressure mounting. Despite her sociable nature, she starts doubting her ability to manage everything effectively.",
+            "Mental State": ["Excited", "Overwhelmed", "Doubting"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As classes continue, Daniela’s stress increases. She begins to feel isolated despite her efforts to connect with others. During a group project, she feels overshadowed by a particularly vocal classmate, Liam, who dominates discussions. Her self-esteem takes a hit when she realizes that she is struggling to assert her ideas. Daniela confides in her brother Miguel, expressing her fears about not fitting in and being inadequate.",
+            "Mental State": ["Anxious", "Frustrated", "Vulnerable"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Determined to overcome her feelings of inadequacy, Daniela decides to take on a leadership role in a community service project focused on environmental conservation. However, during the first meeting, her nerves get the best of her, and she finds it difficult to articulate her vision. Her classmates, although supportive, seem to misinterpret her hesitation as a lack of confidence. This miscommunication further deepens her feelings of self-doubt and disconnection.",
+            "Mental State": ["Nervous", "Self-critical", "Overwhelmed"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of battling her emotions, Daniela overhears Liam joking with friends about how she needs to 'come out of her shell.' This comment deeply wounds her and triggers feelings of anger and hurt. Struggling with these emotions, she considers whether to confront Liam but ultimately decides against it, fearing rejection and further humiliation. Instead, she turns to her art as a coping mechanism, yet still feels more isolated than ever.",
+            "Mental State": ["Angry", "Hurt", "Detached"]
+        }
+    }
+}

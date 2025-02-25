@@ -1,0 +1,31 @@
+{
+    "User Id": 26,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I had a moment at the charity volunteer event and snapped at someone for no reason."
+        },
+        "question": "What did Aisha do at the charity volunteer event?",
+        "answer": "She snapped at someone."
+    },
+    "long_term_QA": {
+        "question": "How did Aisha feel about her responsibilities before she started to feel trapped and apprehensive about seeking help, and what led to this shift in her emotional state?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I still feel trapped in my thoughts though."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "Honestly, I'm a bit anxious. I have a lot on my plate right now."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "Feeling trapped can be exhausting. Take your time to sort through your emotions, and know that it\u2019s okay to reach out for support when you're ready."
+        },
+        "answer": "Aisha felt anxious and overwhelmed with her responsibilities, stating she had a lot on her plate. This feeling evolved into a sense of being trapped in her thoughts, especially as she recognized her emotional struggles and the need for help yet felt apprehensive about seeking it."
+    }
+}

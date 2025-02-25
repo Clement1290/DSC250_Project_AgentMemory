@@ -1,0 +1,25 @@
+{
+    "User Id": 65,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Maya attended her first university seminar on climate change solutions, where she felt overwhelmed by the sheer scale of the issues discussed. During the event, she was approached by her classmate, Sarah, who expressed doubts about whether their efforts could make a real difference. This conversation planted seeds of self-doubt in Maya's mind about her own capabilities and passion for the field.",
+            "Mental State": ["Overwhelmed", "Doubtful", "Anxious"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "After the seminar, Maya started to withdraw from her friends and family, feeling disconnected and isolated. She often found herself questioning her career choice, especially when discussing her ambitions with her brother, Arjun, who seemed more focused and confident in his studies. Maya felt a sense of inadequacy compared to him, leading her to feel frustrated and isolated. She avoided expressing her feelings to anyone, fearing they would view her weakness as a liability.",
+            "Mental State": ["Isolated", "Frustrated", "Insecure"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Maya participated in a group project aimed at developing a community recycling program. However, during the planning sessions, she struggled to voice her ideas, feeling overshadowed by her more assertive team members. This reinforced her doubts, as she felt inadequate next to them. Despite wanting to contribute, the ongoing comparisons with her peers caused her to feel more anxious and withdrawn, and she began to question her idealism about environmental work.",
+            "Mental State": ["Anxious", "Inadequate", "Reserved"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "During the project presentation, Maya's anxiety peaked. She found herself freezing up while speaking, unable to convey her passion for the topic. Afterward, she received constructive feedback, which she took to heart, but it became a mixed bag of emotions. While some praised her ideas, she remained fixated on her inability to perform well under pressure. The cumulative effects of her feelings of inadequacy and stress led her to contemplate whether she should consider a different path within her studies, even though deep down she still cares passionately about environmental causes.",
+            "Mental State": ["Defeated", "Conflicted", "Hopeful yet Doubtful"]
+        }
+    }
+}

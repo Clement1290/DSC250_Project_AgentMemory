@@ -1,0 +1,25 @@
+{
+    "User Id": 72,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Mateo starts the semester with optimism, inspired by his recent summer internship with a local NGO focused on social justice. However, during his initial classes, he is shocked to find that many peers are uninterested in the pressing societal issues he cares about. When he attempts to introduce discussions on these topics in class, he feels disregarded, leading to feelings of isolation and frustration about his place in the academic environment.",
+            "Mental State": ["Frustrated", "Isolated", "Disheartened"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "In an effort to seek understanding and support, Mateo reaches out to his older sister, Isabella, sharing his feelings about the lack of engagement from his classmates. However, Isabella, who is tied up with her own studies and projects, suggests Mateo focus on the coursework instead. Her response leaves Mateo feeling invalidated and unsupported, increasing his doubt regarding whether he should continue pursuing activism and advocacy in his classes.",
+            "Mental State": ["Lonely", "Discouraged", "Doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-15",
+            "Description": "As part of his coursework, Mateo is tasked with a group project aimed at creating a campaign for raising awareness about social issues. He feels energized by the opportunity to advocate for change, drawing on his internship experiences. However, when he presents his creative ideas to the group, they prefer a simplistic approach, dismissing his insights in favor of a standard method. Overwhelmed by this lack of support, Mateo retreats into silence, questioning whether his ideas hold any real value in the academic context.",
+            "Mental State": ["Frustrated", "Defeated", "Conflicted"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-01",
+            "Description": "On the day of the project presentation, Mateo is torn between excitement and anxiety. He wants to passionately share his vision but is anxious about how his ideas will be received. During the presentation, he struggles to engage the audience, sensing their indifference to his message. Afterward, Mateo experiences a deep sense of disappointment and considers whether to shift his focus to a less challenging path in his career, like tech consulting, where he might find less emotional struggle. This uncertainty leaves him feeling lost and questioning his commitment to advocate for social change.",
+            "Mental State": ["Defeated", "Uncertain", "Reflective"]
+        }
+    }
+}

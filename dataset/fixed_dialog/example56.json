@@ -1,0 +1,143 @@
+{
+    "User Id": 56,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Omar Farooq. It's nice to meet you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Omar! It's great to meet you too. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a bit overwhelmed with my coursework in physics and also trying to explore my interest in photography."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like a lot to handle! What specifically is making you feel overwhelmed right now?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "As a senior, I feel pressure to maintain my grades while also wanting to develop my photography skills. It's hard to balance both."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's a common struggle, especially in your final year. Have you found any strategies that help you manage both interests?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I wanted to talk about my anxiety as midterms approach. It's escalating."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Omar! I'm glad you came back. What's been increasing your anxiety?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I feel like I'm stuck focusing more on physics and neglecting my photography, which I really miss."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds tough. Have you discussed your thoughts with friends or classmates?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I mentioned it to Farah once, but I didn't want to seem like I was complaining."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that way, but sharing your feelings can often help. Would you feel comfortable opening up to her more?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello, I'm feeling stuck and stressed with just days left before exams."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Omar! I'm here for you. What's been going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I've been avoiding social activities to study, but I still feel overwhelmed. Aisha noticed I've been off and tried to help, but I brushed her off."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's tough to feel that way, especially with family wanting to help. How does isolating yourself affect your mood?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I feel hopeless and like I'm letting everyone down if I don't perform well. I can't seem to find a balance."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's perfectly okay to ask for help. Have you thought about what you need to create a better balance?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I had my first midterm exam today, and it was tough."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Omar! How did you feel going into the exam?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I felt a mix of anxiety and regret about not prioritizing my photography earlier. I couldn't focus as much as I wanted."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's understandable, and it can be hard to let go of those feelings. Did you get any positive feedback during the exam?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I managed to answer a few questions well, but I still feel uncertain overall."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Remember, it takes time to process experiences, especially after exams. Are you considering ways to re-engage with photography now that exams are over?"
+            }
+        ]
+    }
+}

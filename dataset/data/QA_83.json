@@ -1,0 +1,31 @@
+{
+    "User Id": 83,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "Realizing I need support is tough."
+        },
+        "question": "What did Ethan realize was tough for him to admit?",
+        "answer": "Realizing he needs support."
+    },
+    "long_term_QA": {
+        "question": "How did Ethan feel about managing his responsibilities before reaching out for support, and what specific event led him to express his struggles to his peers?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "Ethan left the meeting feeling uplifted by the camaraderie, despite still experiencing anxiety about his leadership abilities and class performance."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "Maintaining the study group while trying to excel in class is harder than I thought. I feel like I\u2019m failing at both."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It\u2019s wonderful that you created an atmosphere of support."
+        },
+        "answer": "Before reaching out for support, Ethan felt like he was 'failing at both' managing the study group and excelling in class. The event that led him to express his struggles was opening up during a study group meeting, which created an supportive atmosphere."
+    }
+}

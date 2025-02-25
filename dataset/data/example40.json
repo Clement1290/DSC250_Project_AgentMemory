@@ -1,0 +1,65 @@
+{
+    "User Id": 40,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:30:00Z",
+        "Dialogue": {
+            "Student": "Hi, I'm Sofia Ramirez. It's nice to meet you.",
+            "Counselor": "Hello Sofia! It’s great to meet you too. How are you feeling as the new semester begins?",
+            "Student": "I'm excited to start my Graphic Design courses, but I’m feeling a bit overwhelmed already.",
+            "Counselor": "That’s understandable! What is making you feel overwhelmed?",
+            "Student": "I have a lot of responsibilities with my classes and several volunteer projects. I don’t want to disappoint anyone.",
+            "Counselor": "It sounds like you have a lot on your plate. Have you had a chance to talk about your concerns with anyone in your family or volunteer group?",
+            "Student": "Not really. I don’t want to seem like I can’t handle things.",
+            "Counselor": "It’s completely normal to feel overwhelmed. Sometimes talking about it can help. Have you thought about how you could manage your time better?",
+            "Student": "I guess I should try making a schedule or something.",
+            "Counselor": "Absolutely! Planning it out might help you feel more in control. What do you like to do when you have some free time?",
+            "Student": "I enjoy painting and hiking, but it feels like I haven’t had time to do either lately.",
+            "Counselor": "It’s important to make time for those activities. They can help you relax and recharge!"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:30:00Z",
+        "Dialogue": {
+            "Student": "Hi, it’s Sofia again. I’m feeling really stressed this week.",
+            "Counselor": "Hi Sofia! I’m sorry to hear that. What’s been causing you stress?",
+            "Student": "Midterms are coming up, and it’s hard to keep up with classes and the volunteer work.",
+            "Counselor": "That’s a challenging situation. How has the volunteer work been for you?",
+            "Student": "During a meeting, I shared my ideas for the upcoming art event, but one of my classmates, Emily, dismissed them, which upset me.",
+            "Counselor": "That must have been difficult to hear. How did that affect your feelings about the group?",
+            "Student": "I felt undervalued and started to question whether I even belong in that group.",
+            "Counselor": "Those feelings are valid. Have you talked to anyone in the group about how you’re feeling?",
+            "Student": "No, I’m scared they’ll think I’m being dramatic.",
+            "Counselor": "Expressing how you feel doesn’t make you dramatic; it’s a part of open communication. Would you consider reaching out to a supportive friend from the group?",
+            "Student": "I’ll think about it. Thank you for your understanding."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:30:00Z",
+        "Dialogue": {
+            "Student": "Hey, it’s Sofia. I’m really having a hard time today.",
+            "Counselor": "Hi Sofia, I’m here to listen. What’s been going on?",
+            "Student": "I got a disappointing grade on my last paper, and it made me feel terrible.",
+            "Counselor": "I’m really sorry to hear that. How did it make you feel?",
+            "Student": "It made me feel like I’m not cut out for this major. When I was in my group, Kevin criticized my ideas again.",
+            "Counselor": "That sounds quite discouraging. Criticism can be tough, especially when paired with self-doubt. How did you respond to Kevin?",
+            "Student": "I just kept quiet. I feel like I can’t share my ideas anymore.",
+            "Counselor": "It’s understandable to feel that way, but not sharing could lead you to feel even more isolated. Would it help to practice what you want to say before addressing Kevin again?",
+            "Student": "I guess practicing might make it easier. I could use that to rebuild my confidence."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:30:00Z",
+        "Dialogue": {
+            "Student": "Hi, Counselor! I finally had a conversation with Dr. Garcia.",
+            "Counselor": "Hi Sofia! How did the conversation go?",
+            "Student": "I opened up about my feelings of pressure and the criticism I faced, and Dr. Garcia was really encouraging.",
+            "Counselor": "That’s wonderful to hear! What advice did they give you?",
+            "Student": "She emphasized the importance of being true to myself and not letting others' opinions define my worth.",
+            "Counselor": "That’s an important lesson! How do you feel about approaching your group with that newfound perspective?",
+            "Student": "I feel hopeful but still a bit anxious. I want to assert my ideas without conflict.",
+            "Counselor": "That’s a valid feeling. Maybe try to frame it as sharing your thoughts rather than confrontation. Have you found time for any hobbies lately?",
+            "Student": "I went hiking last weekend, and it was refreshing! I need to remember to take time for myself.",
+            "Counselor": "That’s fantastic! Balancing work and personal interests is key to maintaining your well-being. I’m proud of your growth, Sofia!"
+        }
+    }
+}

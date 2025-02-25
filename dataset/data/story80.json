@@ -1,0 +1,25 @@
+{
+    "User Id": 80,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Nina returns to campus eager to begin her senior year in graphic design, excited about her upcoming portfolio project. However, she soon feels overwhelmed by the pressure to create standout work while also maintaining her volunteer commitments and part-time job. Additionally, she learns that her favorite professor, who has been a mentor throughout her studies, will be leaving the university. This news leaves her anxious about losing that guidance.",
+            "Mental State": ["anxious", "overwhelmed", "sad"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the semester progresses, Nina feels increasingly stressed trying to juggle her project, work, and volunteer activities. Her worries deepen when she receives critical feedback on an initial project draft from her classmates during a group critique. This makes her feel isolated and doubting her abilities. Although she tries to discuss her feelings with her brother, Omar, he is preoccupied with his own work, leaving Nina feeling even more alone.",
+            "Mental State": ["frustrated", "isolated", "self-doubting"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "During a pivotal class critique, Nina presents her portfolio, but another student, Jake, bluntly criticizes her design choices without offering constructive feedback. Feeling embarrassed and disheartened, Nina retreats after class and confides in her friend Sarah about her experience. Instead of comfort, Nina feels pressure when Sarah encourages her to stand up to Jake in the next critique, causing Nina to feel conflicted about her ability to advocate for herself.",
+            "Mental State": ["hurt", "conflicted", "disheartened"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "As the semester deadline approaches, Nina reflects on her struggles and recognizes that she cannot continue to neglect her mental health. Despite her anxiety about confrontation, she decides that she needs to express her concerns to both her classmates and her professor. Preparing for these conversations gives Nina a new sense of determination, mixed with nervousness about being honest about her feelings.",
+            "Mental State": ["hopeful", "nervous", "determined"]
+        }
+    }
+}

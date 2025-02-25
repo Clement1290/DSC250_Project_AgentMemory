@@ -1,0 +1,183 @@
+{
+    "User Id": 11,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Aiden Clark. I'm 23 and studying Environmental Studies."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Aiden! Nice to meet you. How are you doing today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm okay, but I had a tough experience in class yesterday. I'm feeling a bit frustrated."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. Would you like to share what happened?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "During a group meeting, one of my classmates, Jake, dismissed my project ideas for a community garden. It really made me question my confidence."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds really challenging. It's hard when your ideas aren't taken seriously, especially when you're passionate about them. How did that make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I felt undervalued and insecure about my abilities. It's frustrating because I was really excited about the project."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's completely understandable to feel that way. Your ideas are valid, and it sounds like you care deeply about your project. Have you talked to your other group members about how you feel?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I'm feeling more anxious now. After that meeting, I've been kind of isolated from my group."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "It's good to hear from you again, Aiden. It sounds like things have been difficult since that meeting. Have you tried reaching out to anyone in your group?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Not really. I've been avoiding them because I'm afraid of being rejected again."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's tough. It's easy to feel overwhelmed in those situations. How are you managing those feelings?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I confided in my sister, Mia, and she encouraged me, but I still feel like I'm letting everyone down."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's great that you have Mia to talk to. It sounds like you're dealing with a lot of pressure. Have you considered setting small goals to help you re-engage with the group?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I haven't thought about that. What do you mean exactly?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T15:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "I've missed out on the last couple of group meetings. I felt too anxious to go."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I appreciate you sharing that with me, Aiden. It's understandable to hesitate after feeling dismissed. How has that impacted your project?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I feel like I'm stuck and doubting whether I should even continue with this major."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "Self-doubt can be overwhelming. How did you feel missing those meetings? Did you take any time to reflect on it?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Yes, I did. I just keep thinking about how my self-doubt is affecting my passion for environmental work."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It sounds like there's a disconnect between your passion and the fear of judgment. How do you think you might address this in the future?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I guess I need to acknowledge my feelings but also not let them control my decisions."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T12:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I've done some thinking since we last spoke. I want to talk to my group and professor about my feelings."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's a significant step forward, Aiden! What do you hope to achieve from that conversation?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I want to express my struggles and hopefully reconnect with the group. I need to regain my confidence."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like a constructive plan. It can be empowering to express your feelings. Have you thought about how you'll start the conversation?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I think I'll start by explaining my anxiety and how I felt during that meeting. I want to be honest."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Honesty is key. And remember that vulnerability can strengthen connections. How do you feel about moving forward?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm feeling hopeful but also nervous about opening up."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Those feelings are completely normal. Take it one step at a time, and remember, you're capable of more than you realize. I'm here for you if you need support!"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Thank you! I really appreciate your guidance. I'll keep you updated on how it goes."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "You're welcome, Aiden! I wish you the best of luck with your conversation. Take care!"
+            }
+        ]
+    }
+}

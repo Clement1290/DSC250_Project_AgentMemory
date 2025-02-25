@@ -1,0 +1,31 @@
+{
+    "User Id": 82,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "Although Sam acknowledged my hard work during the feedback, it didn\u2019t erase the frustration I felt throughout the project."
+        },
+        "question": "What did Amira feel despite Sam acknowledging her hard work?",
+        "answer": "Frustration."
+    },
+    "long_term_QA": {
+        "question": "How did Amira feel about her group project before the acknowledgment of her hard work, and what motivated her to seek help afterward?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "Although Sam acknowledged my hard work during the feedback, it didn\u2019t erase the frustration I felt throughout the project."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling a bit frustrated with a group project for my Environmental Science class."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I think I need to reflect on this and maybe speak with a counselor for coping strategies."
+        },
+        "answer": "Amira felt frustrated with her group's dynamics throughout the project, and after receiving acknowledgment for her hard work, she was motivated to seek help to reflect and cope with her emotional challenges."
+    }
+}

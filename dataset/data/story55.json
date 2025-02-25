@@ -1,0 +1,25 @@
+{
+    "User Id": 55,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Amina is experiencing heightened anxiety as the semester progresses, particularly related to her upcoming exams in psychology. Despite her commitment to her studies, the pressure of needing high grades is overwhelming. Conversations with her peers often revolve around their study strategies, leading Amina to feel inadequate when she compares her methods to their more aggressive approaches. Discussions at home further contribute to her anxiety, as her family emphasizes the importance of academic success, making her fear she may disappoint them.",
+            "Mental State": ["anxious", "inadequate", "overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As midterms approach, Amina’s anxiety escalates. She finds herself withdrawing from social activities and neglecting self-care routines, like meditation and painting. During a study session with her friend Sara, Amina notices Sara’s confidence, which contrasts sharply with her own self-doubt. When Sara offers support, Amina hesitates to open up about her feelings, worried that she might burden her friend. This sense of isolation intensifies her feelings of frustration and unworthiness, leading to sleepless nights filled with worry about her exams.",
+            "Mental State": ["frustrated", "isolated", "doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With just days left before her exams, Amina feels paralyzed by stress. She starts avoiding her study group altogether, opting to study alone in her room, where she feels even more trapped in her negative thoughts. One evening, Leo, her younger brother, notices her distress and offers to help by quizzing her, but Amina brushes him off, feeling ashamed of her situation. Staring at her textbooks, she feels helpless and experiences an overwhelming wave of hopelessness as she questions whether she’s truly capable of succeeding in her exams.",
+            "Mental State": ["hopeless", "ashamed", "paralyzed"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "On the day of her first exam, Amina is a bundle of nerves. She feels torn between excitement and fear as she prepares to enter the exam hall. Despite all her studying, the dread of failure overshadows her thoughts. As the exam begins, her mind races with self-doubt, causing her to struggle with concentration. After completing the exam, she confides in Sara, who reassures her that she did her best. While this support offers a glimmer of hope, Amina continues to grapple with her fears about her performance and what it means for her future.",
+            "Mental State": ["anxious", "conflicted", "hopeful"]
+        }
+    }
+}

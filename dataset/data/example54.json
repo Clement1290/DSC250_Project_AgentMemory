@@ -1,0 +1,48 @@
+{
+    "User Id": 54,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Zara Ali. Nice to meet you.",
+            "Counselor": "Hello, Zara! It’s great to meet you too. How are you feeling today?",
+            "Student": "I’m feeling a bit overwhelmed. I’m juggling multiple projects for my biochemistry classes right now.",
+            "Counselor": "That sounds challenging. What specifically is making you feel overwhelmed?",
+            "Student": "With an exhibition coming up, I worry that my work won’t meet my expectations or those of my family.",
+            "Counselor": "It’s completely understandable to feel that pressure, especially with family expectations. Have you found any ways to cope with that stress?",
+            "Student": "Not yet. I have been comparing myself with my classmates, which only adds to my anxiety."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. My anxiety has increased as the exhibition date approaches.",
+            "Counselor": "Hi, Zara! I’m glad you returned. What’s been contributing to your anxiety?",
+            "Student": "I feel like I’m falling behind my classmates. During study groups, I struggle to voice my ideas, especially with someone like Fahim contributing so confidently.",
+            "Counselor": "That can be really tough. Have you had a chance to share these feelings with anyone in your group?",
+            "Student": "I haven't. I feel disconnected from my friends because they seem to be thriving, and I’m just stressed.",
+            "Counselor": "It’s okay to feel that way. Have you thought about what it would look like to express your ideas in a smaller setting first, perhaps with a close friend?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m still feeling lost. I tried isolating myself to study, but it hasn’t helped.",
+            "Counselor": "Hi, Zara. It’s okay to feel lost sometimes. What’s been going on?",
+            "Student": "I’ve been spending too many late nights on my design, but I just stare at my materials. I feel bad for brushing off my brother, who tried to help.",
+            "Counselor": "It sounds like you’re feeling overwhelmed and isolated. When you brushed Leo off, how did that affect you?",
+            "Student": "I felt ashamed because he cares about me, but I didn’t want to admit I was struggling.",
+            "Counselor": "It’s important to be kind to yourself. Could opening up to Leo or a friend help lighten that burden a bit?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, the midterms are over, but I still feel anxious about how I performed.",
+            "Counselor": "Hi, Zara! I’m glad to see you. How did the exams go for you?",
+            "Student": "It was a mix of relief and anxiety. I tried my best, but I can’t shake off the worry that I didn’t do well.",
+            "Counselor": "That’s understandable. It takes a while to process exam experiences. Did any part of the exhibition feel rewarding for you?",
+            "Student": "There were moments of praise, but I keep focusing on my fears rather than the positive feedback.",
+            "Counselor": "It’s common to focus on doubts rather than compliments. How do you think you can start acknowledging your successes moving forward?"
+        }
+    }
+}

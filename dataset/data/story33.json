@@ -1,0 +1,25 @@
+{
+    "User Id": 33,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Emma begins her final year of college, feeling both excited and anxious about the upcoming challenges. As the semester kicks off, she realizes she is taking on a heavier course load than she anticipated. Additionally, she is involved in a volunteer project that requires significant time commitment. While she enjoys being busy, the pressure is starting to weigh on her. She confides in her older brother, James, who encourages her but also reminds her to take care of herself.",
+            "Mental State": ["Overwhelmed", "Excited", "Nervous", "Slightly anxious"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the month progresses, Emma starts to feel the consequences of her busy schedule. She experiences constant fatigue and begins neglecting her self-care routines, such as yoga and photography, which usually help her relax. Emma’s friends notice a change in her demeanor; she is less engaged and often seems distracted during their study sessions. Her younger sister, Sophie, expresses concern about Emma’s wellbeing, which makes Emma feel guilty for not being a happy role model.",
+            "Mental State": ["Exhausted", "Guilty", "Frustrated", "Disengaged"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With midterms approaching, Emma's stress levels escalate. She struggles to meet deadlines for assignments and feels overwhelmed by the workload. Despite her best efforts, she fails a crucial midterm exam, which shatters her confidence. Emma is hesitant to share this with her friends, fearing their disappointment and judgment. In a moment of vulnerability, she writes in her journal, articulating her fears about failing in her studies and letting everyone down, including herself.",
+            "Mental State": ["Defeated", "Isolated", "Fearful", "Ashamed"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "As the semester continues, Emma reaches a breaking point. She avoids social gatherings and isolates herself in her dorm room, leading to further feelings of loneliness. Eventually, she reaches out to her university's counseling services, realizing she needs help managing her emotions and stress. Through therapy, Emma begins to process her feelings and learns coping techniques. Though her journey is just beginning, she feels a glimmer of hope for recovery and reigniting her passions.",
+            "Mental State": ["Hopeful", "Anxious about change", "Determined", "Relieved"]
+        }
+    }
+}

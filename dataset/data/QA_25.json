@@ -1,0 +1,31 @@
+{
+    "User Id": 25,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I reached out to Priya, but I struggled to open up about my feelings."
+        },
+        "question": "What did Maya do before this session?",
+        "answer": "She reached out to Priya."
+    },
+    "long_term_QA": {
+        "question": "How did Maya feel about managing her studies and relaxation before, and what led her to increasingly feel overwhelmed?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I still feel overwhelmed. I reached out to Priya, but I struggled to open up about my feelings."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I have midterms coming up, and I'm trying to keep up with everything."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "It\u2019s tough when family members don\u2019t seem to understand the pressure you\u2019re under."
+        },
+        "answer": "Before, Maya was trying to keep up with everything and felt the pressure of midterms, but after the hiking trip, she struggled to concentrate, leading to her feeling overwhelmed."
+    }
+}

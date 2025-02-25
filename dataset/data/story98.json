@@ -1,0 +1,25 @@
+{
+    "User Id": 98,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Emily starts the semester feeling excited about her psychology classes. However, as she begins to settle in, she notices that several of her new classmates seem to be more outgoing and socially adept than she is. This makes her feel increasingly self-conscious about her introverted nature. After a week filled with social events and group discussions, she feels exhausted and worries that she won't be able to make meaningful connections.",
+            "Mental State": ["Excited", "Self-conscious", "Anxious"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the semester progresses, Emily's feelings of isolation deepen. In group projects, she struggles to assert herself, often feeling overlooked or overshadowed by her more extroverted peers. An instance during a class discussion where she tried to contribute but was interrupted has left her feeling discouraged. Emily confides in her roommate, Sarah, expressing her fear that she won't fit in or be accepted. This conversation heightens her sense of vulnerability.",
+            "Mental State": ["Discouraged", "Vulnerable", "Frustrated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "In an attempt to overcome her feelings of inadequacy, Emily joins a study group, hoping it will help her feel more integrated. However, during the group's first meeting, she finds it difficult to voice her thoughts and feels anxious about being judged. The group focuses heavily on social dynamics, and when discussions steer toward more personal topics, Emily becomes increasingly uncomfortable. This situation reinforces her belief that she isn’t relatable or engaging enough, leading her to withdraw further.",
+            "Mental State": ["Anxious", "Withdrawn", "Self-critical"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of internal struggles, Emily reaches a boiling point when she overhears a couple of classmates making jokes about introverted students. This incident triggers a flood of emotions, and she finds herself feeling angry and hurt. Despite wanting to speak up, she holds back due to fear of rejection, feeling trapped in her own insecurities. She decides to write in her journal to process her feelings, but the situation leaves her feeling more disconnected from her environment.",
+            "Mental State": ["Angry", "Hurt", "Disconnected"]
+        }
+    }
+}

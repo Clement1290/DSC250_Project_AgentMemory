@@ -1,0 +1,323 @@
+{
+    "User Id": 42,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T09:30:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Sophia Patel. This is my first time here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Sophia! It's great to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, I'm feeling a bit anxious. I just started my final year in Environmental Science, and I'm already overwhelmed."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really stressful. Final year can be a lot to handle. What's been weighing on your mind the most?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I feel this intense pressure to perform well in classes and to secure a job in conservation after graduation."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "I see. It's understandable to feel that way, especially with your passion for the subject. Is there anything specific that's making you feel more pressured?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Yes, I have this urgency to make a meaningful impact before the climate crisis escalates. It feels like time is running out."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's a heavy burden to carry. It's admirable that you want to make a difference, but it's also important to be kind to yourself during this process. Have you had a chance to reflect on your accomplishments so far?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Not really. I just keep focusing on what's ahead and it's hard not to feel sad about a recent loss in my family\u2014a pet we had for years."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "I'm sorry to hear about your pet. That kind of loss can be deeply impactful, especially when you're already feeling overwhelmed. How are you coping with that?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I guess I'm trying to stay busy, but it's hard to shake off these feelings of sadness and anxiety."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "It's understandable to want to keep busy, yet acknowledging your feelings is important. Have you considered doing something special to honor your pet's memory?"
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "I hadn't thought about that. It might actually help me process my emotions."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "That could be a wonderful step forward. Reflecting on the joy your pet brought you can sometimes provide comfort. What do you think you might do?"
+            },
+            {
+                "role": "Student",
+                "round": 8,
+                "content": "Maybe I could create a photo album or write a letter to share my feelings."
+            },
+            {
+                "role": "Counselor",
+                "round": 8,
+                "content": "Those are beautiful ideas! I think those creative outlets can help you express your feelings. Remember, it's important to allow yourself to grieve."
+            },
+            {
+                "role": "Student",
+                "round": 9,
+                "content": "Thank you for this conversation. I really appreciate it."
+            },
+            {
+                "role": "Counselor",
+                "round": 9,
+                "content": "You're welcome, Sophia. I'm here for you whenever you need to talk. Take care!"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. I wanted to talk about a project I'm working on in class."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Sophia! I'm glad you're here. What's been happening with your project?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I was assigned to work with Mia and Jake, and I found it hard to communicate my ideas. They dominate the conversation."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That can be really frustrating. It's challenging when others take the lead, especially in group settings. How did that make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt overshadowed and withdrew from the discussion, which increased my frustration and self-doubt."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's tough when you don't feel heard, especially when you have valuable contributions to make. What do you think made you withdraw?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I think I was afraid my ideas wouldn't be valued, so I just stayed quiet."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's very common to feel that way in a group. Have you considered ways you could assert yourself in those discussions?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I'm not sure. I worry about interrupting them or sounding less knowledgeable."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's understandable to feel nervous. Perhaps preparing your points ahead of time might help build your confidence. Would you like to try that?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Yeah, that sounds like a good idea. I'll work on that for next time."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "Great! It can also help to practice speaking out in smaller groups or with friends to build your comfort level. How does that sound?"
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "That could really help; I'll consider it. I just hope next time goes better."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "I believe in you, Sophia. Remember that your voice matters, and it's okay to express your thoughts."
+            },
+            {
+                "role": "Student",
+                "round": 8,
+                "content": "Thank you, I really needed this advice."
+            },
+            {
+                "role": "Counselor",
+                "round": 8,
+                "content": "You're welcome! I'm here for you anytime. Take care!"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T16:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back again. I've been feeling quite overwhelmed lately."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Sophia! I'm glad to see you again. What's been on your mind?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I decided to work on my photography to express my feelings about the environment, but when I went out to take pictures, I saw pollution everywhere."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really disheartening. It's difficult to witness something that contradicts your values. How did that affect you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It hit me hard. I felt a surge of helplessness and despair. It made me question if any of my efforts matter."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's normal to feel that way when faced with overwhelming environmental issues. Have you thought about how you can channel those feelings into action?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I want to. It's just hard to balance being a student while also advocating for change. I feel like I'm failing at both."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's a lot of pressure to put on yourself. It's okay to take small steps rather than feeling like you have to tackle everything at once."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I guess that makes sense. I just feel guilty for not doing enough."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "You're not failing, Sophia. Every small action contributes to a larger impact. What's one small step you could take toward raising awareness or making a change?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Maybe I could start a social media campaign about local environmental issues or involve my classmates more in clean-up efforts."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "Those sound like excellent initiatives! Engaging others can be powerful. It might also help connect you with people who share your passions."
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "That would be nice. Thank you for reminding me of that."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "You're doing great, Sophia. Remember, it's okay to ask for help and support. I'm here for you."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T13:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back again. I had a talk with my brother, Aryan, last night about everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Sophia! It's good to see you. How did that conversation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "He encouraged me to seek professional support for my struggles. I feel somewhat relieved after talking but still unsure about taking that step."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's wonderful that you have Aryan's support. Seeking help can be a significant decision. What concerns do you have about reaching out for professional support?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I worry that maybe my problems aren't serious enough, or I won't connect with someone."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Those are valid worries. Remember that even small struggles deserve attention, and therapists are trained to help people from all walks of life. What could help ease your concerns?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I think knowing more about the process might help. Like, what should I expect in a session?"
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "In sessions, you'll mostly discuss your feelings, challenges, and goals. Therapists create a safe space for you to explore your thoughts. Would that feel comforting to know?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Yes, that does make it sound less intimidating. I just want to feel better and more in control."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Absolutely! Taking that step to speak to someone can be empowering. It's a move towards understanding yourself better."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Thank you for your support. I think I might actually consider reaching out for help."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "That's a brave decision, Sophia. Remember, I'm here whenever you need to talk. Take your time, and be kind to yourself along this journey."
+            }
+        ]
+    }
+}

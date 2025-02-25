@@ -1,0 +1,25 @@
+{
+    "User Id": 86,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Aria was excited to start her new semester in psychology, particularly looking forward to a group project involving mental health awareness. However, she soon noticed that one of her teammates, Sarah, seemed withdrawn and uninterested in the project. Aria reached out to Sarah to offer support, but her attempts were met with short responses. This lack of engagement from Sarah left Aria feeling frustrated and concerned about the direction of the project, as she truly believed in its importance.",
+            "Mental State": ["frustrated", "concerned", "disappointed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the project unfolded, Aria decided to take more initiative to bring the group together, presenting her ideas with enthusiasm during meetings. However, during one session, when she tried to encourage Sarah to share her thoughts, she received a cold reaction. Instead of taking the encouragement well, Sarah dismissed her and stated that she was too busy for the project. This interaction made Aria anxious about leading the group, as she feared alienating Sarah further and doubting if she could effectively motivate her teammates.",
+            "Mental State": ["anxious", "doubtful", "overwhelmed"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With the project deadline approaching, Aria felt the weight of responsibility on her shoulders as she tried to keep the group motivated. Unfortunately, the lack of participation from Sarah and a few other team members resulted in a lot of late nights for Aria, which left her feeling burnt out. During a practice presentation, she lost her confidence and stumbled through her points, feeling embarrassed. Afterward, instead of receiving support from her teammates, they focused on what went wrong, which left Aria feeling even more isolated.",
+            "Mental State": ["burnt out", "embarrassed", "isolated"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After the project presentation, although she received some positive feedback, Aria felt unfulfilled and frustrated at the lack of collaboration in her team. In a moment of honesty, she finally talked to her family during dinner, expressing her feelings about leading the project and how much she struggled to connect with Sarah. Her family encouraged her to address these issues directly with her team. However, even with newfound courage to speak up, Aria felt conflicted about confronting her teammates and uncertain about how to facilitate the necessary changes. She considered seeking advice from a mentor but felt hesitant to take that step.",
+            "Mental State": ["relieved", "conflicted", "hopeful"]
+        }
+    }
+}

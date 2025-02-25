@@ -1,0 +1,63 @@
+{
+    "User Id": 17,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I'm Elena Petrova. It's nice to meet you.",
+            "Counselor": "Hi Elena! It's great to meet you too. How are you feeling today?",
+            "Student": "Honestly, I’m feeling a bit overwhelmed with my coursework in psychology.",
+            "Counselor": "That sounds really tough. What specifically is overwhelming you right now?",
+            "Student": "There are just so many assignments piling up, and I’m worried I won’t meet my own expectations.",
+            "Counselor": "It’s understandable to feel that way, especially when you set high standards for yourself. Have you had a chance to talk to anyone about how this pressure is affecting you?",
+            "Student": "Not really. My dad keeps reminding me how important it is to do well, which adds to my stress.",
+            "Counselor": "Family expectations can be challenging. It might help to express how you’re feeling to your family. Would you consider that?",
+            "Student": "Maybe, but I worry they won't understand.",
+            "Counselor": "It’s natural to feel that way, but opening up can sometimes bring you closer. Let’s explore some ways you can start that conversation. How do you think it would feel to share your struggles with them?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I’ve been feeling pretty isolated lately.",
+            "Counselor": "I’m glad you came back. What’s been going on?",
+            "Student": "My brother Alex is so busy with his medical program that I hardly see him. I miss our hikes together.",
+            "Counselor": "It’s tough when you lose that support system, especially someone close to you. How are you coping with that?",
+            "Student": "I’ve been spending a lot more time alone, trying to focus on my studies, but it just feels empty.",
+            "Counselor": "It makes sense that you’d feel empty without those connections. Have you thought about reaching out to friends or joining any study groups?",
+            "Student": "I haven't, to be honest. I don’t think they’d understand what I’m going through.",
+            "Counselor": "It’s common to feel that way, but sometimes sharing can surprise us. Maybe you could start slow? Just a casual message to check in?",
+            "Student": "That sounds manageable. I’ll think about it. Thank you."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hello! I had a rough week.",
+            "Counselor": "Hi Elena! I’m sorry to hear that. What happened?",
+            "Student": "I ended up lashing out at my friends during a study session. I feel awful about it.",
+            "Counselor": "It’s understandable to feel frustrated when you’re under pressure. What do you think triggered you?",
+            "Student": "I just felt like they weren't supportive enough, but I know I overreacted.",
+            "Counselor": "Recognizing that is a significant step. How are you feeling about your friends now?",
+            "Student": "I feel guilty and worried that I might have ruined our friendship.",
+            "Counselor": "It’s natural to worry, but have you considered apologizing to them? It could reopen lines of communication.",
+            "Student": "I guess that makes sense. I should reach out...",
+            "Counselor": "Yes, a simple apology and maybe sharing how you’ve been feeling can help mend things. It’s okay to be vulnerable.",
+            "Student": "I’ll try. Thanks for the reminder."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T15:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m back. I took your advice and saw a campus counselor.",
+            "Counselor": "That’s wonderful to hear, Elena! How did it go?",
+            "Student": "It was hard to talk about my feelings, but also really relieving. I even got some good coping strategies.",
+            "Counselor": "I’m glad you found it helpful! What are some strategies that resonated with you?",
+            "Student": "They suggested some mindfulness techniques and just acknowledging my feelings instead of pushing them away.",
+            "Counselor": "That sounds like a great approach! How are you feeling about your studies now?",
+            "Student": "I still feel uncertain about my grades, but I’m hopeful that I can manage it better.",
+            "Counselor": "That’s a positive shift in your thinking! Remember, progress takes time, and it’s okay to feel uncertain.",
+            "Student": "Thank you for your support. It really means a lot.",
+            "Counselor": "You’re very welcome! I’m here for you. Don’t hesitate to reach out again if you need to talk."
+        }
+    }
+}

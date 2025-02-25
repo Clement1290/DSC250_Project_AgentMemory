@@ -1,0 +1,31 @@
+{
+    "User Id": 67,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I felt so much pressure. Even though I was passionate, I struggled to connect with the audience."
+        },
+        "question": "What did Sofia feel while giving her presentation on mental health awareness?",
+        "answer": "She felt so much pressure."
+    },
+    "long_term_QA": {
+        "question": "How was Sofia feeling about her passion for mental health advocacy before she confided in Alicia, and what led her to feel invalidated afterwards?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I felt like a failure. I\u2019m now questioning if I should change my focus from psychology to something less emotionally charged."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I just get frustrated when they trivialize mental health issues. It makes me feel isolated."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "It made me feel lonely and invalidated, like my passions don't matter."
+        },
+        "answer": "Before confiding in Alicia, Sofia felt frustrated and isolated as her classmates trivialized mental health issues. After the conversation, she felt lonely and invalidated, leading her to question if her passions mattered."
+    }
+}

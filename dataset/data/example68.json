@@ -1,0 +1,49 @@
+{
+    "User Id": 68,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-13T09:00:00",
+        "Dialogue": {
+            "Student": "Hi, I'm Javier Morales. It's my first time here.",
+            "Counselor": "Hello, Javier! Nice to meet you. How are you feeling today?",
+            "Student": "I'm feeling a bit overwhelmed. I just started the semester after volunteering at a wildlife sanctuary.",
+            "Counselor": "That sounds like a valuable experience! What was it about that experience that impacted you the most?",
+            "Student": "It opened my eyes to the struggles animals face, and now I feel disconnected from my classmates who don't share the same passion.",
+            "Counselor": "It's understandable to feel that way. Have you had a chance to share your insights with your peers?",
+            "Student": "I tried, but during group discussions, my ideas were often dismissed, which frustrated me.",
+            "Counselor": "It's tough when you feel unheard. It's important to express your thoughts, especially on topics you care about. Have you talked to anyone about how you felt during those discussions?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-29T10:30:00",
+        "Dialogue": {
+            "Student": "Hi again. Things have become more challenging since we last spoke.",
+            "Counselor": "Hi, Javier! I'm here to support you. What’s been happening?",
+            "Student": "I talked to my friend Marco about feeling disconnected, but he seemed distracted and didn't really listen.",
+            "Counselor": "I'm sorry to hear that. It’s frustrating when friends don’t acknowledge our feelings. How did that affect you?",
+            "Student": "I started to doubt whether I should continue pushing for environmental advocacy in an environment that doesn’t seem to care.",
+            "Counselor": "That sounds really disheartening. Feeling unsupported can diminish your passion. What do you think would help you feel more connected?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-16T12:00:00",
+        "Dialogue": {
+            "Student": "Hi, I need to talk about my group project on community activism.",
+            "Counselor": "Hi, Javier! I’m glad you reached out. What’s going on with the project?",
+            "Student": "I wanted to share my experiences from the wildlife sanctuary, but my classmates preferred conventional approaches and ignored my ideas.",
+            "Counselor": "That must have been very frustrating. It’s hard when your passion is downplayed. How did you feel after that experience?",
+            "Student": "I felt overshadowed. I later shared my feelings with my sister, Lucia, and she encouraged me, but I still feel conflicted about my place in this program.",
+            "Counselor": "It's understandable to feel conflicted. Remember, you have valuable insights to offer. What would it take for you to express those ideas confidently?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-01T14:15:00",
+        "Dialogue": {
+            "Student": "Hi, I'm back. I need to discuss my presentation today.",
+            "Counselor": "Hi, Javier! I’m here to listen. How did the presentation go?",
+            "Student": "I really wanted to incorporate my experiences, but I felt overwhelming pressure and ended up struggling to engage the audience.",
+            "Counselor": "That must have been difficult. It’s tough to feel that your message isn’t landing. What did you take away from this experience?",
+            "Student": "I left feeling like a failure. I’m now questioning if I should focus on photography instead of environmental science.",
+            "Counselor": "It's alright to reflect on your path and consider your options. Have you thought about how you could merge both passions in a way that allows you to express yourself?"
+        }
+    }
+}

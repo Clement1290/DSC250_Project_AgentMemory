@@ -1,0 +1,48 @@
+{
+    "User Id": 55,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Amina Khan. Nice to meet you.",
+            "Counselor": "Hello, Amina! It’s great to meet you too. How are you today?",
+            "Student": "I’m feeling a bit overwhelmed. I have multiple projects and exams coming up in my psychology classes.",
+            "Counselor": "That sounds like a lot to handle. What are your main concerns at the moment?",
+            "Student": "I just feel pressure to maintain high grades. It makes me anxious, especially comparing myself to my classmates.",
+            "Counselor": "It's natural to feel that way, especially during stressful times. Have you felt this way before during your studies?",
+            "Student": "Yes, but it feels more intense this semester. My family also emphasizes academic success, which adds more pressure."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. My anxiety is getting worse as midterms approach.",
+            "Counselor": "Hi, Amina! I’m here to help. What’s been making your anxiety worse?",
+            "Student": "I keep withdrawing from social activities. I feel overshadowed by others, especially during group study sessions.",
+            "Counselor": "That sounds isolating. Have you reached out to your friends about how you feel?",
+            "Student": "Not really. Sara has offered support, but I fear sharing my doubts will burden her.",
+            "Counselor": "It's understandable to worry about being a burden, but true friends often want to help. Have you considered discussing your thoughts with Sara anyway?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hello. I tried to study, but I just feel lost and overwhelmed.",
+            "Counselor": "Hi, Amina! I’m glad you came back. What’s currently weighing on your mind?",
+            "Student": "I'm avoiding social contact and stressing over my midterms. I feel ashamed for feeling this way.",
+            "Counselor": "It's okay to feel that way, and reaching out for help shows strength. How did it feel when Leo offered to quiz you?",
+            "Student": "I brushed him off. I was embarrassed, and I didn’t want him to see me struggling.",
+            "Counselor": "It's understandable to feel that way, but isolating yourself can make things harder. Have you thought about letting Leo support you?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I got through my first exam, but I’m still anxious about my performance.",
+            "Counselor": "Hi, Amina! How did it go overall during the exam?",
+            "Student": "It was a mix of relief and dread. I tried my best, but I’m scared I didn’t do well.",
+            "Counselor": "That’s understandable, but remember, you put in the effort. Did you find any moments of enjoyment during the exam?",
+            "Student": "I felt proud of a few answers, but the anxiety overshadowed that pride.",
+            "Counselor": "It's common for anxiety to cloud positive feelings. How are you planning to celebrate your hard work despite your worries?"
+        }
+    }
+}

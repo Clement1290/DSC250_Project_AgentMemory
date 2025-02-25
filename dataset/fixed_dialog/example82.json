@@ -1,0 +1,143 @@
+{
+    "User Id": 82,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T09:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Amira Hassan. It's my first time here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello Amira! It's great to meet you. What brings you in today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a bit frustrated with a group project for my Environmental Science class. I was really excited about it at first."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's completely understandable to feel that way. What's been making you frustrated?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "One of my group members, Sam, seems disinterested and isn't contributing much. I tried to encourage him but he just brushed me off."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "I can see how that would be disheartening, especially since you care so much about the project. Have you had a chance to talk to your team about this feeling?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T09:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello again! I've been feeling pretty anxious about the project."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Amira! I'm here to help. What's been causing your anxiety?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I've taken on a lot of extra responsibilities to compensate for Sam's lack of participation, and I feel overwhelmed."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a tough situation. It's commendable that you want to help your team, but it's important to take care of yourself too. Have you had a chance to share your feelings with the group?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I tried, but they dismissed my concerns and said I was being too sensitive. It made me doubt my contributions."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That kind of dismissal can be really hurtful. It's essential for your feelings to be acknowledged. How do you think you could address this with them again?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T09:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi. I'm feeling really overwhelmed right now. I'm considering giving up on the project."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Amira. I'm sorry to hear that. What's making you feel this way?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Despite my efforts, it feels like I'm not getting the support I need. When I asked my professor for help, I felt unheard."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really frustrating. It's understandable to feel burnt out. Have you been able to talk to your family or friends about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "No, I've kept everything to myself. I just feel like I should handle it on my own."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's okay to reach out for support. You don't have to carry this weight alone. Sometimes sharing your feelings can provide relief. Would you consider reaching out to someone close to you?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T09:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "I had my presentation, but I still feel disappointed with how things went."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I'm glad you made it through the presentation, but I understand it's normal to feel mixed emotions afterward. What specifically are you disappointed about?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Although Sam acknowledged my hard work during the feedback, it didn't erase the frustration I felt throughout the project."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That makes perfect sense. Sometimes recognition isn't enough to heal the hurt from previous experiences. Have you thought about what you want to do next?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I think I need to reflect on this and maybe speak with a counselor for coping strategies. I want to learn how to communicate better in group settings."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds like a positive step. Exploring your feelings and discussing them further can be beneficial. I commend you for wanting to grow from this experience. I'm here whenever you need support."
+            }
+        ]
+    }
+}

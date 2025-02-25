@@ -1,0 +1,85 @@
+{
+    "User Id": 2,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-11-06T09:00:00",
+        "Dialogue": {
+            "Student": "Hi, I'm Sarah Kim. It's nice to meet you.",
+            "Counselor": "Hello, Sarah! It's great to meet you too. How are you feeling today?",
+            "Student": "Honestly, I'm feeling a bit overwhelmed. The semester just started, and I'm already feeling the pressure.",
+            "Counselor": "That sounds tough. It’s a big transition after summer break. Can you tell me more about what’s been overwhelming you?",
+            "Student": "I have exams and assignments piling up already, and while reconnecting with friends, I sensed they’re all busy with their own lives.",
+            "Counselor": "That’s understandable. It can be hard when we feel left behind. It’s common to feel nostalgic for the easy-going days of summer during busy times like this. How have you been managing these feelings?",
+            "Student": "I've been trying to stay positive and keep up, but I can't help feeling anxious about my performance.",
+            "Counselor": "It’s okay to feel anxious, especially with so many changes happening. Sometimes it helps to talk about what specifically is causing that anxiety. Would you like to explore that?",
+            "Student": "Yeah, I guess I'm worried about falling behind. I really want to succeed in my Biology courses.",
+            "Counselor": "It's commendable that you care about your studies. Could setting smaller, manageable goals help you feel more in control?",
+            "Student": "That might help! I didn’t think about it that way.",
+            "Counselor": "How about we set a couple of small goals for this week? Something that aligns with your studies but also gives you room to breathe?",
+            "Student": "Okay! Maybe I can set aside some time each day to review my notes.",
+            "Counselor": "That sounds like a great start! Remember to also make time for your hobbies, like photography or hiking. They can be great stress relievers.",
+            "Student": "Yes, I’d love to go hiking this weekend.",
+            "Counselor": "That sounds lovely! Taking breaks is important. We can check in next week to see how those goals went. Does that sound good?",
+            "Student": "Absolutely! Thank you, this was really helpful.",
+            "Counselor": "You’re welcome, Sarah! I’m glad to be here for you. Take care and enjoy your hike!"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-11-13T09:00:00",
+        "Dialogue": {
+            "Student": "Hi, I'm back. This week has been pretty hard.",
+            "Counselor": "Welcome back, Sarah! I’m sorry to hear that. What’s been going on?",
+            "Student": "I attended a group study session and just felt overshadowed by everyone’s performance, especially my brother Joon.",
+            "Counselor": "I can see how that would be difficult. It’s tough to compare ourselves to others, especially family. How did that make you feel?",
+            "Student": "I felt discouraged and withdrawn. I wanted to participate, but I just froze.",
+            "Counselor": "That’s a natural reaction. Feeling overshadowed can lead to self-doubt. Have you considered how Joon’s success reflects on your own journey?",
+            "Student": "Not at all! I’ve been too busy feeling inadequate to think about it positively.",
+            "Counselor": "It can be helpful to remember that everyone has their unique challenges. How might you celebrate your own achievements, no matter how small?",
+            "Student": "I could start recognizing the effort I put into my studies, even if my grades aren't perfect.",
+            "Counselor": "That’s an excellent mindset! Recognizing your efforts can boost your confidence. Want to set a goal to track your progress this week?",
+            "Student": "Sure! Maybe I can note down one thing I did well each day.",
+            "Counselor": "That sounds like a rewarding exercise! Let me know how it goes when we check in next time.",
+            "Student": "I will! Thanks for listening.",
+            "Counselor": "Anytime, Sarah! I’m here for you. Take care!"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-11-20T09:00:00",
+        "Dialogue": {
+            "Student": "Hi there. I'm back, but I’m feeling even worse.",
+            "Counselor": "Hi Sarah! I’m glad you returned. What’s been happening this week?",
+            "Student": "I’ve been so anxious that I couldn’t sleep, and I ended up missing a couple of assignments. I feel awful.",
+            "Counselor": "I’m really sorry to hear that. Missing assignments can be stressful, especially when you’re already feeling under pressure. How has that impacted your mood?",
+            "Student": "It's made me feel really isolated. I reached out to friends, but they were all busy.",
+            "Counselor": "It’s tough to feel disconnected when you’re already struggling. Have you thought about talking to a friend or family member about how you’re feeling?",
+            "Student": "I think I need to, but I’m scared of being judged.",
+            "Counselor": "That’s a common fear. What if you started with someone you trust, like your sister Minji? Sharing can sometimes lift a burden.",
+            "Student": "You’re right. I hadn't considered that. I guess I can try.",
+            "Counselor": "That’s a positive step! It’s okay to be vulnerable. Just remember, it’s part of being human. And you deserve support too.",
+            "Student": "I appreciate your understanding. I just feel so self-critical.",
+            "Counselor": "Self-criticism can be tough. Perhaps practicing self-compassion could help. What’s one kind thing you could say to yourself right now?",
+            "Student": "Maybe I could say that I’m doing the best I can under the circumstances.",
+            "Counselor": "That’s a great start, Sarah! You’re facing challenges, and it’s important to acknowledge your effort. Let’s check in next week and see how it goes.",
+            "Student": "Thanks, I will do that."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-27T09:00:00",
+        "Dialogue": {
+            "Student": "Hi, I'm back again. I went to my first counseling session last week.",
+            "Counselor": "Hi Sarah! I’m glad you returned. How did it go?",
+            "Student": "It was both relieving and intimidating. I talked about my anxiety and feelings of inadequacy.",
+            "Counselor": "That’s fantastic that you took that step! It often helps to share those feelings. Did they provide any coping strategies?",
+            "Student": "They did! But I still feel anxious about the changes I need to make.",
+            "Counselor": "That’s understandable. Change can be daunting. Remember, it takes time. What’s one small step you’re thinking of taking?",
+            "Student": "I want to try setting specific times to study and then go hiking afterward as a reward.",
+            "Counselor": "That sounds like a wonderful idea! Setting a reward can motivate you to accomplish your study goals. Have you thought about sharing this plan with someone close to you for accountability?",
+            "Student": "I think I could tell Minji. She might help me stay on track.",
+            "Counselor": "That’s a great approach! Sharing your goals can provide support. Would you like to practice how you might start that conversation?",
+            "Student": "Yes, that would help.",
+            "Counselor": "Let’s role-play! You can begin by sharing your feeling and your intention for accountability with her.",
+            "Student": "Okay! I’d start with, 'Hey Minji, I’ve been feeling pretty overwhelmed and want to improve my study habits. Can you help keep me accountable?'",
+            "Counselor": "Perfect, that’s open and honest. I’m proud of you for taking these steps. Remember, take things one step at a time. We can revisit this next session.",
+            "Student": "Thank you for all your help. It feels good to have a plan!"
+        }
+    }
+}

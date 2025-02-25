@@ -1,0 +1,358 @@
+{
+    "User Id": 1,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-11-06T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Emma. It's nice to meet you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Emma! It's great to meet you too. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, I'm feeling a bit overwhelmed. My semester just started and I'm struggling with my coursework in Psychology."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really challenging. It's completely normal to feel overwhelmed at the start of a new semester. Can you tell me more about what's been particularly difficult for you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Well, I've got a heavy course load and I'm also feeling really isolated since my friends are busy with their new jobs."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "I hear you. Balancing coursework and personal life can be tough, especially when it feels like you don't have much support. How are you coping with that?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm not really sure. I feel like I've lost my motivation and it's hard to focus."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's understandable. Have you considered telling someone close to you about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I haven't really talked to anyone about this yet. I'm worried they wouldn't understand."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's common to feel that way, but sometimes sharing can help lighten the load. Remember, you deserve support too. Would you like to explore some strategies to manage these feelings?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Yes, I think that might help. I just feel stuck."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "How about we start with some small steps? Maybe you can set aside a little time each day to focus on self-care, like reading or painting?"
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "That sounds nice. I love painting, but I haven't done it in a while."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "It can be very therapeutic. Let's set a goal for you to do that this week. How does that sound?"
+            },
+            {
+                "role": "Student",
+                "round": 8,
+                "content": "I think I can manage that. Thank you."
+            },
+            {
+                "role": "Counselor",
+                "round": 8,
+                "content": "You're welcome, Emma! Remember, it's okay to take things one step at a time. Do you feel comfortable returning next week to check in?"
+            },
+            {
+                "role": "Student",
+                "round": 9,
+                "content": "Yes, I'd like that. Thank you for listening."
+            },
+            {
+                "role": "Counselor",
+                "round": 9,
+                "content": "Of course! I'll be here. Take care this week, and don't hesitate to reach out if you need anything."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-11-13T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. Things have been tough since we last spoke."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Emma! I'm glad you came back. Would you like to talk about what's been going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I went to a family gathering hoping for support, but everyone kept asking about my future. It made me feel really anxious."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. Family gatherings can be tough, especially when you're already feeling vulnerable. How did that make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It made me feel inadequate compared to my brother, who seems to have everything together."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's a tough comparison to make. Your feelings are valid. Everyone has their own path and struggles, even if they're not visible. How did you navigate those conversations?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I mostly stayed quiet. I didn't feel like talking much after that."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's okay to take a step back when you're feeling overwhelmed. Are there ways you can bring up topics that interest you during family gatherings next time?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I guess I could try that. It just feels easier to withdraw sometimes."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That makes sense. It's often easier to retreat than to engage, especially when feeling vulnerable. What could be a small step you might take to engage next time?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Maybe I could share something about my painting. I did do some this week."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "That sounds like a wonderful idea! Sharing your interests can help shift the focus away from pressure. How did your painting go?"
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "It was really nice! I felt good while doing it."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "That's excellent to hear! Creative expression can be such a healing tool. Do you feel you could incorporate more of that into your routine?"
+            },
+            {
+                "role": "Student",
+                "round": 8,
+                "content": "Definitely. I want to keep exploring that."
+            },
+            {
+                "role": "Counselor",
+                "round": 8,
+                "content": "Great! Remember to be gentle with yourself. You're doing your best. Would you like to set a check-in for next week as well?"
+            },
+            {
+                "role": "Student",
+                "round": 9,
+                "content": "Yes, I'd like that. Thank you again for your support."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-11-20T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. This last week was really challenging."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Emma! I'm glad you're here. What happened this week?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I struggled to keep up with my assignments. I tried reaching out to friends, but they seem so busy."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds frustrating. It's tough when you're feeling lonely and need support. How did you manage that feeling this past week?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I tried to focus on my studies, but I missed a deadline, and now I feel like a failure."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "I can understand why you'd feel that way. Missing a deadline can be very stressful. It doesn't define your worth or abilities, though. How do you feel about reaching out to your professor for help?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I considered it, but I feel embarrassed admitting I missed it."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's understandable to feel that way, but professors often appreciate when students take accountability. It might also open up a chance for support."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "You're right. I'll think about it."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "In the meantime, what's one thing you can do to take care of yourself this week?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I have some painting supplies that I'd like to use again."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "That sounds like a lovely idea! Creative outlets can really help alleviate stress. Would you like to set a small goal for yourself this week related to that?"
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "Yes, I'll aim to paint at least twice this week."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "That's a great plan! Remember that it's okay to take breaks and care for your mental well-being, especially in busy times."
+            },
+            {
+                "role": "Student",
+                "round": 8,
+                "content": "I appreciate that. Thank you for helping me see this more clearly."
+            },
+            {
+                "role": "Counselor",
+                "round": 8,
+                "content": "You're welcome, Emma! It takes strength to reach out and ask for support. I believe in your ability to navigate through this."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-27T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. I finally went to counseling last week."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Emma! I'm glad to see you again. How did your counseling session go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I felt relieved to talk about my anxiety and isolation, but I still feel apprehensive about the changes I need to make."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's completely normal. It's a big step to acknowledge those feelings, and recognizing the need for change is an important part of the process. What do you think is holding you back from making those changes?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I guess I'm afraid of failing again. It's hard to break out of this cycle."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Fear of failure is a significant barrier for many people. But remember that making small changes over time can lead to growth. What's one small change you could make to start?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Maybe I could set aside specific times for painting and studying."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That sounds like a great plan! Establishing routines can help you feel more grounded. How do you feel about sharing your goals with someone close to you?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I've been hesitant, but I think it would help me feel accountable."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That's a good idea. Sharing your goals can create a support system. Would you like to practice how you might approach that conversation?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Sure, that would be helpful."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "Let's role-play! You can start by expressing what you've been feeling and your intent for accountability."
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "Okay, I'll say something like, 'I've been feeling overwhelmed and I want to improve my routine. Can you help me stay accountable?'"
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "Perfect! Being open and honest is key. Remember, you're not alone in this. You have support."
+            },
+            {
+                "role": "Student",
+                "round": 8,
+                "content": "Thank you so much for your guidance throughout this process."
+            },
+            {
+                "role": "Counselor",
+                "round": 8,
+                "content": "You're very welcome, Emma! I am proud of the steps you're taking. Don't hesitate to reach out again if you need someone to talk to."
+            }
+        ]
+    }
+}

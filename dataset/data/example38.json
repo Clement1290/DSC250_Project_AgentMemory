@@ -1,0 +1,69 @@
+{
+    "User Id": 38,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Olivia Martinez. It’s nice to meet you.",
+            "Counselor": "Hello Olivia! It’s great to meet you too. How are you feeling as the new semester begins?",
+            "Student": "I’m excited to start my Environmental Studies courses, but I already feel a bit overwhelmed.",
+            "Counselor": "That’s understandable! What’s making you feel overwhelmed?",
+            "Student": "I’m trying to balance my classes with volunteer work for a local environmental organization. It feels like a lot.",
+            "Counselor": "That sounds like a meaningful commitment, but it's also a heavy load. Have you had a chance to talk about your feelings with anyone in your family or volunteer group?",
+            "Student": "Not really. I feel like I should be able to handle it all, and I don't want to disappoint anyone.",
+            "Counselor": "It’s completely normal to feel that way. Remember, it’s okay to ask for help when you need it! Have you thought about how you might manage your time better?",
+            "Student": "I haven’t really made a plan yet. I'm just worried about letting everyone down.",
+            "Counselor": "Creating a structured plan could help alleviate some of that anxiety. What do you think?",
+            "Student": "I guess that might be a good idea. I could try listing out my commitments.",
+            "Counselor": "Absolutely! And don’t forget to include some time for yourself. What do you enjoy doing when you feel stressed?",
+            "Student": "I love hiking and photography, but I haven’t had much time for that lately.",
+            "Counselor": "Those activities could help recharge your batteries. Try to carve out time for them when you can!"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, it’s Olivia again. I’m still feeling really stressed this week.",
+            "Counselor": "Welcome back, Olivia! What’s been on your mind this week?",
+            "Student": "Midterms are approaching, and I’m struggling to manage my time. During a volunteer meeting, I mentioned feeling overwhelmed, but my ideas got dismissed.",
+            "Counselor": "That sounds frustrating. How did that make you feel?",
+            "Student": "I felt undervalued and like I don't belong there. It really affected my confidence.",
+            "Counselor": "It’s tough when you don’t feel heard. Have you had a chance to discuss your feelings with anyone in the volunteer group?",
+            "Student": "No, I haven’t. I worry they’ll see me as weak or that I can’t handle my responsibilities.",
+            "Counselor": "Those worries are common, but expressing your feelings might actually help foster stronger relationships. Would you consider speaking to someone you trust in the group?",
+            "Student": "I could, but I’m not sure how to start that conversation.",
+            "Counselor": "You might say something like, 'I’ve been feeling a bit overwhelmed with everything and would appreciate your support.' It’s important to prioritize your well-being.",
+            "Student": "That sounds easier to approach. I’ll think about reaching out."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hey, it’s Olivia again. I'm feeling really low today.",
+            "Counselor": "Hi Olivia, I’m here to listen. What’s been troubling you?",
+            "Student": "I got a disappointing grade on a paper, and I feel awful about it.",
+            "Counselor": "I’m really sorry to hear that. How did the grade affect your mood?",
+            "Student": "It made me feel like I’m not good enough, especially after what happened in the volunteer group last time.",
+            "Counselor": "That sounds really hard. It’s easy to let one setback define how you feel about yourself. How do you usually cope with negative feedback?",
+            "Student": "I tend to internalize it, which makes things worse. When I tried to speak up during a group project, another member criticized my input again.",
+            "Counselor": "That’s disheartening. It’s tough to deal with criticism, especially when you’re feeling vulnerable. Have you considered following up with that person?",
+            "Student": "I want to, but I’m scared it’ll just lead to more conflict.",
+            "Counselor": "It’s completely understandable, but sometimes addressing the issue directly can lead to growth for both of you. Maybe start by expressing how their comments made you feel?",
+            "Student": "That sounds like a good approach. I’ll think about it."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, Counselor! I finally spoke with Dr. Garcia about everything.",
+            "Counselor": "Hi Olivia! How did that conversation go?",
+            "Student": "It felt liberating to share my feelings about the stress and criticism I’ve been facing.",
+            "Counselor": "That’s excellent to hear! How did Dr. Garcia respond?",
+            "Student": "They were really encouraging and suggested some self-care techniques. I felt a little lighter afterward.",
+            "Counselor": "It’s important to take care of yourself. How do you feel about implementing some of their suggestions?",
+            "Student": "I’m excited but still a bit nervous about how to communicate with my group. I want to assert myself without starting more conflict.",
+            "Counselor": "That’s completely fair! Remember, calm and clear communication can foster better understanding. Why not prepare what you want to say ahead of time?",
+            "Student": "I’ll definitely do that. Thank you for encouraging me to express my feelings!",
+            "Counselor": "You’re welcome, Olivia! It takes courage to advocate for yourself, and you’re doing great. I look forward to hearing how it goes next time."
+        }
+    }
+}

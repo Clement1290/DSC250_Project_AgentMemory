@@ -1,0 +1,31 @@
+{
+    "User Id": 30,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019ve been neglecting my mental health, and I need to make changes."
+        },
+        "question": "What realization did Isabella come to about her mental health after the workshop?",
+        "answer": "She realized that she\u2019s been neglecting her mental health and needs to make changes."
+    },
+    "long_term_QA": {
+        "question": "How did Isabella's feelings of isolation and inability to manage her life lead her to realize the importance of prioritizing her mental health?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I feel so isolated, and I\u2019m not sure how to approach her again."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I\u2019ve been avoiding her. I feel so isolated, and I\u2019m not sure how to approach her again."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "It really opened my eyes about self-care. I\u2019ve been neglecting my mental health, and I need to make changes."
+        },
+        "answer": "Isabella's feelings of isolation made her realize that she has been neglecting her mental health, prompting her to recognize the need for self-care and support."
+    }
+}

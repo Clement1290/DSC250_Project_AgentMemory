@@ -1,0 +1,25 @@
+{
+    "User Id": 23,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the semester begins, David is filled with excitement about his Mechanical Engineering classes and various extracurricular activities. However, he quickly becomes overwhelmed by the rigorous coursework and the expectation to maintain top performance. The reality of balancing his demanding major with his hobbies and social life starts to set in, and he begins to feel anxious about meeting these expectations and fears falling behind.",
+            "Mental State": ["Anxious", "Overwhelmed", "Eager"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As deadlines approach and demands increase, David finds himself working late into the night and feeling increasingly stressed. He has started to withdraw from friends, including his soccer teammates, as he convinces himself that he must prioritize his academics. Meanwhile, he feels guilty for not spending time with his friend Ethan, who tries to reach out and include him in group activities. This growing isolation exacerbates his feelings of loneliness and frustration.",
+            "Mental State": ["Frustrated", "Isolated", "Guilty"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With midterms looming, David receives disappointing feedback on a project he had invested considerable time and effort into. This setback triggers feelings of inadequacy, leading to a confrontation with Ethan during a study group. David, feeling defensive and overwhelmed, snaps at Ethan for suggesting he take a break. Afterward, he is left feeling regretful and emotionally drained, worrying about how his actions could impact his friendship.",
+            "Mental State": ["Regretful", "Defensive", "Emotionally drained"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After some time for reflection, David decides to reach out to Ethan and apologize for his outburst. They meet at a café where David opens up about his struggles and the pressure he feels from his engineering coursework. Ethan responds with understanding and shares his own experiences with stress, making David feel less alone. Although this conversation alleviates some tension, David still grapples with anxiety about maintaining his academic performance and balancing his friendships.",
+            "Mental State": ["Relieved", "Hopeful", "Anxious"]
+        }
+    }
+}

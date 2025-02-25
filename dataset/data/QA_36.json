@@ -1,0 +1,31 @@
+{
+    "User Id": 36,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I went dancing last weekend, and it felt amazing."
+        },
+        "question": "What activity did Ava engage in last weekend that made her feel amazing?",
+        "answer": "Dancing."
+    },
+    "long_term_QA": {
+        "question": "How did Ava's feelings of defeat and anxiety about her challenges lead to a transformation towards hope and empowerment after seeking advice?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "It made me feel defeated, especially with everything else I\u2019m dealing with."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "It's common to feel that way after a conflict."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "Dr. Brown provided some excellent advice."
+        },
+        "answer": "Ava was feeling defeated due to her challenges, but after speaking with Dr. Brown, who provided excellent advice, she began to feel a flicker of hope and empowerment to address her challenges."
+    }
+}

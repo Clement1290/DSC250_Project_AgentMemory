@@ -36,3 +36,15 @@ model = OpenAIAgent()
 prompt = "What is the capital of France?"
 agent.query(prompt)
 ```
+
+
+## 使用多轮对话数据集
+在根目录下，运行
+```python
+from dataset import MultiSessionDialog
+
+dataset = MultiSessionDialog()
+
+print(len(dataset))
+print(dataset[0])
+```

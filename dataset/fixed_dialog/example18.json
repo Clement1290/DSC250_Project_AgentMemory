@@ -1,0 +1,188 @@
+{
+    "User Id": 18,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Sophie Kim. It's my first time here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Sophie! It's nice to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm excited but a bit overwhelmed. I just started my semester in Environmental Science."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's understandable. Starting a new semester can come with a lot of pressure. What's been overwhelming you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm taking multiple challenging courses and I'm also leading the campus environmental club. I'm starting to feel anxious about managing everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It sounds like you have a lot on your plate. Have you been able to talk to anyone about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I feel embarrassed to admit that I'm struggling."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's completely normal to feel this way. Many students find it hard to balance everything. Sometimes expressing these feelings can really help. Would you like to explore some ways to manage your responsibilities?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I'm still feeling anxious."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Sophie! I'm glad you came back. What's been going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "My anxiety has increased. During our last club meeting, members expressed frustration about our project progress, and I just felt so pressured."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really tough. It's understandable to feel the weight of their expectations, especially when you're already feeling overwhelmed."
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Yeah, I ended up withdrawing from the conversation because I didn't know how to respond."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Withdrawing can sometimes feel like the easiest option, but it can also leave you feeling isolated. Have you considered reaching out to those club members to communicate how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I haven't. I think I'm just too scared of letting them down."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's a common fear, but you might be surprised to find they appreciate your honesty. How might you feel about approaching them to discuss your challenges?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello, I had a pretty tough week."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Sophie! I'm sorry to hear that. What happened?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I missed a deadline for an important lab project, and I broke down afterward."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds very stressful. It's understandable to feel overwhelmed when things don't go as planned. How are you feeling now?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I feel guilty for letting everyone, especially my club, down."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's important to remember that everyone makes mistakes. How did your friend Mia respond when you talked to her about it?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "She was really supportive, but I still feel like I'm failing at everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's great that Mia is there for you. How might you reframe your experience to see this as an opportunity to learn rather than just a failure?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T15:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I decided to meet with a university counselor."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's wonderful to hear, Sophie! How did your meeting go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was helpful. We talked about my anxiety and the pressures I feel. They gave me some time management advice."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm glad you found it helpful! What strategies did they suggest?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "They recommended prioritizing my tasks and setting realistic goals. But I'm still unsure if I can implement those changes."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's normal to feel unsure when implementing new strategies. Just remember to take it one step at a time. How are you feeling about your responsibilities now?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I feel a bit relieved after talking about my struggles, but I still worry about disappointing others."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's okay to have those worries, but talking openly with your peers can foster understanding. You're making progress, and that's what matters. What's your plan moving forward?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I think I'll start small and try to reach out to my club members. Thanks for all your support!"
+            }
+        ]
+    }
+}

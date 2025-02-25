@@ -1,0 +1,31 @@
+{
+    "User Id": 46,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I talked to my brother, Amir, about everything I\u2019ve been feeling."
+        },
+        "question": "What did Jamila do before this conversation with the counselor?",
+        "answer": "She talked to her brother, Amir."
+    },
+    "long_term_QA": {
+        "question": "How did Jamila initially feel about her future and what sparked a change in her perspective after talking to her brother?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I think I could try. Thank you for encouraging me. I feel a little more confident now."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling excited but also a bit overwhelmed. There\u2019s a lot of pressure surrounding graduate school applications."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It\u2019s natural to feel unsure, but remember that mentors are there to guide you and help you learn."
+        },
+        "answer": "Initially, Jamila felt overwhelmed due to pressures regarding graduate school applications, but talking to her brother encouraged her and made her feel a little more confident about seeking mentorship."
+    }
+}

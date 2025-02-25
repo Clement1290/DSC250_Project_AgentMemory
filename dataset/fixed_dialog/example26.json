@@ -1,0 +1,278 @@
+{
+    "User Id": 26,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Aisha Malik. I think this is my first session with you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello Aisha! It's great to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, I'm a bit anxious. I have a lot on my plate right now."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I understand. Can you tell me more about what's been making you feel this way?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm organizing a mental health seminar at my university, and it's coming up soon. I've also got my classes and a friend who needs my support."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds like a lot to handle at once! It's understandable to feel overwhelmed. How are you managing your time with everything?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not very well, to be honest. I feel like I'm constantly running out of time."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That can be really tough. Have you had a chance to take breaks for yourself amidst all the responsibilities?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Not really. I feel guilty when I take time off."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Guilt often accompanies the feeling of being busy. Remember, taking breaks can be essential for your mental health. It can help you recharge and be more effective."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I know, I just struggle to allow myself to rest."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "It's a common challenge. Setting small breaks might help you ease into the idea. Would that be something you'd consider trying?"
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "I think I'll try that. Thank you for your support!"
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "You're very welcome, Aisha! I'm here to help. Let's check in about how things go next time. Take care!"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-10-01T11:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again! Aisha here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Aisha! It's nice to see you again. How did the seminar turn out?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It went okay, but I felt so stressed leading up to it. I had a hard time focusing on my studies."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds challenging. Managing stress can be difficult, especially with high expectations. How did the day of the seminar go?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt unprepared, like I let everyone down even though it went well. I was just so distracted in class."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that way, especially with so much pressure. Did you get any positive feedback from attendees?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Yes, some people said they found it helpful, but I still felt bad about my own performance."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's common to be hard on ourselves. Could focusing on the positive outcomes help you acknowledge your achievements?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I suppose. I'm just worried about Fatima too. She's still having a tough time."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Supporting a friend during a difficult time can be emotionally taxing. Have you thought about how you could balance supporting her with taking care of yourself?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I haven't been, honestly. It's just been overwhelming."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "Finding a balance is important. It might help to set boundaries for your support so you can also take care of your own needs. What do you think?"
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "That could be a good idea. Thank you for the suggestion!"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-21T14:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Aisha! Welcome back. How have you been since our last session?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, I've been feeling really exhausted and guilty. I can't stop thinking I should be doing more for Fatima."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That must be a heavy burden for you. It's normal to feel that way, especially when you care about someone. How has that affected your interactions with others?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Well, I've become more irritable, especially with my family and friends. They don't understand how much I'm feeling right now."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It can be tough when those around us don't fully grasp our struggles. Have you been able to talk to them about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I just pull away because I don't want to burden them with my problems."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It might be beneficial to communicate your feelings to them. Sharing your struggles can often strengthen relationships and help others understand your needs better."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I guess I could try. I just worry about how they'll react."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That's a valid concern, but remember that expressing yourself can open avenues for support. Would you feel more comfortable sharing your feelings with Fatima directly?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Maybe. I've just been so drained that talking sometimes feels impossible."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "It's okay to take your time. Being vulnerable can be challenging, but it's part of forming deeper connections."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:30:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, it's me again."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Aisha! I'm glad you came back. How have things been since our last session?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Not great. I had a moment at the charity volunteer event and snapped at someone for no reason."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. It sounds like it was a shocking moment for you. What do you think triggered that response?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I just realized how much I've been holding in. It caught me off guard."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That realization can be a powerful indicator of needing to address what you're feeling. Are you considering seeking help for the emotions you've been experiencing?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I want to, but I feel apprehensive about it. I'm scared of being judged."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Your feelings are completely valid. Remember that seeking help is a step toward taking care of your well-being. It doesn't signify weakness; rather, it's a strength."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I understand that, but what if people think less of me?"
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Most people appreciate honesty when it comes to mental health struggles. It might be helpful to remind yourself that seeking help indicates self-awareness and desire for growth."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "That makes sense. I still feel trapped in my thoughts though."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "Feeling trapped can be exhausting. Take your time to sort through your emotions, and know that it's okay to reach out for support when you're ready. You're not alone in this."
+            }
+        ]
+    }
+}

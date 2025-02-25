@@ -1,0 +1,25 @@
+{
+    "User Id": 58,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Maya starts her semester with high hopes but feels the pressure mounting as she juggles her Biochemistry coursework and the responsibilities of helping her mother at the bakery. She notices that her friend, Priya, has been feeling distant lately. This situation worries Maya, as she deeply values her friendship with Priya and is concerned about her well-being. Despite her worries, she tries to stay organized and positive as she adjusts to the new semester.",
+            "Mental State": ["Worry", "Optimism", "Concern"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks pass, Maya's workload increases, and she begins to set aside her hobbies like baking and playing the violin. She notices that Priya has not been responding to messages and seems to be avoiding social interactions. Maya feels helpless as she wants to support her friend but doesn't know how to reach out without intruding. This situation starts affecting her own mental health, causing her to struggle with feelings of inadequacy for not being able to help Priya as well as stressing over her academic commitments.",
+            "Mental State": ["Overwhelmed", "Frustration", "Isolation"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Maya finally decides to reach out to Priya in person, but when they meet, the conversation feels awkward. Priya opens up about her own struggles with anxiety and feeling overwhelmed, but Maya feels distressed as she cannot find the right words to comfort her. She senses a rift in their friendship that she cannot bridge, leading her to question her ability to support others. This encounter leaves her feeling disheartened, as she longs to be there for Priya but feels inadequate to do so.",
+            "Mental State": ["Disheartened", "Inadequacy", "Sadness"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After reflecting on her recent experiences, Maya decides to seek guidance from her academic advisor. During their meeting, she voices her concerns about juggling her studies and her emotional struggles regarding Priya. Her advisor encourages her to consider talking to a mental health professional, emphasizing the importance of self-care. Maya feels a mix of relief to share her struggles but also uncertainty about how to take the next step, leading to a deeper exploration of her emotional needs and the support available to her.",
+            "Mental State": ["Relief", "Vulnerability", "Uncertainty"]
+        }
+    }
+}

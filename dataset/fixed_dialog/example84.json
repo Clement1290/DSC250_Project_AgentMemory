@@ -1,0 +1,158 @@
+{
+    "User Id": 84,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I\u2019m Maya Patel. It\u2019s my first time here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello Maya! Welcome! It\u2019s great to meet you. What can I help you with today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I\u2019m feeling a bit frustrated about my new semester in biochemical engineering."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I\u2019m sorry to hear that. What\u2019s been bothering you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I joined a group project on renewable energy sources, but one of my teammates, Alex, has been missing meetings and not contributing at all."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds challenging. Have you had a chance to speak with him about it?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I tried reaching out to him, but he hasn\u2019t responded. I\u2019m worried about how this will affect our project\u2019s success."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi there! I\u2019m back. Things got a bit more complicated."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Maya. What\u2019s been going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "As the project deadline approaches, I\u2019ve taken on more responsibilities to keep things on track. But now I\u2019m feeling totally overwhelmed."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That\u2019s a lot to handle! Have you spoken up about how you\u2019re feeling during group meetings?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I tried, but my classmates said I was being too sensitive about Alex's participation. Now I'm feeling anxious about addressing any conflicts."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It\u2019s understandable to feel anxious, especially when you\u2019re trying to ensure the project succeeds. How about writing down your thoughts to prepare for the next meeting?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello again! I feel utterly burnt out now."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Maya. I\u2019m here to listen. What\u2019s leading to this burnout?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "With the deadline looming, I\u2019ve been working late nights to cover for Alex. During rehearsal, I broke down, feeling like I failed the group."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really tough. It\u2019s hard when you put in so much effort and still feel unsupported. Have you reached out to anyone for help?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Not really. I don\u2019t want to burden my friends, and I feel ashamed for struggling."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It\u2019s okay to seek support. Sharing your feelings with friends can lighten the burden and may even lead to helpful solutions."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "I finally spoke up after our project presentation, and it felt refreshing."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That\u2019s wonderful to hear, Maya! How did your friends respond?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "They were really supportive and shared their struggles too. It felt good to connect over our challenges, but I'm still uncertain about my leadership abilities."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It\u2019s normal to feel uncertain after such experiences. Have you considered what kind of support you might need to develop your leadership style?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I\u2019m thinking about reaching out for professional guidance, but I\u2019m still hesitant."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Taking that step shows strength and a desire to grow, which is commendable. I encourage you to pursue it when you feel ready."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Thanks for your support! I appreciate all the advice."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "You\u2019re very welcome, Maya! Take care, and remember I\u2019m here whenever you need to talk."
+            }
+        ]
+    }
+}

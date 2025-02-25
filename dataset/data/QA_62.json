@@ -1,0 +1,31 @@
+{
+    "User Id": 62,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019m worried about whether I can really make those changes."
+        },
+        "question": "What is Isabella worried about regarding the changes she needs to make?",
+        "answer": "She is worried about whether she can really make those changes."
+    },
+    "long_term_QA": {
+        "question": "How did Isabella's initial excitement for her semester change, and what factors contributed to her feeling overwhelmed and anxious?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "During a group critique for a class project, Isabella feels exposed and doubts her abilities after receiving harsh feedback from her peers."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m really excited for the semester to start. I\u2019m studying Graphic Design, and I have an upcoming art exhibition!"
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "With my dad being unwell and the exhibition approaching, I\u2019ve been losing sleep. I feel like I\u2019m not giving enough to either my studies or my family."
+        },
+        "answer": "Isabella begins the semester filled with excitement about her Graphic Design major and her upcoming art exhibition, but as her father's health declines and the exhibition approaches, she feels overwhelmed and anxious, ultimately doubting her abilities after harsh feedback during a critique."
+    }
+}

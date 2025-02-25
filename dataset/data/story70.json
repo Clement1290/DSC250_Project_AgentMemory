@@ -1,0 +1,25 @@
+{
+    "User Id": 70,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Elena starts the semester with great enthusiasm for her Psychology classes. After a wonderful summer filled with workshops on mental health awareness and community service, she returns to campus with a renewed passion for her studies. However, during her first class, she notices that many of her peers are more focused on grades than on the meaningful discussions about mental health issues. When she attempts to raise an important topic, she feels dismissed by her classmates, which leads her to feel disheartened and alienated.",
+            "Mental State": ["Frustrated", "Isolated", "Disheartened"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Elena decides to confide in her brother Karim about her feelings of disconnect with her classmates and the lack of enthusiasm in class discussions. However, Karim, busy with his own work, suggests that she should simply focus on her grades instead of trying to inspire her peers. Feeling unsupported and invalidated by someone she looks up to, Elena begins to doubt her capabilities and considers changing her approach to fit in better, leading to feelings of loneliness and discouragement.",
+            "Mental State": ["Lonely", "Discouraged", "Doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-15",
+            "Description": "As part of her coursework, Elena is assigned a project that focuses on social issues related to mental health. She feels a spark of excitement as she wants to highlight the importance of empathy in understanding psychological well-being. However, in the first group meeting, her ideas are met with indifference, as her teammates focus on more basic topics. Overwhelmed by the lack of support, Elena withdraws, feeling that her creativity and insights are unappreciated. This internal conflict leaves her questioning her role and whether she should conform to less challenging ideas.",
+            "Mental State": ["Frustrated", "Defeated", "Conflicted"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-01",
+            "Description": "The day of the project presentation comes, and Elena is filled with both excitement and anxiety. She knows the material and wishes to convey her heartfelt passion for the subject. However, during the presentation, she struggles to connect with the audience, sensing their lack of engagement. After the presentation, she feels a deep sense of failure and begins to reevaluate her commitment to psychology. Contemplating whether she should shift her focus to a different area, like art therapy or photography, she grapples with feelings of being lost in terms of her identity and passions.",
+            "Mental State": ["Defeated", "Uncertain", "Reflective"]
+        }
+    }
+}

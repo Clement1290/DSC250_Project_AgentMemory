@@ -1,0 +1,25 @@
+{
+    "User Id": 4,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the new semester begins, Daniela feels overwhelmed by the increasing demands of her Graphic Design program. She just submitted her first major project, but receiving constructive criticism from her professor made her question her talents and future in the field. Daniela feels anxious about living up to her family's creative legacy, especially with her father's successful painting career. This pressure has left her feeling insecure about her skills.",
+            "Mental State": ["anxious", "insecure", "overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "In a group project, Daniela finds it hard to voice her opinions and suggestions. While collaborating with classmates, she struggles with sharing her ideas and feels overshadowed by more outspoken members of the group. This experience exacerbates her self-doubt, as she worries that her contributions may not be valued. Daniela feels increasingly excluded, intensifying her sense of inadequacy regarding her creative abilities.",
+            "Mental State": ["excluded", "self-doubting", "frustrated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As the semester progresses, Daniela's anxiety continues to grow. She finds herself avoiding social events and group discussions, fearing further criticism or inadequacy. When she attends a family gathering where her father showcases his artwork, she feels a strong sense of comparison and disconnection. Observing her father's discussions about his successes increases her feelings of despair about her own future in design, leaving her feeling trapped and unmotivated.",
+            "Mental State": ["isolated", "despairing", "unmotivated"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of grappling with her emotions, Daniela finally decides to seek support from the campus counseling center. In her first session, she opens up about her anxiety and fear of inadequacy in her major. While she feels slightly relieved to express her struggles, the deeper-rooted issues of perfectionism and self-criticism remain unresolved. Daniela realizes she needs to work on building her self-confidence and coping strategies but feels uncertain about how to navigate this process.",
+            "Mental State": ["relieved", "uncertain", "hopeful"]
+        }
+    }
+}

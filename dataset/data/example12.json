@@ -1,0 +1,51 @@
+{
+    "User Id": 12,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T09:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I'm Sofia Martinez. I'm 20 years old and studying Biochemistry.",
+            "Counselor": "Hello, Sofia! It’s great to meet you. How are you feeling today?",
+            "Student": "I’m feeling a bit off, actually. I started my lab course, and I'm really excited about it, but something happened.",
+            "Counselor": "I’m sorry to hear that. What happened during your lab course?",
+            "Student": "Well, during the first lab meeting, my partner, Henry, joked about my enthusiasm. He called me ‘too bubbly’ for a science class.",
+            "Counselor": "That sounds hurtful. It can be tough when someone undermines your excitement in a subject you love. How did it affect you?",
+            "Student": "I felt embarrassed and self-conscious. It made me question if I belong in this rigorous field.",
+            "Counselor": "Those feelings are completely valid, Sofia. You’re studying something you’re passionate about. What steps have you taken to deal with those feelings?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I'm feeling even more anxious now. It's hard to connect with my classmates.",
+            "Counselor": "I'm glad you reached out again. What’s been happening since we last spoke?",
+            "Student": "After Henry's comments, I find it hard to speak up during lab. My attempts to engage with others have been met with indifference.",
+            "Counselor": "It’s understandable to feel anxious when trying to connect after a negative experience. Have you been able to speak to anyone about how you feel?",
+            "Student": "Not really. I’m afraid of being rejected again. It just makes me doubt if I belong here.",
+            "Counselor": "Those feelings can be really overwhelming, and avoiding social interactions can make it worse. Have you considered any strategies to help you ease back into group work?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T11:00:00Z",
+        "Dialogue": {
+            "Student": "I'm back, but I'm feeling so overwhelmed. Midterms are coming, and I think about dropping my lab course.",
+            "Counselor": "It sounds like you're under a lot of pressure. Why are you thinking about dropping the class?",
+            "Student": "I’m terrified of failing. I want to reach out to my professor, but I’m worried about being rejected again.",
+            "Counselor": "That’s a big concern to have. It’s natural to feel like avoiding the situation, but reaching out could provide you with valuable support. Have you thought about what you would say?",
+            "Student": "I want to explain how I've been feeling but I'm worried I won’t express myself well.",
+            "Counselor": "It's okay to feel nervous. Acknowledging your feelings is a great first step. Even if it’s difficult, being open can help you find the support you need."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T12:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’ve thought about what we discussed. I really want to reach out to my professor about my concerns.",
+            "Counselor": "That’s a constructive decision, Sofia! What do you hope to gain from this conversation?",
+            "Student": "I want to express my struggles and get some guidance on how to participate more effectively in the lab.",
+            "Counselor": "That sounds like a solid plan. How do you feel about approaching this conversation?",
+            "Student": "I feel a bit nervous, but I think it's important to address my concerns. I’ve realized I can’t do this alone.",
+            "Counselor": "Absolutely! Reaching out for help is a sign of strength. I’m here to support you through this process. Just remember, your feelings matter.",
+            "Student": "Thank you! I really appreciate your encouragement. I’ll let you know how it goes.",
+            "Counselor": "You’re welcome, Sofia! Best of luck with your conversation. I’m confident you’ll do great!"
+        }
+    }
+}

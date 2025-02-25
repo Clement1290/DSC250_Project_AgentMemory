@@ -1,0 +1,25 @@
+{
+    "User Id": 84,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Maya was eager to start her new semester in biochemical engineering and was excited to join a group project on renewable energy sources. However, as the weeks progressed, she realized that one of her teammates, Alex, was consistently missing meetings and not contributing to the project. Maya tried to reach out to him, hoping to understand his situation, but received little response. This lack of engagement from Alex left her feeling frustrated and concerned about the project’s success.",
+            "Mental State": ["frustrated", "concerned", "disappointed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the project deadline approached, tensions increased among the group. Maya decided to take on additional responsibilities to ensure the project stayed on track, which led to feelings of being overwhelmed. During a group meeting, Maya tried to discuss her concerns about Alex's participation, but the other group members dismissed her worries, suggesting Maya was just being too sensitive. This dismissal made Maya feel anxious about addressing conflicts within the team and began to doubt her leadership abilities.",
+            "Mental State": ["anxious", "overwhelmed", "doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With the deadline looming and Maya's stress levels rising, she experienced burnout. She spent late nights working on the project alone, trying to compensate for Alex's lack of contribution. During a crucial presentation rehearsal, Maya fell apart under pressure, feeling like she had failed her group. Instead of receiving support, she felt even more isolated when her teammates focused only on the shortcomings of the project's development. This led Maya to withdraw further from her friends and her usual coping habits like volunteering and dancing.",
+            "Mental State": ["burnt out", "isolated", "defeated"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After the project presentation, although she received some positive feedback, Maya felt unfulfilled and anxious about facing her peers again. She gathered the courage to address her feelings with her friends, who surprised her with their own struggles about group dynamics during the project. This moment of shared vulnerability created a supportive bond among them. However, Maya still struggled with feelings of inadequacy and was uncertain about how to proceed with her leadership style, realizing she needed to grow in that area. Eager to learn, she contemplated reaching out for professional guidance but remained hesitant.",
+            "Mental State": ["relieved", "uncertain", "hopeful"]
+        }
+    }
+}

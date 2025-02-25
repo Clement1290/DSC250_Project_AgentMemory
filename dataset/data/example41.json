@@ -1,0 +1,87 @@
+{
+    "User Id": 41,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00",
+        "Dialogue": {
+            "Student": "Hi there, I'm Ella Thompson. This is my first time here.",
+            "Counselor": "Hello, Ella! It’s great to meet you. How are you feeling today?",
+            "Student": "Honestly, I’m feeling a bit overwhelmed. I'm starting my third year of college, and it’s just a lot to handle.",
+            "Counselor": "That sounds really challenging. Can you tell me more about what’s been overwhelming you?",
+            "Student": "Well, I have a lot of pressure from my coursework in psychology, and my brother Mark is in med school, so I can't help but feel this pressure to succeed like him.",
+            "Counselor": "I understand. It can be tough to compare ourselves to others, especially family. It sounds like that comparison is adding to your stress. How does that make you feel?",
+            "Student": "It makes me feel insecure, like I'm not good enough.",
+            "Counselor": "Those feelings are valid, Ella. It’s common to feel that way, especially when we have high expectations. What do you usually do to cope with those feelings?",
+            "Student": "I try to keep busy with my part-time job at a mental health outreach program, but it feels like it’s adding to my stress.",
+            "Counselor": "Juggling school and work is a lot! It’s important to find a balance. Have you considered taking some time for yourself?",
+            "Student": "I haven’t really thought about it. I feel guilty for not working harder.",
+            "Counselor": "It's okay to give yourself a break, Ella. Taking care of your mental health is just as important as your studies. What do you enjoy doing that relaxes you?",
+            "Student": "I like photography and hiking, but I haven’t had time for them lately.",
+            "Counselor": "How about scheduling some time to go for a hike or take some photos? It might help to clear your mind.",
+            "Student": "That sounds nice. I’ll try to make time for that.",
+            "Counselor": "That’s a great idea! Just remember to be kind to yourself. You're doing your best. Do you have any other thoughts you’d like to share today?",
+            "Student": "Not really, but this discussion has been helpful. Thank you for listening.",
+            "Counselor": "I'm glad to hear that, Ella. Remember, I'm here for you anytime you need to talk. Take care!"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T15:00:00",
+        "Dialogue": {
+            "Student": "Hi, it’s Ella again. I wanted to talk about something that happened recently.",
+            "Counselor": "Hi Ella! Of course, I’m here to listen. What’s been on your mind?",
+            "Student": "I just came from a family gathering, and I felt really out of place. Everyone was celebrating Jason's soccer win, but I was just… lost.",
+            "Counselor": "Family gatherings can be a lot of pressure sometimes. What made you feel out of place?",
+            "Student": "My parents kept praising Mark for his success in med school. I couldn’t help but feel inadequate compared to him.",
+            "Counselor": "That’s tough, Ella. It’s easy to slip into comparing ourselves to our siblings, especially when they’re being highlighted. How did that make you feel?",
+            "Student": "I felt disconnected from my family. I was smiling and engaging with them, but inside, I was just… sad and frustrated.",
+            "Counselor": "It’s okay to feel that way. You deserve to have your achievements acknowledged too. What do you think would help you express how you feel to your family?",
+            "Student": "I don’t know. I fear that they won’t understand.",
+            "Counselor": "It might help to have an open and honest conversation with them. They may be surprised to hear your perspective.",
+            "Student": "Yeah, maybe. It’s just hard to open up about these feelings.",
+            "Counselor": "It can be difficult, but remember that vulnerability can lead to understanding. What are you thinking about doing next?",
+            "Student": "I think I need to process these feelings. Maybe I’ll write them down.",
+            "Counselor": "That’s a wonderful idea! Journaling can be therapeutic. If you ever want to share your thoughts, I’m here for you.",
+            "Student": "Thank you, that means a lot. I really appreciate this support.",
+            "Counselor": "You’re welcome, Ella. Take care of yourself, and I look forward to hearing how you’re doing next time."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00",
+        "Dialogue": {
+            "Student": "Hi, I’m back. I’ve been thinking a lot about my work.",
+            "Counselor": "Hi Ella! I’m glad you’re here. What’s been on your mind?",
+            "Student": "I’ve been working at the outreach program and recently met a young woman named Sarah. She’s really struggling with anxiety and depression.",
+            "Counselor": "That sounds like a really impactful experience. How did it affect you?",
+            "Student": "I tried to support her, but it was draining. I’ve started feeling helpless about my own emotional state.",
+            "Counselor": "That’s understandable. Sometimes, supporting others can take a toll on our own wellbeing. Can you share more about what you’ve been feeling?",
+            "Student": "I feel exhausted, and it’s like I’m withdrawing from friends and activities I used to enjoy.",
+            "Counselor": "It sounds like you’re carrying a heavy emotional load. It’s okay to step back and prioritize your own needs. What do you think might help you recharge?",
+            "Student": "I wish I could just escape from everything for a bit. But I also don’t want to let Sarah down.",
+            "Counselor": "You’re not letting anyone down by taking care of yourself first. It’s important to preserve your own mental health. Have you considered talking to someone about these feelings?",
+            "Student": "Not really. I’ve been trying to handle it on my own.",
+            "Counselor": "It's okay to seek help. Sometimes, even a few sessions with a therapist can provide a fresh perspective. Would you be open to that?",
+            "Student": "I guess I could think about it. It just seems like a big step.",
+            "Counselor": "It can feel daunting, but it's a positive step forward. Remember, your wellbeing matters too.",
+            "Student": "Thank you, I appreciate your understanding. It helps to talk about this.",
+            "Counselor": "Of course! I'm here whenever you need support. Take care of yourself in the meantime."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T11:30:00",
+        "Dialogue": {
+            "Student": "Hi, it's Ella again. I had a discussion with my friend Mia last night.",
+            "Counselor": "Hi Ella! It’s nice to see you back. How did that conversation go?",
+            "Student": "It was eye-opening. Mia encouraged me to confront my feelings and think about seeking professional help.",
+            "Counselor": "That’s great to hear! Sharing your struggles with a friend can be so healing. How do you feel about her suggestion?",
+            "Student": "I feel a bit hopeful, but also scared about taking that step. What if it doesn’t help?",
+            "Counselor": "It’s completely normal to feel scared about seeking help. It’s a big step, but remember, it’s also a step toward healing. What about discussing your hesitations?",
+            "Student": "I worry I might not be taken seriously or that I won’t connect with a therapist.",
+            "Counselor": "Those are valid concerns. Finding the right therapist can take time, but many are trained to be understanding and supportive. It’s worth pursuing.",
+            "Student": "That makes sense. I do want to try to improve my situation.",
+            "Counselor": "That’s an admirable goal! It shows strength to want to change. What other support do you think could help you as you consider this step?",
+            "Student": "I think I need to keep talking about it, maybe with more friends who understand.",
+            "Counselor": "Definitely! Having a support network can make a huge difference. You deserve to feel supported through this process.",
+            "Student": "Thank you for being here for me. I feel a bit lighter just talking about it.",
+            "Counselor": "I’m glad to hear that, Ella. Remember, I’m here whenever you need to talk. Take care and take your time with this journey."
+        }
+    }
+}

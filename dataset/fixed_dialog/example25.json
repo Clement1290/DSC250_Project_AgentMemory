@@ -1,0 +1,313 @@
+{
+    "User Id": 25,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi there, I'm Maya Patel. I believe this is my first session with you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Maya! It's great to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, a bit anxious. I have midterms coming up, and I'm trying to keep up with everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I understand that can be really overwhelming. What specifically is causing the most anxiety for you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I received a text from my friend inviting me on a hiking trip. I really want to go, but I feel guilty leaving my studies behind."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds like a tough situation. It's always hard to balance enjoyment with responsibilities. Have you considered how a short break might help your studies?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I know it might help in theory, but I worry about falling behind."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's a valid concern. Sometimes a little time away can actually refresh your mind and improve focus. Do you enjoy hiking?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Yes, I love being outdoors. It's just hard to switch off my study mindset."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It sounds like you could really benefit from that outdoor time. Balancing work and play is important. Would you feel better if you planned time for both?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I guess I could plan ahead, but I still feel conflicted."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "It's completely normal to feel conflicted. What if you set limits on your study time to make sure you could participate in the trip without guilt?"
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "That sounds reasonable. I'll try planning study blocks before I leave."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "That's a great strategy! Remember, taking a break can actually boost productivity. Is there anything else on your mind?"
+            },
+            {
+                "role": "Student",
+                "round": 8,
+                "content": "No, I think that's it for now. Thank you for your help!"
+            },
+            {
+                "role": "Counselor",
+                "round": 8,
+                "content": "You're very welcome, Maya. I'm glad I could offer some support. Let's touch base again soon. Take care!"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-10-01T11:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, it's me again, Maya."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Maya! Welcome back. How did the hiking trip go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was nice, but I couldn't really enjoy it. I kept thinking about my studies."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds frustrating. It can be tough to disconnect from responsibilities. Could you tell me more about what happened?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt guilty for not studying, and it affected my mood. I ended up getting irritable with my friends."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "I can see how that would make the trip less enjoyable. It's tough feeling guilt when you want to have fun. Did you manage to talk it through with your friends?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I distanced myself from them during the campfire, and now I feel isolated."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Isolating yourself can sometimes feel like a protective measure, but it can deepen feelings of loneliness. Have you thought about reaching out to them?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I guess I should, but I'm embarrassed about how I acted."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's okay to feel that way. Remember that your friends care about you. They might understand what you were feeling."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Maybe you're right. I'll consider talking to them. Thanks for the encouragement!"
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "You're welcome! Just remember, everyone has moments where they feel off. It's part of being human. Do you feel more at ease thinking about it?"
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "A bit, yes. Thank you for listening."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "Anytime! I'm here for you. Let's chat again soon to see how you're feeling."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-21T14:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Maya! How have you been since our last session?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Not great, to be honest. My grades are slipping, and I feel really depressed about it."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. It must be tough feeling this way, especially after the hiking trip. Would you like to share more about what's been affecting you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "After the trip, I couldn't concentrate at all. I ended up arguing with my brother Arjun about my studies."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds difficult. It's tough when family members don't seem to understand the pressure you're under. How did the conversation go?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "He was just trying to help, but I felt hurt and misunderstood. Now I feel even more alienated from my family."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Feeling alienated can be really painful. Have you considered talking to Arjun about how you felt during that argument?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I don't know; I feel like he just won't get it."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It might feel that way now, but opening up can sometimes lead to better understanding. It shows vulnerability, which can strengthen bonds."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I see your point. I just worry it'll lead to more conflict."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "That's a valid concern, but communication is key. Your feelings are valid. Have you thought about writing a letter if talking seems too daunting?"
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "That could be easier for me. I think I'll give that a try."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "That sounds like a good approach. Remember, it's okay to feel what you're feeling. It's part of the process."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:30:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, it's Maya again."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Maya! It's good to see you. How have things been since our last session?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I still feel overwhelmed. I reached out to Priya, but I struggled to open up about my feelings."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "Opening up can indeed be challenging. It's a process that takes time. How did Priya respond?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "She suggested I see a counselor, which makes sense, but I feel embarrassed about it."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's completely normal to feel that way. Remember, seeking help is a sign of strength, not weakness. Many people do it."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I get that, but I still feel resistant to the idea."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Resistance is common. You could think about it as a step toward self-care rather than a label of weakness."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "That perspective helps. I guess I just worry about what others will think."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Your mental health is the priority. If seeking help can support you, it's worth overcoming that fear. You're not alone in this."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I appreciate your reassurance. It makes it easier to think about."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "That's great to hear! Just remember, it's okay to take your time. Acknowledge how far you've come."
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "Thank you for being here; it really helps me feel less alone."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "I'm glad to support you, Maya. Take your time with this, and we can talk more whenever you need."
+            }
+        ]
+    }
+}

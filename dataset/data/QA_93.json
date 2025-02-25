@@ -1,0 +1,31 @@
+{
+    "User Id": 93,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "They encouraged me to embrace my creativity without fear of judgment and to find little ways to express my ideas confidently."
+        },
+        "question": "What did Ava Kim's advisor encourage her to embrace?",
+        "answer": "Her creativity."
+    },
+    "long_term_QA": {
+        "question": "How did Ava feel about sharing her ideas in group projects prior to her conversation with her advisor, and what motivated her to embrace her creativity more after their discussion?",
+        "local evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "In group projects, I\u2019m hesitant to share my ideas. I feel like I don\u2019t measure up to my classmates, especially Lisa who is very assertive."
+        },
+        "long-term evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "They encouraged me to embrace my creativity without fear of judgment and to find little ways to express my ideas confidently."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "That\u2019s a great step forward! What did you find particularly helpful?"
+        },
+        "answer": "Ava felt hesitant and inadequate about sharing her ideas in group projects, feeling overshadowed by assertive classmates, but after speaking with her advisor, she was encouraged to embrace her creativity without fear of judgment, which motivated her to express herself more confidently."
+    }
+}

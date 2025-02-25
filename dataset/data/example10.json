@@ -1,0 +1,57 @@
+{
+    "User Id": 10,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T09:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I'm Emily Zhang. I'm a psychology major.",
+            "Counselor": "Hello, Emily! It's great to meet you. How are you feeling today?",
+            "Student": "I’m feeling a bit disappointed. I had planned a get-together with some classmates, but one of my friends canceled last minute.",
+            "Counselor": "I'm sorry to hear that. It can be tough when plans fall through, especially when you’re trying to connect with new people. How did that make you feel?",
+            "Student": "It made me question whether I can actually form friendships here. I feel a bit insecure about it.",
+            "Counselor": "That’s completely normal. Starting fresh in a new environment can be challenging. What were you hoping to achieve with the get-together?",
+            "Student": "I just wanted to get to know my classmates better and build some friendships.",
+            "Counselor": "Building friendships takes time and effort, especially in a new setting. It’s understandable to feel lonely now, but it doesn’t define your ability to connect with others. Have you thought about reaching out to anyone else?",
+            "Student": "I haven't really. I guess I’m a little hesitant after this incident."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I’ve been trying to reach out to classmates but it’s been hard to connect. I feel more anxious.",
+            "Counselor": "It's good to see you again, Emily. It sounds like connecting with others hasn't been easy. What happened in your recent attempts?",
+            "Student": "I went to a group study session, but everyone seemed preoccupied and didn’t engage with me. It felt isolating.",
+            "Counselor": "That sounds frustrating and can really heighten your feelings of isolation. Have you thought about what made it hard for you to connect?",
+            "Student": "I think it’s partly my anxiety. I get worried that people won’t want to talk to me.",
+            "Counselor": "That’s a very common feeling. Remember, many people feel shy or anxious in new social situations. It doesn’t mean they don’t want to engage. How about trying to initiate a small conversation next time?",
+            "Student": "I’d like to try that, but it’s intimidating.",
+            "Counselor": "I understand; it can be intimidating. Maybe starting with a compliment or a question about schoolwork could help ease you into it."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T11:00:00Z",
+        "Dialogue": {
+            "Student": "I attended a mental health workshop today. I shared my feelings, but I still feel disconnected.",
+            "Counselor": "It’s great that you attended the workshop, Emily. It can be tough to open up about feelings. How did sharing your experience feel for you?",
+            "Student": "I thought it would help, but I still left feeling like nobody understands what I'm going through.",
+            "Counselor": "I can see how that would be disheartening. Feeling misunderstood can deepen feelings of loneliness. Have you given any thought to what you want to do moving forward?",
+            "Student": "Honestly, I’m starting to question if I should still pursue psychology. It’s discouraging when I feel this way.",
+            "Counselor": "That’s a significant concern. Remember, your passion for psychology doesn’t disappear just because you’re having a tough time connecting right now. Have you thought about seeking a professor’s guidance?",
+            "Student": "I haven’t really considered that. I just feel like I’m not doing well enough."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T13:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’ve been reflecting on my situation. I think I want to talk to a professor about my feelings.",
+            "Counselor": "That’s a positive step, Emily! It shows you’re taking action to address how you’ve been feeling. What do you hope to gain from that conversation?",
+            "Student": "I’m hoping for some understanding and possibly to find out about more opportunities to connect with others who share my interests.",
+            "Counselor": "That sounds like a great plan. Also, exploring groups or clubs on campus could open new avenues for connection. Do any particular groups interest you?",
+            "Student": "Yes, I’ve been thinking about joining a psychology club or a volunteering group. It might help me meet new people.",
+            "Counselor": "Absolutely! Engaging in activities you enjoy can help you bond with like-minded individuals. How are you feeling about reaching out to your professor now?",
+            "Student": "I feel a bit hopeful, but I’m also nervous about opening up.",
+            "Counselor": "It’s completely normal to feel nervous. Just remember, being open about your feelings takes courage and can lead you to supportive resources. I’m here for you if you need anything!",
+            "Student": "Thank you for your support! I really appreciate it. I’ll keep you posted on how it goes.",
+            "Counselor": "You’re welcome, Emily! Best of luck with your conversation. Take care!"
+        }
+    }
+}

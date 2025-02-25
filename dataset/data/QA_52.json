@@ -1,0 +1,31 @@
+{
+    "User Id": 52,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "Afterward, I talked to Hannah, and she encouraged me to embrace my unique perspective."
+        },
+        "question": "What did Elias plan to do next after talking to Hannah about his career path?",
+        "answer": "...embrace his unique perspective."
+    },
+    "long_term_QA": {
+        "question": "How did Elias feel about his future before he spoke with his sister, and what did she say that prompted a shift in his outlook?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "He feels a small glimmer of hope despite still grappling with feelings of conflict regarding his career path."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I just took a trip to the park to clear my mind, but I still feel lost."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "Afterward, I talked to Hannah, and she encouraged me to embrace my unique perspective."
+        },
+        "answer": "Before speaking with his sister, Elias felt lost and frustrated about his future. After their conversation, Hannah encouraged him to embrace his unique perspective, prompting a small glimmer of hope in him."
+    }
+}

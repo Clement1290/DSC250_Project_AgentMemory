@@ -1,0 +1,25 @@
+{
+    "User Id": 34,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the semester begins, Sophia is excited about her Environmental Science courses but also feels the pressure of balancing her studies and passion projects. She has recently taken on a leadership role in a campus organization focused on sustainability, which she finds fulfilling but also daunting. This newfound responsibility leaves her worried about the expectations from her peers and the community.",
+            "Mental State": ["Excited", "Anxious", "Overwhelmed", "Determined"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Sophia's workload from her classes, coupled with the demands of her leadership role, begins to take a toll. She starts to feel isolated as she struggles to find time for her artistic pursuits and outdoor activities that usually ground her. Her brother, Diego, notices her distress during a family luncheon and encourages her to talk about her feelings, but Sophia brushes him off, not wanting to burden him with her problems.",
+            "Mental State": ["Isolated", "Stressed", "Guilty", "Frustrated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With midterms approaching, Sophia is overwhelmed by the competing demands on her time. An upcoming environmental event for the campus organization is intensifying her stress. During one of her meetings, a disagreement arises between Sophia and another team member about the direction of the project, leading to heightened tensions. Feeling unsupported and unsure of her leadership abilities, she starts to doubt herself and withdraw from her friends.",
+            "Mental State": ["Defeated", "Anxious", "Disheartened", "Lonely"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After reflecting on the past few weeks, Sophia realizes that she cannot continue carrying the burden alone. She reaches out to a trusted mentor in her department for guidance. During their conversation, she expresses her fears about her leadership skills and the pressure to meet expectations. With a newfound sense of clarity, Sophia starts to develop a plan to delegate responsibilities within the organization and prioritize her well-being. Though still anxious about the upcoming projects, she feels a flicker of hope that she can regain balance.",
+            "Mental State": ["Hopeful", "Relieved", "Empowered", "Determined"]
+        }
+    }
+}

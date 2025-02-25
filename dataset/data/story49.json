@@ -1,0 +1,25 @@
+{
+    "User Id": 49,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Samantha finds herself overwhelmed with her coursework as midterms approach. Balancing her major in Biology with her extracurricular activities and family expectations becomes increasingly stressful. She feels a growing pressure to excel in her studies, especially since her brother Arjun, an exceptional law student, regularly shares his achievements at family gatherings. During a group study session with her classmates, Sarah and David, she voices her worries about not meeting her goals, revealing her fear of disappointing her family.",
+            "Mental State": ["overwhelmed", "anxious", "insecure"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Samantha’s anxiety continues to escalate as she struggles to keep up with her studies. She often feels isolated, believing that her friends do not understand the weight of her responsibilities. One evening, after a particularly tough biology class, she argues with Mira about trivial matters, as her frustration spills over into her home life. This leads to feelings of guilt and a sense of loneliness, as she feels she is pushing her loved ones away while trying to cope with her stress.",
+            "Mental State": ["isolated", "frustrated", "guilty"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With midterms approaching, Samantha has begun to doubt her capabilities, leading her to withdraw even further. She stops attending her friends' gatherings and avoids social interactions, choosing instead to stay in her room to study. One day, she receives a text from Sarah inviting her to a hiking trip, but she declines, feeling unworthy of enjoyment when she has so much to accomplish. Meanwhile, her parents notice her seclusion and express concern, but she responds defensively, feeling misunderstood and pressured.",
+            "Mental State": ["withdrawn", "unsure", "defensive"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Just days before midterms, Samantha finally breaks down, overwhelmed by the cumulative stress. During a discussion with her family about her upcoming exams, she completely loses her composure and shares her fears and feelings of inadequacy. Her parents supportively listen, offering reassurance and understanding, which makes her realize that she has not been alone in her struggles. Although she feels vulnerable, this moments of openness helps her acknowledge the importance of seeking help, yet she still carries the burden of her insecurities as she heads into the exams.",
+            "Mental State": ["vulnerable", "relieved", "still anxious"]
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "User Id": 24,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019m still anxious about my grades and how to balance everything."
+        },
+        "question": "What is still causing Samantha to feel anxious after reaching out to Maya?",
+        "answer": "Her anxiety is related to her grades and how to balance everything."
+    },
+    "long_term_QA": {
+        "question": "How did Samantha's feelings of being overwhelmed affect her interactions with friends, and what inspired her to open up and apologize to Maya?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I opened up about feeling overwhelmed, and she understood."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I ended up snapping at my friend Maya during a study group. I feel terrible about it."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "Acknowledging how you feel is a great first step."
+        },
+        "answer": "Samantha felt overwhelmed and ended up snapping at Maya, which made her feel terrible. This prompted her to acknowledge her feelings and apologize to Maya, leading to a supportive conversation about her struggles."
+    }
+}

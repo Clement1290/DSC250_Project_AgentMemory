@@ -1,0 +1,25 @@
+{
+    "User Id": 31,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Ella Brooks has just begun her final year of studying Art History, and she is filled with excitement yet pressured by expectations. With a thesis project looming and the upcoming art exhibitions to attend, Ella feels the weight of her academic responsibilities. Additionally, her close friend Mia has just dropped out of college, and Ella feels an emotional obligation to support her friend during this tough time. This combination of academic pressure and the emotional turmoil surrounding Mia's situation leads Ella to experience feelings of anxiety and stress.",
+            "Mental State": ["anxious", "stressed", "obligated"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As weeks progress, Ella finds it increasingly challenging to strike a balance between her studies and supporting Mia. She begins feeling guilty for not being more available for Mia, as her focus on her thesis deepens. During classes, Ella’s concentration suffers; her mind is preoccupied with thoughts about Mia’s well-being. This constant guilt weighs heavily on Ella, and she starts worrying that her academic performance will suffer because of her inability to support her friend effectively.",
+            "Mental State": ["guilty", "worried", "distracted"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "After weeks of tension, Ella and Mia have a confrontation. Mia expresses anger over Ella's perceived neglect and demands more of her attention and support. This emotional outburst leaves Ella feeling hurt and misunderstood, and she starts withdrawing further from social interactions. As a sensitive individual, Ella feels the emotional impact acutely, leading to isolation from her friends and family. The conflict with Mia makes Ella question her ability to maintain her friendships while fulfilling her academic responsibilities, leading to a significant decline in her mental well-being.",
+            "Mental State": ["hurt", "isolated", "questioning"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Attending a workshop on resilience and emotional health during her studies, Ella hears about the importance of self-care and communicating needs openly. This resonates with her, prompting a realization about her own emotional neglect. While she feels hopeful about prioritizing her mental well-being and reaching out for help, she grapples with feelings of vulnerability and shame regarding her struggles. Ella recognizes her need for support but remains conflicted about how to initiate that conversation with Mia and others, feeling both encouraged and apprehensive.",
+            "Mental State": ["hopeful", "apprehensive", "vulnerable"]
+        }
+    }
+}

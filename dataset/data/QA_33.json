@@ -1,0 +1,31 @@
+{
+    "User Id": 33,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I really want to reconnect with my hobbies too. I miss my photography and yoga."
+        },
+        "question": "What hobbies does Emma want to reconnect with?",
+        "answer": "Photography and yoga."
+    },
+    "long_term_QA": {
+        "question": "How did Emma feel before seeking help, and what led her to realize the need for assistance?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I finally reached out for counseling services."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "Honestly, I\u2019m a bit overwhelmed. I just started my final year, and I feel the pressure already."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It\u2019s a big step towards feeling better."
+        },
+        "answer": "Before seeking help, Emma felt overwhelmed as she just started her final year and felt the pressure. This prompted her to realize she needed assistance, which she understood as a big step towards feeling better."
+    }
+}

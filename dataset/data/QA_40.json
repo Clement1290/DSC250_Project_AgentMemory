@@ -1,0 +1,31 @@
+{
+    "User Id": 40,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I opened up about my feelings of pressure and the criticism I faced, and Dr. Garcia was really encouraging."
+        },
+        "question": "What did Sofia do before the last session that contributed to her growth?",
+        "answer": "She opened up about her feelings to Dr. Garcia."
+    },
+    "long_term_QA": {
+        "question": "How did Sofia feel about herself before discussing her challenges with Dr. Garcia, and what advice helped prompt a change in her perspective?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "It made me feel like I\u2019m not cut out for this major."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I feel like I can\u2019t share my ideas anymore."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "She emphasized the importance of being true to myself and not letting others' opinions define my worth."
+        },
+        "answer": "Before the conversation, Sofia felt defeated and questioned whether she was 'cut out for this major' and felt she couldn't share her ideas. After discussing her struggles, Dr. Garcia emphasized the importance of being true to herself, which helped Sofia realize that setbacks are part of the creative process and positively impacted her self-esteem."
+    }
+}

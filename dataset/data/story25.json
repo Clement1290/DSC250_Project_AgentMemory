@@ -1,0 +1,25 @@
+{
+    "User Id": 25,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Maya Patel has been feeling the pressure of her upcoming midterm exams in Environmental Science. She has been studying hard but struggles to balance her studies with her personal life. On this particular day, she receives a text from her best friend, Priya, inviting her to a weekend hiking trip. While excited about the idea of spending time in nature, Maya hesitates, worried about her studies. This internal conflict leaves her feeling anxious and overwhelmed as she feels torn between her responsibilities and her need for relaxation.",
+            "Mental State": ["anxious", "conflicted", "overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Maya decides to join the hiking trip after all, hoping it will recharge her for the midterm preparation. During the trip, she tries to enjoy the experience but continually finds herself distracted, thinking about her studies. She feels guilty for leaving her work behind and becomes irritable with her friends, especially with Arjun, who teases her about her distractions. The tension in the group increases, and Maya eventually steps away from the campfire, feeling isolated and frustrated with herself.",
+            "Mental State": ["guilty", "irritable", "isolated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "After the hiking trip, Maya's performance in her classes begins to suffer. She struggles to concentrate and feels depressed about her upcoming exams. One evening, she has a confrontation with her brother Arjun, who expresses concern that she isn't applying herself. Maya feels hurt and misunderstood, believing he doesn’t see how much pressure she is under. This confrontation leads to an argument, and Maya feels even more alienated from her family, believing they don't support her emotional struggles.",
+            "Mental State": ["depressed", "hurt", "alienated"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Despite her efforts to study, Maya continues to feel overwhelmed and detached. She reaches out to Priya, seeking advice on dealing with stress, but struggles to open up about her feelings. During their conversation, Priya encourages her to seek help from a counselor at the campus health center. Though Maya acknowledges the necessity of this step, she feels embarrassed and resistant, fearing that seeking help may symbolize weakness. This internal battle leaves her feeling stuck in her emotional turmoil, unsure of how to proceed.",
+            "Mental State": ["overwhelmed", "resistant", "stuck"]
+        }
+    }
+}

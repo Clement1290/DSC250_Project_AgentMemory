@@ -1,0 +1,31 @@
+{
+    "User Id": 9,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I want to express that I appreciate her and that I\u2019m feeling overwhelmed without her support."
+        },
+        "question": "What is causing Sophia's feelings of being overwhelmed in her current situation?",
+        "answer": "Sophia feels overwhelmed without her friend's support."
+    },
+    "long_term_QA": {
+        "question": "How was Sophia feeling about her campaign and friendship with Mira before the argument, and what led her to feel more isolated and misunderstood?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I felt angry and even more isolated. It just feels like I can't get through to her."
+        },
+        "long-term evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "I\u2019m starting to question if she really cares. I just wish she would show some interest in my goals."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "Conflicts can often lead to deeper misunderstandings."
+        },
+        "answer": "Before the argument, Sophia felt frustrated and lonely, and she was starting to question if Mira really cared about her goals. The argument led her to feel even angrier and more isolated, as she couldn't understand Mira's perspective, which contributed to her feeling misunderstood."
+    }
+}

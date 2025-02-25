@@ -1,0 +1,25 @@
+{
+    "User Id": 40,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the new semester kicks off, Sofia is filled with enthusiasm for her Graphic Design courses but soon feels the pressure of her heavy workload. In addition to her classes, she is heavily involved in several extracurricular activities, including the university's art club and a volunteer project aimed at promoting art in underprivileged communities. As deadlines approach, she starts to feel anxious about juggling her commitments while maintaining her artistic passion, fearing she might disappoint her family and friends.",
+            "Mental State": ["Excited", "Anxious", "Overwhelmed", "Hopeful"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As midterms draw closer, Sofia struggles to keep up with her assignments while balancing her volunteer work. During a critique session in class, she receives mixed feedback on her project. One of her classmates, Emily, comments dismissively on her design, which leaves Sofia feeling insecure about her skills. This interaction causes her to question her abilities and contribution, leading to feelings of frustration and isolation as she starts to withdraw from group activities.",
+            "Mental State": ["Frustrated", "Insecure", "Isolated", "Sad"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms approach, Sofia’s anxiety heightens. She receives a grade on her midterm practical assignment that is below her expectations. This news exacerbates her self-doubt, particularly after the criticism from Emily. During the upcoming volunteer project planning meeting, she hesitates to share her ideas for fear of more negative feedback. As a result, she remains quiet and feels increasingly disconnected from her peers and her passion for design, spiraling into a state where she believes she doesn’t belong.",
+            "Mental State": ["Defeated", "Anxious", "Heartbroken", "Lonely"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After a difficult few weeks, Sofia decides to reach out to her professor, Ms. Adams, for guidance. In their discussion, she expresses her struggles with self-esteem and the pressure she feels from both her studies and critiques. Ms. Adams listens compassionately and reassures Sofia that setbacks are a natural part of the creative process. She encourages Sofia to embrace her unique perspective and reminds her of the positive impact her work can have. Leaving the meeting, Sofia feels a renewed sense of hope and empowerment, although some anxiety about sharing her ideas with Emily remains.",
+            "Mental State": ["Hopeful", "Anxious about confrontation", "Empowered", "Determined"]
+        }
+    }
+}

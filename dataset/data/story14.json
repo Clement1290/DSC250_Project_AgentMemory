@@ -1,0 +1,25 @@
+{
+    "User Id": 14,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Elena begins her semester eager to excel in her Marketing major. During her first marketing presentation, she forgets some key points and feels embarrassed when her classmates, especially Emma, laugh. This moment makes her self-conscious and questioning her competence, leaving her feeling frustrated and embarrassed about her performance.",
+            "Mental State": ["Embarrassed", "Frustrated", "Insecure"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "After the presentation, Elena starts to withdraw from group discussions and feels anxious about participating in future projects. During a study session with her friend Kevin, she opens up about feeling like she doesn’t belong and worries that her earlier mistake will define her capabilities in the class.",
+            "Mental State": ["Anxious", "Isolated", "Doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms approach, Elena’s anxiety increases. She struggles to study effectively because negative thoughts about her abilities echo in her mind. Despite Kevin's encouragement, Elena feels overwhelmed and considers dropping out of the marketing club, believing she is not cut out for it. Every day seems like a battle against her self-doubt.",
+            "Mental State": ["Overwhelmed", "Self-doubting", "Withdrawn"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After reflecting on her struggles over the past weeks, Elena recognizes she needs support and decides to talk to her marketing professor about her concerns. Although she feels nervous and apprehensive about bringing up her feelings of inadequacy, she feels a newfound sense of hope that by advocating for herself, she can regain her confidence and improve her performance.",
+            "Mental State": ["Hopeful", "Determined", "Nervous"]
+        }
+    }
+}

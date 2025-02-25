@@ -1,0 +1,25 @@
+{
+    "User Id": 94,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Liam starts the new semester with a sense of enthusiasm but quickly becomes overwhelmed by the heavy workload in his classes. After the first week, he realizes he has multiple projects and assignments due within a short time frame. While discussing the challenges with his mother during dinner, he expresses concerns about meeting deadlines and balancing his studies with volunteering commitments. This conversation sparks feelings of anxiety and self-doubt, making him question whether he can manage it all.",
+            "Mental State": ["overwhelmed", "anxious", "doubtful"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks progress, Liam struggles with time management and feels increasingly frustrated. During a group assignment, he becomes hesitant to share his ideas because he feels intimidated by his more outspoken peers, particularly Sarah, who often dismisses others' contributions. This leads Liam to withdraw from engaging in discussions, causing him to become frustrated as he realizes that he is not voicing thoughts that could benefit the project. These feelings of isolation deepen his insecurity about his abilities.",
+            "Mental State": ["frustrated", "isolated", "insecure"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With midterms approaching, Liam feels the pressure mount and begins to neglect his personal interests, such as cycling and photography. He misses participating in family outings and starts declining friends' invitations to hang out, leading to feelings of loneliness. When his sister Aanya checks in on him, he brushes off her concern, feeling guilty for not being able to enjoy life outside of his studies. This internal conflict creates an unbearable tension as he juggles his academic responsibilities with the people he loves.",
+            "Mental State": ["lonely", "guilty", "overwhelmed"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After a particularly stress-filled week, Liam finally decides to seek help from a campus counselor. During the session, he opens up about his struggles with anxiety and feelings of inadequacy. The counselor encourages him to embrace his creativity, set realistic goals, and practice self-compassion. Leaving the session, Liam feels a surge of hope as he begins to understand that it's okay to ask for help and that he can find ways to balance his passions with his responsibilities. He resolves to reconnect with friends and engage in activities he enjoys.",
+            "Mental State": ["hopeful", "motivated", "empowered"]
+        }
+    }
+}

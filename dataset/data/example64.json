@@ -1,0 +1,48 @@
+{
+    "User Id": 64,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T09:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Liam Johnson. It's nice to meet you!",
+            "Counselor": "Hello, Liam! It’s great to meet you too. What brings you in today?",
+            "Student": "I’m really excited about this semester. I’m studying Political Science and looking forward to getting involved in advocacy work.",
+            "Counselor": "That sounds fantastic! Advocacy work can be very rewarding. Do you have any specific goals for this semester?",
+            "Student": "Well, I want to secure an internship, but I’m feeling anxious about the competition and managing my grades. Plus, my sister Priya is struggling in high school, and I want to support her.",
+            "Counselor": "It’s commendable that you want to help your sister while also pursuing your goals. How do you feel about balancing these responsibilities?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:30:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I’m feeling really overwhelmed right now.",
+            "Counselor": "Hello, Liam! I’m glad to see you back. What’s been making you feel overwhelmed?",
+            "Student": "It’s just a lot. Between classes, trying to help Priya, and my responsibilities in student government, I feel exhausted.",
+            "Counselor": "That does sound like a heavy load to carry. Have you had any time to take care of yourself amidst all these commitments?",
+            "Student": "Not really. I haven’t been able to play soccer or hang out with friends much, and I miss that.",
+            "Counselor": "Self-care is really important, especially when you’re balancing so much. What if you set aside just a small amount of time each week to engage in those activities?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T13:00:00Z",
+        "Dialogue": {
+            "Student": "Hey, I just came back from a group meeting and I felt really inadequate.",
+            "Counselor": "Hi, Liam. I’m sorry to hear that. What made you feel inadequate during the meeting?",
+            "Student": "I struggled to contribute meaningfully, and my peers ended up picking up the slack. I just felt so lost.",
+            "Counselor": "It's understandable to feel that way, especially under pressure. Did you talk with anyone in your group about how you were feeling?",
+            "Student": "I talked to Josh, but I’m still feeling disheartened. I keep doubting my abilities both academically and as a brother.",
+            "Counselor": "That’s a tough position to be in. You’re trying to support yourself and your sister, and it’s okay to feel overwhelmed. What would you consider as a practical step to regain your confidence?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T11:15:00Z",
+        "Dialogue": {
+            "Student": "Hi! I went to see a counselor on campus, and it felt good to talk about everything I’ve been experiencing.",
+            "Counselor": "That’s great to hear, Liam! How did it feel to express your feelings?",
+            "Student": "It was relieving. They suggested I try setting some boundaries and prioritize self-care, but I’m unsure if I can really do that.",
+            "Counselor": "It’s completely normal to feel unsure about making changes. What’s one specific boundary you could start with this week?",
+            "Student": "Maybe I could reserve some time for soccer practice a couple of days a week—that would help me mentally.",
+            "Counselor": "That sounds like a positive step! Remember, taking care of yourself will ultimately help you support others better. Keep me posted on how it goes!",
+            "Student": "Thank you for your support! I really appreciate it."
+        }
+    }
+}

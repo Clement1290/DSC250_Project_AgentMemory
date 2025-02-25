@@ -1,0 +1,49 @@
+{
+    "User Id": 72,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T11:00:00",
+        "Dialogue": {
+            "Student": "Hi, I’m Mateo Gonzalez. This is my first session.",
+            "Counselor": "Hello, Mateo! It’s great to meet you. How can I assist you today?",
+            "Student": "I’m feeling a bit overwhelmed. I started my Political Science classes last week.",
+            "Counselor": "That sounds exciting! What’s been making you feel overwhelmed?",
+            "Student": "I was really inspired by my summer internship with an NGO, but now I find that many classmates don’t care about the social issues I’m passionate about.",
+            "Counselor": "That sounds frustrating. Have you had a chance to share your thoughts in class?",
+            "Student": "I tried, but it felt like my ideas didn’t resonate with the others, which made me feel isolated.",
+            "Counselor": "It’s tough when you feel dismissed. It’s completely natural to feel disheartened. How does this affect your motivation moving forward?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T12:30:00",
+        "Dialogue": {
+            "Student": "Hey, I’m back. I’ve been feeling pretty lonely since we last talked.",
+            "Counselor": "I’m glad you returned, Mateo. I’m here for you. What’s been happening?",
+            "Student": "I spoke with my sister, Isabella, about my disconnect with classmates, but she didn’t really get it. She just told me to focus on my grades.",
+            "Counselor": "That sounds disheartening, especially coming from someone you care about. How did that make you feel?",
+            "Student": "I felt invalidated and unsupported. Now I'm doubting if I should continue pursuing activism.",
+            "Counselor": "It’s normal to feel that way when you’re lacking support. Have you thought about how you might approach your classmates differently or seek allies in your studies?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-10T13:00:00",
+        "Dialogue": {
+            "Student": "Hi, I need to talk about my community project.",
+            "Counselor": "Of course, Mateo! What’s going on with your project?",
+            "Student": "I’m really excited about advocating for social issues, but during group work, my ideas were dismissed in favor of standard approaches.",
+            "Counselor": "That must have been disappointing. How did you feel when your insights were sidelined?",
+            "Student": "I felt overshadowed and began to withdraw from contributing, questioning if my ideas were even valuable.",
+            "Counselor": "That’s understandable. Sometimes finding the right moment to assert your creativity is a challenge. Is there someone in your group you trust to discuss your ideas with?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-01T14:00:00",
+        "Dialogue": {
+            "Student": "Hi, I want to talk about my presentation.",
+            "Counselor": "Hi, Mateo! How did your presentation go?",
+            "Student": "I was nervous, but I really wanted to share my vision. Unfortunately, I struggled to connect with the audience.",
+            "Counselor": "That can be really tough, especially when you put your heart into it. What are your thoughts after the presentation?",
+            "Student": "I feel like I failed and now I’m questioning if I’m cut out for political science. Maybe I should switch to something like tech consulting.",
+            "Counselor": "It’s completely okay to reflect on your path. Exploring options is part of your journey. Have you considered ways to integrate both interests moving forward?"
+        }
+    }
+}

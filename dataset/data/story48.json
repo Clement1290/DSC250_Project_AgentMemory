@@ -1,0 +1,25 @@
+{
+    "User Id": 48,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Priya begins her senior year with excitement about her coursework in Sociology, but soon finds herself feeling increasingly anxious about her future. With graduate school applications on the horizon, she worries about her ability to meet the high expectations she believes her family and friends have set for her—especially her mother, who often speaks of Priya's bright prospects in social work. This pressure leads her to question if she truly has the skills and experiences needed to succeed.",
+            "Mental State": ["anxious", "overwhelmed", "insecure"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "During a seminar on social advocacy, Priya struggles to voice her ideas during a group discussion. While her peers contribute confidently, she hesitates, feeling the weight of her self-doubt. When she eventually speaks, she stutters and loses her train of thought, which leaves her feeling embarrassed. After the seminar, she overhears discussions about internship opportunities that others are pursuing, fueling her sense of isolation and reinforcing her fears that she is falling behind her classmates.",
+            "Mental State": ["frustrated", "isolated", "self-critical"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Hoping to regain her confidence, Priya decides to volunteer at a local shelter to gain experience and reconnect with her passion for social issues. However, during her volunteering shift, she feels overshadowed by other volunteers who are more experienced and actively leading projects. As she observes their interactions and impact, Priya feels a pang of jealousy mixed with discouragement, prompting her to retreat emotionally. By the end of her shift, instead of feeling uplifted, she leaves feeling defeated and questioning her ability to contribute meaningfully.",
+            "Mental State": ["discouraged", "overwhelmed", "doubtful"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After a week of reflecting on her experiences, Priya confides in her older brother, Rohan. She shares her feelings of inadequacy and her worries about her future in social work. Rohan listens attentively and encourages her to focus on her strengths and consider seeking mentorship opportunities for guidance. While Priya appreciates his support, she feels conflicted about approaching someone for mentorship, fearing that it may expose her vulnerabilities. She ends the conversation with a mix of hopefulness and uncertainty about how to proceed.",
+            "Mental State": ["conflicted", "hopeful", "unsure"]
+        }
+    }
+}

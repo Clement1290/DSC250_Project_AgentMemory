@@ -1,0 +1,50 @@
+{
+    "User Id": 84,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T11:00:00Z",
+        "Dialogue": {
+            "Student": "Hi! I’m Maya Patel. It’s my first time here.",
+            "Counselor": "Hello Maya! Welcome! It’s great to meet you. What can I help you with today?",
+            "Student": "I’m feeling a bit frustrated about my new semester in biochemical engineering.",
+            "Counselor": "I’m sorry to hear that. What’s been bothering you?",
+            "Student": "I joined a group project on renewable energy sources, but one of my teammates, Alex, has been missing meetings and not contributing at all.",
+            "Counselor": "That sounds challenging. Have you had a chance to speak with him about it?",
+            "Student": "I tried reaching out to him, but he hasn’t responded. I’m worried about how this will affect our project’s success."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00Z",
+        "Dialogue": {
+            "Student": "Hi there! I’m back. Things got a bit more complicated.",
+            "Counselor": "Welcome back, Maya. What’s been going on?",
+            "Student": "As the project deadline approaches, I’ve taken on more responsibilities to keep things on track. But now I’m feeling totally overwhelmed.",
+            "Counselor": "That’s a lot to handle! Have you spoken up about how you’re feeling during group meetings?",
+            "Student": "I tried, but my classmates said I was being too sensitive about Alex's participation. Now I'm feeling anxious about addressing any conflicts.",
+            "Counselor": "It’s understandable to feel anxious, especially when you’re trying to ensure the project succeeds. How about writing down your thoughts to prepare for the next meeting?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T11:00:00Z",
+        "Dialogue": {
+            "Student": "Hello again! I feel utterly burnt out now.",
+            "Counselor": "Hi Maya. I’m here to listen. What’s leading to this burnout?",
+            "Student": "With the deadline looming, I’ve been working late nights to cover for Alex. During rehearsal, I broke down, feeling like I failed the group.",
+            "Counselor": "That sounds really tough. It’s hard when you put in so much effort and still feel unsupported. Have you reached out to anyone for help?",
+            "Student": "Not really. I don’t want to burden my friends, and I feel ashamed for struggling.",
+            "Counselor": "It’s okay to seek support. Sharing your feelings with friends can lighten the burden and may even lead to helpful solutions."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T11:00:00Z",
+        "Dialogue": {
+            "Student": "I finally spoke up after our project presentation, and it felt refreshing.",
+            "Counselor": "That’s wonderful to hear, Maya! How did your friends respond?",
+            "Student": "They were really supportive and shared their struggles too. It felt good to connect over our challenges, but I'm still uncertain about my leadership abilities.",
+            "Counselor": "It’s normal to feel uncertain after such experiences. Have you considered what kind of support you might need to develop your leadership style?",
+            "Student": "I’m thinking about reaching out for professional guidance, but I’m still hesitant.",
+            "Counselor": "Taking that step shows strength and a desire to grow, which is commendable. I encourage you to pursue it when you feel ready.",
+            "Student": "Thanks for your support! I appreciate all the advice.",
+            "Counselor": "You’re very welcome, Maya! Take care, and remember I’m here whenever you need to talk."
+        }
+    }
+}

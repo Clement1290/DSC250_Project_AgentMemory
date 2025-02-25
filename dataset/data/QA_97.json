@@ -1,0 +1,31 @@
+{
+    "User Id": 97,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel regretful and ashamed. I didn't want to hurt my friend, and now I'm not sure how to mend things."
+        },
+        "question": "What emotion did Sophia express regarding her argument with her friend?",
+        "answer": "Regretful and ashamed."
+    },
+    "long_term_QA": {
+        "question": "How did Sophia initially feel about her workload and responsibilities, and what incident led her to feel lost and regretful?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I ended up arguing with a friend."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I'm feeling a bit overwhelmed. The semester just started, and my workload is already piling up."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "Recognizing that regret is an important first step."
+        },
+        "answer": "At first, Sophia felt overwhelmed due to her increasing workload and responsibilities. After a tough week, an argument with a friend led her to feel lost and regretful."
+    }
+}

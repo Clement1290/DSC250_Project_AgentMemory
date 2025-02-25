@@ -1,0 +1,25 @@
+{
+    "User Id": 89,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Aisha attends her first day of classes for the new semester at university. She is filled with excitement but also anxiety about meeting new people and managing her coursework. While walking through the campus, she notices a group of students laughing and bonding, which triggers feelings of self-doubt as she worries about finding her own place in this social landscape.",
+            "Mental State": ["anxious", "excited", "self-conscious"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Aisha has joined a psychology club at her university, aiming to make new friends and share her passion for the subject. However, she feels overshadowed by more outspoken members, like Jenna, who dominates conversations and often dismisses others’ input. Aisha struggles to voice her thoughts and begins to feel isolated, questioning her value in the group.",
+            "Mental State": ["frustrated", "isolated", "insecure"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "During a group project for her psychology class, Aisha feels overwhelmed by the workload and struggles to contribute effectively due to her previous experiences of not being heard in the club. She starts to withdraw further from her groupmates, including her supportive friend, Sam, who tries to encourage her to share her ideas. Aisha's emotional burden increases as she grapples with the fear of failure and disappointing her peers.",
+            "Mental State": ["overwhelmed", "withdrawn", "fearful"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "As the final presentation approaches, Aisha realizes she cannot continue to bury her feelings. After a heart-to-heart conversation with Sam, she decides to confront her fears and finally express her ideas during the presentation. Although she still feels nervous about sharing her thoughts, Aisha begins to recognize the importance of her voice and worth in both her academic and personal life. This moment is pivotal in her emotional journey, indicating a shift towards empowerment.",
+            "Mental State": ["nervous", "determined", "empowered"]
+        }
+    }
+}

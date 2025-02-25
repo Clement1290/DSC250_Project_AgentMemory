@@ -1,0 +1,25 @@
+{
+    "User Id": 96,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sofia starts the new semester filled with excitement about her history classes but quickly becomes anxious as she faces overwhelming expectations from her family and professors. During a dinner conversation, her father expresses hope that she will consider graduate school and follow in his academic footsteps. This praise, while well-intentioned, creates pressure for Sofia to surpass her achievements, fueling her self-doubt and increasing her anxiety about meeting those expectations.",
+            "Mental State": ["anxious", "pressured", "doubtful"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the semester progresses, Sofia feels the pressure intensify with multiple group projects and upcoming presentations. In a group setting, she struggles to express her ideas due to the dominating personality of her classmate, Andrew, who often dismisses other members' contributions. Feeling frustrated and overshadowed, Sofia withdraws from participating, believing her contributions aren’t as valuable, which deepens her sense of inadequacy and isolation.",
+            "Mental State": ["frustrated", "isolated", "insecure"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With midterms approaching, Sofia’s anxiety peaks. She begins to neglect her hobbies, like photography and dancing, impacting her mental health negatively. When her brother Luca invites her to a family outing, she declines, feeling guilty for not balancing her studies better. This choice leaves her feeling even more disconnected and lonely, as she yearns for support but believes she needs to focus on her academic responsibilities instead.",
+            "Mental State": ["lonely", "guilty", "overwhelmed"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After a particularly stressful week, Sofia makes the decision to reach out to the campus counselor for help. In their conversation, she opens up about her struggles with anxiety, feelings of inadequacy, and the pressure she's been experiencing. The counselor provides her with practical strategies for managing stress and encourages her to reconnect with the joy she finds in her interests and relationships. Feeling inspired, Sofia leaves the session with a renewed determination to engage with her studies while maintaining her connection to her passions and loved ones.",
+            "Mental State": ["hopeful", "empowered", "determined"]
+        }
+    }
+}

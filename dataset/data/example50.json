@@ -1,0 +1,58 @@
+{
+    "User Id": 50,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I'm Ella Robinson. It's nice to meet you.",
+            "Counselor": "Hi Ella! It's great to meet you too. How are you feeling today?",
+            "Student": "Honestly, I'm feeling quite anxious. I have an important presentation coming up in my psychology class.",
+            "Counselor": "That does sound stressful. What specifically is making you feel anxious about it?",
+            "Student": "I'm supposed to lead a discussion on mental health in communities, and I just feel a lot of pressure to perform well.",
+            "Counselor": "It’s completely natural to feel pressure, especially in a leadership position. Can you share more about that pressure?",
+            "Student": "I feel like my classmates, especially my close friend Maddie, really look up to me. I don’t want to disappoint them.",
+            "Counselor": "It sounds like you have a lot of responsibility, especially since you care about how others perceive you. Have you considered how you might manage that pressure?",
+            "Student": "Not really, I just feel like I need to be perfect.",
+            "Counselor": "Perfection can be a heavy burden to carry. It might help to remind yourself that everyone has their strengths and weaknesses. How does that resonate with you?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hello again. I wanted to talk more about my presentation. I'm feeling very overwhelmed now.",
+            "Counselor": "Hi, Ella. I'm glad you're back. What’s been overwhelming you?",
+            "Student": "With the presentation only a week away, I’m doubting if I can engage my classmates properly, and it's isolating.",
+            "Counselor": "That feeling of isolation can be tough. Have you had a chance to share your feelings with anyone?",
+            "Student": "Not really. During a group study session, Maddie asked how I was feeling, and I brushed it off. I don’t want to burden anyone.",
+            "Counselor": "That makes sense, but opening up can often bring support. What if you shared just a little about how you’re feeling with her?",
+            "Student": "I’m worried she won’t understand what I’m going through.",
+            "Counselor": "It can be surprising how much understanding can come from sharing. Sometimes friends just want to be there for you, regardless of whether they fully grasp your experience. Would you consider trying it?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-21T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I think I've actually been avoiding my friends over this presentation. It's not good.",
+            "Counselor": "Hi Ella, it’s great to see you again. It sounds like you’ve become more withdrawn. What’s been going on?",
+            "Student": "I'm just so focused on preparing that I’ve shut out socializing. Maddie invited me to some outings, but I keep saying no.",
+            "Counselor": "That’s understandable, but it sounds like the isolation is making it worse for you. Do you feel guilty for not engaging?",
+            "Student": "Yes, I do. But I just can’t handle the thought of socializing right now.",
+            "Counselor": "Balancing preparation with social connections is important. What if you set aside just a small amount of time to connect with Maddie or others? You could catch up for a short time and then return to studying after.",
+            "Student": "That might help. I'm just afraid that once I stop, I won’t want to go back to studying.",
+            "Counselor": "It’s about finding that balance. Social interactions can recharge you and provide new perspectives that may enhance your preparation."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I really need to talk about what happened during my presentation.",
+            "Counselor": "Hi Ella! I’m here for you. What happened?",
+            "Student": "I had a panic attack just before I was supposed to speak. It was so embarrassing.",
+            "Counselor": "I’m really sorry to hear that. That must have felt really overwhelming in the moment.",
+            "Student": "It was. I made it through the presentation, but I felt inadequate and embarrassed afterward.",
+            "Counselor": "It’s okay to feel that way. You tackled your fear in a very real situation. After the class, did you have a chance to share your experience with anyone?",
+            "Student": "I talked to Maddie, and it felt good to finally let it out. But I’m still anxious about how it affects my confidence going forward.",
+            "Counselor": "Acknowledging your emotions with Maddie is a great step forward. It’s natural to want to rebuild your confidence; perhaps we can strategize some steps to help you gradually manage your anxiety?",
+            "Student": "I’d really like that. I want to do better next time."
+        }
+    }
+}

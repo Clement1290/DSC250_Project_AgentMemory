@@ -1,0 +1,31 @@
+{
+    "User Id": 81,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I had set such high expectations for myself."
+        },
+        "question": "What did Sofia feel she had set too high regarding her presentation?",
+        "answer": "Expectations."
+    },
+    "long_term_QA": {
+        "question": "How was Sofia feeling and behaving before her presentation, and what motivated her to seek help afterward?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I\u2019m really reluctant to speak at all. My friends seemed worried, but I just want to disappear."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "It\u2019s easy to get caught up in those thoughts, especially under pressure."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I think it\u2019s definitely time to do something about it. I\u2019m tired of feeling this way."
+        },
+        "answer": "Sofia was feeling overwhelmed and reluctant to speak, wanting to disappear due to her fear of judgment, which prompted her to seek help because she was tired of feeling this way."
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "User Id": 8,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-11-06T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I'm Olivia Chang. It's nice to meet you.",
+            "Counselor": "Hi Olivia! It’s great to meet you too. How are you feeling today?",
+            "Student": "I’m feeling a bit overwhelmed with the start of the semester. There’s so much going on in my International Relations classes.",
+            "Counselor": "I can understand that. Starting a new semester can be quite demanding. What’s been particularly overwhelming for you?",
+            "Student": "I just had a seminar where I felt a lot of pressure to present my ideas, but I received criticism that felt harsh.",
+            "Counselor": "That sounds tough. It’s never easy to receive feedback that feels critical. How did that experience impact your confidence?",
+            "Student": "It left me feeling anxious and self-critical, like I'm not good enough, especially because my mom always encourages me to excel.",
+            "Counselor": "It's completely normal to feel anxious about performance, especially with family expectations. Have you considered talking to someone in your family about how you're feeling?",
+            "Student": "I haven’t yet. I don’t want to seem weak or like I’m struggling with my studies.",
+            "Counselor": "It's understandable to feel that way, but sharing your feelings might provide some relief. Would you consider discussing your thoughts with someone you trust?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-11-13T10:00:00",
+        "Dialogue": {
+            "Student": "Hi again, I spoke to my brother Ryan about my feelings.",
+            "Counselor": "That’s good to hear, Olivia! How did that conversation go?",
+            "Student": "It was okay, but I still struggle with speaking up in group projects. I feel so overshadowed by my classmates.",
+            "Counselor": "That’s a common experience in collaborative settings. What makes it difficult for you to share your thoughts during group work?",
+            "Student": "I guess I worry that my opinions won’t be valued, which makes me hold back more.",
+            "Counselor": "That’s a valid concern. What if you set a small goal to contribute at least once during the next group meeting? It could help build your confidence.",
+            "Student": "That sounds manageable. I’ll try to share at least one of my ideas next time.",
+            "Counselor": "Great! Remember, everyone's input is valuable, and your ideas are worth sharing. Let’s follow up on your progress next week."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-11-20T10:00:00",
+        "Dialogue": {
+            "Student": "Hi! I’m back, but I’ve been feeling anxious again.",
+            "Counselor": "Hi Olivia! I’m glad you returned. What’s been going on this week?",
+            "Student": "I went to a family gathering, and I felt overshadowed by my brother’s achievements in medical school.",
+            "Counselor": "I’m sorry to hear that. Family gatherings can sometimes amplify those feelings of comparison. How did that affect your perspective on your own studies?",
+            "Student": "It made me doubt my capabilities in International Relations. I feel like I’m not measuring up.",
+            "Counselor": "Those feelings are common, especially in competitive environments. Have you taken any time to reflect on your own goals and aspirations in your field?",
+            "Student": "Not really. I’ve been too focused on his accomplishments."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-27T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I’m back! I started writing down my own achievements and what I enjoy about my studies.",
+            "Counselor": "Hi Olivia! That’s wonderful to hear! How did that reflection go for you?",
+            "Student": "It helped me realize that I have my own goals and capabilities. I do enjoy the topics we study.",
+            "Counselor": "That’s fantastic! Holding onto those positive reflections can help counteract feelings of inadequacy. How do you feel about participating more in class now?",
+            "Student": "I feel slightly more confident, but I still hesitate to join discussions.",
+            "Counselor": "That’s progress! Perhaps sharing your experiences or insights on topics you’re passionate about could help you engage more. What's one topic you could share next time?",
+            "Student": "I could discuss a recent environmental policy that caught my attention—it aligns with my interests in international relations."
+        }
+    }
+}

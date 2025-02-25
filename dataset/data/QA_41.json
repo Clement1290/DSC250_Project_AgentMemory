@@ -1,0 +1,31 @@
+{
+    "User Id": 41,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel a bit hopeful, but also scared about taking that step."
+        },
+        "question": "What emotion does Ella feel about seeking professional help?",
+        "answer": "Hopeful."
+    },
+    "long_term_QA": {
+        "question": "How did Ella feel about her situation before talking to her friend Mia, and what did Mia say that encouraged Ella to consider seeking help?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I feel exhausted, and it\u2019s like I\u2019m withdrawing from friends and activities I used to enjoy."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "Honestly, I\u2019m feeling a bit overwhelmed. I'm starting my third year of college, and it\u2019s just a lot to handle."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "Mia encouraged me to confront my feelings and think about seeking professional help."
+        },
+        "answer": "Before talking to her friend Mia, Ella felt exhausted, and it\u2019s like she was withdrawing from friends and activities she used to enjoy, adding to her sense of being overwhelmed by starting her third year of college. Mia encouraged her to confront her feelings and think about seeking professional help."
+    }
+}

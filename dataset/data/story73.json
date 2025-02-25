@@ -1,0 +1,25 @@
+{
+    "User Id": 73,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sarah attends her first psychology class of the semester, excited to meet her classmates and engage in discussions. However, she quickly realizes that one of her classmates, Jenny, dominates the conversations, and Sarah struggles to share her ideas. Despite her enthusiasm, she feels overshadowed and begins to worry about her contributions being valued.",
+            "Mental State": ["enthusiastic", "overwhelmed", "self-doubt"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "After a few weeks, Sarah finds herself avoiding group discussions and collaborative projects due to her fear of being disregarded. She confides in her older brother, Vikram, about her feelings of inadequacy. Vikram encourages her to express her thoughts freely and reassures her about her capabilities. However, Sarah struggles to shake off the anxiety and feels even more isolated in group settings.",
+            "Mental State": ["anxious", "supported", "conflicted"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "During a group project for class, Sarah is paired with Jenny and other students. She feels anxious about working with them, fearing that Jenny will overshadow her insights again. Despite her efforts to contribute ideas, she remains hesitant and feels her voice is lost in the group dynamic. This leads to frustration and a sense of powerlessness as she notices her teammates not recognizing her potential.",
+            "Mental State": ["frustrated", "helpless", "disconnected"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "As the project nears completion, Sarah reflects on her contributions and the feedback from her group. While working on final edits, she decides to assert herself and share her perspectives more boldly in a meeting. Despite this, she feels nervous about the reception of her contributions. This internal struggle between fear and the desire to assert her ideas weighs heavily on her as she prepares for the presentation.",
+            "Mental State": ["determined", "nervous", "hopeful"]
+        }
+    }
+}

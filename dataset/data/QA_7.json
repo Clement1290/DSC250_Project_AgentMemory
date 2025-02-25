@@ -1,0 +1,31 @@
+{
+    "User Id": 7,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I took your advice and started writing down my achievements."
+        },
+        "question": "What did Maya start doing that helped her feel more grounded?",
+        "answer": "She started writing down her achievements."
+    },
+    "long_term_QA": {
+        "question": "How did Maya's feelings of inadequacy manifest before she sought support, and what specific comparison prompted her to feel this way?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I took your advice and started writing down my achievements."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I worry I won\u2019t measure up to my family\u2019s expectations and it makes me question my path in biochemistry."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "Family comparisons can be tough."
+        },
+        "answer": "Maya's feelings of inadequacy manifested as a worry that she wouldn\u2019t measure up to her family\u2019s expectations, which was heightened by her perception of her brother's medical school success, prompting her to compare herself unfavorably and leading her to seek support."
+    }
+}

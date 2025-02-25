@@ -1,0 +1,31 @@
+{
+    "User Id": 45,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I shared my feelings of inadequacy and he suggested I look for mentorship opportunities to guide me."
+        },
+        "question": "What did Talia share with her brother Ethan during their conversation?",
+        "answer": "Her feelings of inadequacy."
+    },
+    "long_term_QA": {
+        "question": "How did Talia's feelings of inadequacy affect her willingness to reach out for support, and what prompted her to reconsider this after talking to her brother?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I think I just withdrew instead. I don't want to burden them with my struggles."
+        },
+        "long-term evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "It was reassuring. I shared my feelings of inadequacy and he suggested I look for mentorship opportunities to guide me."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "Remember that vulnerability is part of growth."
+        },
+        "answer": "Talia felt inadequate and preferred to withdraw instead of reaching out, as she didn't want to burden her friends. However, after confiding in her brother about her feelings, he reassured her and suggested looking for mentorship opportunities, which helped her reconsider seeking support."
+    }
+}

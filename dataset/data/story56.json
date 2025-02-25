@@ -1,0 +1,25 @@
+{
+    "User Id": 56,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Omar is facing a dilemma as he struggles with balancing his academic responsibilities in physics and his burgeoning interest in photography. As a senior, he feels the pressure to maintain his academic performance while also wanting to explore his creative side more deeply. Conversations with friends often pivot around job prospects in physics, leaving Omar feeling uncertain about his future while he yearns to pursue his passion for photography. This internal conflict is creating intense feelings of anxiety and inadequacy.",
+            "Mental State": ["anxious", "conflicted", "inadequate"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As midterms approach, Omar's anxiety escalates. He decides to spend more time on his physics studies, neglecting his photography frames and sketches. In a conversation with his classmate, Farah, he expresses how he misses working on his photos, but she encourages him to stay focused. Omar feels torn between adhering to this advice and longing to express himself creatively. He often withdraws from friendships, believing that his creative pursuits might not be taken seriously by his peers.",
+            "Mental State": ["frustrated", "isolated", "doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With exam week at hand, Omar becomes increasingly stressed, leading to sleepless nights spent cramming. Despite his efforts, he feels drained mentally and physically. One night, he has a heartfelt conversation with his sister, Aisha, who encourages him to find a balance between studying and pursuing his passion for photography. However, Omar feels ashamed of neglecting his studies and worries that failing to prioritize academics will lead to disappointing his family. He grapples with feelings of hopelessness, believing he can't integrate both aspects of his life.",
+            "Mental State": ["hopeless", "ashamed", "conflicted"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "On the day of his first midterm exam, Omar is filled with a mix of anxiety and regret about not having explored his photography more. He worries about how he is perceived by professors and peers in the academic environment. During the exam, his mind drifts back to the photos he wishes he could take instead of studying. After the exam, he confides in Farah about feeling stagnant and how he’s unsatisfied with the current direction of his life. With support from Farah, he feels a flicker of hope to revisit his passion for photography, but he still battles the fear of falling short in his academics.",
+            "Mental State": ["anxious", "hopeful", "conflicted"]
+        }
+    }
+}

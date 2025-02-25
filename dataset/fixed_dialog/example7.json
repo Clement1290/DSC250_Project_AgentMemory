@@ -1,0 +1,178 @@
+{
+    "User Id": 7,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-11-06T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Maya Patel. It's nice to meet you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Maya! It's great to meet you too. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a bit overwhelmed with the start of the semester. I just finished an internship that was really challenging."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I understand, starting a new semester can be tough, especially after a demanding internship. What aspects have you found the most overwhelming?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I received some feedback on my projects that felt quite critical, and it made me doubt my skills, especially with my dad being a biochemist."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Receiving critical feedback can sting and really impact your confidence. How has this made you see your own abilities?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "It's made me anxious and self-critical, which is hard because I really want to succeed in my Biochemistry major."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's okay to feel that way. Many students experience pressure, especially when they feel compared to family expectations. Have you talked to anyone about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Not yet. I don't want to seem weak or like I can't handle my studies."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-11-13T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I spoke to my brother about how I've been feeling."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's great to hear, Maya! How did that conversation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It felt somewhat relieving, but I still struggle with voicing my thoughts in group projects because my classmates are so confident."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm glad talking to him helped. It's common to feel intimidated in collaborative settings. What makes it difficult for you to share your thoughts?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I fear that my contributions won't be valued, so I often hold back."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's a normal fear. Maybe setting small goals for each group session, like contributing just one idea, could help you ease into it."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "That sounds like a good idea. I'll try to speak up at least once next time."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Fantastic! Remember, your ideas are valuable, and everyone's contributions matter in a team. Let's see how it goes next time."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-11-20T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I'm back, but I've been feeling increasingly anxious."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Maya! What's been happening since our last chat?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I attended a family gathering, and my brother was talking about his medical school success, making me feel inadequate."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry you felt that way. Family comparisons can be tough. How did this affect your thoughts about your own studies?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It heightened my feelings of inadequacy. I worry I won't measure up to my family's expectations and it makes me question my path in biochemistry."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's understandable; it's easy to feel overshadowed. Have you taken time to reflect on your own passions and achievements in the field?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I've been too focused on feeling inferior."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-27T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back again! I took your advice and started writing down my achievements."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Maya! That's wonderful to hear! How did that go for you?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was eye-opening and it made me realize that I've accomplished quite a bit. This helped me feel a bit more grounded."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's fantastic! Holding onto those positive reflections can help guide you through tough times. How do you feel about your studies moving forward?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I feel a little more optimistic about engaging in my program, but I still struggle with participating in class discussions."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Optimism is a great first step! For class participation, sharing your reflections or personal insights on topics you're passionate about can help. What could you share next time?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I could talk about an environmental issue I researched recently that really resonated with me."
+            }
+        ]
+    }
+}

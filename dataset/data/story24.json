@@ -1,0 +1,25 @@
+{
+    "User Id": 24,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the semester begins, Samantha is eager to dive into her Psychology major and engage with her classes. However, she feels increased pressure to excel academically because she greatly values her family's opinion on education. Fearing that she might not live up to the expectations, she begins to feel anxious about maintaining her grades. This anxiety is compounded by her desire to engage in social activities and volunteer work, leading to a sense of overwhelm as she contemplates how to balance it all.",
+            "Mental State": ["Anxious", "Overwhelmed", "Eager"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As deadlines approach, Samantha starts working long hours to complete her assignments, often sacrificing time with her friends and family. Her friends, especially Maya, express concern about how little she has been engaging socially. Samantha declines a weekend trip with her friends, citing her need to study, but deep down, she feels guilty for not spending time with them. This self-isolation leads to feelings of loneliness, and she struggles with frustration as her workload continues to pile up.",
+            "Mental State": ["Frustrated", "Isolated", "Guilty"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With midterms fast approaching, the pressure escalates when Samantha receives unexpectedly low feedback on an important project. The negative feedback triggers feelings of inadequacy and self-doubt, and during a group study session, she has a confrontation with Maya. Feeling overwhelmed, Samantha lashes out, leading to a heated argument that leaves both of them upset. Afterward, Samantha regrets her actions and feels emotionally drained, worried that she might have damaged her friendship.",
+            "Mental State": ["Defensive", "Regretful", "Emotionally drained"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After considerable reflection, Samantha decides to apologize to Maya for her behavior during their study session. They meet at a café, where Samantha opens up about her academic struggles and the pressure she has been feeling. Maya listens empathetically and shares her own experiences with stress, which makes Samantha feel understood. While this conversation offers some relief, Samantha still feels anxious about her continuing performance in classes and whether she can rebuild the connection with her friends.",
+            "Mental State": ["Relieved", "Hopeful", "Anxious"]
+        }
+    }
+}

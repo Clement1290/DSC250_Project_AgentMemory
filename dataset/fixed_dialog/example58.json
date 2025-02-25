@@ -1,0 +1,188 @@
+{
+    "User Id": 58,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi there! I'm Maya. I'm excited to be here and talk to you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Maya! It's great to meet you. What brings you in today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I've just started my semester in Biochemistry, and while I'm hopeful, I'm feeling a bit overwhelmed with everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's understandable, especially at the beginning of a new semester. What do you find most challenging right now?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm juggling my studies and helping my mom at her bakery. I also noticed that my friend Priya seems distant, and I'm worried about her."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It sounds like you're balancing a lot. Being concerned about a friend can also add to that pressure. How are you coping with it all?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm trying to stay organized and positive, but sometimes it feels like a lot to manage."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Staying organized can certainly help. Have you found any particular strategies that work for you?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I feel more overwhelmed now. My classes are getting tougher, and I haven't had time for my hobbies."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Maya! I'm glad you're back. It's important to prioritize self-care. What hobbies have you set aside?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Baking and playing the violin. I also can't reach Priya. She hasn't replied to my messages, and I feel helpless."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It sounds frustrating to feel like you can't support your friend. What do you think is stopping you from reaching out?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm scared of intruding or making things worse. I feel inadequate for not being able to help more."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's normal to feel that way, especially when you care about someone. Have you thought about what you might say to Priya?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really... I just don't know if she wants to hear from me."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Starting with a simple message to let her know you're thinking of her may be a good first step. Would you feel comfortable doing that?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T16:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Thank you for your advice. I finally reached out to Priya, but our conversation felt really awkward."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Maya! I appreciate you sharing that with me. What made it feel awkward for you?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Well, she opened up about her anxiety, but I couldn't find the right words to comfort her. It just felt heavy."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's hard when we want to help but feel at a loss for words. How did that make you feel afterward?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt disheartened and inadequate. I want to support my friends, but sometimes I just don't know how."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Acknowledging that feeling is a significant step. Remember, just being there and listening can be incredibly supportive."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I know, but I wish I could do more. It's tough seeing her struggle."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's natural to feel that way, especially for someone who cares deeply like you. What do you think you might do next?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T12:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I've been reflecting on everything and decided to talk to my academic advisor about my struggles."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's a wonderful step, Maya! How did that conversation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was helpful! They suggested I consider talking to a mental health professional, which made me feel a bit relieved."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's fantastic to hear. Seeking professional support can be a great way to navigate your feelings. How do you feel about that?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm a bit uncertain about taking that step, but I also know it might help me sort through everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's okay to feel uncertain. Taking care of yourself is essential. Have you thought about when you might want to reach out for that support?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm thinking of looking for someone this week. It feels a little daunting, but I'll try."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's a brave decision, Maya. Remember, you're not alone in this. I'm here for you whenever you need to talk."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Thank you so much! I really appreciate your support. I'll keep you updated on how it goes!"
+            }
+        ]
+    }
+}

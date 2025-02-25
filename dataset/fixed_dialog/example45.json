@@ -1,0 +1,248 @@
+{
+    "User Id": 45,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T09:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Talia Robinson. This is my first time visiting."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Talia! It's great to meet you. How are you feeling today as you start your senior year?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Well, to be honest, I'm feeling kind of anxious. There's a lot of pressure to perform well."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's completely understandable. Senior year can come with a lot of expectations. What specifically is making you feel anxious?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm worried about graduate school applications and whether I'll meet the high standards I've set for myself."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds challenging. It's hard when you feel like your future depends on these decisions. Have you talked to anyone else about this?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I see my friends moving ahead, and it makes me feel inadequate."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Comparison can be tough, especially when it seems like everyone else has a clear path. What do you think you might do to help ease your anxiety?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I'm not sure. Maybe I could make a plan to tackle my application step by step?"
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Creating a plan sounds like a great idea! Breaking things down into manageable tasks can often help ease pressure. How does that make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "A bit more hopeful, actually. Thank you for suggesting that!"
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "You're welcome! Remember, it's okay to seek help and take things one step at a time. I'm here for you if you want to talk again."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. I attended a study session for my biochemistry exam, and it didn't go well."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Talia! I'm here to listen. What happened during the study session?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I felt lost as my friends were discussing topics confidently, and I was struggling to keep up."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds frustrating. How did that make you feel during and after the session?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "During the session, I felt embarrassed and inadequate. Afterward, I overheard them talking about their study strategies and internships, and I felt increasingly isolated."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that way. Have you talked to your friends about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "No, I think I just withdrew instead. I don't want to burden them with my struggles."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's common to feel that way, but sharing might help you feel more connected. What do you think about reaching out to them?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I guess that could help, but I'm afraid they won't understand."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "You might be surprised! People often appreciate honesty. Would you like to try reaching out before our next session?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I'll think about it. Thanks for listening."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T13:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I wanted to talk about something that happened while I was volunteering at a shelter."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Talia! I'm glad you're here. How did volunteering go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was quite emotional. A resident shared their struggles with mental health, and I felt deeply affected by their story."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds intense. It's understandable to feel overwhelmed when faced with such heavy topics. How did that affect you after your shift?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I came home feeling more drained than energized. Now I'm questioning if I can handle the emotional demands of working in psychology."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's natural to feel that way, especially when you care deeply. Have you had a chance to reflect on what this experience means for you?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I just feel helpless. I want to help but I also fear that I'll get too emotionally involved."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Setting emotional boundaries is essential in helping professions. It's okay to care deeply while also taking care of yourself. What strategies could you try to maintain that balance?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Maybe I could set time limits on how much emotional energy I give during my shifts and take breaks when I need them."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That sounds like a good plan! Remember, self-care is crucial to avoid burnout. How are you feeling about that approach?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I feel a bit more empowered, thank you! I think I just need to take these steps to protect myself."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T16:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. I spoke with my brother Ethan about everything I've been feeling."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Talia! I'm glad you're here again. How did that conversation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was reassuring. I shared my feelings of inadequacy and he suggested I look for mentorship opportunities to guide me."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a fantastic suggestion! How do you feel about pursuing that idea?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm grateful for the support, but I'm still uncertain. What if it only highlights my inexperience?"
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's natural to feel apprehensive. Mentors are often understanding and can provide guidance from a place of experience. What might help you to overcome this fear?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Knowing that I don't have to have everything figured out might help. I just don't want to feel vulnerable."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's a valid concern, but remember that vulnerability is part of growth. What steps could you take to reach out to potential mentors?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I could start by researching possible mentors in my field and maybe even finding a local professional to contact."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That sounds like a great plan! Taking small steps can help reduce that feeling of being overwhelmed. I'm here to support you whenever you need."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Thank you for being patient and encouraging. I feel more positive after talking this through."
+            }
+        ]
+    }
+}

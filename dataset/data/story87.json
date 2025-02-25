@@ -1,0 +1,25 @@
+{
+    "User Id": 87,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Omar was excited to embark on a new semester in international relations, particularly eager to participate in a seminar focused on global humanitarian efforts. However, as he began to engage with his classmates, he noticed a lack of enthusiasm from some of his peers, especially his teammate, Alex, who seemed uninterested in the project. Despite Omar's efforts to spark conversation and encourage collaboration, Alex often remained silent and disengaged. This left Omar feeling frustrated and concerned about the project’s outcomes.",
+            "Mental State": ["frustrated", "concerned", "disappointed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the project progressed, Omar decided to take a more proactive role in discussions to bring the group together. He reached out to Alex privately, trying to understand his perspective and encourage him to share his thoughts. However, Alex responded dismissively, saying he was too busy with other classes. This rejection made Omar anxious about the group's dynamics, causing him to doubt his ability to lead effectively. He began to feel overwhelmed with the responsibility, now fearing he might not be able to motivate his teammates.",
+            "Mental State": ["anxious", "overwhelmed", "doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With the project deadline approaching, Omar increasingly felt the burden of ensuring that the project was successful. He worked long hours preparing materials and gathering information, trying to fill in the gaps left by the lack of contribution from Alex and some other team members. When presenting their findings to the class, Omar became visibly nervous, forgetting key points and feeling unprepared. Afterward, instead of support from his teammates, he was met with criticism about the presentation, which left him feeling isolated and defeated.",
+            "Mental State": ["burnt out", "isolated", "defeated"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Following the project, Omar reflected on his experience during dinner with his family. He shared his struggles with leading the group and expressed frustration over Alex’s non-participation. His family encouraged him to address these issues directly with his team to improve communication. While he felt a sense of relief from sharing his thoughts, Omar remained conflicted about confronting his peers and unsure how to remedy the situation. Nevertheless, he considered seeking advice from a mentor, hoping to foster a sense of unity within the group but felt hesitant to approach the issue directly.",
+            "Mental State": ["relieved", "conflicted", "hopeful"]
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "User Id": 65,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I’m Maya Patel. I just started my Environmental Science major.",
+            "Counselor": "Hello, Maya! It’s great to meet you. How are you finding your studies so far?",
+            "Student": "It's been overwhelming, to be honest. I attended a seminar yesterday, and the issues discussed felt so massive.",
+            "Counselor": "That sounds intense. It's completely normal to feel overwhelmed when confronted with such big challenges in your field.",
+            "Student": "Yeah, I spoke to a classmate who expressed doubts about whether we can actually make a difference, and that got to me.",
+            "Counselor": "It’s understandable to feel that way, especially when you're just starting out. What part of that discussion affected you the most?",
+            "Student": "I guess it was hearing about how little change we see despite our efforts. It made me question my abilities and passion.",
+            "Counselor": "Those feelings of doubt can be unsettling. Have you had similar feelings in the past about your passions?",
+            "Student": "Not like this. I’ve always been pretty confident about wanting to help the environment.",
+            "Counselor": "It's important to acknowledge how you feel. Remember, even the most passionate people face doubts. You're not alone. What do you think could help you regain that confidence?",
+            "Student": "Maybe talking it out more often? I feel like I'm shutting myself off.",
+            "Counselor": "That sounds like a good plan. Opening up can really help clarify your thoughts and feelings."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00",
+        "Dialogue": {
+            "Student": "Hey, I’m back. Things have been rough recently.",
+            "Counselor": "Hi, Maya! I'm here for you. What’s been happening?",
+            "Student": "I’ve started to isolate myself from friends and family. I feel disconnected.",
+            "Counselor": "I'm sorry to hear that. Sometimes when we’re struggling, it’s natural to withdraw, but it can worsen feelings of isolation.",
+            "Student": "Yeah, it’s frustrating. I feel inadequate compared to my brother who's studying biology. He seems so focused.",
+            "Counselor": "It’s tough to feel compared to others, especially with those we care about. Have you shared your feelings with anyone in your family?",
+            "Student": "Not really. I feel like they might think I’m weak for feeling this way.",
+            "Counselor": "It’s common to worry about how others perceive us, but expressing your feelings could actually lead to support and understanding.",
+            "Student": "I guess I’m just scared of being judged.",
+            "Counselor": "That’s completely valid. Sometimes, we need to give ourselves permission to be vulnerable. It can lead to deeper connections."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00",
+        "Dialogue": {
+            "Student": "Hi, I really need help again. I struggled during a group project.",
+            "Counselor": "Hi, Maya! I’m glad you’re here. What happened during the project?",
+            "Student": "I couldn’t voice my ideas in the planning sessions. I kept feeling overshadowed by my team members.",
+            "Counselor": "That sounds frustrating. It’s tough when assertive people dominate discussions. What were your thoughts while that was happening?",
+            "Student": "I felt inadequate. Their confidence just highlighted how I was doubting myself.",
+            "Counselor": "Self-doubt can be so challenging. Could you think of specific ideas you wished to share?",
+            "Student": "Yes, I had ideas about engaging the community better, but I just held back.",
+            "Counselor": "That’s important! Next time, perhaps try jotting down your thoughts before the meeting. What do you feel about that?",
+            "Student": "That sounds like a good strategy. But I'm still questioning if this is the right path for me.",
+            "Counselor": "It’s natural to question your path, especially during challenging times. You mentioned your passion for the environment—try to reconnect with that."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T15:00:00",
+        "Dialogue": {
+            "Student": "Hey, I just had the project presentation, and it was a disaster.",
+            "Counselor": "Hi, Maya! I’m here to support you. Tell me what happened.",
+            "Student": "I froze up while speaking, and I couldn’t express my passion for the project.",
+            "Counselor": "I can imagine how that feels. Presentations can be quite stressful, especially when you care deeply about the topic.",
+            "Student": "Some classmates praised my ideas, but I can’t stop thinking about how I messed up.",
+            "Counselor": "It’s important to recognize your moments of strength too. What do you take from the feedback?",
+            "Student": "I appreciate the praise, but I keep fixating on my anxiety.",
+            "Counselor": "That fixation can be hard to shake off. What do you think would help you process this experience?",
+            "Student": "I’m not sure. I might even consider changing my studies because of this.",
+            "Counselor": "It's okay to feel conflicted. Take your time to process it. Remember, setbacks can also lead to growth, and your commitment to environmental causes is still at the core of who you are.",
+            "Student": "Thanks. I think I need to give myself time to reflect.",
+            "Counselor": "That's a good idea. I’m here whenever you need someone to talk to. Take care of yourself, Maya."
+        }
+    }
+}

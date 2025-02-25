@@ -1,0 +1,25 @@
+{
+    "User Id": 20,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the semester begins, Amara is filled with excitement about her classes and her upcoming environmental activism projects. However, she quickly starts to feel overwhelmed by all the responsibilities, including her coursework, volunteer commitments, and maintaining her relationships. The pressure to excel and fulfill her commitments causes her to feel anxious, and she worries about not being able to achieve her ideals.",
+            "Mental State": ["Anxious", "Overwhelmed", "Eager"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "With several deadlines approaching, Amara finds herself increasingly unable to cope with the mounting pressure. She feels isolated as she struggles to balance her study time with her creative passions like drawing and writing poetry. Her brother Malik tries to uplift her by inviting her to go climbing, but Amara declines, feeling guilty for taking time away from her studies. This self-imposed isolation exacerbates her feelings of anxiety and frustration.",
+            "Mental State": ["Frustrated", "Isolated", "Guilty"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms approach, Amara has a particularly stressful week when she receives a lower grade than expected on her first major paper. This triggers feelings of self-doubt and leads to a breakdown during a group project meeting. When her friends express concern about her detached behavior, Amara feels defensive and lashes out, which creates a rift between them. She worries about losing these important relationships and feels increasingly lost in her workload and personal emotions.",
+            "Mental State": ["Defensive", "Regretful", "Emotionally drained"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After some reflection, Amara reaches out to her friends to apologize for her behavior during the group meeting. They have a meaningful conversation, allowing her to express her feelings of being overwhelmed and her struggles with balancing her commitments. While she feels relieved to have opened up, she still grapples with anxiety about whether she can maintain her idealistic vision for environmental advocacy and manage her academic workload moving forward.",
+            "Mental State": ["Relieved", "Hopeful", "Anxious"]
+        }
+    }
+}

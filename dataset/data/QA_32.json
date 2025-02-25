@@ -1,0 +1,31 @@
+{
+    "User Id": 32,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "Yes, I think that would help. I want to find a way to express that I care while also taking care of myself."
+        },
+        "question": "What does Aria plan to do next regarding her conversation with Sarah?",
+        "answer": "Aria plans to find a way to express that she cares while also taking care of herself."
+    },
+    "long_term_QA": {
+        "question": "What was Aria's mental state like before she realized the importance of self-care, and what inspired her to reflect on her needs?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel hopeful but also nervous. I\u2019m still worried about how others will perceive my struggles."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling a bit overwhelmed, actually. I just started my final year in Chemical Engineering."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "That\u2019s a positive realization! How does that make you feel about seeking help or support?"
+        },
+        "answer": "Before realizing the importance of self-care, Aria felt overwhelmed and anxious about her studies. The workshop on mental health helped her understand the need to prioritize her well-being, prompting her to reflect on her needs."
+    }
+}

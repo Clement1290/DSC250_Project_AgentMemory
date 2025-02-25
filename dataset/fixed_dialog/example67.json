@@ -1,0 +1,178 @@
+{
+    "User Id": 67,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Sofia Reyes. This is my first time here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Sofia! It's great to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, I feel a bit overwhelmed. I just returned to uni after a summer working in a mental health charity."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like a profound experience! What did you learn during your summer?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I loved the work, but I also witnessed some harsh realities. Now I feel disconnected from my classmates who seem unaware."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that way. Having such a deep experience can create a gap with others. Do you want to talk about what you've been feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I just get frustrated when they trivialize mental health issues. It makes me feel isolated."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That frustration is valid, especially when you're passionate about a subject. Have you considered sharing your experiences with them?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. Things have been tough lately."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Sofia! What's been going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I tried to speak to my friend Alicia about how I feel, but she brushed it off, telling me to focus on my art."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. It can hurt to feel dismissed by someone close to you. How did that make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It made me feel lonely and invalidated, like my passions don't matter."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Those feelings are tough to navigate. Sometimes people don't realize the depth of what we feel. What do you think you need right now?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I guess I just want someone to understand and listen to me."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's completely reasonable. Have you thought about talking to someone else who might share your interests, or maybe even expressing your feelings through your art?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-15T11:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, I need to share something about class discussions."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Sofia! I'm glad you reached out. What happened?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "We were talking about mental health strategies, and I tried to share insights from my internship, but my classmates didn't seem interested."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That must have been disheartening, especially when you're passionate about the topic. How did that impact you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I ended up withdrawing and not saying anything. It really hurt."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "I can only imagine. Have you had a chance to speak to your brother Carlos about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Yes, he encouraged me to keep going, but I'm torn about whether I should focus on mental health advocacy or my studies."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's normal to feel conflicted when pursuing your passions. Sometimes taking small steps to balance both can help. What do you think?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-01T13:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I need to talk about my presentation on mental health awareness."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Sofia! I'm here for you. What's on your mind regarding the presentation?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I felt so much pressure. Even though I was passionate, I struggled to connect with the audience."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds difficult. Presentations can be challenging, especially when it's a topic you care deeply about. How do you feel about the outcome?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt like a failure. I'm now questioning if I should change my focus from psychology to something less emotionally charged."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that way after such an intense experience. But remember, feeling challenging emotions can be part of the growth process. Have you thought about exploring new paths while holding onto what you love?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I think I need to reflect on that. I really care about mental health."
+            }
+        ]
+    }
+}

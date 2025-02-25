@@ -1,0 +1,61 @@
+{
+    "User Id": 91,
+    "Stage 1 dialogue": 
+    {
+        "timestamp": "2023-09-16T09:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Zara Patel. This is my first time here.",
+            "Counselor": "Hello, Zara! It’s nice to meet you. How are you feeling today?",
+            "Student": "I’m feeling a bit overwhelmed. I just came back from an internship where I saw a lot of environmental issues, and now I’m questioning if I made enough of an impact.",
+            "Counselor": "I’m sorry to hear that. It’s really understandable to feel that way after witnessing such challenges. Can you share more about what specifically is troubling you?",
+            "Student": "I just feel inadequate compared to what needs to be done. I’ve been thinking if my contributions were really worth it.",
+            "Counselor": "It’s natural to have those feelings, especially in a challenging field like environmental advocacy. Have you had a chance to talk about your experiences with someone?",
+            "Student": "I spoke to my brother Rohan. He listens, but I still feel heavy about it.",
+            "Counselor": "It’s good that you have someone supportive like Rohan. It's okay to not have all the answers right now. Sometimes just processing your feelings is an important step."
+        }
+    },
+    "Stage 2 dialogue": 
+    {
+        "timestamp": "2023-09-30T11:00:00Z",
+        "Dialogue": {
+            "Student": "Hey, I’m back. I’m struggling to focus in my classes this semester.",
+            "Counselor": "Hi Zara! I’m glad to see you again. What’s making it hard for you to focus?",
+            "Student": "I keep thinking about not making an impact in my field. I’m also working on a group project about sustainable practices, but I feel anxious about sharing my ideas.",
+            "Counselor": "That sounds really tough. It’s normal to feel anxious about contributing, especially when you have doubts about your value. What’s holding you back from sharing your thoughts?",
+            "Student": "Mia, a classmate, seems to dominate the discussions a lot. I feel overshadowed and think my ideas won’t be valued.",
+            "Counselor": "It’s understandable to feel overshadowed. Have you considered discussing your ideas with a smaller group first or jotting them down before meetings?",
+            "Student": "I haven’t tried that; I just freeze up when I get the chance to speak.",
+            "Counselor": "Preparing your thoughts ahead of time could help. It might also ease your anxiety about contributing."
+        }
+    },
+    "Stage 3 dialogue": 
+    {
+        "timestamp": "2023-10-20T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I’ve been really withdrawing from my group lately. I feel so isolated.",
+            "Counselor": "Hello, Zara! I’m glad you came back in. Can you tell me more about what’s been going on?",
+            "Student": "I just don’t feel like I can keep up with the group dynamics. I feel guilty for not participating.",
+            "Counselor": "That’s a heavy feeling to carry. It’s normal to have ups and downs, especially in group settings. Does your group know how you feel?",
+            "Student": "Mia reached out, and that made me feel guilty. I don’t want them to think I don’t care.",
+            "Counselor": "It’s okay to have moments of struggle. They’re part of the process, and expressing your struggle can actually build more connection within the group.",
+            "Student": "I just don’t want to bother them with my issues.",
+            "Counselor": "You're not bothering them; you’re sharing a part of your journey. It can help others feel comfortable sharing their struggles as well."
+        }
+    },
+    "Stage 4 dialogue": 
+    {
+        "timestamp": "2023-11-05T16:00:00Z",
+        "Dialogue": {
+            "Student": "Hi! I had an important talk with my mother, and I feel ready to re-engage with my group.",
+            "Counselor": "That’s fantastic, Zara! What did your mother say that helped you?",
+            "Student": "She encouraged me to focus on progress rather than perfection and to connect more with my peers.",
+            "Counselor": "That’s a powerful realization. How do you plan to approach your group after this new motivation?",
+            "Student": "I decided to attend the next group meeting and share my insights from my internship. I want to contribute and feel valued.",
+            "Counselor": "That’s a great step forward! How do you feel about sharing your thoughts now?",
+            "Student": "I’m still nervous, but I believe my experiences can help make an impact. I want to be part of the conversation.",
+            "Counselor": "That’s the spirit! Your voice matters, and I’m sure your contributions will enrich the project. You’ve got this!",
+            "Student": "Thank you for all your support! I’m feeling hopeful and rejuvenated.",
+            "Counselor": "It was my pleasure, Zara. Remember, I’m here for you, so don’t hesitate to reach out again. Good luck, and take care!"
+        }
+    }
+}

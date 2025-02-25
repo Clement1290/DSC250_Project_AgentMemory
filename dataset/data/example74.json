@@ -1,0 +1,75 @@
+{
+    "User Id": 74,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Chloe Martinez. It’s nice to meet you!",
+            "Counselor": "Hi Chloe! It’s great to meet you too. How are you feeling today?",
+            "Student": "I’m feeling a bit excited but also anxious. I just started my final semester in Environmental Science.",
+            "Counselor": "That’s a big milestone! What’s making you anxious?",
+            "Student": "I’ve been selected to lead a group project on wildlife conservation, but I’m really concerned about the team dynamics.",
+            "Counselor": "That’s understandable. Leading a project can be intimidating. What challenges are you facing with your team?",
+            "Student": "Some team members seem uninterested, especially Dan. He dismisses my ideas a lot, and it’s really shaking my confidence.",
+            "Counselor": "I can see how that would be discouraging. It's tough when you're trying your best and not feeling supported. Have you thought about how you might address this with Dan?",
+            "Student": "I haven't really. I don’t want to come off as confrontational.",
+            "Counselor": "That’s a valid concern. Starting from a place of understanding might help. Maybe try to ask him for his input on ideas, which could open a dialogue.",
+            "Student": "That makes sense. I guess I just feel so insecure about my leadership abilities right now.",
+            "Counselor": "It’s okay to feel that way. Remember, leadership is a learning process. You’re already showing initiative by seeking help and discussing your feelings.",
+            "Student": "Thank you! I appreciate your understanding.",
+            "Counselor": "You’re welcome, Chloe! Let’s take it step by step. We can revisit this next time and see how it goes."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I'm back for another session.",
+            "Counselor": "Hi Chloe! Welcome back. How have things been with your group project?",
+            "Student": "It’s been really frustrating. I’m struggling to motivate everyone, and I feel overwhelmed.",
+            "Counselor": "I’m sorry to hear that. What specifically is making you feel overwhelmed?",
+            "Student": "I feel like if the project fails, it could affect my grades. It’s a lot of pressure.",
+            "Counselor": "That’s a heavy burden to carry. Have you had a chance to talk with Mia about it?",
+            "Student": "Yes, Mia encouraged me to connect with Dan to understand his perspective better.",
+            "Counselor": "That sounds like a good step. How did you feel about that suggestion?",
+            "Student": "I think it’s helpful, but I’m still scared of making things worse. I just don’t know how to approach him.",
+            "Counselor": "It’s normal to feel scared, especially with conflict. Perhaps start with a calm conversation and share how his comments affect you.",
+            "Student": "I could try that, but I'm still feeling really unsure.",
+            "Counselor": "Being unsure is okay. Why not write down your thoughts beforehand? It might help you organize your feelings.",
+            "Student": "That could definitely help! Thank you for the suggestion.",
+            "Counselor": "You're doing great, Chloe. Remember, reaching out for support shows strength. Let’s catch up again next week."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi there! I’m feeling a bit rough today.",
+            "Counselor": "Hi Chloe! I’m glad you came in to chat. What’s been going on?",
+            "Student": "We had a meeting yesterday, and Dan interrupted me a lot. It ended in a huge argument.",
+            "Counselor": "That sounds really tough. How did that make you feel?",
+            "Student": "I felt hurt and unsupported. It made me question if I should even lead this project anymore.",
+            "Counselor": "It’s understandable to feel that way after such a confrontation. Did you manage to express how you felt to your team?",
+            "Student": "Not really. I was too upset to say anything constructive.",
+            "Counselor": "That happens; sometimes emotions take over in the heat of the moment. Are you thinking about how you want to address this now?",
+            "Student": "I just feel really isolated, like I don't know who to turn to for help.",
+            "Counselor": "Feeling isolated can be really hard. It might help to reach out to Mia again for support or to someone else you trust.",
+            "Student": "I think I might. It's just hard to let people know I'm struggling.",
+            "Counselor": "Remember, reaching out for help is a sign of strength. You don’t have to do this alone. Let’s explore your options together in our next session."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi! I’m back, and I’m feeling a mix of things.",
+            "Counselor": "Hi Chloe! I’m glad you're here. What’s on your mind today?",
+            "Student": "I’ve been preparing for a conversation with Dan to clear the air, but I'm super nervous.",
+            "Counselor": "It’s completely normal to feel nervous before an important conversation. What are you hoping to achieve from this discussion?",
+            "Student": "I want to express how hurt I felt when he dismissed my ideas and hopefully improve the communication in our group.",
+            "Counselor": "That sounds like a solid plan. Have you thought about how you’ll start the conversation?",
+            "Student": "I plan to share my feelings and make it clear that I still value his contributions.",
+            "Counselor": "That’s a great approach—emphasizing your feelings can help lower defensiveness. Have you practiced what you want to say?",
+            "Student": "A little, but I still feel shaky about it.",
+            "Counselor": "It might help to rehearse it out loud or write it down. Visualizing the conversation can lessen anxiety too.",
+            "Student": "Those are good tips! I'll try that. I really want to make this work.",
+            "Counselor": "I believe in you, Chloe. You’re demonstrating such courage! Let's catch up afterward and see how it all turned out."
+        }
+    }
+}

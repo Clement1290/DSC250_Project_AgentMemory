@@ -1,0 +1,31 @@
+{
+    "User Id": 1,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I felt relieved to talk about my anxiety and isolation, but I still feel apprehensive about the changes I need to make."
+        },
+        "question": "What does Emma feel about the changes she needs to make?",
+        "answer": "She feels apprehensive about the changes."
+    },
+    "long_term_QA": {
+        "question": "How was Emma feeling about her coursework and support system before she sought help, and what led her to finally reach out for counseling?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I felt relieved to talk about my anxiety and isolation, but I still feel apprehensive about the changes I need to make."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "Honestly, I'm feeling a bit overwhelmed. My semester just started and I'm struggling with my coursework in Psychology."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It\u2019s a big step to acknowledge those feelings, and recognizing the need for change is an important part of the process."
+        },
+        "answer": "Before seeking help, Emma felt overwhelmed and was struggling with her coursework in Psychology. This led her to feel anxious and isolated. Finally, she acknowledged her feelings and realized the need for change, prompting her to reach out for counseling."
+    }
+}

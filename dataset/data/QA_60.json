@@ -1,0 +1,31 @@
+{
+    "User Id": 60,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "Remember, you are allowed to prioritize your well-being."
+        },
+        "question": "What does the counselor suggest Ethan do to help manage his feelings of being overwhelmed?",
+        "answer": "The counselor suggests that Ethan is allowed to prioritize his well-being."
+    },
+    "long_term_QA": {
+        "question": "How does Ethan feel about his situation before reaching out for help, and what leads him to seek professional support?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "It felt relieving to share my feelings."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I fear I'm letting Jake and myself down."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "after talking with my family, I decided to see the campus counselor."
+        },
+        "answer": "Before reaching out for help, Ethan feels burdened and fears he\u2019s letting Jake and himself down. After talking with his family, he decides to seek professional support, which leads to a feeling of relief in sharing his emotions."
+    }
+}

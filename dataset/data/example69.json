@@ -1,0 +1,49 @@
+{
+    "User Id": 69,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I’m Amina Khamis. This is my first visit.",
+            "Counselor": "Hello, Amina! It’s great to meet you. How are you doing today?",
+            "Student": "I’m feeling a little overwhelmed. I just started my Graphic Design classes.",
+            "Counselor": "That’s exciting! What has you feeling overwhelmed so far?",
+            "Student": "I was really inspired over the summer, but now I feel disconnected from my classmates. They seem more focused on conventional designs.",
+            "Counselor": "It’s normal to feel a bit out of place after such an inspiring experience. Have you had the chance to express your creative ideas to them?",
+            "Student": "I tried, but during a group discussion, I felt like my ideas were dismissed.",
+            "Counselor": "That must be frustrating. It’s tough when you’re passionate about something, and it doesn't get the recognition it deserves. How did that make you feel about your place in the class?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-29T14:30:00",
+        "Dialogue": {
+            "Student": "Hi, I’m back. Things have been pretty rough lately.",
+            "Counselor": "Welcome back, Amina! What’s been going on?",
+            "Student": "I talked to my brother Karim about my feelings, but he didn’t really understand. He suggested I just adapt to the group’s ideas.",
+            "Counselor": "I’m sorry to hear that. It can be discouraging when someone close to you doesn’t fully grasp what you’re going through. How did that affect you?",
+            "Student": "It made me feel invalidated and question my own creative instincts. I’m starting to doubt whether I should keep pushing for my ideas.",
+            "Counselor": "It's understandable to feel that way. When you feel unsupported, it can be easy to second-guess yourself. What do you think would help you feel more confident in your artistic vision?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-12T13:00:00",
+        "Dialogue": {
+            "Student": "Hey, I need to talk about my latest project.",
+            "Counselor": "Hi Amina! Sure, I’m here to listen. What’s going on with your project?",
+            "Student": "I have this community project where I wanted to incorporate social issues into my design. But when I presented my ideas, my group preferred something more typical.",
+            "Counselor": "That sounds frustrating. It’s hard to feel like your unique perspective is being overlooked. How did you respond to that?",
+            "Student": "I just went quiet, feeling that once again my creativity might not be valued. I really want to make an impact with my work.",
+            "Counselor": "Your desire to make an impact is commendable. Have you considered finding a way to balance your vision with the group’s preferences?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-01T15:00:00",
+        "Dialogue": {
+            "Student": "Hi, I really need to discuss my presentation today.",
+            "Counselor": "Hi, Amina! What happened during your presentation?",
+            "Student": "I felt such pressure to present my design, but when I did, I could feel the audience’s indifference.",
+            "Counselor": "That sounds tough. It can be discouraging when you’re putting your heart into something and it doesn’t resonate. What have you been feeling since then?",
+            "Student": "I feel like I failed and now I’m questioning if Graphic Design is really for me. Maybe I should focus more on photography instead.",
+            "Counselor": "It's okay to reflect on your path and feelings. Have you thought about how you might incorporate both passions into your work without feeling torn?"
+        }
+    }
+}

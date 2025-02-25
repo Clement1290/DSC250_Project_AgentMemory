@@ -1,0 +1,25 @@
+{
+    "User Id": 69,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Amina has started the semester filled with excitement for her Graphic Design classes after a summer of traveling and gathering inspiration for her artwork. However, she soon feels disheartened upon realizing that her new classmates are primarily focused on conventional methods and lack enthusiasm for innovative design ideas. During her first group project, Amina attempts to share her fresh perspectives but feels brushed off, making her question if she truly belongs in this course.",
+            "Mental State": ["Frustrated", "Isolated", "Disheartened"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-29",
+            "Description": "In search of support, Amina turns to her older brother, Karim, confiding in him about her concerns and feelings of disconnect with her classmates. However, Karim, busy with his own studies, suggests that she should just adapt to the group's approach rather than push for her ideas. Feeling invalidated and unsupported by someone she trusts, Amina grows increasingly doubtful about her creative instincts and reconsiders whether to alter her artistic approach to fit in better.",
+            "Mental State": ["Lonely", "Discouraged", "Doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-10",
+            "Description": "As the semester progresses, Amina is assigned to a community project where she sees a chance to make an impact. She finds excitement in crafting a design that reflects her passion for environmental causes and social issues. Yet, when presenting her ideas to her group, they favor a more generic design. Overwhelmed by feelings of inadequacy, Amina withdraws from the discussion, fearing her creativity might not be valued. This leads to further internal conflict, as she feels torn between her unique vision and the pressure to conform to the group's standards.",
+            "Mental State": ["Frustrated", "Defeated", "Conflicted"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-01",
+            "Description": "The day of the project presentation arrives, and Amina is nervous but determined to share her design. However, during the presentation, she struggles to engage the audience and senses their indifference towards her work. Afterward, she feels a profound sense of failure and questions whether she is cut out for this field, contemplating if she should pivot her focus from Graphic Design to photography, where she feels her artistic expression might be better appreciated. This uncertainty leaves her feeling lost, as she grapples with the decision to uphold her passions or conform to the expectations of her peers.",
+            "Mental State": ["Defeated", "Uncertain", "Reflective"]
+        }
+    }
+}

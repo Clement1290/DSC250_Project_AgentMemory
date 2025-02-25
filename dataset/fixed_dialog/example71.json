@@ -1,0 +1,153 @@
+{
+    "User Id": 71,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T09:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Sofia Ramirez. This is my first time meeting with you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Sofia! It's nice to meet you. How have you been feeling since the semester started?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I started with a lot of excitement, but I've been feeling a bit disheartened lately."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. What's been bothering you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I attended some great workshops over the summer, but now I feel like my classmates are just focused on grades and not on meaningful discussions."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds frustrating. Have you had a chance to share your ideas with your classmates?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I tried in our first class, but I felt dismissed, which left me feeling isolated."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's tough when you're passionate and your thoughts don't seem valued. How does that impact your confidence in sharing your ideas?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-29T10:30:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, I'm back. I'm feeling pretty lonely."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Sofia! I'm glad you came back. What's been going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I talked to my brother about my disconnect with classmates, but he just told me to focus on my grades."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That must have been difficult to hear from someone you trust. How did it make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It made me feel unsupported and question whether I should keep advocating for my ideas."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's completely natural to feel that way. Have you thought about how you might approach your classmates differently or share your thoughts again?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-10T12:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I want to talk about my community health project."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Of course! What's happening with your project, Sofia?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm excited about it, but when I tried to share my ideas, my classmates dismissed them in favor of more generic concepts."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That must feel discouraging, especially as you were eager to advocate for mental health. What are you thinking about doing now?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I think I'm going to withdraw from the discussion because I feel my ideas aren't valued."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's understandable, but remember your creativity is important. Is there anyone in the class you feel comfortable speaking with about your ideas?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-01T14:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I need to talk about my presentation today."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Sofia! I'm here for you. How did your presentation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I was nervous but willing to share my passion. However, I struggled to engage the audience, and they seemed indifferent."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really tough. It can be disheartening to put so much effort into something and feel like it doesn't resonate. What are your feelings about this experience?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I feel defeated and am beginning to question if I'm cut out for biochemistry. Maybe I should focus on art or photography instead."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's alright to have those feelings. Exploring different paths is part of your journey, and if those areas bring you joy, they are worth considering. Have you thought about how you might merge your interests while staying engaged with biochemistry?"
+            }
+        ]
+    }
+}

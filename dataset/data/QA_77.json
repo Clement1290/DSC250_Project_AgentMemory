@@ -1,0 +1,31 @@
+{
+    "User Id": 77,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019ve decided I need to confront Professor Mitchell about my struggles and ask for constructive feedback."
+        },
+        "question": "What decision did Michael make regarding Professor Mitchell?",
+        "answer": "He decided to confront Professor Mitchell about his struggles and ask for constructive feedback."
+    },
+    "long_term_QA": {
+        "question": "What was Michael struggling with in his interactions with Professor Mitchell, and what led him to reconsider his approach towards seeking support and feedback?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019ve decided I need to confront Professor Mitchell about my struggles and ask for constructive feedback."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I got defensive and tried to explain my ideas, but I just ended up feeling hurt and confused about what to do next."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "Are you questioning your ability to continue leading this project?"
+        },
+        "answer": "Michael was feeling hurt and confused after a dismissive critique from Professor Mitchell, which made him question his abilities. This frustration led him to reconsider and decide to confront his professor about his struggles and ask for constructive feedback."
+    }
+}

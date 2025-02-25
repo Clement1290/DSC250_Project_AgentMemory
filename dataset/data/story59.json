@@ -1,0 +1,25 @@
+{
+    "User Id": 59,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Amira begins the semester full of enthusiasm for her Environmental Science major. However, she is feeling a growing sense of pressure as she is expected to lead a group project on sustainable practices within her community. While she values teamwork, the thought of coordinating with her classmates makes her anxious because she worries about not meeting their expectations. Additionally, she notices her younger brother Faisal has been acting withdrawn lately, which adds to her stress as she feels a responsibility to support him.",
+            "Mental State": ["Enthusiasm", "Anxiety", "Concern"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks go by, Amira's worries increase. She finds it challenging to balance her studies, the group project, and tending to her family's needs, especially with Faisal still feeling down. Her classmates seem to be losing motivation for the project, leading to frustration on her part, as she takes their attitude to heart. This situation makes her feel inadequate as a leader and a sister, and she struggles with feelings of isolation as she tries to juggle her own emotions and responsibilities.",
+            "Mental State": ["Overwhelmed", "Frustration", "Isolation"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "In a group meeting, Amira attempts to inspire her classmates, but the conversation quickly turns negative, with team members expressing doubts about their project's feasibility. Feeling defeated, Amira tries to push through, but her growing fear of failure begins to affect her morale. After the meeting, she confides in her friend, Zara, expressing her fears about both the project and her brother's well-being. Though Zara is supportive, Amira leaves feeling burdened by the emotional weight of her responsibilities without a clear path forward.",
+            "Mental State": ["Defeated", "Burdened", "Sadness"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Amira takes some time to reflect on her feelings and decides to reach out to a campus counselor for support. During their session, she articulates her fears and frustrations, and the counselor encourages her to develop a self-care schedule. Although Amira feels relieved to share her struggles, she is hesitant about whether she can implement these new strategies effectively. The counselor also suggests inviting her classmates to a fun team-building activity, which brings a spark of hope but still leaves her uncertain about managing her responsibilities.",
+            "Mental State": ["Relief", "Hopefulness", "Uncertainty"]
+        }
+    }
+}

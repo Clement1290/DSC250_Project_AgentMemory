@@ -1,0 +1,63 @@
+{
+    "User Id": 46,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, my name is Jamila Khan. This is my first time visiting.",
+            "Counselor": "Hello Jamila! It’s a pleasure to meet you. How are you feeling as you start your senior year?",
+            "Student": "I’m feeling excited but also a bit overwhelmed. There’s a lot of pressure surrounding graduate school applications.",
+            "Counselor": "That’s understandable. Senior year can bring a lot of expectations. What specifically is making you feel overwhelmed?",
+            "Student": "I worry about meeting my family’s high expectations, especially since my mom is so invested in my success in environmental studies.",
+            "Counselor": "It sounds like there’s a lot of pressure on you. Have you discussed these feelings with your family or friends?",
+            "Student": "Not really. I hate to worry them, but it’s tough seeing my peers securing internships while I’m still figuring things out.",
+            "Counselor": "Comparison can be really tough. Have you thought about what you might like to do to alleviate some of that anxiety?",
+            "Student": "Maybe I could start working on my application now and set small goals to get there.",
+            "Counselor": "That sounds like a great idea! Breaking your goals down can make them feel more manageable. How does that feel as a first step?",
+            "Student": "A bit more manageable, actually. Thank you for that suggestion!",
+            "Counselor": "You’re very welcome, Jamila! Remember, it’s okay to seek support. I’m here for you if you want to talk again."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00",
+        "Dialogue": {
+            "Student": "Hi again. I went to a networking event and it was really tough for me.",
+            "Counselor": "Welcome back, Jamila! I’m here to listen. What happened at the networking event?",
+            "Student": "I felt lost watching everyone else confidently talk with recruiters while I struggled to introduce myself.",
+            "Counselor": "That sounds really frustrating. How did that affect your feelings about your own skills?",
+            "Student": "I felt inadequate and left the event feeling even more isolated. It made me question if I'm really cut out for this.",
+            "Counselor": "It’s understandable to feel that way, especially in a competitive environment. Have you thought about discussing these feelings with any of your friends or family?",
+            "Student": "No, I just tend to withdraw instead. I don’t want to burden them with my worries.",
+            "Counselor": "It’s common to feel that way, but opening up might provide relief. Would you be willing to consider talking to someone about it?",
+            "Student": "I’ll think about it. It’s just hard to shake off these negative feelings.",
+            "Counselor": "It takes time, and acknowledging your feelings is a big step. I’m here to support you as you navigate these challenges."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T11:30:00",
+        "Dialogue": {
+            "Student": "Hi, I wanted to talk about my recent volunteer experience at a shelter.",
+            "Counselor": "Hi Jamila! I’m glad you’re here. How was volunteering?",
+            "Student": "It was emotional. I met someone who shared their struggles with mental health, and it really impacted me.",
+            "Counselor": "That sounds very intense. It's understandable to feel deeply affected by such stories. How did you cope after hearing their experiences?",
+            "Student": "I came home feeling heavy-hearted, and instead of feeling accomplished, I started to doubt my capabilities in this field.",
+            "Counselor": "It’s perfectly valid to feel that way. Perhaps you could think about how to channel those feelings into positive action. Have you considered discussing those emotions with someone?",
+            "Student": "I haven’t really thought about that. I guess I’m worried about being seen as weak.",
+            "Counselor": "Acknowledging your feelings and seeking support is a sign of strength, not weakness. What if you chose a trusted friend or your brother to share your thoughts with?",
+            "Student": "That could work. It’s just hard to open up sometimes."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T15:00:00",
+        "Dialogue": {
+            "Student": "Hi! I talked to my brother, Amir, about everything I’ve been feeling.",
+            "Counselor": "Hi Jamila! I’m glad to see you again. How did that conversation go?",
+            "Student": "He was really supportive. I shared my worries about feeling inadequate and he suggested I seek mentorship in my field.",
+            "Counselor": "That’s a great suggestion! How do you feel about pursuing mentorship?",
+            "Student": "I appreciate it, but I’m still hesitant. What if it just emphasizes my inexperience?",
+            "Counselor": "It’s natural to feel unsure, but remember that mentors are there to guide you and help you learn. What might help you feel more comfortable reaching out?",
+            "Student": "Maybe reminding myself that everyone starts somewhere could ease that fear.",
+            "Counselor": "Exactly! Taking that first step can be daunting, but it could also lead to valuable insights. How do you feel about potentially contacting someone for guidance?",
+            "Student": "I think I could try. Thank you for encouraging me. I feel a little more confident now."
+        }
+    }
+}

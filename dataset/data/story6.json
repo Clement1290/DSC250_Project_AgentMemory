@@ -1,0 +1,25 @@
+{
+    "User Id": 6,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the new semester begins, Ethan feels increasingly overwhelmed by the academic pressures of his Environmental Science major. He has just completed an intense field study project that required a lot of physical exertion, and although he worked hard, he received feedback that felt critical rather than constructive. This leaves him feeling discouraged and anxious about his abilities, especially as he considers his father's expectations of success in the outdoors.",
+            "Mental State": ["anxious", "discouraged", "overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "During a group project, Ethan struggles to share his insights and ideas. His classmates are confident and articulate, and he finds it difficult to speak up, feeling overshadowed in discussions. This leads to feelings of inadequacy, making him withdraw from the group more. Despite enjoying the subject, Ethan becomes frustrated with his inability to contribute, doubting whether he belongs in the program compared to his peers.",
+            "Mental State": ["frustrated", "isolated", "insecure"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As the semester progresses, the pressure mounts, and Ethan begins to avoid social events and outings with friends. At a family gathering, where he sees his sister Mia excelling in her studies, he feels even more inadequate. The comparisons to his family's achievements intensify his despair, as he worries he is falling short of their expectations. This leads to a continuous cycle of negative thoughts about his potential and future in environmental science.",
+            "Mental State": ["despairing", "unmotivated", "frustrated"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of battling his anxiety and feelings of inadequacy, Ethan decides to seek help from the campus counseling center. In his first session, he expresses his struggles with self-doubt and his reluctance to engage fully in his studies. Although he feels a sense of relief after sharing his burdens, the underlying issues of perfectionism and fear of failure remain unaddressed. Ethan acknowledges he needs to build confidence and find practical strategies to cope, but he's unsure about how to begin this process.",
+            "Mental State": ["relieved", "uncertain", "hopeful"]
+        }
+    }
+}

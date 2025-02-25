@@ -1,0 +1,31 @@
+{
+    "User Id": 14,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I want to express how anxious I am and seek support for the group project."
+        },
+        "question": "What does Elena want to discuss with her professor?",
+        "answer": "She wants to express how anxious she is and seek support for the group project."
+    },
+    "long_term_QA": {
+        "question": "How did Elena feel about her abilities before she decided to seek help, and what motivated her to take that step?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019m nervous but also hopeful. I realize I can\u2019t tackle this alone."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I feel lost and think about dropping the marketing club. I\u2019m scared of failing in front of everyone."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It takes courage to ask for help, and doing so can empower you. Remember, your feelings are valid."
+        },
+        "answer": "Before deciding to seek help, Elena felt lost and scared of failing in front of everyone. Her motivation to seek help stemmed from the realization that she couldn't tackle her struggles alone, leading her to feel hopeful about reaching out to her professor."
+    }
+}

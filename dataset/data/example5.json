@@ -1,0 +1,60 @@
+{
+    "User Id": 5,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-11-06T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I'm Sophia Martinez. It's nice to meet you.",
+            "Counselor": "Hi Sophia! It’s wonderful to meet you too. How are you feeling today?",
+            "Student": "I’m feeling a bit overwhelmed with the new semester starting. It’s been tough.",
+            "Counselor": "I understand. Starting a new semester can often bring about a lot of pressure. What specifically has been overwhelming for you?",
+            "Student": "I recently received some feedback on my project that really made me question my skills. It makes me anxious about living up to my family's expectations.",
+            "Counselor": "That sounds difficult. Constructive criticism can sometimes feel defeating, especially when we tie our self-worth to our work. Can you tell me about what kind of feedback you received?",
+            "Student": "It was about my presentation style. I felt like I didn't express my ideas well, and it left me feeling frustrated and anxious about participating in future discussions.",
+            "Counselor": "It’s understandable to feel that way, especially with such a focus on communication in your major. Have you talked to anyone about how you're feeling?",
+            "Student": "Not really; I don’t want to seem like I'm struggling. I feel embarrassed.",
+            "Counselor": "It’s totally normal to feel embarrassed, but sharing might bring you some relief. Sometimes others can offer insights or support when we open up. Would you consider speaking to someone, maybe your brother or a close friend?",
+            "Student": "I could try that. Thank you for the suggestion."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-11-13T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I’m back. I tried talking to my brother about my feelings.",
+            "Counselor": "Hi Sophia! I'm glad you returned. How did that conversation go?",
+            "Student": "It felt good to share, but I still struggle with voicing my opinions in group projects.",
+            "Counselor": "I’m happy to hear you opened up. It’s a step in the right direction! What do you think is holding you back during those group interactions?",
+            "Student": "I feel overshadowed by my more confident classmates, and I often hold back my ideas.",
+            "Counselor": "That’s a normal feeling in collaborative settings. Have you considered setting small goals for yourself, such as making at least one contribution during group discussions?",
+            "Student": "That sounds like it could help. I’ll try to do that for our next meeting.",
+            "Counselor": "That’s a great plan! Remember, your ideas and thoughts are valuable. Would you like to practice how you might introduce your idea before your next group session?",
+            "Student": "That could be really helpful actually. I need to build my confidence."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-11-20T10:00:00",
+        "Dialogue": {
+            "Student": "Hi again. I’ve been feeling pretty anxious this week.",
+            "Counselor": "Welcome back, Sophia! I’m here to help. What's on your mind?",
+            "Student": "I went to a family gathering, and my dad was showcasing his music. It made me feel really inadequate.",
+            "Counselor": "I’m sorry to hear that. Family events can often trigger feelings of comparison. How did this experience make you feel in terms of your own goals?",
+            "Student": "It just made me doubt my future in psychology. I guess I’m feeling trapped right now.",
+            "Counselor": "Those feelings are very valid. It can be tough when we compare ourselves to others. Have you taken any time to reflect on your own achievements and passions?",
+            "Student": "Not really. I’ve been so focused on what others are doing.",
+            "Counselor": "It might be helpful to take a moment and write down what you’ve accomplished and what you enjoy about psychology. Focusing on your personal journey may help alleviate some of those feelings of despair."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-27T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I’m back! I finally started writing down my accomplishments.",
+            "Counselor": "Hi Sophia! That’s wonderful to hear! How did it go?",
+            "Student": "It was eye-opening. I realized I’ve done a lot more than I give myself credit for.",
+            "Counselor": "That's fantastic! Recognizing your achievements is crucial for building self-confidence. How do you feel now about your future in psychology?",
+            "Student": "I feel a little more hopeful. But I still struggle with participating in class.",
+            "Counselor": "It's great to hear you're feeling hopeful! For class participation, remember it’s okay to take baby steps. What’s one small way you could start participating again?",
+            "Student": "Maybe I could start by asking questions after lectures. That feels a bit less intimidating.",
+            "Counselor": "That’s an excellent idea! Asking questions can be a great way to engage without feeling pressured to contribute large opinions right away. Let’s set that as a goal for next week.",
+            "Student": "I’ll do that! Thank you so much for your support throughout this process."
+        }
+    }
+}

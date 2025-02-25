@@ -1,0 +1,198 @@
+{
+    "User Id": 50,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Ella Robinson. It's nice to meet you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Ella! It's great to meet you too. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, I'm feeling quite anxious. I have an important presentation coming up in my psychology class."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That does sound stressful. What specifically is making you feel anxious about it?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm supposed to lead a discussion on mental health in communities, and I just feel a lot of pressure to perform well."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's completely natural to feel pressure, especially in a leadership position. Can you share more about that pressure?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I feel like my classmates, especially my close friend Maddie, really look up to me. I don't want to disappoint them."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It sounds like you have a lot of responsibility, especially since you care about how others perceive you. Have you considered how you might manage that pressure?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Not really, I just feel like I need to be perfect."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Perfection can be a heavy burden to carry. It might help to remind yourself that everyone has their strengths and weaknesses. How does that resonate with you?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello again. I wanted to talk more about my presentation. I'm feeling very overwhelmed now."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Ella. I'm glad you're back. What's been overwhelming you?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "With the presentation only a week away, I'm doubting if I can engage my classmates properly, and it's isolating."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That feeling of isolation can be tough. Have you had a chance to share your feelings with anyone?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Not really. During a group study session, Maddie asked how I was feeling, and I brushed it off. I don't want to burden anyone."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That makes sense, but opening up can often bring support. What if you shared just a little about how you're feeling with her?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm worried she won't understand what I'm going through."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It can be surprising how much understanding can come from sharing. Sometimes friends just want to be there for you, regardless of whether they fully grasp your experience. Would you consider trying it?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-21T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I think I've actually been avoiding my friends over this presentation. It's not good."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Ella, it's great to see you again. It sounds like you've become more withdrawn. What's been going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm just so focused on preparing that I've shut out socializing. Maddie invited me to some outings, but I keep saying no."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's understandable, but it sounds like the isolation is making it worse for you. Do you feel guilty for not engaging?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Yes, I do. But I just can't handle the thought of socializing right now."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Balancing preparation with social connections is important. What if you set aside just a small amount of time to connect with Maddie or others? You could catch up for a short time and then return to studying after."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "That might help. I'm just afraid that once I stop, I won't want to go back to studying."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's about finding that balance. Social interactions can recharge you and provide new perspectives that may enhance your preparation."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I really need to talk about what happened during my presentation."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Ella! I'm here for you. What happened?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I had a panic attack just before I was supposed to speak. It was so embarrassing."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm really sorry to hear that. That must have felt really overwhelming in the moment."
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It was. I made it through the presentation, but I felt inadequate and embarrassed afterward."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's okay to feel that way. You tackled your fear in a very real situation. After the class, did you have a chance to share your experience with anyone?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I talked to Maddie, and it felt good to finally let it out. But I'm still anxious about how it affects my confidence going forward."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Acknowledging your emotions with Maddie is a great step forward. It's natural to want to rebuild your confidence; perhaps we can strategize some steps to help you gradually manage your anxiety?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I'd really like that. I want to do better next time."
+            }
+        ]
+    }
+}

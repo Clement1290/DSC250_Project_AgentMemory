@@ -1,0 +1,31 @@
+{
+    "User Id": 49,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I finally broke down the other day and talked to my family."
+        },
+        "question": "What did Samantha do before this session to help with her feelings?",
+        "answer": "She talked to her family."
+    },
+    "long_term_QA": {
+        "question": "How did Samantha's feelings of isolation and defensiveness impact her ability to communicate with her family before she opened up, and what prompted her to finally express her struggles?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I feel so withdrawn lately. I just can't seem to concentrate."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "Exactly! And every time I see my friends, I feel even more guilty for not being there."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "I\u2019m so proud of you for opening up."
+        },
+        "answer": "Before she opened up, Samantha felt so withdrawn and experienced guilt for not being social, which limited her ability to connect with her family. The vulnerability she felt when she finally broke down prompted her to express her struggles, leading to her family's support."
+    }
+}

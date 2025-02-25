@@ -1,0 +1,49 @@
+{
+    "User Id": 23,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I'm David Chen. This is my first time speaking with a counselor.",
+            "Counselor": "Hello, David! It’s nice to meet you. How are you feeling today?",
+            "Student": "I’m feeling a mix of excitement and anxiety about the new semester in Mechanical Engineering.",
+            "Counselor": "That’s completely normal! What’s making you feel anxious specifically?",
+            "Student": "I’m excited about my classes and opportunities, but I’m worried about keeping up with the workload. It feels a bit overwhelming already.",
+            "Counselor": "It sounds like you have a lot on your plate. Have you set any strategies to manage your time and commitments?",
+            "Student": "Not really, I’m just trying to wing it. I don’t want to fall behind, but it’s starting to stress me out.",
+            "Counselor": "That’s understandable. Let’s explore some time management techniques together to help you feel more in control."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I’m feeling more stressed this week.",
+            "Counselor": "Welcome back, David! I’m here to help. What’s been going on?",
+            "Student": "I’ve been working late every night and avoiding social events. My friends have noticed, especially my buddy Ethan.",
+            "Counselor": "It sounds like you’re withdrawing from connections that usually support you. How does that make you feel?",
+            "Student": "I feel guilty for not being there for them, and I miss hanging out, but I convince myself that I need to focus on school.",
+            "Counselor": "Finding a balance is essential, David. Could you set small time blocks for both study and fun? That might help reduce guilt."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:30:00Z",
+        "Dialogue": {
+            "Student": "Hello, I had a challenging week.",
+            "Counselor": "Hi, David! I’m sorry to hear that. What happened this week?",
+            "Student": "I got disappointing feedback on my lab report. I felt like I let everyone down.",
+            "Counselor": "That can be really disheartening. How did you react when you received that feedback?",
+            "Student": "I lashed out at Ethan during our study group when he brought up taking a break. I just felt overwhelmed.",
+            "Counselor": "It’s normal to feel defensive when stressed. Have you had a chance to talk to Ethan about what happened?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T15:00:00Z",
+        "Dialogue": {
+            "Student": "Hi! I talked to Ethan and apologized for my reaction.",
+            "Counselor": "That’s great to hear, David! How did that conversation go?",
+            "Student": "It went really well. I shared what I've been going through, and he was really understanding. It felt good to open up.",
+            "Counselor": "That’s wonderful! How are you feeling about your studies now?",
+            "Student": "I feel relieved to have had that talk, but I’m still anxious about maintaining my grades and friendships.",
+            "Counselor": "It’s okay to feel that way. Remember that it’s about progress and not perfection. How do you plan to manage your time moving forward?"
+        }
+    }
+}

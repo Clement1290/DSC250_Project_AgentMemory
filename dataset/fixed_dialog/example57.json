@@ -1,0 +1,188 @@
+{
+    "User Id": 57,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi there! I'm Sara. I'm really excited to be here today!"
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Sara! It's great to meet you. What brings you in today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Well, I just attended a mental health awareness meeting at my university, and it got me thinking about my own experiences."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like a meaningful experience. What stood out to you the most?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I connected with someone named Alex who shared their struggles with anxiety. It resonated with me because I sometimes struggle with self-doubt."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Thank you for sharing that. It's wonderful that you have such a strong connection with others. How do you feel about your own experiences?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I feel inspired, but I also realize I have some emotional vulnerabilities I need to work on."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's completely normal to have those vulnerabilities, especially in such a challenging field like psychology. What do you think would help you to navigate those feelings?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, it's Sara again. I'm feeling a bit overwhelmed these days."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Sara! I'm glad you came back. What's been overwhelming you?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I have so much coursework piled up, and I really want to excel in my major. I've started to withdraw from social interactions."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It sounds like the pressure is really getting to you. It's tough when you feel both overwhelmed and isolated. Do you have any support systems in place?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Not really. I hesitate to reach out because I'm scared of being judged."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That fear is understandable, but remember, everyone has their struggles. Sometimes sharing can alleviate the burden. How would you feel about connecting with a study group?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm unsure... But maybe it could help. I just don't want to feel inadequate."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's a step, and it's okay to take it slowly. What's one small action you could take this week to feel more connected?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T18:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, I attended a friend's birthday party recently, but I felt really disconnected from everyone."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Sara! I'm here to listen. Can you tell me more about what happened?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Well, I just watched my friends chatting and having fun. I felt like I didn't belong."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really tough. It's painful to feel isolated even in social settings. Did you manage to engage with anyone?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I tried, but I felt like I was forcing a smile. I just wasn't in the right headspace."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's okay. Acknowledging your feelings is a huge first step. What would feel supportive for you in those moments?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I think just being able to express how I feel instead of pretending would help."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Absolutely, being genuine is important. Let's explore how you can create that space for yourself moving forward."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T12:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I'm back. I finally reached out to Alex for support."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Sara! That's a fantastic step. How did that conversation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was really validating. We shared our experiences, and it felt good to connect. But I still feel uncertain about how to manage everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm glad you felt validated. It's normal to feel a mix of relief and uncertainty. What aspects are causing the most uncertainty for you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm worried about how to balance my studies with my emotional health."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's a legitimate concern. Have you considered setting small, achievable goals for both your academics and self-care?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "No, I haven't thought about that. That could be helpful!"
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Great! Let's brainstorm some specific goals together. You deserve to take care of your mental well-being as you pursue your studies."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Thank you! This feels a lot more manageable with your guidance."
+            }
+        ]
+    }
+}

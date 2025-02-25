@@ -1,0 +1,25 @@
+{
+    "User Id": 38,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the new semester begins, Olivia is excited to dive into her Environmental Studies coursework. However, as classes get underway, she begins to feel the mounting pressure of balancing her studies with her volunteer commitments. Striving to uphold her family’s values and her responsibilities as a volunteer, she worries about potentially disappointing her peers and not living up to the expectations of her professors. The weight of these responsibilities leads to a growing sense of anxiety about her performance.",
+            "Mental State": ["Excited", "Anxious", "Overwhelmed", "Hopeful"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As midterms approach, Olivia starts to struggle with managing her time. During a weekly volunteer meeting focused on organizing an upcoming environmental awareness event, she mentions feeling overwhelmed. However, her suggestion for a new approach is swiftly dismissed by a more assertive team member, Karen. This moment leaves Olivia feeling frustrated and undervalued, as she questions whether she truly belongs in the group. The dismissive atmosphere during the meeting makes her feel isolated, contributing to her increasing self-doubt.",
+            "Mental State": ["Frustrated", "Insecure", "Isolated", "Sad"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With midterms here, Olivia's anxiety peaks as she receives a grade lower than she expected on a significant paper. This news exacerbates her feelings of inadequacy, especially after the negative feedback from Karen during the meeting. During a presentation for the volunteer group, Olivia finds herself floundering under pressure, unable to share her ideas due to fear of further criticism. The combination of academic pressure and social conflict leads her to withdraw socially and emotionally, believing she is not good enough as both a student and an advocate.",
+            "Mental State": ["Defeated", "Anxious", "Heartbroken", "Lonely"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of feeling overwhelmed, Olivia finally decides to reach out to her academic advisor, Professor Garcia. During their meeting, she opens up about her struggles to balance her commitments, her feelings of inadequacy, and the hurt from being dismissed by her peers. Professor Garcia listens patiently and provides valuable guidance on coping strategies, such as self-care and assertive communication. As Olivia leaves the meeting, she starts to feel a renewed sense of hope. Though she is still anxious about communicating with her group, she feels empowered to share her thoughts and concerns moving forward.",
+            "Mental State": ["Hopeful", "Anxious about confrontation", "Empowered", "Determined"]
+        }
+    }
+}

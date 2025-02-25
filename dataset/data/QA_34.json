@@ -1,0 +1,31 @@
+{
+    "User Id": 34,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019m going to start delegating some tasks in the organization and focus on my well-being."
+        },
+        "question": "What is Sophia planning to do next regarding her responsibilities in the organization?",
+        "answer": "Start delegating some tasks."
+    },
+    "long_term_QA": {
+        "question": "How did Sophia feel before she reached out to her mentor, and what led her to decide to communicate her fears?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019m still anxious, but I feel like I can manage them better. I\u2019m hopeful."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I\u2019m just doubting myself. I feel disheartened and want to withdraw from my friends."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "It was relieving to share my feelings. I expressed my fears about leadership and expectations."
+        },
+        "answer": "Before reaching out to her mentor, Sophia was disheartened and doubted herself, feeling the urge to withdraw from her friends. She decided to communicate her fears because she found it relieving to share her feelings."
+    }
+}

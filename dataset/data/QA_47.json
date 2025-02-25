@@ -1,0 +1,31 @@
+{
+    "User Id": 47,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I shared my worries, and she suggested I seek mentorship opportunities in my field."
+        },
+        "question": "What did Ethan do to address his feelings of inadequacy?",
+        "answer": "He talked to his sister Mai about his feelings of inadequacy."
+    },
+    "long_term_QA": {
+        "question": "How did Ethan feel before he confided in his sister, and what prompted him to express his feelings and seek mentorship?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I think it's a good idea, but I\u2019m still hesitant. What if I\u2019m seen as inexperienced?"
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "Instead of feeling motivated, I ended up feeling discouraged and unsure of my value in this field."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I shared my worries, and she suggested I seek mentorship opportunities in my field."
+        },
+        "answer": "Before confiding in his sister, Ethan felt discouraged and unsure of his value in this field. After sharing his worries with her, she suggested he seek mentorship opportunities, prompting him to express his feelings and consider mentorship."
+    }
+}

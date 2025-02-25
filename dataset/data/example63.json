@@ -1,0 +1,48 @@
+{
+    "User Id": 63,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T09:15:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Aiden. Nice to meet you.",
+            "Counselor": "Hello, Aiden! It’s great to meet you too. What brings you in today?",
+            "Student": "I'm really looking forward to this semester because I'm studying engineering, but I’m feeling a bit anxious about the internship search.",
+            "Counselor": "That sounds exciting, but it’s understandable to feel anxious about internships. What specifically worries you?",
+            "Student": "I’m worried about competing with others and maintaining my grades. Plus, I’m also helping my sister Priya study for her medical entrance exams.",
+            "Counselor": "It sounds like you're juggling quite a lot right now. How do you plan to handle these responsibilities?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:45:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I’m feeling really overwhelmed at the moment.",
+            "Counselor": "Hello, Aiden! I’m glad you’re back. What’s been making you feel overwhelmed?",
+            "Student": "There’s just so much to do. Between classes, projects, and helping Priya, I feel like I’m not doing enough in any area.",
+            "Counselor": "That’s a lot to handle. Have you found yourself taking time for self-care amidst all that stress?",
+            "Student": "Not really. I haven't had time for my hobbies like photography or cooking, which usually help me relax.",
+            "Counselor": "Finding time for your interests can be crucial for your mental health. What do you think about scheduling even a small amount of time for them?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hey, I just came from a group project meeting and I couldn't keep up. I feel so inadequate.",
+            "Counselor": "Hi, Aiden. I'm sorry to hear that. What made you feel inadequate during the meeting?",
+            "Student": "My peers were able to articulate their ideas so clearly, while I just felt lost. I talked to Marcus afterward, but it didn’t help much.",
+            "Counselor": "It’s valid to feel disheartened, especially when you care about contributing. Have you had a chance to reflect on what might have contributed to feeling lost?",
+            "Student": "I think it's a combination of stress and my worries for Priya. I feel like I keep letting people down.",
+            "Counselor": "You’re dealing with a lot of pressures. What is one thing you can do to support yourself through this?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T11:30:00Z",
+        "Dialogue": {
+            "Student": "Hi! I decided to seek help from a campus counselor. It felt good to explain everything I’ve been feeling.",
+            "Counselor": "That’s a positive decision, Aiden! How did it feel to talk about your struggles?",
+            "Student": "I felt relieved, but they emphasized the need for self-care and boundaries. I’m not sure how to apply all this advice.",
+            "Counselor": "It's completely normal to feel uncertain about implementing change. What’s one small step you can take towards self-care this week?",
+            "Student": "I’m thinking of setting aside time each week for photography—it’s something I really enjoy.",
+            "Counselor": "That sounds like a great plan! Even dedicating a small amount of time to something you love can make a big difference. Keep me updated on how it goes!",
+            "Student": "Thank you for your support! I really appreciate it."
+        }
+    }
+}

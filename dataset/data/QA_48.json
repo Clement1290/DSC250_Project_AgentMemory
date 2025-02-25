@@ -1,0 +1,31 @@
+{
+    "User Id": 48,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I think it's a good opportunity, but I\u2019m worried that it might expose my insecurities further."
+        },
+        "question": "What is Priya concerned about when considering seeking mentorship?",
+        "answer": "She is worried that it might expose her insecurities further."
+    },
+    "long_term_QA": {
+        "question": "How did Priya feel about her future before her conversation with her brother, and what encouraged her to consider mentorship afterward?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "Priya ends a conversation with her brother feeling a mix of hopefulness and uncertainty about how to proceed with her future."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling pretty anxious. There\u2019s a lot of pressure to apply for graduate school."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I told him about my worries and he suggested looking for a mentor to guide me."
+        },
+        "answer": "Before her conversation with her brother, Priya felt pretty anxious about her future due to the pressure to apply for graduate school. Afterward, he encouraged her to look for a mentor to guide her, which instilled a sense of hopefulness."
+    }
+}

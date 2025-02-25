@@ -1,0 +1,25 @@
+{
+    "User Id": 63,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Aiden starts the semester with enthusiasm about his engineering major and his goal to secure an internship. However, he feels anxious about the competitiveness of internships and the stress of maintaining his grades. Additionally, he is concerned about managing his studies while also helping his sister Priya study for her medical entrance exams. Aiden feels a strong sense of responsibility to support his family and excel academically.",
+            "Mental State": ["Enthusiasm", "Anxiety", "Responsibility"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the semester progresses, Aiden becomes increasingly overwhelmed by the workload from his classes and the pressure of supporting Priya. He finds himself staying up late working on projects, which starts to affect his focus and energy levels. He also begins to neglect his hobbies, such as photography and cooking, which usually help him decompress. His stress leads to feelings of isolation as he distances himself from friends, not wanting to burden them with his problems.",
+            "Mental State": ["Overwhelmed", "Fatigue", "Isolation"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "In a group assignment, Aiden is unable to contribute as effectively as he hoped due to his mounting stress. He feels embarrassed when his peers have to pick up the slack, and during the group discussion, he struggles to articulate his thoughts clearly. Afterward, he vents to his friend Marcus about feeling inadequate in both his studies and as an older brother. Despite Marcus's encouragement, Aiden leaves feeling disheartened and questioning his abilities.",
+            "Mental State": ["Inadequate", "Disheartened", "Confusion"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After reflecting on his struggles, Aiden decides to seek support from a counselor. During their session, he discusses his anxiety, the pressures he feels to perform well academically, and his responsibilities to support Priya. The counselor suggests implementing a structured schedule that includes time for self-care and emphasizes the importance of setting realistic expectations. While Aiden feels a sense of relief after sharing, he still grapples with uncertainty about how to balance his responsibilities moving forward.",
+            "Mental State": ["Relief", "Hopefulness", "Uncertainty"]
+        }
+    }
+}

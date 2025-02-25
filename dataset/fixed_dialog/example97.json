@@ -1,0 +1,218 @@
+{
+    "User Id": 97,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, my name is Sophia Adams. I'm a 22-year-old student majoring in Environmental Science."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Sophia! It's great to meet you. How can I assist you today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Well, I'm feeling a bit overwhelmed. The semester just started, and my workload is already piling up."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really challenging. What specific aspects of your workload are making you feel this way?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I have multiple assignments and group projects, along with my volunteer commitments. I'm worried I won't be able to keep up."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel anxious when things get hectic. Have you had any strategies to manage your time and responsibilities?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I usually try to stay organized, but right now, everything feels like too much."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It can help to break down your tasks into smaller, manageable goals. Would that be something you might try?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I think I could try that. It's just hard to think clearly right now."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Take your time, Sophia. Remember, it's okay to feel this way, and you're not alone in facing these challenges. I'm here for you."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-10-01T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I think I'm getting worse. I feel more anxious and isolated."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I'm sorry to hear that, Sophia. Can you tell me more about what's been happening?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "In my group project, I struggled to contribute ideas. I felt so drained, and then I thought my classmates noticed."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's tough to feel like you're not participating as much. How did your classmates respond?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Liam tried to encourage me, but I ended up feeling like he was just pitying me, which made me withdraw more."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "I can see how that would deepen your feelings of isolation. It's important to recognize those feelings but also to communicate your experiences. Have you tried sharing how you felt with them?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "No, I haven't. I'm afraid they won't understand how I feel."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Sharing can be scary, but it might also strengthen your connections. It can be helpful to remind yourself that your feelings are valid. Would you like to practice communicating that with me?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Yeah, maybe that would help."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-21T14:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I've had a rough week. I tried to work on my photography project, but I got really frustrated."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I'm here to listen, Sophia. What happened during your project?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "While editing, I just felt like my photos lacked depth. Then I shared them with my family, and my brother criticized them."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds hurtful, especially when you're already feeling vulnerable with your work. How did his criticism affect you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It made me angry and also self-critical. I started questioning my abilities."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's normal to feel that way when facing criticism, especially from someone close to us. What do you think you could do to cope with those feelings?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I don't know. I just feel lost about my art and studies."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Perhaps taking a short break from editing or going back to the basics of what you enjoy about photography could help. Remember why you started this project in the first place."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "That makes sense. I loved capturing nature before. I should focus on that again."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello, I'm back. I had a really tough week. I ended up arguing with a friend."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I'm sorry to hear that, Sophia. What led to the argument?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was over a minor disagreement about our project, but I totally lost my cool and said some hurtful things."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It happens to many people when we're under stress. How did you feel afterward?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt regretful and ashamed. I didn't want to hurt my friend, and now I'm not sure how to mend things."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Recognizing that regret is an important first step. Have you thought about reaching out to your friend to discuss how you felt?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm nervous about that. What if they don't want to talk?"
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's natural to feel apprehensive, but expressing your feelings could lead to healing. You might be surprised by their response."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I guess that's true. I need to try, but I'm still feeling lost."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's okay to feel lost sometimes. Remember, it's part of the journey. You're making progress by just acknowledging these feelings."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Thanks for your support. I'll try to reach out and see what happens."
+            }
+        ]
+    }
+}

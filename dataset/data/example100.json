@@ -1,0 +1,53 @@
+{
+    "User Id": 100,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Aisha Patel. I’m 22 and studying Environmental Studies.",
+            "Counselor": "Hello, Aisha! Nice to meet you. How are you feeling as the semester starts?",
+            "Student": "Thanks! I’m feeling excited about my classes, but I’m also a bit overwhelmed.",
+            "Counselor": "That's completely normal! What’s been making you feel overwhelmed?",
+            "Student": "I really want to keep up with my coursework while also volunteering, but I’m starting to doubt whether I can manage everything.",
+            "Counselor": "That’s a tough situation to be in. Balancing academic and personal commitments can be challenging. Have you found any strategies to help manage your time?",
+            "Student": "I’m still trying to figure that out. I just feel torn between my responsibilities and my passion for volunteering.",
+            "Counselor": "It's great that you have such a passion for volunteering! Maybe we can explore ways to create a balance between your studies and your commitments."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I’m feeling more anxious. My stress levels have been rising.",
+            "Counselor": "I’m here for you, Aisha. Can you share what’s been causing your stress?",
+            "Student": "In a group project, I feel overshadowed by Sam, a confident classmate who always dominates discussions.",
+            "Counselor": "That sounds frustrating. It’s tough when you feel like your voice isn’t being heard. How did that make you feel about your contributions?",
+            "Student": "It really hit my self-esteem hard. I feel like I’m not good enough to express my ideas.",
+            "Counselor": "It's understandable to feel that way. You matter and your contributions are valuable. Have you talked to anyone about how you’re feeling?",
+            "Student": "Not yet, I’ve been keeping it to myself.",
+            "Counselor": "Sharing how you feel could help lighten the load. Maybe you could discuss this with your sister Riya or a trusted friend."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hello again. I tried to take charge in my community service project but I felt so nervous during the meeting.",
+            "Counselor": "I'm sorry to hear that. What happened in the meeting?",
+            "Student": "I stumbled over my words and my classmates looked confused. I felt like they thought I wasn’t prepared.",
+            "Counselor": "It’s normal to feel nervous, especially in a leadership role. Have you thought about preparing some key points before meetings?",
+            "Student": "I think that would help, but I can’t shake off this feeling of inadequacy.",
+            "Counselor": "It’s important to remember that everyone has moments of doubt. What strengths do you bring to your projects?",
+            "Student": "I care deeply about environmental issues and want to help make a difference."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’ve had a challenging week. I overheard Sam making a joke about me needing to 'speak up more.'",
+            "Counselor": "That sounds hurtful, Aisha. How did that make you feel?",
+            "Student": "It made me feel angry and sad. I thought we had a supportive group.",
+            "Counselor": "It’s understandable to feel upset by that comment. It can be difficult when assumptions are made about us.",
+            "Student": "I want to confront Sam about it, but I’m scared he’ll brush it off.",
+            "Counselor": "It’s okay to take your time. Sometimes expressing feelings can feel risky, but it might provide clarity. Would you want to write down how you feel first?",
+            "Student": "That could help. I just feel so detached from everyone lately."
+        }
+    }
+}

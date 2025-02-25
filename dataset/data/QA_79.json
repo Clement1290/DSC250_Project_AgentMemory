@@ -1,0 +1,31 @@
+{
+    "User Id": 79,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019ve realized I can\u2019t keep suppressing my emotions."
+        },
+        "question": "What realization did Amara have regarding how she has been handling her emotions?",
+        "answer": "Amara realized she can't keep suppressing her emotions."
+    },
+    "long_term_QA": {
+        "question": "How did Amara initially feel about balancing her responsibilities while supporting her friend, and what led her to realize this was negatively impacting her own mental health?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019ve realized I can\u2019t keep suppressing my emotions."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling a bit anxious. It\u2019s the start of my final year in psychology."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I got really defensive, but afterwards, I just felt humiliated and disheartened."
+        },
+        "answer": "Amara initially felt overwhelmed and anxious due to juggling her academic responsibilities and supporting her friend, but she realized that her focus on supporting Sarah was detrimental to her own mental health after feeling humiliated and disheartened during a class discussion."
+    }
+}

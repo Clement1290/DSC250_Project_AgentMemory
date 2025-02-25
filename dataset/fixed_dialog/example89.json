@@ -1,0 +1,203 @@
+{
+    "User Id": 89,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Aisha Khan. It's my first time here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello Aisha! It's great to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a mix of excitement and anxiety. It's the first day of classes, and I'm worried about meeting new people."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's completely understandable. Starting a new semester can be both thrilling and stressful. What specifically are you feeling worried about?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I worry about fitting in. I saw a group of students laughing together, and it made me feel self-conscious."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's natural to feel that way. Many students experience similar feelings. Can you tell me more about what you hope for this semester?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I want to make friends and connect with people who share my interests, especially in psychology."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That sounds like a wonderful goal! Connecting with like-minded individuals can really enhance your college experience. Have you thought about any activities or clubs you might want to join?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Yes! I'm thinking of joining the psychology club, but I'm not sure about it."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Joining clubs is a great way to meet people. It might ease your worries about finding your place. How do you feel about taking that step?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, it's me again. I joined the psychology club, but I feel really overshadowed."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Aisha! It's good to see you. I'm sorry to hear that you're feeling overshadowed. Can you share more about what's happening?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "There's this girl, Jenna, who always dominates our conversations. I feel like I can't get a word in."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds frustrating. It's tough to feel unheard, especially in a space you joined to connect with others. Have you considered expressing your thoughts to the group?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I thought about it, but I worry they won't listen or that they won't value my input."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Your voice is valuable, Aisha. It might also help to practice what you want to say beforehand so you feel more confident."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "That's a good idea. I'll try to prepare some points to bring up."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Excellent! Remember, it's a learning experience. Feeling isolated is common, but you're not alone in this. Keep pushing through."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T15:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. I'm feeling really overwhelmed with the group project."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Aisha. I'm glad you reached out. Can you tell me what's making you feel overwhelmed?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It's the workload, and I still can't voice my ideas. I feel like I'm letting my group down."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's understandable to feel that way, especially when you're overwhelmed. Let's break things down together. What parts of the project do you feel most comfortable with?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I like the research part, but I'm afraid of my ideas not being good enough."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Every idea can contribute a unique perspective. Maybe you can start by sharing one small idea with your group."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I guess that could help, but I worry I'll freeze up if I try."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That happens to many people! It's okay. You can even write your thoughts down or discuss them with Sam first to gain confidence."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T16:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi. I had a breakthrough today!"
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's wonderful, Aisha! What happened?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "After talking with Sam, I finally expressed my ideas in the group presentation. It felt empowering."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's fantastic! Sharing your voice is such a big step. How did it feel to contribute?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt nervous at first, but once I started speaking, it was so rewarding. I think I'll keep doing this."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "I'm really proud of you! This experience can lead to even more growth. How do you feel moving forward?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I feel more determined and confident in myself. It's amazing what can happen when you push through fear."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Absolutely! Remember this feeling and keep nurturing it. If you ever need more support, I'm here for you."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Thank you so much! I appreciate all your help."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "You're very welcome, Aisha. Enjoy the rest of your semester, and take care!"
+            }
+        ]
+    }
+}

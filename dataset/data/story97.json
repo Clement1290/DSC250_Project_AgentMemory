@@ -1,0 +1,25 @@
+{
+    "User Id": 97,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sophia is excited to start the semester, eager to tackle her Environmental Science major. However, she begins to feel overwhelmed as she notices that her workload has increased significantly. With multiple assignments, group projects, and her extracurricular commitments in volunteer work piling up, she struggles to maintain her usual enthusiasm. She confides in her friend Clara, expressing worries about keeping up with her responsibilities and the fear of disappointing her professors and family.",
+            "Mental State": ["Overwhelmed", "Anxious", "Doubtful"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks progress, Sophia's anxiety intensifies. During a group project meeting with classmates Liam and Sarah, she struggles to contribute ideas, feeling mentally drained. Liam, noticing her withdrawal, tries to encourage her, but Sophia misinterprets his concern as pity. Feeling inadequate, she withdraws further from her friends and feels a growing sense of isolation. Her passion for environmental issues dwindles as she feels increasingly disconnected from her studies and her friends.",
+            "Mental State": ["Frustrated", "Isolated", "Defensive"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Despite her struggles, Sophia attempts to push through and starts a new photography project focused on local wildlife for a class assignment. However, while editing her photos, she becomes frustrated at her perceived lack of skill and originality. She shares her work with her family during a video call, where her brother Ethan unwittingly criticizes the photos for lacking depth. This critique hits her hard, leading to a conflict during their conversation, making her question her artistic abilities and self-worth.",
+            "Mental State": ["Discouraged", "Angry", "Self-critical"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After a month of battling her emotions, Sophia finally reaches a breaking point. An argument with a friend spirals out of control over a minor project disagreement, causing her to lash out and say hurtful things. Understanding the damage she's done, she later feels a deep sense of regret and shame. She realizes she needs to address her emotional turmoil, but she remains unsure about how to reach out to her friends and family to express what's truly troubling her. The struggle continues as Sophia feels trapped in her own mind.",
+            "Mental State": ["Overwhelmed", "Regretful", "Lost"]
+        }
+    }
+}

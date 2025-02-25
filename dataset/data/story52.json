@@ -1,0 +1,25 @@
+{
+    "User Id": 52,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Elias is grappling with a sense of disillusionment regarding his future in philosophy. As a senior, he feels the pressure to finalize his post-graduation plans but is uncertain about pursuing academia or diving into the business world. Conversations with his peers are centered around clear career paths, leading him to feel disconnected and confused. His father, who often pushes for a more secure career, presents a contrasting view that leaves Elias feeling unsupported in his artistic aspirations.",
+            "Mental State": ["disillusioned", "confused", "unsupported"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As October approaches, Elias finds himself increasingly anxious about an upcoming career fair at his university. He oscillates between wanting to explore opportunities and fears that he will not fit into the corporate environment. His sister, Hannah, tries to encourage him to find practical applications for philosophy in fields like ethics in business, but this advice does not resonate with Elias. Instead, he feels a growing sense of pressure to conform to societal expectations, which weighs heavily on his heart. He begins to withdraw from conversations with friends, feeling that they cannot relate to his struggles.",
+            "Mental State": ["anxious", "pressured", "isolated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Elias continues to feel lost as the date of the career fair approaches. He decides to take a trip to a local park to clear his mind. While there, he meets an old friend, James, who is confidently pursuing a career in writing. Their conversation inspires Elias momentarily, but as soon as they part ways, he is left with a sense of longing and frustration. He realizes that comparing himself to others only deepens his insecurities. At night, he sits down to write poetry as a form of escape, but finds himself staring at the blank page, paralyzed by doubt about his future.",
+            "Mental State": ["frustrated", "longing", "doubtful"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "The day of the career fair arrives, and Elias feels a mix of excitement and dread. While he intends to explore different industries, he is overshadowed by a persistent fear of inadequacy. Once there, he hesitates to approach employers, feeling unsure of his worth. In a moment of courage, he manages to speak with a few representatives, but they focus mainly on his resume rather than his creative interests. Afterward, he confides in Hannah, who encourages him to embrace his unique perspective rather than conform to traditional paths. This support provides a small glimmer of hope, but he still grapples with feelings of conflict regarding his career path.",
+            "Mental State": ["hopeful", "anxious", "conflicted"]
+        }
+    }
+}

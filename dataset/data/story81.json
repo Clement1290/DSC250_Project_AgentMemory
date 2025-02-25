@@ -1,0 +1,25 @@
+{
+    "User Id": 81,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sofia received an email from her psychology professor announcing that she would be presenting a research paper on mental health in front of the class in four weeks. Initially excited, she quickly felt overwhelmed by the pressure to perform well. The thought of speaking in front of her peers made her anxious, especially given her natural inclination to lead but fear of public speaking. She confided in her friend Emma, who encouraged her, but Sofia couldn’t shake off the feeling of self-doubt.",
+            "Mental State": ["anxious", "excited", "self-doubting"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the deadline approached, Sofia spent long nights researching and preparing her presentation, but the anxiety only intensified. During a study session with Diego, she struggled to focus and found it hard to articulate her ideas clearly. Diego noticed her distress and suggested taking a break, but Sofia felt guilty for not working harder. This guilt turned into frustration, leading her to isolate herself and postpone social activities, including yoga classes she used to enjoy.",
+            "Mental State": ["stressed", "guilty", "frustrated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "The night before her presentation, Sofia experienced a panic attack. Fearing that she would embarrass herself and disappoint her professor and classmates, she barely slept. In the morning, her mother encouraged her, reminding her of her strengths, but Sofia remained fixated on her fears of being judged. She reluctantly attended class, feeling heavy and unmotivated. The lack of confidence made her withdraw even further from her friends, who were worried but unsure how to help.",
+            "Mental State": ["overwhelmed", "withdrawn", "fearful"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After the presentation, which went better than she feared but still left her dissatisfied, Sofia lingered in a state of disappointment. She tried to reconnect with her friends but found it hard to shake off the feelings of inadequacy. Confronted with the disparity between her expectations and reality, she decided it was time to seek help. Sofia discussed her feelings with a campus counselor, who encouraged her to process her emotions and develop coping strategies, highlighting the importance of self-compassion and growth.",
+            "Mental State": ["disappointed", "hopeful", "determined"]
+        }
+    }
+}

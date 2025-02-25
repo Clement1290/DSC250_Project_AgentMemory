@@ -1,0 +1,31 @@
+{
+    "User Id": 37,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019m still anxious, especially about the upcoming interactions in my group, but I\u2019m feeling a bit more empowered."
+        },
+        "question": "What does Samuel plan to do regarding his upcoming interactions in the group?",
+        "answer": "He plans to assert his thoughts in the group."
+    },
+    "long_term_QA": {
+        "question": "How did Samuel feel about himself before he sought advice from Dr. Richards, and what did Dr. Richards encourage him to do that sparked a change in his perspective?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I feel like I\u2019m just not good enough."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "It's hard to hear criticism, especially when you're already feeling low."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "They emphasized the importance of self-care and encouraged me to assert my thoughts in the group."
+        },
+        "answer": "Before seeking advice from Dr. Richards, Samuel felt like he was 'just not good enough,' especially after receiving criticism and feeling low. Dr. Richards encouraged him to recognize his value and to assert his thoughts in the group, which sparked a change in his perspective."
+    }
+}

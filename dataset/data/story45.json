@@ -1,0 +1,25 @@
+{
+    "User Id": 45,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Talia begins her senior year excited about her studies in biochemistry, but she soon feels overwhelmed by the pressure to perform well in her courses. With graduate school applications approaching, she worries about her ability to meet the high standards she’s set for herself, especially since her friends seem to be excelling. The stress is compounded by expectations from her family, including her mother, who often discusses Talia’s bright future in medicine, leaving her feeling anxious about living up to their hopes.",
+            "Mental State": ["anxious", "overwhelmed", "inadequate"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "During a group study session for a difficult biochemistry exam, Talia struggles to keep up with the pace of discussion. Her friends are confident and quick to answer questions, while Talia hesitates, worried about whether her understanding is sufficient. After the session, she overhears them discussing their study strategies and internships without including her, heightening her feelings of isolation. Talia leaves feeling frustrated and not good enough, questioning her capabilities.",
+            "Mental State": ["frustrated", "isolated", "self-critical"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "In an effort to cope with her mounting anxiety, Talia takes refuge in her hobbies, particularly painting and baking. She decides to host a small gathering for her friends to reconnect and share her love for cooking. However, when the evening arrives, she feels more nervous than anticipated. During the gathering, when conversation shifts to their academic achievements, Talia feels herself pulling back and struggling to engage, leading her to retreat into the kitchen. This leaves her feeling helpless and questioning whether her friendships are as strong as she thought.",
+            "Mental State": ["helpless", "disconnected", "doubtful"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After a week of contemplation, Talia confides in her brother, Ethan, about her worries of inadequacy and her struggle to manage the pressures of school and social expectations. He encourages her to focus on her strengths and suggests she seek guidance from a mentor in her field. While Talia appreciates Ethan’s support, she feels conflicted about reaching out for help, fearing it might make her vulnerabilities more visible to others. She ends the conversation feeling somewhat more hopeful but uncertain about taking that step.",
+            "Mental State": ["conflicted", "hopeful", "unsure"]
+        }
+    }
+}

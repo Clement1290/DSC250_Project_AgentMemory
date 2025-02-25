@@ -1,0 +1,25 @@
+{
+    "User Id": 78,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Isabella begins her semester excited to work on a major communications project about cultural representation in media. However, she quickly feels overwhelmed when she realizes that her group consists of members who are not as committed as she is. In particular, one member, Kyle, often dismisses her ideas, which leaves her feeling frustrated and anxious about the project's success.",
+            "Mental State": ["anxious", "frustrated", "self-doubting"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks pass, Isabella’s feelings of isolation grow. She struggles to get her teammates engaged, especially Kyle, who tends to dominate discussions without considering her input. After a group meeting, Isabella confides in her friend Maria, who encourages her to confront Kyle about his behavior. Although Isabella knows she should speak up, she is fearful about how it might affect the group dynamic.",
+            "Mental State": ["isolated", "frustrated", "conflicted"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "In a pivotal group meeting, Isabella finally tries to share her ideas more assertively, but Kyle interrupts her multiple times, belittling her suggestions. This confrontation escalates, leaving Isabella feeling humiliated and disheartened. After the meeting, she questions whether she should pull back from the project entirely, feeling that her contributions are not valued and may even hinder the group.",
+            "Mental State": ["hurt", "disheartened", "conflicted"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "As the project deadline approaches, Isabella decides she must talk to Kyle and the group about the impact of their dynamics on her contributions. Although she feels nervous about this confrontation, she recognizes that addressing the issue is critical for both her growth and the project’s success. She prepares herself mentally for the discussion, feeling a mix of hope and anxiety about the potential outcomes.",
+            "Mental State": ["hopeful", "nervous", "determined"]
+        }
+    }
+}

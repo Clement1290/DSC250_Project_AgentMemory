@@ -1,0 +1,31 @@
+{
+    "User Id": 43,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I worry that it might reveal my uncertainties and make me feel even more vulnerable."
+        },
+        "question": "What does Amara worry about when considering reaching out for help from a career counselor?",
+        "answer": "She worries that it might reveal her uncertainties and make her feel even more vulnerable."
+    },
+    "long_term_QA": {
+        "question": "How did Amara feel before her conversation with Khaled, and what led her to start thinking about seeking advice from a mentor?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I started feeling helpless. I just wanted to be happy for them, but I couldn\u2019t help feeling disappointed in myself."
+        },
+        "long-term evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I worry that it might reveal my uncertainties and make me feel even more vulnerable."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "Career counselors are there to guide you, not judge you. What resonates with you about that idea?"
+        },
+        "answer": "Before her conversation with Khaled, Amara felt helpless and disappointed in herself. After talking to Khaled, he reassured her and encouraged her to consider seeking advice from a mentor, which helped her start thinking about her next steps."
+    }
+}

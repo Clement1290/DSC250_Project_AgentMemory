@@ -1,0 +1,25 @@
+{
+    "User Id": 93,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Ava begins the new semester feeling excited but quickly becomes overwhelmed by the workload in her graphic design classes. After receiving her syllabus, she realizes the amount of projects and deadlines she will face this term. While expressing her anxiety to her mother, who is supportive, Ava feels a mixture of pressure and self-doubt, wondering whether she can keep up with her classmates and manage her time effectively.",
+            "Mental State": ["overwhelmed", "anxious", "doubtful"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As weeks pass, Ava finds herself struggling to balance her academic responsibilities with her personal life. During group work, she has difficulty sharing her creative ideas, feeling overshadowed by more vocal classmates. Her design partner, Lisa, often takes control of the project discussions, making Ava feel less competent and leading her to withdraw further into herself. Ava's frustration grows as she realizes that ideas she believes could add value to the project remain unexpressed.",
+            "Mental State": ["frustrated", "isolated", "insecure"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With midterms looming, Ava's sense of inadequacy deepens. She misses out on social events because she feels too stressed to engage with friends or family. When her brother Min invites her to an art gallery opening, she declines, citing work that needs to be done, but inside she feels guilty for missing a chance to connect. Ava's mental health begins to decline as she grapples with feelings of loneliness and pressures from her family to succeed, especially since her mother often shares her own accomplishments.",
+            "Mental State": ["lonely", "guilty", "overwhelmed"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After reflecting on her struggles, Ava decides to reach out to a trusted faculty advisor for help. During their conversation, she shares her feelings of inadequacy and the challenges she's faced in class. The advisor encourages her to find ways to express her creativity without fear of judgment and suggests techniques to improve her confidence in group settings. Ava leaves the meeting feeling inspired and ready to assert herself more in her academic environment, seeing her challenges as a pathway to growth instead of a stumbling block.",
+            "Mental State": ["hopeful", "empowered", "determined"]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "User Id": 36,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the new semester begins, Ava is filled with excitement to dive deeper into her psychology major. However, she quickly starts to feel overwhelmed by the heavy course load and the pressure to excel academically. Coupled with her involvement in a new volunteer organization that aims to support mental health awareness, Ava begins to doubt her ability to balance everything. She worries about letting down her peers in both her classes and the organization, creating an internal conflict that stirs anxiety about her performance and impact.",
+            "Mental State": ["Excited", "Overwhelmed", "Anxious", "Determined"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "With the semester gaining momentum, Ava starts to feel more pressure. As midterms loom, she struggles to keep up with her studies while maintaining her volunteering commitments. One evening, during a meeting with the volunteer group, Ava voices her concerns about balancing both her academic and volunteer work, but she receives mixed reactions from her peers. Some members are supportive, while others seem dismissive of her feelings. This leaves Ava feeling frustrated and isolated, as she feels her emotions are not being validated by her peers.",
+            "Mental State": ["Frustrated", "Isolated", "Doubtful", "Sad"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms approach, Ava's anxiety escalates. She starts to feel a deep sense of defeat, especially after receiving feedback on a major paper that was less favorable than she expected. During a group project meeting, she confronts Alex, a colleague who is dismissive of her contributions, leading to tension between them. This confrontation shakes Ava's confidence, making her question her value in both personal and academic settings. She feels stuck between striving to voice her needs and the fear of conflict, causing her to withdraw further into herself.",
+            "Mental State": ["Defeated", "Anxious", "Heartbroken", "Lonely"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of feeling overwhelmed, Ava finally decides to seek guidance from her psychology professor, Dr. Brown. During their meeting, Ava opens up about the pressures she is facing and the feelings of inadequacy that have arisen from her interactions with her peers. Dr. Brown listens carefully and offers insights into the importance of self-care and setting boundaries. Ava leaves the meeting feeling a flicker of hope for resolution. Although anxiety about her upcoming commitments still lingers, she now feels empowered to address her challenges and prioritize her well-being.",
+            "Mental State": ["Hopeful", "Anxious about change", "Empowered", "Determined"]
+        }
+    }
+}

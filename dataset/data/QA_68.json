@@ -1,0 +1,31 @@
+{
+    "User Id": 68,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I left feeling like a failure. I\u2019m now questioning if I should focus on photography instead of environmental science."
+        },
+        "question": "What made Javier feel like a failure after his presentation?",
+        "answer": "He struggled to engage the audience, which led him to question his abilities."
+    },
+    "long_term_QA": {
+        "question": "How did Javier feel about his passion for environmental science before he faced challenges with his peers, and what led him to doubt that passion later on?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I left feeling like a failure. I\u2019m now questioning if I should focus on photography instead of environmental science."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I'm feeling a bit overwhelmed. I just started the semester after volunteering at a wildlife sanctuary."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "I started to doubt whether I should continue pushing for environmental advocacy in an environment that doesn\u2019t seem to care."
+        },
+        "answer": "Javier initially felt excited about his environmental science classes and was impacted by his transformative summer volunteering at a wildlife sanctuary. However, he began to doubt his passion when he felt unsupported and disconnected, leading him to question whether he should continue advocating for environmental causes."
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "User Id": 68,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-13T09:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Javier Morales. It's my first time here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Javier! Nice to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a bit overwhelmed. I just started the semester after volunteering at a wildlife sanctuary."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like a valuable experience! What was it about that experience that impacted you the most?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It opened my eyes to the struggles animals face, and now I feel disconnected from my classmates who don't share the same passion."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that way. Have you had a chance to share your insights with your peers?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I tried, but during group discussions, my ideas were often dismissed, which frustrated me."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's tough when you feel unheard. It's important to express your thoughts, especially on topics you care about. Have you talked to anyone about how you felt during those discussions?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-29T10:30:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. Things have become more challenging since we last spoke."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Javier! I'm here to support you. What\u2019s been happening?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I talked to my friend Marco about feeling disconnected, but he seemed distracted and didn't really listen."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. It\u2019s frustrating when friends don\u2019t acknowledge our feelings. How did that affect you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I started to doubt whether I should continue pushing for environmental advocacy in an environment that doesn\u2019t seem to care."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds really disheartening. Feeling unsupported can diminish your passion. What do you think would help you feel more connected?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-16T12:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I need to talk about my group project on community activism."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Javier! I\u2019m glad you reached out. What\u2019s going on with the project?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I wanted to share my experiences from the wildlife sanctuary, but my classmates preferred conventional approaches and ignored my ideas."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That must have been very frustrating. It\u2019s hard when your passion is downplayed. How did you feel after that experience?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt overshadowed. I later shared my feelings with my sister, Lucia, and she encouraged me, but I still feel conflicted about my place in this program."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel conflicted. Remember, you have valuable insights to offer. What would it take for you to express those ideas confidently?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-01T14:15:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. I need to discuss my presentation today."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Javier! I\u2019m here to listen. How did the presentation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I really wanted to incorporate my experiences, but I felt overwhelming pressure and ended up struggling to engage the audience."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That must have been difficult. It\u2019s tough to feel that your message isn\u2019t landing. What did you take away from this experience?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I left feeling like a failure. I\u2019m now questioning if I should focus on photography instead of environmental science."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's alright to reflect on your path and consider your options. Have you thought about how you could merge both passions in a way that allows you to express yourself?"
+            }
+        ]
+    }
+}

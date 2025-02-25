@@ -1,0 +1,31 @@
+{
+    "User Id": 89,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I felt nervous at first, but once I started speaking, it was so rewarding."
+        },
+        "question": "What helped Aisha feel rewarded after overcoming her nervousness?",
+        "answer": "Expressing her ideas in the group presentation."
+    },
+    "long_term_QA": {
+        "question": "How did Aisha feel about contributing her ideas previously, and what triggered her to express her thoughts during the group presentation?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "After talking with Sam, I finally expressed my ideas in the group presentation."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I still can't voice my ideas. I feel like I'm letting my group down."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "This experience can lead to even more growth."
+        },
+        "answer": "Previously, Aisha felt overwhelmed and believed that she 'still can't voice my ideas' and 'feel like I'm letting my group down'; however, after talking with Sam, she recognized that sharing her voice could lead to 'even more growth' and thus decided to express her ideas."
+    }
+}

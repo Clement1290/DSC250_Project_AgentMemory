@@ -1,0 +1,31 @@
+{
+    "User Id": 80,
+    "simple_QA": {
+        "evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I felt humiliated and started to doubt my design skills."
+        },
+        "question": "What caused Nina to feel defeated before her decision to confront her classmate?",
+        "answer": "Nina felt humiliated during a class critique when a classmate was dismissive of her work."
+    },
+    "long_term_QA": {
+        "question": "What challenges was Nina facing in her ability to advocate for herself before she decided to confront her classmate, and what feelings prompted her change?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I realize I need to confront my classmate and express how their comments affect me."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I felt humiliated and started to doubt my design skills."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "critique can sometimes reflect others\u2019 insecurities rather than our abilities."
+        },
+        "answer": "Before she decided to confront her classmate, Nina was feeling humiliated and started to doubt her design skills, which made it difficult for her to stand up for herself. This made her feel pressured and unsure about confronting her peers, but she came to the realization that she needed to express how their comments affect her."
+    }
+}

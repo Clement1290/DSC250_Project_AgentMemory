@@ -1,0 +1,168 @@
+{
+    "User Id": 52,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Elias Thompson. It's nice to meet you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Elias! It's great to meet you too. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, I'm feeling quite disillusioned about my future. I'm a senior in philosophy, and I'm not sure where to go from here."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really challenging. What specifically is making you feel disillusioned?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I feel pressured to finalize my plans, but I have no clear direction. My friends seem to have it all figured out, and I feel lost."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's completely normal to feel that way, especially as graduation approaches. Have you had a chance to think about what you truly want?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. Every time I think about it, I feel overwhelmed. My dad wants me to pursue a more secure career, which adds to the pressure."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Navigating family expectations can be tough. It's important to explore what's fulfilling for you, not just what seems secure."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I'm really anxious about the upcoming career fair. I don't know if I fit into the corporate world."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Elias! It's good to see you again. What's making you anxious about the career fair?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I keep oscillating between wanting to explore opportunities and feeling like I wouldn't belong in a corporate setting."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a powerful conflict to navigate. Have you talked to your friends or family about these feelings?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm hesitant. My sister Hannah suggests applying philosophy to fields like ethics, but I don't know if that resonates with me."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's okay to not resonate with every suggestion. Maybe there's a way to find common ground between your interests and possible careers."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I wish I could find that balance, but right now I just feel pressured and isolated from my friends."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello again. I just took a trip to the park to clear my mind, but I still feel lost."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Elias! It's great that you took some time to reflect in nature. How did your trip go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I ran into an old friend, who seemed to have everything figured out. It made me feel even more frustrated about my own path."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's tough to see others thriving when you're feeling stuck. How did that interaction affect your mood?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It made me long for some direction. I tried to write poetry afterward, but the words just wouldn't come."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Writer's block can happen, especially when you're feeling pressured. It might help to write without judgment or specific expectations."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I survived the career fair, but it was overwhelming."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Elias! I'm glad to see you again. How did it go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was a mix of excitement and dread. I hesitated to approach employers and felt unsure of my worth."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's understandable. Putting yourself out there takes courage. Did you find any opportunities that interested you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I managed to speak with a few representatives, but they focused on my resume instead of my creative interests."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It can be disheartening when your unique interests aren't acknowledged. Have you had a chance to discuss this experience with anyone else?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Afterward, I talked to Hannah, and she encouraged me to embrace my unique perspective. But I'm still conflicted about my path."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's a positive conversation. Embracing your unique perspective can lead you to opportunities aligned with your values. Remember, it's okay to take time to find your way."
+            }
+        ]
+    }
+}

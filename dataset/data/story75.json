@@ -1,0 +1,25 @@
+{
+    "User Id": 75,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Ethan starts his final semester with excitement but is faced with unexpected pressure when he receives feedback from his professor about a previous paper that didn’t meet expectations. This feedback leaves him feeling anxious about his ability to excel academically, especially as he aspires to pursue graduate studies in psychology. His peer, Jamie, who also received criticism, reassures him, but Ethan's inner fears begin to fester.",
+            "Mental State": ["anxious", "self-doubting", "pressured"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the semester progresses, Ethan's anxieties intensify. He finds himself overthinking every assignment and becomes increasingly critical of his work. His friends, including Mia, notice that he has been quieter lately and has withdrawn from social gatherings. They encourage him to talk about it, but Ethan feels embarrassed to share his struggles, fearing judgment and disappointment.",
+            "Mental State": ["overwhelmed", "isolated", "ashamed"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "During a group project meeting, Ethan struggles to contribute ideas, feeling paralyzed by self-doubt. His group members, including Jamie and Mia, try to include him, but he remains hesitant and unengaged. When Jamie inadvertently dismisses a suggestion he finally makes, Ethan feels crushed and embarrassed. This leads him to question his capability in collaboration settings, pushing him further into isolation.",
+            "Mental State": ["hurt", "frustrated", "conflicted"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "As the project deadline approaches, Ethan reflects on his feelings of inadequacy and isolation. He realizes that he needs to communicate with his group about his struggles and ask for their support. Although he feels nervous about being vulnerable, he plans to open up during the next meeting. This decision gives him a sense of hope mixed with trepidation, as he remains uncertain about how his honesty will be received.",
+            "Mental State": ["hopeful", "nervous", "determined"]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "User Id": 85,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Isabella was thrilled to begin her semester in environmental science, excited about engaging projects related to sustainability. However, as she settled into her classes, she noticed that several of her classmates were not as passionate about the subject. During a group project focused on waste reduction, Isabella became frustrated when her teammate, Jordan, suggested half-hearted solutions that did not align with her vision. Despite her attempts to inspire enthusiasm in the group, she felt her ideas were being dismissed. This lack of support left her feeling disappointed and isolated.",
+            "Mental State": ["frustrated", "isolated", "disappointed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the project progressed, Isabella decided to take charge and present her ideas in a clearer way, hoping to spark some engagement. During a group meeting, she passionately demonstrated her research and proposed innovative solutions. However, instead of applause, she received indifferent responses from her teammates, who were not willing to put in the extra effort. This reaction deeply affected Isabella, making her feel anxious about her ability to lead and connect with her peers. Her internal dialogue began to shift toward self-doubt and questions about her place within the group.",
+            "Mental State": ["anxious", "self-doubting", "undervalued"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With the project deadline approaching, Isabella found herself burnt out from the lack of motivation in the group combined with her high expectations for herself. She spent countless hours working on the presentation, trying to cover for her team's lack of input. During the final rehearsal, her anxiety peaked as she felt immense pressure to deliver an outstanding performance. When she stumbled through her presentation, she felt embarrassed and overwhelmed, convinced that she had failed to rally her teammates or convey the importance of their work.",
+            "Mental State": ["burnt out", "embarrassed", "overwhelmed"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After the presentation, although Isabella received some positive feedback from the instructor, she couldn't shake off the feeling of unfulfillment. Seeking solace, she discussed her feelings with her family during dinner, where they encouraged her to express more openly with her teammates. However, she remained internally conflicted, feeling a mix of relief from sharing but also lingering uncertainty about her leadership and how to move forward effectively in teamwork. Eager to improve, Isabella considered reaching out to a campus mentor but felt hesitant to revisit the subject with her peers.",
+            "Mental State": ["relieved", "conflicted", "hopeful"]
+        }
+    }
+}

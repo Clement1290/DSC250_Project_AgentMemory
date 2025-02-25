@@ -1,0 +1,31 @@
+{
+    "User Id": 71,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel defeated and am beginning to question if I\u2019m cut out for biochemistry."
+        },
+        "question": "What subject is Sofia beginning to question her suitability for?",
+        "answer": "Biochemistry."
+    },
+    "long_term_QA": {
+        "question": "How did Sofia feel at the beginning of the semester, and what specific experience led her to doubt her ideas?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel defeated and am beginning to question if I\u2019m cut out for biochemistry."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I started with a lot of excitement..."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "when I tried to share my ideas, my classmates dismissed them in favor of more generic concepts."
+        },
+        "answer": "At the beginning of the semester, Sofia felt a lot of excitement, but after her ideas were dismissed in favor of more generic concepts, she began to feel defeated and question if she was cut out for biochemistry."
+    }
+}

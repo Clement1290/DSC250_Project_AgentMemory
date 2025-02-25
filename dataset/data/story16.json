@@ -1,0 +1,25 @@
+{
+    "User Id": 16,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Liam starts his semester excited about his History major and eager to engage in discussions with his classmates. However, during the first seminar, he feels overshadowed when more vocal students, particularly a classmate named Ryan, dominate the conversation. Liam's contributions are overlooked, making him feel frustrated and unnoticed. This experience amplifies his insecurities about speaking up in group settings.",
+            "Mental State": ["Frustrated", "Unnoticed", "Insecure"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "After several weeks of classes, Liam becomes anxious about participating. He finds himself avoiding discussions and feels isolated from his peers. During a coffee break with his friend Julia, he expresses his worries about his abilities and how he feels overshadowed by others in class. Liam admits that he fears his previous experiences will keep him from contributing meaningfully to group projects.",
+            "Mental State": ["Anxious", "Isolated", "Doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms approach, Liam's anxiety escalates. He struggles to focus on studying, constantly replaying the moments when he felt dismissed. Despite Julia's encouragement, he feels overwhelmed and questions whether he should drop his seminar class altogether. The persistent self-doubt clouds his mind, leading him to wonder if he truly belongs in History and if he will ever feel confident in sharing his thoughts.",
+            "Mental State": ["Overwhelmed", "Self-doubting", "Withdrawn"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After much contemplation, Liam realizes he needs to address his concerns and seeks support. He decides to email his professor to discuss his participation in class and share his feelings of anxiety. Though nervous about initiating this conversation, he feels a newfound hope that by advocating for himself, he might regain his confidence and establish a stronger connection with his classmates.",
+            "Mental State": ["Hopeful", "Determined", "Nervous"]
+        }
+    }
+}

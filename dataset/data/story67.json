@@ -1,0 +1,25 @@
+{
+    "User Id": 67,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sofia returned to university after a summer spent painting and engaging in community service at a local mental health charity. While she found joy in her work, she also witnessed the struggles of individuals facing mental health issues. Upon resuming classes, she felt a disconnect with her peers who seemed largely unaware of the serious nature of mental health conversations. This led her to feel isolated and frustrated when they trivialized issues she was passionate about.",
+            "Mental State": ["Frustrated", "Isolated", "Overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Sofia decided to confide in her close friend, Alicia, about her feelings of frustration regarding her classmates' perceptions. Alicia, focused on personal issues of her own, inadvertently dismissed Sofia’s concerns, suggesting that she should just focus on her art instead. This left Sophia feeling invalidated and questioning her passion for mental health advocacy as she began to withdraw from sharing her feelings with others.",
+            "Mental State": ["Lonely", "Discouraged", "Doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-15",
+            "Description": "In a class discussion on mental health strategies, Sofia attempted to share insights from her summer internship. However, her classmates showed little interest, opting instead for more conventional ideas. This dismissal hurt her deeply, leading her to retreat into silence during the discussion. Later, she spoke with her brother Carlos, who encouraged her to persevere, but Sofia felt conflicted about whether to continue advocating for mental health awareness or just focus on her studies.",
+            "Mental State": ["Frustrated", "Defeated", "Conflicted"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-01",
+            "Description": "As Sofia prepared for a major presentation on mental health awareness, she felt intense pressure. Despite her passion for the topic, she became anxious about how her peers would receive her insights. During the presentation, she struggled to connect with the audience, feeling their indifference towards her message. After the presentation, she felt a profound sense of failure and began to consider whether she should change her focus from international psychology to something less emotionally charged, feeling torn between her passion and the need for acceptance.",
+            "Mental State": ["Defeated", "Uncertain", "Reflective"]
+        }
+    }
+}

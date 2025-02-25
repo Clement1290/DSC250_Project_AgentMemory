@@ -1,0 +1,31 @@
+{
+    "User Id": 5,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I realized I\u2019ve done a lot more than I give myself credit for."
+        },
+        "question": "What realization did Sophia have about her accomplishments?",
+        "answer": "She realized she\u2019s done a lot more than she gives herself credit for."
+    },
+    "long_term_QA": {
+        "question": "How was Sophia experiencing her anxiety and communication struggles prior to seeking help, and what specific event prompted her to change her approach toward addressing these challenges?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel a little more hopeful. But I still struggle with participating in class."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I went to a family gathering, and my dad was showcasing his music. It made me feel really inadequate."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "Family events can often trigger feelings of comparison."
+        },
+        "answer": "Prior to seeking help, Sophia felt overwhelmed and anxious, particularly struggling with participating in class. The event that prompted her to confront these challenges was a family gathering where her father's showcase made her feel inadequate and increased her feelings of comparison."
+    }
+}

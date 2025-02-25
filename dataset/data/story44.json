@@ -1,0 +1,25 @@
+{
+    "User Id": 44,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Nathan begins his senior year of college feeling the weight of uncertainty about his post-graduation plans. As an INFP, he has always been passionate about making a meaningful difference through psychology, but the pressure to find a job or apply to graduate schools is causing him significant anxiety. His friends seem to have clear paths laid out, which heightens Nathan's feelings of inadequacy. The expectations from his family for him to succeed are also weighing heavily on his shoulders, leading him to question whether he’s really cut out for a career in his field.",
+            "Mental State": ["anxious", "inadequate", "overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "At a campus career fair, Nathan feels increasingly lost as he watches his peers approach recruiters with confidence. When it's his turn, he struggles to articulate his goals and as a result, misses out on opportunities. He overhears a conversation about someone's internship at a prestigious counseling center, which reminds him of the gap he feels in his experiences. Feeling awkward and out of place, Nathan retreats home after the fair, where he falls into a spiral of negative thoughts about his future and self-worth.",
+            "Mental State": ["frustrated", "disheartened", "isolated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Hoping to ground himself, Nathan decides to volunteer at a local shelter to gain more experience in helping others. However, during one of the shifts, he encounters a resident who shares a deeply moving story about their struggles with mental health. While Nathan empathizes with them deeply, he finds himself feeling overwhelmed by the emotions of the situation. After the shift, instead of feeling fulfilled, he leaves feeling heavy-hearted and questioning whether he can handle the emotional demands that come with a career in psychology.",
+            "Mental State": ["overwhelmed", "conflicted", "doubtful"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of contemplating his future, Nathan confides in his older sister, Sofia. He expresses his emotions about feeling inadequate, lost, and worried about the impact he can have on others. Sofia listens attentively and encourages him to pursue mentorship opportunities to learn from those already in the field. While Nathan appreciates her support, he remains uncertain about taking that step, fearing that pursuing mentorship will further highlight his own inexperience. He hangs up feeling slightly uplifted but still uncertain about how to move forward.",
+            "Mental State": ["conflicted", "hopeful", "unsure"]
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "User Id": 16,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Liam O'Connor. I’m 23 and studying History.",
+            "Counselor": "Hello, Liam! It’s nice to meet you. How are you feeling today?",
+            "Student": "I’m feeling a bit embarrassed. I had my first seminar yesterday, and I messed up during a presentation.",
+            "Counselor": "I’m sorry to hear that. Presentations can be really daunting. What happened during your presentation?",
+            "Student": "Well, my classmate, Ryan, kept dominating the conversation, and I forgot some of my key points. It felt really discouraging.",
+            "Counselor": "That sounds frustrating. It’s hard when you feel overshadowed in a group setting. How did that impact your confidence?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hey, I'm back. I'm feeling more anxious this time. I find it hard to participate in class now.",
+            "Counselor": "I’m glad you came back, Liam. What’s been happening since our last conversation?",
+            "Student": "After the seminar, I've started avoiding discussions. I had lunch with my friend Julia, and I told her about feeling out of place.",
+            "Counselor": "It’s good that you shared your feelings with Julia. How did she respond?",
+            "Student": "She was supportive, but I still feel like I don’t belong here, especially after yesterday.",
+            "Counselor": "Those feelings can be tough to navigate. Have you thought about small steps you could take to begin participating more actively in discussions?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T11:00:00Z",
+        "Dialogue": {
+            "Student": "I feel really overwhelmed right now. With midterms approaching, I can barely focus.",
+            "Counselor": "Thank you for sharing that, Liam. What’s causing you to feel so overwhelmed?",
+            "Student": "I keep replaying the seminar in my head. I’m worried about my grades and feel like maybe I should drop my seminar class.",
+            "Counselor": "It’s understandable to feel that way when you’re under pressure. Have you had the chance to talk to anyone about your feelings?",
+            "Student": "I talked to my family, but the doubts are still there. I feel like I’m falling behind.",
+            "Counselor": "It’s common to feel that way when things get tough. What about setting small goals for your study sessions or reaching out to your professor for guidance?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T12:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’ve been thinking about our last conversation, and I want to talk to my professor about my struggles.",
+            "Counselor": "That sounds like a positive step forward, Liam! What do you hope to achieve in that conversation?",
+            "Student": "I want to explain my anxiety and see if there are ways to improve my participation in class.",
+            "Counselor": "That’s a great plan. How do you feel about initiating this conversation with your professor?",
+            "Student": "I’m feeling nervous, but there’s also some hope that I can regain my confidence and improve.",
+            "Counselor": "Absolutely! Seeking help shows strength, and your feelings are entirely valid. I’m here to support you.",
+            "Student": "Thanks for your encouragement! I appreciate it, and I’ll let you know how it goes.",
+            "Counselor": "You’re welcome, Liam! I look forward to hearing from you. Good luck with your conversation!"
+        }
+    }
+}

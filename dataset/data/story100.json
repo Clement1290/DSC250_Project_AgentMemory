@@ -1,0 +1,25 @@
+{
+    "User Id": 100,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Aisha begins her semester feeling motivated and excited to dive into her environmental studies classes. However, as she settles into the routine, she starts to feel a looming pressure from her coursework and projects. Adding to this, she feels a strong desire to maintain her volunteering commitments, which leads her to doubt her ability to manage everything effectively. This internal conflict leaves her feeling torn between her academic responsibilities and her passion for community service.",
+            "Mental State": ["Excited", "Overwhelmed", "Doubtful"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the semester progresses, Aisha's stress levels rise. During a group project, she feels overshadowed by a highly confident classmate, Sam, who frequently takes charge in discussions. Aisha finds it difficult to express her ideas, which chips away at her self-esteem. Aisha confides in her sister Riya, sharing her fears of not being good enough and her increasing anxiety about fitting in with her peers. This conversation deepens her feelings of isolation as she struggles to connect with others.",
+            "Mental State": ["Anxious", "Frustrated", "Isolated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Determined to overcome her feelings of inadequacy, Aisha decides to take initiative in her community service project related to a local conservation effort. However, when she tries to lead a meeting, her nerves get the better of her, causing her to stumble over her words and lose her train of thought. Her classmates, who are generally supportive, notice her hesitation and misinterpret it as a lack of preparation, further intensifying her feelings of self-doubt and disconnection.",
+            "Mental State": ["Nervous", "Self-critical", "Overwhelmed"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Weeks of emotional turmoil come to a head when Aisha overhears Sam making a joke about her needing to 'speak up more'. This remark deeply wounds her, triggering feelings of anger and sadness. Faced with conflicting emotions, Aisha contemplates confronting Sam about how his comment affected her but hesitates, fearing rejection and further humiliation. Instead, she immerses herself in her photography, trying to channel her emotions creatively but still feels detached from her peers and uncertain about how to express herself.",
+            "Mental State": ["Angry", "Hurt", "Detached"]
+        }
+    }
+}

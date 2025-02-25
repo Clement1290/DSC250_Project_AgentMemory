@@ -1,0 +1,173 @@
+{
+    "User Id": 66,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-11T09:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Tara El-Masri. It's nice to meet you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Tara! Nice to meet you too. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I just returned to university after an internship at an NGO, and I'm feeling pretty overwhelmed."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like an exciting experience! What was the internship about?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It was focused on refugee rights. I connected with the team and it felt really impactful, but now I struggle to connect with my classmates."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's completely normal to feel disconnected after such a transformative experience. What do you think is causing that feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Most of my peers don't seem as aware of global issues. When I try to share my insights in class, I feel like no one appreciates them."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That must feel frustrating. Have you talked to anyone about this, or do you feel alone in your thoughts?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I haven't really opened up about it. I feel like they might not understand."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's understandable to feel hesitant. It's important to find someone who can appreciate your unique insights. Maybe we can work together on strategies to express your thoughts more effectively?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-26T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, it's Tara again. I've been feeling pretty lonely lately."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Tara! I'm glad you're back. I'm here to support you. What's been going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I tried talking to my friend Layla about how I feel, but she just told me to focus on my studies. I felt dismissed."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. It can be tough when we reach out for help and feel like it's not received. How did that make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It made me feel more isolated, like my passion for global issues makes me an outsider."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's a tough spot to be in. Remember, your experiences are valuable, and it's okay to feel different. Would it help to find other peers who share your interests?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-16T11:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I've been dealing with frustration during group projects in class."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Tara! I'm here for you. What happened in your recent project?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I tried to lead the discussion, but my classmates seemed indifferent. They preferred conventional approaches."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really disheartening. Did you manage to express your ideas during the project?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "No, I withdrew because I felt my insights wouldn't be valued. I confided in my brother, but I still feel torn."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel conflicted. Maybe finding a balance between your passion and the group's dynamics could help. How do you feel about asserting your perspective next time?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-02T13:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, I need to talk about my presentation that didn't go well."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Tara. I'm glad you reached out. What happened during the presentation?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I struggled to articulate my insights. My team was unenthusiastic, and it drained my motivation."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That must have felt discouraging after all the work you put in. How did you feel afterward?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt like I failed. It made me question if I should even continue in international relations."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's tough to feel defeated, especially after investing so much effort. Have you thought about what you'd like to explore now?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm thinking maybe communication strategies could be a better fit for me."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's a powerful insight, Tara. Exploring new paths is part of the journey. Let's talk about how you can take small steps toward that while holding onto your passions."
+            }
+        ]
+    }
+}

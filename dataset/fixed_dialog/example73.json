@@ -1,0 +1,318 @@
+{
+    "User Id": 73,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Sarah Patel. It's nice to meet you!"
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Sarah! It's great to meet you too. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a bit overwhelmed, honestly. I just started my psychology class, and I'm really excited, but I'm struggling to speak up."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I understand. It can be intimidating to find your voice in a new environment. What's been challenging for you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "There's this classmate, Jenny, who seems to dominate the conversations. I find it hard to share my ideas."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds tough. It's normal to feel overshadowed when someone is very vocal. Have you found any strategies that help you participate?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I just feel like I'm not being heard."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Feeling unheard can be really frustrating. Would it help to brainstorm some ways to express your thoughts more confidently?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "That could be helpful. I'd like to feel more comfortable sharing in group discussions."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Absolutely, let's work on that together! Maybe starting with small group discussions can help ease you in."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "That sounds like a good idea. I'll try that."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "Awesome! Remember, your ideas are valuable. You have a unique perspective to bring to the group."
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "Thank you! I appreciate your support."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "You're welcome, Sarah. Keep in mind that everyone has their own pace, and it's okay to take your time. Let's check in again soon!"
+            },
+            {
+                "role": "Student",
+                "round": 8,
+                "content": "I would like that. See you!"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, it's Sarah again."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Sarah! Good to see you back. How have things been since we last spoke?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "To be honest, I've been really anxious. I keep avoiding group discussions."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds difficult. What do you think is causing you to avoid those situations?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I just feel that I'm not good enough compared to others, especially Jenny."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's okay to feel anxious about that. You're not alone in dealing with those feelings. Have you talked to anyone about it?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I spoke to my brother Vikram. He's supportive, but I still feel conflicted about it."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's good that you have supportive family. Did he offer any suggestions?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "He suggested I should express my thoughts and be more confident."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That sounds like solid advice. It can be hard to put it into practice, though. What makes you feel anxious when you think about sharing your ideas?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I worry about being ignored or dismissed."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "Those feelings are valid. Maybe setting small goals, like sharing one thought in each discussion, could help you gradually build your confidence."
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "That could work! I'll try to keep that in mind."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "Great! Remember, it's your learning process, and everyone progresses at their own pace. You have the capability to do this."
+            },
+            {
+                "role": "Student",
+                "round": 8,
+                "content": "Thanks for reminding me. It helps a lot."
+            },
+            {
+                "role": "Counselor",
+                "round": 8,
+                "content": "Anytime, Sarah! Let's check in next time to see how you're doing."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi there! I'm back again."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Sarah! Welcome back. How have things been working out for you?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm still feeling anxious, especially with group projects. We just got assigned to work together again."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I see. Being paired with Jenny might be really triggering for those feelings. How have you been handling that situation?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I tried to contribute, but I feel like my ideas don't really get acknowledged. I become hesitant."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's understandable. It can be disheartening to feel overlooked. Have you noticed anything that helps you speak up more?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I just end up feeling frustrated by the end of our meetings."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Frustration is a completely natural reaction. Perhaps taking a moment before each meeting to jot down your points can help you feel more prepared."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "That might work! I haven't tried that yet."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Preparation can grant you more confidence. Remember, your insights are important, and it's okay to take your own space to express them."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I'll give it a shot. I want to feel empowered."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "That's a great mindset! Believe in yourself, Sarah. Change takes time, but you're on the right track."
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "Thank you! I appreciate your encouragement."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "You're welcome! I'm here to support you. Let's talk again after your presentation and see how it went."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I'm back with some updates."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Sarah! I'm glad to see you again. How did your project presentation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I decided to assert myself, but I was still so nervous. I felt like I was shaking!"
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's completely understandable. How did you feel afterwards?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I shared my ideas, but I was worried they wouldn't be well received."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It takes real bravery to put yourself out there. What was the feedback like?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "It was good! Some of my teammates even agreed with my points."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's fantastic to hear! It sounds like your preparation paid off."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "It did! I realized that my voice matters, even if I have to push myself a bit."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That's a wonderful realization, Sarah. It's great to see you embracing your voice."
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "Thank you! I feel more hopeful about future discussions now."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "I'm so proud of you! Keep nurturing that confidence and remember it's all part of the learning journey."
+            },
+            {
+                "role": "Student",
+                "round": 7,
+                "content": "I definitely will! Thank you for all your support."
+            },
+            {
+                "role": "Counselor",
+                "round": 7,
+                "content": "You're very welcome! I look forward to hearing about your next steps. Take care!"
+            }
+        ]
+    }
+}

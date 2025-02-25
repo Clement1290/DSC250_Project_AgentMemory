@@ -1,0 +1,31 @@
+{
+    "User Id": 28,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I attended a seminar recently, and it made me realize how important self-care is."
+        },
+        "question": "What realization did Jasmine have after attending a seminar?",
+        "answer": "Self-care is important."
+    },
+    "long_term_QA": {
+        "question": "What was Jasmine's state of mind regarding her own needs before the change, and what event led her to realize the importance of self-care?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I feel so lost right now, and I just want to help Claire."
+        },
+        "long-term evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel like I can\u2019t keep neglecting my mental health."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It\u2019s okay to be vulnerable when seeking support."
+        },
+        "answer": "Before the change, Jasmine felt lost and overwhelmed, saying, 'I feel so lost right now, and I just want to help Claire.' The important realization about self-care came after attending a seminar where she recognized, 'I feel like I can\u2019t keep neglecting my mental health.'"
+    }
+}

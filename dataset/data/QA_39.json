@@ -1,0 +1,31 @@
+{
+    "User Id": 39,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "She was really supportive and talked about the importance of self-care and communication."
+        },
+        "question": "What aspect of support did Dr. Garcia discuss with Mia during their conversation?",
+        "answer": "The importance of self-care and communication."
+    },
+    "long_term_QA": {
+        "question": "How did Mia feel about her abilities before seeking support, and what encouragement helped her feel more empowered afterwards?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel a bit more in control now."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "It made me feel like I\u2019m not cut out for this field."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "She was really supportive and talked about the importance of self-care and communication."
+        },
+        "answer": "Before seeking support, Mia felt like she was 'not cut out for this field.' After receiving encouragement from Dr. Garcia, who validated her feelings and emphasized 'self-care and communication,' Mia felt a bit more in control and empowered."
+    }
+}

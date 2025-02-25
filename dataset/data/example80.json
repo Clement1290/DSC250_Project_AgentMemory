@@ -1,0 +1,53 @@
+{
+    "User Id": 80,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Nina Al-Mansoori. It’s great to meet you!",
+            "Counselor": "Hi Nina! It’s wonderful to meet you too. How are you feeling today?",
+            "Student": "I’m a bit anxious, to be honest. It’s the start of my senior year in graphic design, and I have a lot on my plate.",
+            "Counselor": "That’s completely understandable. Starting a new year can bring both excitement and stress. What’s specifically on your mind?",
+            "Student": "I’m excited about my portfolio project, but I’m feeling overwhelmed by the pressure to create something standout while keeping up with my volunteer work.",
+            "Counselor": "It sounds like you’re juggling a lot! Have you had the chance to reflect on how you can manage all these commitments effectively?",
+            "Student": "Not really. I just feel the weight of it all. Plus, I heard my favorite professor is leaving—he’s been a huge support for me.",
+            "Counselor": "That’s tough news. Change can be unsettling, especially when it impacts your support system. How do you think this will affect your motivation going forward?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m back! I’m feeling really isolated this week.",
+            "Counselor": "Welcome back, Nina! I’m glad you’re here. What’s been making you feel isolated?",
+            "Student": "I’ve been so focused on my project and helping a friend that I’ve neglected my studies and time with friends.",
+            "Counselor": "It sounds like you’re really feeling the pressure. Have you found any time to relax or enjoy your hobbies?",
+            "Student": "Not really. I keep thinking about how much I need to catch up. My friend Sarah is going through a tough time, and I want to be there for her.",
+            "Counselor": "It’s admirable that you want to support Sarah, but it’s also important to take care of yourself. How would you feel about setting small boundaries to maintain your own well-being?",
+            "Student": "I think that would help, but it feels hard to say no to her when she needs support."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I’m feeling pretty defeated today.",
+            "Counselor": "Hi Nina! I’m here for you. What’s been bothering you?",
+            "Student": "I had a class critique today, and when I presented my work, one of my classmates was really dismissive.",
+            "Counselor": "I’m sorry to hear that. It can be really hurtful when others don’t acknowledge your hard work. How did you feel during and after the critique?",
+            "Student": "I felt humiliated and started to doubt my design skills. It’s like I can’t catch a break.",
+            "Counselor": "That’s totally understandable. It’s important to remember that critiques can sometimes reflect others’ insecurities rather than our abilities. Have you thought about talking to someone about your experience?",
+            "Student": "I confided in Sarah, but I ended up feeling like a burden instead of comforted."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi! I’ve been reflecting on everything lately.",
+            "Counselor": "Hi Nina! I’m glad you’re back. What reflections do you have?",
+            "Student": "I realize I need to confront my classmate and express how their comments affect me. I can’t keep burying my feelings.",
+            "Counselor": "That’s an excellent decision! How are you feeling about this upcoming conversation?",
+            "Student": "I’m really nervous but hopeful that it could lead to a better understanding. I want to stand up for myself.",
+            "Counselor": "That’s a positive mindset! Starting from a place of wanting clarity can help. What’s your plan for initiating the conversation?",
+            "Student": "I’ll keep it honest and state how their feedback affects my motivation while reinforcing my commitment to the group.",
+            "Counselor": "That’s a fantastic approach! Remember, you deserve to have your voice heard as much as anyone else. Let’s reconnect afterward to discuss how it went!"
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "User Id": 75,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Ethan Kim. It’s nice to meet you!",
+            "Counselor": "Hi Ethan! It’s great to meet you too. How are you feeling today?",
+            "Student": "I’m a bit anxious, actually. I just started my final semester in psychology.",
+            "Counselor": "That’s an exciting time! What’s got you feeling anxious?",
+            "Student": "I received some feedback on a paper that wasn’t very positive, and it’s making me doubt my abilities.",
+            "Counselor": "I understand that can be tough. It’s normal to feel pressure around this time. What are your aspirations after graduation?",
+            "Student": "I want to pursue graduate studies in psychology, but now I’m worried about meeting those goals.",
+            "Counselor": "It’s great that you have clear goals! It might feel overwhelming at the moment, but remember, feedback is often part of the learning process.",
+            "Student": "Yeah, I know, but it’s still hard to shake off this feeling.",
+            "Counselor": "Of course! It’s important to acknowledge your feelings. Perhaps we can talk about some strategies to help you manage this anxiety?",
+            "Student": "That would be really helpful. I want to feel more confident in my work.",
+            "Counselor": "Absolutely, let’s work on that together. I’m here to support you through this. We can also check in next week to see how things are progressing."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m back again.",
+            "Counselor": "Welcome back, Ethan! How have things been since our last chat?",
+            "Student": "They’ve been pretty overwhelming. I keep overthinking every assignment I have.",
+            "Counselor": "I'm sorry to hear that. It sounds like you’re under a lot of pressure. Have you had a chance to express this to anyone close to you?",
+            "Student": "I’ve been quieter lately. My friends, like Mia and Jamie, have noticed and tried to reach out, but I feel embarrassed to share.",
+            "Counselor": "It's okay to feel that way. Remember, sharing your concerns can actually bring people closer to you. How do you think they would react?",
+            "Student": "I think they’d be understanding, but I’m still afraid of being judged.",
+            "Counselor": "Those fears are common, but you might be surprised at how supportive they can be. Have you considered letting them know how you’ve been feeling?",
+            "Student": "I haven’t yet, but maybe I should.";
+            "Counselor": "It could be a great first step. It’s okay to ask for support from friends, especially during challenging times.",
+            "Student": "You’re right. I’ll think about having that conversation.",
+            "Counselor": "That sounds like a good plan! Remember, you’re not alone in this. I’m here to help you whenever you need."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m feeling pretty down today.",
+            "Counselor": "Hi Ethan! I’m glad you’re here. What’s been bothering you?",
+            "Student": "The group project is really stressing me out. I had a meeting yesterday and couldn't contribute at all.",
+            "Counselor": "That sounds really tough. What do you think held you back from contributing?",
+            "Student": "I just felt paralyzed by self-doubt, and when I finally said something, Jamie dismissed my idea without thinking.",
+            "Counselor": "I can see how that would hurt your feelings. It's never easy to put yourself out there, especially if you feel unsupported.",
+            "Student": "Yeah, I felt crushed. Now I’m questioning if I should even be the one leading this project.",
+            "Counselor": "It’s understandable to feel that way after that experience. But remember that you have strengths that your group recognizes. Have you thought about discussing your feelings with your team?",
+            "Student": "I haven’t; I feel like I’ll just make things worse.",
+            "Counselor": "Opening up could actually improve the group dynamics. It allows others to support you, and it might lead to a more collaborative environment.",
+            "Student": "I guess that makes sense. I will consider talking to them about my struggles.",
+            "Counselor": "That’s a positive step! It takes courage, and I believe you can do it. Just focus on how you can express your needs."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi! I’ve been thinking a lot lately.",
+            "Counselor": "Hi Ethan! I’m glad you came in. What’s been on your mind?",
+            "Student": "I decided I need to talk to my group about what I’ve been feeling. I’m nervous about it.",
+            "Counselor": "That’s a brave decision, Ethan! It’s completely normal to feel nervous before discussing personal feelings.",
+            "Student": "Yes, I worry about how they’ll react and if it will change how they see me.",
+            "Counselor": "It's understandable to feel that way. But expressing yourself might strengthen those connections. What do you hope to achieve from this conversation?",
+            "Student": "I just want my team to understand why I’ve struggled and maybe come together to support each other.",
+            "Counselor": "That sounds like a thoughtful goal. How do you plan to start the conversation?",
+            "Student": "I thought about being honest right from the start, but I’m still a bit unsure.",
+            "Counselor": "Opening honestly is a strong approach. You might also want to emphasize that you care about the project and your team’s success.",
+            "Student": "That’s a good point. I’ll try to emphasize our goal as a team.",
+            "Counselor": "Great! After your meeting, let’s reconnect and see how it went. I’m sure you’ll do well."
+        }
+    }
+}

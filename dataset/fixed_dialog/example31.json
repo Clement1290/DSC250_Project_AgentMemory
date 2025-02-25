@@ -1,0 +1,193 @@
+{
+    "User Id": 31,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Isabella Martinez. This is my first time here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello Isabella! It's nice to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm a bit overwhelmed, to be honest. I just started my final year in Art History."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a big step! What's been on your mind?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm feeling a lot of pressure with my thesis project and also worried about my friend, Sarah, who just lost a family member."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds like a heavy load to carry. Balancing these responsibilities can be really tough. How have you been managing that?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm not sure. I'm feeling stressed and obligated to be there for Sarah while focusing on my work."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Those feelings are completely valid. Have you found moments to take care of yourself amid all of this?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Not really, I just feel guilty taking time for myself."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Guilt over self-care is very common, but it's actually vital for your well-being. Would you consider scheduling short breaks for yourself?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again, it's Isabella."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Isabella! How have you been since our last session?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm still feeling guilty. I want to support Sarah, but I'm falling behind in my studies."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like a difficult situation. What has you feeling especially guilty?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I keep getting distracted by her problems, and now I'm stressing about my grades."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to want to help a friend, but it's also important to maintain your own focus. Have you had a chance to talk to Sarah about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "No, I haven't. I fear she might think I don't care enough."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's a common concern, but being open might actually strengthen your friendship. Maybe she'll appreciate your honesty about managing your responsibilities."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "That could help. I'll think about reaching out to her."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, it's me again."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Isabella! Welcome back. How have things been for you?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Really tough. I had a confrontation with Sarah, and it left me feeling hurt."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. What happened during your conversation?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "She got upset because I haven't been there for her as much, and now I feel misunderstood and distanced from her."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds really painful. It's hard when someone you care about feels neglected. Have you thought about reaching out again to clarify your feelings?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I've been avoiding her. I feel incredibly isolated now and doubt my ability to handle both friendship and school."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Isolation can be a heavy burden. Remember, it's okay to express to Sarah that you also have your own challenges. Reaching out could help mend misunderstandings."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:30:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again, it's Isabella."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Isabella! I'm glad you came back. What's been going on since we last met?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I participated in a workshop on mental health, and it made me realize I've been neglecting my self-care."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like a meaningful experience! How does that realization make you feel about seeking help?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I feel both hopeful and apprehensive. I want to prioritize my mental health, but I'm scared to open up to others."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Those feelings are entirely valid. Seeking help is often seen as a sign of strength. Would you like to explore some strategies for reaching out for support?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Yes, please. I think I need help figuring out how to start that conversation."
+            }
+        ]
+    }
+}

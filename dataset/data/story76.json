@@ -1,0 +1,25 @@
+{
+    "User Id": 76,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sophia begins her final year in biochemistry feeling excited yet apprehensive. As the semester starts, she is tasked with leading a research project on sustainable energy solutions. However, she quickly realizes that the group dynamics are not ideal, as one member, Alex, frequently dismisses her ideas. This lack of support begins to erode her confidence in her leadership abilities, and she starts doubting whether she is capable of handling the project.",
+            "Mental State": ["anxious", "self-doubting", "overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As weeks progress, Sophia increasingly feels isolated in her group and struggles to motivate her teammates, especially Alex, who continues to undermine her contributions. She confides in her close friend, Mia, about the challenges she faces in the group. Mia encourages her to communicate openly with her team, but Sophia worries about confrontation and fears it might damage her relationships with them. This hesitation weighs heavily on her, leading her to withdraw further from social outings.",
+            "Mental State": ["frustrated", "isolated", "ashamed"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "During a crucial project meeting, Sophia attempts to present her findings, but Alex interrupts her multiple times, making sarcastic comments. Feeling hurt and unsupported, she becomes defensive when reacting to Alex's remarks, which escalates tensions within the group. After the meeting, she questions whether she should continue leading the project or just let Alex take charge. This internal conflict makes her feel frustrated and leads her to contemplate stepping back from her leadership role.",
+            "Mental State": ["hurt", "conflicted", "disheartened"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "As the project deadline approaches, Sophia reflects on the consequences of her hesitations and the emotional toll it has taken on her. She decides that she must confront Alex and express her needs for collaboration and respect. Although she feels nervous about the impending conversation, she understands it is crucial for the project's success and her own well-being. In this moment of determination, she feels a glimmer of hope that communication could lead to a healthier group dynamic.",
+            "Mental State": ["hopeful", "nervous", "determined"]
+        }
+    }
+}

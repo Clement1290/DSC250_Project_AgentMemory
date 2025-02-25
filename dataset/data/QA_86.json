@@ -1,0 +1,31 @@
+{
+    "User Id": 86,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It's normal to feel conflicted."
+        },
+        "question": "What conflicting feelings is Aria experiencing regarding her teammates?",
+        "answer": "Aria feels conflicted about confronting her teammates."
+    },
+    "long_term_QA": {
+        "question": "How did Aria's initial struggles with communication impact her feelings, and what led her to feel encouraged to express herself more openly later on?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I don\u2019t want to add to their stress, and I feel ashamed for struggling."
+        },
+        "long-term evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "They encouraged me to talk openly with my teammates about how I\u2019m feeling."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It's normal to feel conflicted. Remember, communication can lead to better understanding and help resolve your concerns."
+        },
+        "answer": "Initially, Aria felt ashamed for struggling and was hesitant to express her feelings, stating, 'I don\u2019t want to add to their stress.' However, after discussing her struggles with her family, they encouraged her to talk openly with her teammates, prompting her to realize that communication could lead to better understanding."
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "User Id": 3,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the new semester begins, Amina feels a growing sense of anxiety regarding her Environmental Science major. Recently, she participated in a group project that highlighted her lack of confidence in public speaking. During a presentation, Amina struggled to convey her ideas clearly, leaving her feeling embarrassed. The incident has made her self-conscious about her ability to participate actively in class discussions and teamwork.",
+            "Mental State": ["anxious", "embarrassed", "self-conscious"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Amina attends her first mid-term exam preparation session with her classmates. Although she enjoys collaborating with them, she finds herself retreating into silence, afraid to voice her thoughts or questions. When her classmates share their insights, Amina feels overshadowed and doubts her contributions. This reinforces her fear of inadequacy, leading her to withdraw further from group activities, affecting her social and academic life.",
+            "Mental State": ["overwhelmed", "excluded", "insecure"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Throughout the semester, Amina's anxiety becomes a consistent presence in her daily life. She misses several opportunities to engage in class due to her fear of judgment. One day, while volunteering for a community project, she notices that her peers are finding it easy to communicate and share ideas, making Amina feel increasingly isolated. The contrast between their ease and her struggle leads to feelings of despair, worrying that she might never overcome her communication hurdles.",
+            "Mental State": ["isolated", "despairing", "discouraged"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of feeling stuck, Amina decides to seek help from the campus counseling center. In her first session, she shares her feelings of inadequacy and reluctance to participate in class. While she feels some relief at expressing her struggles, deep-seated fears about her academic future and ability to connect with others remain unresolved. Amina recognizes that addressing her fear of public speaking and anxiety is crucial, but feels uncertain about the steps she needs to take to improve.",
+            "Mental State": ["relieved", "uncertain", "hopeful"]
+        }
+    }
+}

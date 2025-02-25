@@ -1,0 +1,25 @@
+{
+    "User Id": 47,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Ethan starts his final year of college feeling excited about his coursework in Political Science, but he quickly becomes anxious about his future plans. With impending graduate school applications, he feels the pressure to secure strong recommendations and adequately showcase his qualifications. This stress is compounded by high expectations set by his family, especially from his mother, who often speaks about Ethan's bright future in public service. Jamila’s feelings of anxiety escalate as he questions whether he’s truly prepared for the next steps in his career.",
+            "Mental State": ["anxious", "overwhelmed", "insecure"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "During a leadership event on campus, Ethan is expected to speak, but when he stands up, he stutters and struggles to share his thoughts clearly. Observing his peers communicate effectively only heightens his feelings of inadequacy, leaving him frustrated. After the event, he overhears colleagues discussing their successful projects and experiences, which reminds him of the gap between them and increases his feelings of isolation. Returning home, he questions his capabilities and if he belongs in his chosen field.",
+            "Mental State": ["frustrated", "isolated", "self-critical"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "In an effort to cope with the overwhelming pressure, Ethan seeks a way to find solace by volunteering at a local community center focused on youth advocacy. While he hopes to make an impact, he encounters a group of young adults who are highly motivated and already engaged in various community projects. Feeling inspired yet insecure, he begins comparing himself to them, questioning whether his own experiences are substantial enough to contribute meaningfully. Instead of enjoying the experience, he retreats emotionally, leaving him feeling discouraged and unprepared.",
+            "Mental State": ["discouraged", "overwhelmed", "doubtful"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After some time of reflection, Ethan confides in his sister Mai, who is pursuing a career in healthcare. He shares his anxieties about feeling lesser than others and expresses his worries regarding the job market and his capabilities. Mai reassures him that everyone has their unique journey and offers to help him practice public speaking. Although Ethan appreciates her support, he still feels conflicted about how to take active steps forward. He leaves their conversation feeling a mix of hopefulness and uncertainty about moving forward with his plans.",
+            "Mental State": ["conflicted", "hopeful", "unsure"]
+        }
+    }
+}

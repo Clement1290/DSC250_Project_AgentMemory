@@ -1,0 +1,53 @@
+{
+    "User Id": 95,
+    "Stage 1 dialogue": 
+    {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Nina Rossi. It’s my first time here.",
+            "Counselor": "Hello, Nina! It’s great to meet you. How are you feeling today?",
+            "Student": "I’m feeling a bit anxious, honestly. I just started the semester.",
+            "Counselor": "That’s quite normal. Starting a new semester can be overwhelming. What specifically is on your mind?",
+            "Student": "I’m excited, but I’m also starting to feel the weight of expectations from my professors and family.",
+            "Counselor": "I see. Can you share more about those expectations? How do they affect you?",
+            "Student": "My mom mentioned my potential in healthcare during dinner, which made me feel pressured to succeed.",
+            "Counselor": "That sounds like a lot of pressure. It's common for family expectations to create anxiety. Have you had a chance to talk to your family about how you’re feeling?"
+        }
+    },
+    "Stage 2 dialogue": 
+    {
+        "timestamp": "2023-09-30T14:30:00Z",
+        "Dialogue": {
+            "Student": "Hi again. Things are still pretty tough for me.",
+            "Counselor": "Welcome back, Nina. I'm glad you came in. What’s been challenging this time?",
+            "Student": "I’m feeling overwhelmed with assignments and time management. In a group project, I feel intimidated by one of my classmates, Andrew.",
+            "Counselor": "It can be tough to feel overshadowed. What specifically makes you feel that way around Andrew?",
+            "Student": "He often dominates the discussions, and I find it hard to share my ideas. It’s frustrating because I know I have something valuable to offer.",
+            "Counselor": "That frustration is understandable. It’s important for you to feel heard. Have you considered strategies to express your ideas more confidently?"
+        }
+    },
+    "Stage 3 dialogue": 
+    {
+        "timestamp": "2023-10-20T13:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I’ve been feeling really isolated lately.",
+            "Counselor": "Hi Nina! I appreciate you coming back. Can you elaborate on what's making you feel isolated?",
+            "Student": "I’ve been focusing too much on my studies and have started to decline invitations to hang out. I miss my friends and family.",
+            "Counselor": "It's common to withdraw when overwhelmed. How did it feel when your brother Luca reached out to you recently?",
+            "Student": "I brushed him off, saying I was too busy. I regret not spending time with him. I feel guilty."
+            "Counselor": "It's very normal to feel guilty about that. Your family cares about you, and balancing your social life and responsibilities is important. How do you think you could reconnect with them?"
+        }
+    },
+    "Stage 4 dialogue": 
+    {
+        "timestamp": "2023-11-05T15:00:00Z",
+        "Dialogue": {
+            "Student": "Hello! I finally spoke with my advisor about my feelings and struggles.",
+            "Counselor": "That’s a wonderful step, Nina! How did that conversation go?",
+            "Student": "I opened up about my anxiety and how I felt inadequate in group settings. It was really relieving.",
+            "Counselor": "That’s a significant breakthrough! What advice did your advisor provide?",
+            "Student": "They encouraged me to embrace my creativity and to actively participate without fear of judgment. They reminded me it’s okay to ask for help.",
+            "Counselor": "Yes! That’s fantastic advice. How do you feel about implementing that and engaging more in your classes now?"
+        }
+    }
+}

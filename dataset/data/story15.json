@@ -1,0 +1,25 @@
+{
+    "User Id": 15,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Nina starts the semester feeling excited and ready to engage deeply in her Environmental Science studies. However, during her first group project meeting, she raises an idea for a sustainability campaign that is quickly dismissed by her teammates, especially by Grace, who asserts that the idea is impractical. This dismissive attitude leaves Nina feeling frustrated and unnoticed as she begins to doubt her ability to contribute effectively to the group.",
+            "Mental State": ["Frustrated", "Unnoticed", "Insecure"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Following the meeting, Nina becomes anxious about sharing her ideas in class and starts to withdraw from group discussions. During a lunch with her brother Felix, she opens up about her feelings of inadequacy and fear of speaking up in future projects. She worries that her earlier experience will affect her relationships with her peers and her confidence to pursue her passion for environmental advocacy.",
+            "Mental State": ["Anxious", "Withdrawn", "Doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms approach, Nina's anxiety heightens. She feels overwhelmed with the coursework and struggles to maintain focus on her studies. Despite Felix's encouragement, she finds herself isolating more and contemplating dropping out of the group project altogether. The ongoing self-doubt becomes more persistent, and confidence in her academic abilities erodes, leading her to question if she truly belongs in her field of study.",
+            "Mental State": ["Overwhelmed", "Self-doubting", "Disconnected"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After much thought, Nina decides she must seek support to overcome her challenges. She plans to reach out to her professor to express her feelings and ask for guidance on how to better engage with her team. Although nervous about this conversation, Nina feels a sense of hope that by taking this step, she can reaffirm her commitment to her studies and regain her confidence. She understands that it’s okay to ask for help.",
+            "Mental State": ["Hopeful", "Determined", "Nervous"]
+        }
+    }
+}

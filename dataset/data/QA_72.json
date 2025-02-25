@@ -1,0 +1,31 @@
+{
+    "User Id": 72,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel like I failed and now I\u2019m questioning if I\u2019m cut out for political science."
+        },
+        "question": "What did Mateo feel after his presentation?",
+        "answer": "He felt like he failed."
+    },
+    "long_term_QA": {
+        "question": "How did Mateo initially feel about his commitment to social issues, and what experiences led him to question his path?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel like I failed and now I\u2019m questioning if I\u2019m cut out for political science."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I was really inspired by my summer internship with an NGO, but now I find that many classmates don\u2019t care about the social issues I\u2019m passionate about."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It\u2019s completely okay to reflect on your path. Exploring options is part of your journey."
+        },
+        "answer": "Mateo initially felt inspired by his summer internship with an NGO, but after feeling dismissed and failing to connect with his classmates, he questioned if he was cut out for political science."
+    }
+}

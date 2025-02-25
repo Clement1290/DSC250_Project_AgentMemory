@@ -1,0 +1,31 @@
+{
+    "User Id": 53,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I made it to the exhibition, but I felt so anxious the whole time."
+        },
+        "question": "What did Maya do before this conversation?",
+        "answer": "She made it to the exhibition."
+    },
+    "long_term_QA": {
+        "question": "How did Maya initially feel about her projects, and what specific experience during the exhibition led her to feel a sense of hope despite her anxiety?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "Some visitors praised my design, but instead of feeling happy, I brushed it off like they were just being nice."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I've been feeling a bit overwhelmed lately. I have multiple projects due for my graphic design classes."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "However, remember that their feedback reflects your talent."
+        },
+        "answer": "Initially, Maya felt overwhelmed with multiple projects due, but during the exhibition, despite her anxiety, some visitors praised her design, which led her to recognize her talent and experience a sense of hope."
+    }
+}

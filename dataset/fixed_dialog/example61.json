@@ -1,0 +1,148 @@
+{
+    "User Id": 61,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T08:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Sophia. It's nice to meet you!"
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Sophia! It's great to meet you too. What brings you in today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm excited but also feeling a bit anxious about the new semester. I just started my Biology major and I'm also volunteering for an environmental group."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like a fantastic opportunity! What specifically about these responsibilities is making you feel anxious?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I have this feeling of obligation to excel in my studies and support my younger brother Diego, who's been stressed about his soccer tryouts."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that pressure. How do you think you can balance your own commitments with supporting Diego?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:15:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I'm feeling more overwhelmed now. Juggling my studies, volunteering, and helping Diego is exhausting."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Sophia! I'm glad you're back. What's been particularly challenging for you?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm losing sleep and it's hard to focus on my classes. I keep worrying that I'm not being a good sister or doing enough in school."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It really sounds like you've taken on a lot of responsibilities. Have you had time for yourself in between everything?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Not really. I haven't painted or cooked lately, and those things usually help me relax."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Finding time for self-care is crucial, especially when you're feeling stretched thin. What would it look like for you to carve out even a small bit of time for your hobbies?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I just got back from a meeting and I felt so detached. I tried to inspire my team, but ended up feeling inadequate."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Sophia. I'm sorry to hear that. What do you think contributed to feeling detached during the meeting?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I was too preoccupied with my worries about Diego and not being able to articulate my ideas clearly. Afterward, I talked to Clara, but I still feel burdened."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It sounds like you are carrying a significant emotional load. Have you talked to Clara about how this is affecting you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Only a bit. I told her I'm worried I'm failing as a volunteer and as a sister."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that way. You truly care about both roles, but it's okay to seek help and acknowledge your limits. What are some ways you can begin to support yourself?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T11:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I decided to see a counselor after much thought. I shared everything going on, and it felt good to open up."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's a positive step, Sophia! How did it feel to share your thoughts and feelings with someone?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was relieving, but they suggested I need to prioritize self-care and set boundaries. I'm not sure if I can manage all of this."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "Finding that balance can be tricky, but even small changes can help. What's one boundary you might feel comfortable starting with?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I think I'm going to try to set specific times for studying and family time, and also reserve at least one evening for painting."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds like a great plan! Remember to be kind to yourself as you implement these changes. I'm here to help if you need support along the way."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Thank you so much for your support! I feel more hopeful now."
+            }
+        ]
+    }
+}

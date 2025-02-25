@@ -1,0 +1,31 @@
+{
+    "User Id": 58,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019m thinking of looking for someone this week."
+        },
+        "question": "What is Maya planning to do this week?",
+        "answer": "Look for someone to talk to for support."
+    },
+    "long_term_QA": {
+        "question": "How did Maya feel about her ability to support her friend, and what led her to realize the importance of seeking help for her own emotional needs?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019m a bit uncertain about taking that step, but I also know it might help me sort through everything."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I felt disheartened and inadequate. I want to support my friends, but sometimes I just don\u2019t know how."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It\u2019s okay to feel uncertain. Taking care of yourself is essential."
+        },
+        "answer": "Maya felt disheartened and inadequate in her ability to support Priya, but after reflecting on her experiences, she realized that seeking help might assist her in sorting through everything."
+    }
+}

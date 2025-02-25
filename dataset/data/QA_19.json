@@ -1,0 +1,31 @@
+{
+    "User Id": 19,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel relieved, but I\u2019m still anxious about balancing everything."
+        },
+        "question": "What is Oliver planning to do next to manage his anxiety about balancing everything?",
+        "answer": "He plans to lean on his support system."
+    },
+    "long_term_QA": {
+        "question": "How was Oliver's ability to connect with others before he experienced a significant emotional breakdown, and what prompted him to reassess his capacity to manage his responsibilities?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I finally talked to Jake, and it helped. I apologized for shutting him out."
+        },
+        "long-term evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "I\u2019m worried about meeting all my deadlines, and I\u2019ve been irritable with my friends and family."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I had a breakdown after a volunteer event when my friend Jake confronted me about not being around lately."
+        },
+        "answer": "Before the breakdown, Oliver was feeling irritable and found it difficult to connect with his friends and family. The breakdown prompted him to acknowledge that he was shutting everyone out and reassess how he was managing his responsibilities."
+    }
+}

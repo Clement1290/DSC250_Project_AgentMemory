@@ -1,0 +1,31 @@
+{
+    "User Id": 66,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019m thinking maybe communication strategies could be a better fit for me."
+        },
+        "question": "What does Tara think could be a better fit for her after her presentation struggles?",
+        "answer": "Communication strategies."
+    },
+    "long_term_QA": {
+        "question": "How did Tara feel about her connection with her peers initially, and what led her to feel even more isolated after reaching out for support?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I felt like I failed. It made me question if I should even continue in international relations."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I struggle to connect with my classmates."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "I felt dismissed."
+        },
+        "answer": "Initially, Tara felt frustrated and expressed that she struggled to connect with her classmates. After reaching out for support, she felt dismissed and more isolated, stating, 'I felt dismissed,' which contributed to her feelings of isolation."
+    }
+}

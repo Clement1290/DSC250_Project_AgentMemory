@@ -1,0 +1,31 @@
+{
+    "User Id": 55,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I felt proud of a few answers, but the anxiety overshadowed that pride."
+        },
+        "question": "What is something Amina felt proud of during her exam?",
+        "answer": "A few answers."
+    },
+    "long_term_QA": {
+        "question": "How did Amina initially feel about her academic pressures, and what led to her increased anxiety as exams approached?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I got through my first exam, but I\u2019m still anxious about my performance."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling a bit overwhelmed. I have multiple projects and exams coming up in my psychology classes."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Counselor",
+            "quote": "What\u2019s been making your anxiety worse?"
+        },
+        "answer": "Amina initially felt overwhelmed with multiple projects and exams in her psychology classes, but as exams approached, her anxiety increased, leading her to withdraw from social activities."
+    }
+}

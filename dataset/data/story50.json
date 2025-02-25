@@ -1,0 +1,25 @@
+{
+    "User Id": 50,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Ella is preparing for an important presentation in her psychology class, where she is expected to lead a discussion on mental health in communities. As an ENFJ, she thrives on connecting with others, but the weight of the responsibility is causing her anxiety. She feels pressured to perform well because her peers, including her close friend Maddie, look up to her and often rely on her for guidance. This pressure creates an internal conflict for Ella, who fears disappointing those who admire her abilities.",
+            "Mental State": ["anxious", "pressured", "conflicted"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "With the presentation only a week away, Ella's anxiety heightens as she begins to doubt her capability to engage and inspire her classmates. She also feels a sense of isolation, thinking that no one can truly understand the pressure she's under. During a group study session, when Maddie asks how she’s feeling about the presentation, Ella brushes it off with a smile, but internally feels overwhelmed. The fear of not being able to meet expectations leaves her questioning her own competence and begins to affect her relationships with peers.",
+            "Mental State": ["isolated", "overwhelmed", "doubting"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As the day of the presentation approaches, Ella withdraws from social activities, choosing instead to isolate herself in her room to focus on preparation. Her friendships, particularly with Maddie, suffer as she neglects gatherings and outings. Ella feels guilty for not engaging, but the dread of public speaking and the fear of failure become consuming. Her family notices her change in behavior during their usual weekend outings, leading to concerned discussions. Ella feels a mix of frustration and guilt, trapped in her own mind as she struggles with the looming pressure of her presentation.",
+            "Mental State": ["withdrawn", "guilty", "frustrated"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "On the day of the presentation, Ella experiences a panic attack just before her turn to speak. While her classmates, including Maddie, express concern, Ella feels embarrassed and inadequate for not being able to manage her emotions. She ultimately gives her presentation, but her performance is affected by her anxiety. After the class, she confides in Maddie about her struggles, realizing she has kept her fears bottled up for too long. Although relieved to share her feelings, she still grapples with her fear of inadequacy and the impact it may have on her relationships and future performance.",
+            "Mental State": ["embarrassed", "relieved", "still anxious"]
+        }
+    }
+}

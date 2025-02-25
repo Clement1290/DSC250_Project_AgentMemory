@@ -1,0 +1,46 @@
+{
+    "User Id": 86,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:30:00Z",
+        "Dialogue": {
+            "Student": "Hi! I’m Aria Johnson. This is my first time talking here.",
+            "Counselor": "Hello, Aria! It's great to meet you. How can I assist you today?",
+            "Student": "I’m feeling a bit frustrated with my new semester in psychology.",
+            "Counselor": "I’m sorry to hear that. What’s been frustrating you?",
+            "Student": "I’m working on a group project about mental health awareness, but one of my teammates, Sarah, seems really disengaged.",
+            "Counselor": "That sounds tough. Have you had a chance to talk to Sarah about how you feel?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:30:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m back. Things have gotten a bit more complicated.",
+            "Counselor": "Welcome back! What’s been happening?",
+            "Student": "I tried to take more initiative in the project, but when I encouraged Sarah to share her thoughts, she dismissed me.",
+            "Counselor": "That must have been discouraging. How did that make you feel?",
+            "Student": "It made me anxious about leading the group. I’m worried I won’t be able to connect with my teammates.",
+            "Counselor": "It’s understandable to feel that way. Have you thought about how you might approach the group again?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:30:00Z",
+        "Dialogue": {
+            "Student": "Hello. I’m feeling really burnt out right now.",
+            "Counselor": "Hi Aria. I’m here to help. What’s been causing you to feel burnt out?",
+            "Student": "With the deadline approaching, I’ve been working late nights to keep the project on track. During a rehearsal today, I stumbled on my presentation and felt embarrassed.",
+            "Counselor": "That sounds really overwhelming. It's tough when you put in so much effort and feel unsupported. Have you reached out to anyone in your group for help?",
+            "Student": "Not really. I don’t want to add to their stress, and I feel ashamed for struggling."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:30:00Z",
+        "Dialogue": {
+            "Student": "I finally shared my feelings with my family, and it helped a bit.",
+            "Counselor": "It’s good to hear that you reached out to your family. How did they respond?",
+            "Student": "They encouraged me to talk openly with my teammates about how I’m feeling. But I still feel conflicted about confronting them.",
+            "Counselor": "It's normal to feel conflicted. Remember, communication can lead to better understanding and help resolve your concerns. Have you thought about what you want to say?",
+            "Student": "I’ve thought about it, but I'm still unsure about how to approach it.",
+            "Counselor": "Take your time to organize your thoughts. You could write down what you want to say to help clarify your feelings. I believe you can do this."
+        }
+    }
+}

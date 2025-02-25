@@ -1,0 +1,25 @@
+{
+    "User Id": 95,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Nina starts the semester with excitement and enthusiasm about her biochemistry classes. However, as the first week progresses, she begins to feel the weight of expectations from her professors and her family. During a family dinner, her mother praises Nina’s potential in healthcare, which makes her feel pressured to exceed expectations. This conversation ignites anxiety within her, as she grapples with the fear of not living up to her family's hopes.",
+            "Mental State": ["anxious", "pressured", "uncertain"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the semester continues, Nina faces increasing stress from her coursework. She finds herself overwhelmed by assignments and demands on her time. During a group project, she feels intimidated by her classmates who seem more confident and vocal, particularly Andrew, who frequently dominates discussions. This leads Nina to withdraw, believing her contributions are not as valuable, and her frustration begins to grow as she realizes that she is not asserting herself as she would like.",
+            "Mental State": ["frustrated", "isolated", "inadequate"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With midterms approaching, Nina's stress escalates further, causing her to neglect her hobbies and social life. She finds it increasingly difficult to cope and starts missing family outings, leaving her feeling even more disconnected. When her brother Luca reaches out to check on her, she brushes off his concerns, not wanting to add to his worries. Nina struggles with feelings of loneliness and guilt for not being the supportive sister her family expects, deepening her anxiety and sense of helplessness.",
+            "Mental State": ["lonely", "guilty", "overwhelmed"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After a particularly challenging week, Nina takes the brave step of seeking help from a campus counselor. During their session, she candidly expresses her struggles with anxiety, pressure, and self-doubt. The counselor listens and provides her with coping strategies, encouraging her to find balance and reconnect with what brings her joy. Nina leaves the session with a renewed sense of hope and determination, ready to implement strategies to better manage her academic and personal life.",
+            "Mental State": ["hopeful", "determined", "empowered"]
+        }
+    }
+}

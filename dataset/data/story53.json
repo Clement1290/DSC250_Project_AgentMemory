@@ -1,0 +1,25 @@
+{
+    "User Id": 53,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Maya is feeling overwhelmed as she juggles multiple projects for her graphic design classes. With an important exhibition approaching, she worries that her work may not meet her high standards. Conversations with her classmates revolve around the impressive projects they are creating, which adds to her pressure. Her parents, who are both established in their fields, often share stories of their own successes, leaving Maya feeling like she has a lot to live up to. This creates a sense of inadequacy that weighs heavily on her spirit.",
+            "Mental State": ["overwhelmed", "inadequate", "anxious"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the exhibition date looms closer, Maya’s anxiety intensifies. She often finds herself doubting her creative abilities, comparing her artwork unfavorably to her peers. During a group study session, a classmate, Alice, receives praise for her design, which further diminishes Maya's confidence. Ella, her supportive friend, tries to encourage her, but Maya feels disconnected and struggles to believe in her own talent. The pressures from her family and the competitive atmosphere in her classes lead to feelings of isolation and frustration.",
+            "Mental State": ["frustrated", "isolated", "doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With the deadline for submissions approaching, Maya becomes increasingly withdrawn, often spending late nights on her designs. She avoids social interactions and neglects her hobbies, like stargazing and playing piano. One evening, Leo, her younger brother, notices her distress and expresses concern, but Maya brushes him off, feeling ashamed of her struggles. Staring at her work, she feels paralyzed by self-criticism, unable to put her creative ideas into practice. The joy she once found in her art has been replaced by a looming sense of dread and hopelessness.",
+            "Mental State": ["hopeless", "ashamed", "paralyzed"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "The day of the exhibition arrives, and Maya is filled with a mix of excitement and dread. Despite having poured her heart into her work, she feels unprepared and fearful of judgment. As she sets up her display, she encounters familiar faces, but her anxiety prevents her from engaging in casual conversations. During the exhibition, a visitor praises her design, but instead of feeling elated, she brushes it off with self-doubt. Afterward, Ella approaches her and emphasizes how great her work truly is, encouraging Maya to embrace her unique voice. While this support offers a glimmer of hope, Maya continues to grapple with her inner critic, unsure if she can overcome her fears.",
+            "Mental State": ["conflicted", "anxious", "hopeful"]
+        }
+    }
+}

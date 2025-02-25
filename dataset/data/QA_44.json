@@ -1,0 +1,31 @@
+{
+    "User Id": 44,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I can start with just one aspect to focus on."
+        },
+        "question": "What does Nathan plan to focus on next?",
+        "answer": "One aspect to focus on."
+    },
+    "long_term_QA": {
+        "question": "How did Nathan's feelings of uncertainty affect him before he decided to confide in his sister, and what prompted him to seek her support?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I appreciate her support, but I\u2019m still uncertain about taking that step."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I left feeling heavy-hearted instead of fulfilled. It made me question if I could handle the emotional demands of a career in psychology."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It\u2019s natural to feel hesitant. Remember, mentors are there to help you learn and grow."
+        },
+        "answer": "Before confiding in his sister, Nathan felt heavy-hearted and questioned his ability to handle the emotional demands of a psychology career, which left him feeling uncertain. His sister's support prompted him to consider mentorship opportunities, which suggested that mentors could help him learn and grow."
+    }
+}

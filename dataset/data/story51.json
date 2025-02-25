@@ -1,0 +1,25 @@
+{
+    "User Id": 51,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sophia is struggling with feelings of inadequacy as she prepares for an upcoming group project in her Environmental Science class. The project requires students to collaborate on researching and presenting a local environmental issue, but Sophia is anxious about expressing her ideas in a group setting. Her classmate, Mark, who tends to dominate discussions, often overshadows her contributions. Despite being passionate about the project topic, Sophia fears that her quiet nature will lead to her being overlooked.",
+            "Mental State": ["insecure", "anxious", "overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the project deadline approaches, Sophia becomes increasingly stressed. During group meetings, she finds it difficult to voice her opinions or challenge Mark's perspective. Her reluctance to speak up leads to frustration and self-doubt, as she questions her abilities and worth within the group. After receiving feedback indicating Mark's contributions are being favored, Sophia feels alienated and wonders if she should even continue working with them. The fear of conflict prevents her from reaching out for help or addressing the unhealthy dynamics.",
+            "Mental State": ["frustrated", "alienated", "doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With only a week left until the project presentation, Sophia’s anxiety peaks. She starts to withdraw from her group, choosing to work independently on her sections rather than collaborating. Despite being capable and knowledgeable, her self-criticism leads her to believe that her work will not be good enough. Sophia isolates herself more, missing opportunities for constructive feedback and support from her peers. During a casual outing where the group discusses their progress, she allows Mark's dismissive comments to further discourage her, reinforcing her feelings of inadequacy.",
+            "Mental State": ["withdrawn", "isolated", "hopeless"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "On the day of the presentation, Sophia feels a mix of anxiety and dread. Despite having prepared well, the thought of having to present in front of her peers, especially with Mark's potential to overshadow her, makes her feel paralyzed. When it’s her turn to present, she stumbles through her part, and afterwards, she is frustrated with herself for not being able to effectively convey her hard work. Following the presentation, Mark praises her portions of the project, which momentarily lifts her spirits. However, the internal struggle with her self-worth remains unresolved, leaving Sophia conflicted about her capabilities and her place in the group's dynamics.",
+            "Mental State": ["anxious", "frustrated", "conflicted"]
+        }
+    }
+}

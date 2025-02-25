@@ -1,0 +1,25 @@
+{
+    "User Id": 42,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sophia begins her final year of undergraduate studies in Environmental Science. Despite her passion for the subject, she feels an intense pressure to perform well in her classes and secure a job in conservation after graduation. This stress is exacerbated by her sense of urgency to make a meaningful impact before the climate crisis escalates further. Additionally, the recent passing of a beloved family pet has deepened her sense of loss, leaving her emotionally vulnerable.",
+            "Mental State": ["anxious", "overwhelmed", "sad"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "During a group project in class, Sophia finds it difficult to communicate her ideas effectively. She is partnered with two classmates, Mia and Jake, who are more assertive in sharing their viewpoints. Feeling overshadowed, Sophia withdraws from the discussion, which only increases her frustration and self-doubt. Despite the group's success, she grapples with feelings of inadequacy and fears that her contributions are not valued.",
+            "Mental State": ["frustrated", "insecure", "isolated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Sophia decides to channel her feelings into her photography hobby, aiming to create a series highlighting environmental issues. However, while on a photoshoot in a local park, she encounters litter and pollution that deeply disturbs her. This experience triggers a surge of emotions, amplifying her sense of helplessness regarding the state of the environment. She reflects on her struggle to balance her duties as a student and her desire to advocate for change, leading to a sense of despair.",
+            "Mental State": ["helpless", "overwhelmed", "despairing"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of internal conflict, Sophia confides in her younger brother, Aryan, about her emotional struggles and her feeling of being overwhelmed by expectations. Aryan encourages her to consider reaching out for professional support and reminds her of the impact she can have, no matter her fears. Although Sophia feels somewhat relieved after opening up, she remains uncertain about taking the step to seek help and continues to grapple with self-doubt about her abilities as a future conservationist.",
+            "Mental State": ["conflicted", "hopeful", "unsure"]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "User Id": 88,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sophia was excited to begin her semester studying graphic design, particularly looking forward to a class focused on digital illustration. However, once classes started, she found herself in a group project where her teammates, including Liam, were not as committed as she was. When Sophia suggested brainstorming sessions to generate ideas, Liam and the others appeared dismissive, leading her to feel frustrated and concerned that they would not produce quality work.",
+            "Mental State": ["frustrated", "concerned", "disappointed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the project progressed, Sophia decided to take the initiative in organizing the group. She prepared a detailed plan and reached out to each member, including Liam, to discuss their contributions. Instead of enthusiasm, she was met with indifference, as Liam claimed he was too busy to contribute significantly. This response left Sophia feeling anxious about how to keep the group motivated and doubting her leadership abilities.",
+            "Mental State": ["anxious", "overwhelmed", "doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With the deadline approaching, Sophia felt increasingly burnt out from trying to manage the project on her own. She spent long hours working on the layout and design aspects while trying to squeeze input from her less engaged teammates. During a dress rehearsal for their presentation, Sophia's nerves peaked, and she stumbled over her words. Instead of receiving moral support, her peers criticized her presentation style, leaving her feeling embarrassed and isolated.",
+            "Mental State": ["burnt out", "embarrassed", "isolated"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After the presentation, although Sophia received some positive feedback from her professor, she felt unfulfilled and frustrated with her team’s lack of collaboration. Seeking guidance, she talked with her family during dinner and shared her struggles with leading the group. Her family encouraged her to foster open communication with her teammates. However, even with this support, Sophia remained conflicted about how to approach them and was unsure of how to effectively improve collaboration in the group for future projects.",
+            "Mental State": ["relieved", "conflicted", "hopeful"]
+        }
+    }
+}

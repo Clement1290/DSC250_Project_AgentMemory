@@ -1,0 +1,31 @@
+{
+    "User Id": 91,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "She encouraged me to focus on progress rather than perfection and to connect more with my peers."
+        },
+        "question": "What encouragement did Zara receive from her mother that helped improve her mental condition?",
+        "answer": "She encouraged me to focus on progress rather than perfection and to connect more with my peers."
+    },
+    "long_term_QA": {
+        "question": "How did Zara feel about her contributions before her conversation with her mother, and what prompted her to change her mindset about participating in her group?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I feel guilty for not participating."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "It\u2019s normal to have ups and downs, especially in group settings."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "She encouraged me to focus on progress rather than perfection and to connect more with my peers."
+        },
+        "answer": "Before the conversation with her mother, Zara felt guilty for not participating in her group. This guilt was part of the normal ups and downs she experienced in a group setting. Her mother prompted her to change her mindset by encouraging her to focus on progress rather than perfection and to connect more with her peers."
+    }
+}

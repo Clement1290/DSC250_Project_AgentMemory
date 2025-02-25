@@ -1,0 +1,25 @@
+{
+    "User Id": 68,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-12",
+            "Description": "Javier begins the semester feeling excited about his environmental science classes after returning from a transformative summer volunteering at a wildlife sanctuary. However, upon his first few classes, he realizes that many of his peers do not share the same passion for environmental issues. During a group project discussion, Javier tries to share his insights and experiences but feels that his contributions are dismissed. This leads him to feel both frustrated and isolated.",
+            "Mental State": ["Frustrated", "Isolated", "Disheartened"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-28",
+            "Description": "Javier speaks with his close friend, Marco, expressing his feelings of disconnect with others in the class. However, Marco seems preoccupied with his own schoolwork and offers minimal support, suggesting that Javier should just focus on getting through the semester. Feeling unsupported, Javier starts to doubt whether he should continue advocating for environmental causes in a setting where he feels unwelcome. His passion starts to wane, impacting his enthusiasm for his studies.",
+            "Mental State": ["Lonely", "Discouraged", "Doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-15",
+            "Description": "As part of his coursework, Javier encounters an assignment focused on community activism related to environmental policy. He feels a spark of excitement and wants to incorporate his experiences from the sanctuary into the project. However, during group collaboration, his classmates prefer conventional approaches rather than considering his unique insights. Javier tries to express his ideas but feels overshadowed and once again retreating into silence, which further pushes his feelings of inadequacy. He confides in his sister, Lucia, who encourages him to persevere, but Javier feels increasingly conflicted about whether he belongs in this academic environment.",
+            "Mental State": ["Frustrated", "Defeated", "Conflicted"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-01",
+            "Description": "Javier has been selected to present their group project on environmental activism. The pressure intensifies as he wants to incorporate his heartfelt experiences but worries about the reception from his peers. On the day of the presentation, Javier struggles to engage the audience, feeling their indifference. After the presentation, he feels a deep sense of failure and begins to question his place in the field of environmental science, contemplating shifting his focus to photography instead. He feels torn between his commitment to environmental issues and the need for acceptance within his peer group.",
+            "Mental State": ["Defeated", "Uncertain", "Reflective"]
+        }
+    }
+}

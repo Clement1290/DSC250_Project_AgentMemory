@@ -1,0 +1,31 @@
+{
+    "User Id": 12,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I really want to reach out to my professor about my concerns."
+        },
+        "question": "What did Sofia decide to do regarding her concerns?",
+        "answer": "Reach out to her professor."
+    },
+    "long_term_QA": {
+        "question": "How did Sofia feel about seeking help before her decision to reach out to her professor, and what led her to change her mind?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I\u2019m terrified of failing. I want to reach out to my professor, but I\u2019m worried about being rejected again."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I\u2019m terrified of failing. I want to reach out to my professor, but I\u2019m worried about being rejected again."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019ve realized I can\u2019t do this alone."
+        },
+        "answer": "Before her decision, Sofia felt terrified of failing and was hesitant to reach out due to fears of rejection. Her realization that she can't do this alone prompted her to change her mind and seek help."
+    }
+}

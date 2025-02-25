@@ -1,0 +1,198 @@
+{
+    "User Id": 6,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-11-06T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Ethan Williams. It's nice to meet you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Ethan! It's great to meet you too. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a bit overwhelmed with the start of the semester. There's a lot going on in my Environmental Science classes."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I understand. Starting a new semester can be quite challenging, especially with demanding coursework. What's been the most overwhelming part for you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I just finished a really tough field study project and got feedback that felt more critical than helpful. It made me question my abilities."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds really tough. Receiving criticism, especially when we're already feeling pressure, can be discouraging. How did that feedback affect you personally?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "It left me anxious and feeling like I'm not good enough, especially since my dad is a park ranger and has high expectations."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's natural to feel that way, especially with family expectations in mind. Have you had a chance to talk to anyone about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Not yet. I don't want to seem weak or like I can't handle my studies."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "It's important to remember that everyone has struggles. Sharing your feelings can actually open doors for support. Would you consider talking to someone in your family or your friends?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I think I could talk to my sister Mia. She might understand what I'm going through."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-11-13T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again, I talked to Mia about my feelings."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's great to hear, Ethan! How did that conversation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It helped a little, but I still find it hard to share my ideas in group projects. I feel overshadowed by my classmates."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's understandable to feel that way in a talkative group. What do you think might help you speak up in those situations?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I guess I could set a goal to contribute at least once in our next meeting, but I worry I may not articulate myself well."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Setting that goal sounds like a constructive step forward. Remember, the value of your contributions isn't measured just by how eloquently you speak. Would practicing your ideas beforehand help?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Yes, I think that could boost my confidence."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's a great plan! Also, remind yourself that everyone learns and grows at their own pace. You'll find your voice."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Thanks for the encouragement. I'll attempt to implement this strategy."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-11-20T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I'm back, but I'm feeling increasingly anxious."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Ethan! I'm glad you came back. What's been happening this week?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I attended a family gathering, and my dad was showcasing his photography. I felt really inadequate afterward."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. It can be difficult to be around family when you feel that way. How did it impact your feelings about your own pursuits in environmental science?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It made me worry that I'm not living up to the family's expectations or my own aspirations. I keep thinking I'm not cut out for this."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's perfectly normal to feel that way, especially in a creative and challenging field. Have you taken any moments to reflect on your own growth and passion for environmental science?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I've been pretty fixated on comparing myself to them."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It might help to reflect on what you enjoy about your studies and to remind yourself of your accomplishments. You've worked hard to get where you are."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-27T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back! I took some time to think about my motivations and reasons for pursuing environmental science."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Ethan! That's wonderful to hear! How did that reflection go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It really helped me remember why I chose this path in the first place. I'm passionate about conservation and protecting nature."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's fantastic! Holding onto that passion can help guide you during tough times. How are you feeling now about engaging in your program?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I feel a bit more optimistic, but I still struggle with participating in group discussions."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's great to hear that positivity! For group discussions, perhaps you can share your passion, making it relatable for you. What's one small way you could engage in class next time?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I think I could start small by sharing my thoughts on a recent environmental issue we learned about in class."
+            }
+        ]
+    }
+}

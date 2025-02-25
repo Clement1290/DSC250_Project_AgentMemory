@@ -1,0 +1,31 @@
+{
+    "User Id": 73,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I realized that my voice matters, even if I have to push myself a bit."
+        },
+        "question": "What realization did Sarah come to about her voice after participating in her project presentation?",
+        "answer": "Her voice matters."
+    },
+    "long_term_QA": {
+        "question": "How did Sarah feel about contributing to discussions before she started confiding in her brother, and what made her continue to struggle with confidence?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "As the project nears completion, Sarah decides to assert herself and share her perspectives more boldly, indicating an improvement in confidence despite still feeling nervous."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling a bit overwhelmed, honestly. I just started my psychology class, and I\u2019m really excited, but I\u2019m struggling to speak up."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "I keep avoiding group discussions."
+        },
+        "answer": "Sarah initially felt a bit overwhelmed and struggled to speak up due to her excitement and new environment. However, after confiding in her brother, she continued to avoid discussions, indicating her ongoing struggle with confidence."
+    }
+}

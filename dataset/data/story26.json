@@ -1,0 +1,25 @@
+{
+    "User Id": 26,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Aisha Malik finds herself overcommitted with her academic responsibilities and extracurricular activities. While she is passionate about her Psychology major, she has taken on multiple volunteer projects, including organizing a mental health seminar at her university. As the seminar date approaches, she starts to feel overwhelmed by the pressure of managing everything. This situation is exacerbated when she learns that a close friend, Fatima, is going through a tough time, needing Aisha’s support. The weight of these responsibilities begins to affect her mental health, leaving her anxious and fatigued.",
+            "Mental State": ["anxious", "fatigued", "overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the day of the seminar approaches, Aisha experiences mounting stress. She tries to balance her studies while preparing materials for the event and supporting Fatima. Even during class, her mind drifts to the tasks at hand, making it difficult to concentrate. Her brother, Samir, notices her distress and encourages her to take a break, but Aisha brushes off his advice, believing she needs to be strong for her friend and the seminar attendees. When the seminar day arrives, Aisha feels unprepared and worries about disappointing everyone, including herself.",
+            "Mental State": ["stressed", "distracted", "unprepared"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Post-seminar, Aisha reflects on the event, feeling that it went well, but she struggles with self-criticism, believing she could have done better. However, she is too exhausted to celebrate her success. Meanwhile, Fatima’s situation worsens, requiring more of Aisha’s emotional support. Aisha feels torn between her responsibilities and her well-being. She becomes more irritable with her family and friends as guilt creeps in; she believes she should be doing more for Fatima, yet she is too drained to help. Her inner conflicts lead her to withdraw from social interactions, further isolating herself.",
+            "Mental State": ["exhausted", "guilty", "isolated"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of feeling overwhelmed, Aisha finally reaches a breaking point. While volunteering at a local charity, she accidentally snaps at a fellow volunteer for minor mistakes. This incident shocks her, highlighting just how much she has been holding in. Realizing that she needs help, Aisha contemplates seeking therapy but feels apprehensive about opening up. She fears judgment and worries that admitting she needs support might be a sign of weakness. This internal struggle leaves her feeling trapped in her emotional turmoil, unsure of how to take the necessary steps toward healing.",
+            "Mental State": ["trapped", "apprehensive", "exhausted"]
+        }
+    }
+}

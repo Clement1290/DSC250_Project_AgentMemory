@@ -1,0 +1,70 @@
+{
+    "User Id": 37,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T09:30:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Samuel Walker. It’s nice to meet you.",
+            "Counselor": "Hello Samuel! It's great to meet you too. How are you feeling as the new semester kicks off?",
+            "Student": "I'm excited about my History courses, but I feel a bit overwhelmed already.",
+            "Counselor": "That’s understandable, especially with new expectations. What specifically is making you feel overwhelmed?",
+            "Student": "With my family's academic background, I feel a lot of pressure to excel. I also joined a history club that's planning an exhibition, which adds to my workload.",
+            "Counselor": "It sounds like you have a lot to juggle. Have you had a chance to talk to your family about how you’re feeling?",
+            "Student": "Not yet. I don’t want to disappoint them by admitting I’m struggling.",
+            "Counselor": "It can be hard to express those feelings, but remember, everyone struggles sometimes. Talking about it might help ease some of that burden.",
+            "Student": "I hope so. I’m just trying to balance it all and live up to their expectations.",
+            "Counselor": "It’s admirable that you want to make your family proud. Have you considered making a schedule to help manage your time better?",
+            "Student": "I haven’t really tried that yet. Maybe it would help.",
+            "Counselor": "Creating a plan could definitely help you feel more in control. Also, what do you like to do for fun when you have free time?",
+            "Student": "I enjoy playing chess and hiking. I just wish I had more time for those activities.",
+            "Counselor": "Taking breaks for those activities could also refresh your mind. It’s important to find a balance."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T09:30:00Z",
+        "Dialogue": {
+            "Student": "Hey, it’s Samuel again. I’m feeling even more stressed this week.",
+            "Counselor": "Hi Samuel! I’m sorry to hear that. What’s been stressing you out?",
+            "Student": "Midterms are approaching, and I’m struggling to keep up with both my studies and the club.",
+            "Counselor": "That’s a lot to manage. How has the club experience been for you?",
+            "Student": "During a meeting last week, I voiced my concerns about the exhibition, but some members dismissed my feelings. It left me feeling frustrated.",
+            "Counselor": "It’s tough when you’re not heard. Have you talked to anyone in your group about how you felt?",
+            "Student": "No, I haven’t. I feel like my thoughts are not valued there.",
+            "Counselor": "It’s important to voice your thoughts, but it’s understandable to hesitate. Would it help to write down your feelings before discussing them?",
+            "Student": "Writing them down does sound like a good idea. I could organize my thoughts better.",
+            "Counselor": "Definitely! That might help ease some anxiety too. Remember, you are valuable to the group, and your ideas matter.",
+            "Student": "Thanks for the encouragement. I’ll try to reach out to someone this week."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T09:30:00Z",
+        "Dialogue": {
+            "Student": "Hi, Counselor. I’m really struggling today.",
+            "Counselor": "Hi Samuel, I'm here to listen. What’s been going on?",
+            "Student": "I got a disappointing grade on a recent paper, and it crushed my confidence.",
+            "Counselor": "I’m sorry to hear that. It’s normal to feel defeated after receiving unfavorable feedback. How did that affect you?",
+            "Student": "I feel like I’m just not good enough. During a group project, a teammate, Lily, criticized my ideas, which made it worse.",
+            "Counselor": "That sounds really disheartening. It's hard to hear criticism, especially when you're already feeling low. How did you respond?",
+            "Student": "I just went quiet and internalized it. I feel stuck between wanting to speak up and fearing more conflict.",
+            "Counselor": "It’s understandable to feel torn. Would it help to take time to reflect on what you want to communicate with Lily?",
+            "Student": "I guess thinking it through could help. I just hate feeling so inadequate.",
+            "Counselor": "You’re not alone in these feelings. Perhaps consider reaching out to Lily to share your feelings after you process them.",
+            "Student": "I’ll think about that. It’s hard to see the positives right now, though."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T09:30:00Z",
+        "Dialogue": {
+            "Student": "Hello, Counselor. I finally spoke with Dr. Richards about everything.",
+            "Counselor": "Hi Samuel! I'm glad to see you. How did that conversation go?",
+            "Student": "I opened up about my feelings of inadequacy, and Dr. Richards was really supportive.",
+            "Counselor": "That’s great to hear! What kind of advice did they give you?",
+            "Student": "They emphasized the importance of self-care and encouraged me to assert my thoughts in the group.",
+            "Counselor": "That sounds very encouraging! How are you feeling about applying that advice?",
+            "Student": "I’m still anxious, especially about the upcoming interactions in my group, but I’m feeling a bit more empowered.",
+            "Counselor": "Feeling anxious is normal, but empowerment is a positive step. Have you found time for any of your hobbies recently?",
+            "Student": "Yes! I played chess with my dad last weekend, and it felt good to relax.",
+            "Counselor": "That’s wonderful! Keeping up with activities you enjoy is important for your mental well-being. Remember to take it one step at a time.",
+            "Student": "Thank you! I appreciate your support. I feel ready to face my challenges."
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "User Id": 79,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Amara returns to campus for her final year in psychology, excited about her upcoming classes and thesis but quickly feels overwhelmed when she discovers a significant workload awaiting her. Just as she begins to settle in, her friend Sarah shares news regarding a personal crisis in her family that has left her feeling anxious and downhearted. Amara feels the pressure to support Sarah while managing her academic responsibilities, leading to feelings of anxiety and self-doubt.",
+            "Mental State": ["anxious", "self-doubting", "overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks progress, Amara's focus on her studies diminishes as she dedicates increasing time to supporting Sarah with her family issues. Despite her good intentions, Amara begins to feel guilty for neglecting her academic responsibilities. The stress of balancing her own mental health and Sarah’s needs starts to affect her emotions, and she feels increasingly isolated as she pulls away from other friends who notice the change in her behavior.",
+            "Mental State": ["frustrated", "isolated", "guilty"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "During a major class discussion, Amara tries to engage but struggles to articulate her thoughts due to her preoccupied mind. After a peer interrupts her, she feels humiliated when her contributions are dismissed. Following the class, she confides in another friend, Leo, about her worries, but instead of feeling comforted, she ends up feeling like a burden, which exacerbates her inner conflict about being there for Sarah versus focusing on her own well-being.",
+            "Mental State": ["hurt", "conflicted", "disheartened"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "As deadlines for her assignments approach, Amara realizes she cannot continue to neglect her own needs. She decides to set up a conversation with Sarah to express her struggles. Despite feeling nervous about potentially letting Sarah down, Amara recognizes the importance of communicating her own limits. With a mix of hope and apprehension, she prepares to advocate for herself while also remaining supportive of Sarah.",
+            "Mental State": ["hopeful", "nervous", "determined"]
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "User Id": 96,
+    "Stage 1 dialogue": 
+    {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Sofia Martinez. This is my first time visiting a counselor.",
+            "Counselor": "Hello, Sofia! It’s nice to meet you. How are you feeling today?",
+            "Student": "I’m feeling a bit anxious. I just started this semester and things already feel overwhelming.",
+            "Counselor": "That’s quite normal at the beginning of a new semester. What specifically is making you feel overwhelmed?",
+            "Student": "I feel a lot of pressure from my family and professors to do well. My dad mentioned he hopes I’ll consider graduate school someday.",
+            "Counselor": "That sounds like a lot of pressure to manage. Have you discussed how this makes you feel with your family?",
+            "Student": "Not really. I don’t want them to think I can't handle it, but their expectations are stressing me out."
+        }
+    },
+    "Stage 2 dialogue": 
+    {
+        "timestamp": "2023-09-30T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I’m struggling even more with my coursework.",
+            "Counselor": "Welcome back, Sofia! I’m here to listen. What’s been challenging you lately?",
+            "Student": "I have so many group projects, and I’m finding it hard to speak up. There’s this classmate, Andrew, who always dominates discussions.",
+            "Counselor": "It’s tough to feel overshadowed like that. How do you feel when he cuts off your ideas?",
+            "Student": "Frustrated and insecure. I feel like my contributions aren’t valued, and it discourages me from speaking up.",
+            "Counselor": "That frustration is understandable. Have you thought about strategies to assert yourself during discussions, like preparing your points ahead of time?"
+        }
+    },
+    "Stage 3 dialogue": 
+    {
+        "timestamp": "2023-10-20T15:30:00Z",
+        "Dialogue": {
+            "Student": "Hello again. I’ve been feeling pretty lonely and disconnected lately.",
+            "Counselor": "Hi Sofia! I’m glad you’re back. Can you share why you’re feeling lonely?",
+            "Student": "I’m drowning in work for midterms, and I haven't been able to hang out with friends or family. I turned down an invitation from my brother Luca.",
+            "Counselor": "It’s natural to feel overwhelmed by your studies, but social connections are important too. How did it feel to decline that invitation?",
+            "Student": "I felt guilty. I don’t want them to think I don’t care about spending time with them.",
+            "Counselor": "It’s understandable to worry about perceptions. This might be a good time to talk openly with Luca about what you’re going through."
+        }
+    },
+    "Stage 4 dialogue": 
+    {
+        "timestamp": "2023-11-05T11:00:00Z",
+        "Dialogue": {
+            "Student": "Hi! I finally talked to my advisor about my feelings of anxiety.",
+            "Counselor": "That’s a great step, Sofia! How did it go?",
+            "Student": "I opened up about my struggles, and they offered me valuable advice to manage my stress.",
+            "Counselor": "That’s wonderful to hear! What strategies did they suggest?",
+            "Student": "They advised me to embrace my empathy and creativity, empowering me to share my voice in class without fear of judgment.",
+            "Counselor": "That's fantastic! How do you feel about putting that advice into practice?",
+            "Student": "I feel hopeful and determined! I want to reconnect with my friends and family while balancing my studies."
+        }
+    }
+}

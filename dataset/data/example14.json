@@ -1,0 +1,50 @@
+{
+    "User Id": 14,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T09:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Elena Torres. I’m 21 and majoring in Marketing.",
+            "Counselor": "Hello, Elena! Great to meet you. How are you feeling today?",
+            "Student": "I’m feeling a bit embarrassed, actually. I had my first group presentation yesterday, and I forgot some key points.",
+            "Counselor": "I’m sorry to hear that. Presentations can be intense. How did your classmates react?",
+            "Student": "One of my teammates, Emma, laughed a bit when I forgot. It made me feel really self-conscious.",
+            "Counselor": "That sounds hurtful. It’s tough to feel sidelined during something as important as a presentation. How are you processing that experience?",
+            "Student": "I’m frustrated and starting to question if I’m cut out for this major. I thought I was confident."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hey again. I’m feeling more anxious now. It’s hard for me to participate in group discussions.",
+            "Counselor": "It's good to see you again, Elena. What’s been happening since our last conversation?",
+            "Student": "After the presentation, I’ve been withdrawing from group chats and discussions. I talked to my friend Kevin about feeling like I don’t belong.",
+            "Counselor": "It’s really important that you’re reaching out to your friends about how you feel. It can help maintain those connections. How did Kevin respond?",
+            "Student": "He tried to encourage me, but it’s hard not to feel like I’m just not good enough.",
+            "Counselor": "Those feelings are common after a setback. Have you thought about ways to ease back into participating more actively?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T11:00:00Z",
+        "Dialogue": {
+            "Student": "I’ve been really overwhelmed as midterms approach. I’m struggling to stay motivated.",
+            "Counselor": "I appreciate you coming back, Elena. What concerns are weighing on you as midterms get closer?",
+            "Student": "I feel lost and think about dropping the marketing club. I’m scared of failing in front of everyone.",
+            "Counselor": "It’s understandable to feel overwhelmed. Have you had a chance to talk to anyone about your studies and anxiety about performance?",
+            "Student": "I’ve only talked to my family, but I feel trapped in my negative thoughts. I can’t seem to shake them off.",
+            "Counselor": "It's often challenging to escape those thoughts. What if you set smaller, achievable goals for your study sessions?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T12:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’ve made a decision. I want to reach out to my professor and talk about my concerns.",
+            "Counselor": "That’s a constructive choice, Elena! What do you hope to achieve from that conversation?",
+            "Student": "I want to express how anxious I am and seek support for the group project.",
+            "Counselor": "That sounds like a solid plan. How are you feeling about initiating this conversation with your professor?",
+            "Student": "I’m nervous but also hopeful. I realize I can’t tackle this alone.",
+            "Counselor": "It takes courage to ask for help, and doing so can empower you. Remember, your feelings are valid.",
+            "Student": "Thank you! I appreciate your encouragement. I’ll keep you updated on how it goes.",
+            "Counselor": "You’re welcome, Elena! I look forward to hearing from you. Best of luck!"
+        }
+    }
+}

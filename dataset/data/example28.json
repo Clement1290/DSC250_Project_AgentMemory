@@ -1,0 +1,63 @@
+{
+    "User Id": 28,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I'm Jasmine Thompson. This is my first time visiting.",
+            "Counselor": "Hello Jasmine! It’s great to meet you. How are you feeling today?",
+            "Student": "I’m feeling a bit overwhelmed, actually. I just started my final year in English Literature.",
+            "Counselor": "That’s understandable given the pressures of final year. What specifically is making you feel overwhelmed?",
+            "Student": "Well, I’m excited about my thesis project, but the expectations are really high. Plus, my best friend, Claire, is struggling with her family situation, and I want to help her.",
+            "Counselor": "It sounds like you’ve got a lot on your plate right now. Supporting a friend can be emotionally taxing. How do you feel about balancing your time between your studies and supporting Claire?",
+            "Student": "I feel obligated to help her, but it’s starting to take a toll on my mental health. I’m feeling stressed and fatigued.",
+            "Counselor": "Have you found any moments during the day to recharge or take breaks for yourself?",
+            "Student": "Not really, I feel guilty taking breaks when there’s so much to do.",
+            "Counselor": "That guilt is quite common. Remember, short breaks can actually help improve your productivity and mental well-being. Would you consider scheduling some time for yourself?",
+            "Student": "That could help. I’ll think about it. Thanks for your support!"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00",
+        "Dialogue": {
+            "Student": "Hi, it’s me again, Jasmine.",
+            "Counselor": "Welcome back, Jasmine! How have you been since our last chat?",
+            "Student": "I’m feeling guilty. I try to be there for Claire, but I’m falling behind in my studies.",
+            "Counselor": "That sounds tough. It’s easy to feel guilty, especially when you’re concerned about a friend. What’s been happening with your studies?",
+            "Student": "I find myself daydreaming about her problems during class and not focusing. Now, I'm feeling overwhelmed with upcoming exams.",
+            "Counselor": "It’s understandable to be distracted by a close friend's struggles. Have you communicated with Claire about how you feel?",
+            "Student": "No, I haven't. I worry she’ll think I’m abandoning her if I focus on school.",
+            "Counselor": "It may help to express how important supporting her is to you, while also stating your need to prioritize your studies. Open communication can foster understanding.",
+            "Student": "I’ve thought about it, but it’s difficult for me to open up.",
+            "Counselor": "That’s understandable. Maybe setting aside a specific time to talk could help. You can discuss your feelings and see how you can support each other."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00",
+        "Dialogue": {
+            "Student": "Hi, I’m back.",
+            "Counselor": "Hi Jasmine! It’s really nice to see you again. How have you been feeling lately?",
+            "Student": "I’ve been feeling isolated. I had a rough conversation with Claire, and it's weighing me down.",
+            "Counselor": "I’m sorry to hear that. What happened during that conversation?",
+            "Student": "Claire got upset and said I was being distant. It made me feel guilty and misunderstood. Now, I’m withdrawing from everyone.",
+            "Counselor": "That sounds really challenging. It’s hard when you feel unsupported by someone you want to help. Have you thought about reaching out to someone else, maybe your family?",
+            "Student": "I haven't. I don’t want to burden anyone with my problems.",
+            "Counselor": "It’s common to feel that way, but sharing your struggles can lighten your emotional load. It might help to talk to someone close to you who can provide perspective.",
+            "Student": "I know I should talk to someone, but I feel so lost right now, and I just want to help Claire.",
+            "Counselor": "You can still support Claire while also addressing your own needs. Finding the right balance will benefit both of you."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:30:00",
+        "Dialogue": {
+            "Student": "Hi again. I’ve been thinking a lot since our last session.",
+            "Counselor": "Hi Jasmine! I’m glad you came back. What’s been on your mind?",
+            "Student": "I attended a seminar recently, and it made me realize how important self-care is. I feel like I can’t keep neglecting my mental health.",
+            "Counselor": "That’s a significant realization, Jasmine. How does that make you feel about seeking help?",
+            "Student": "I feel hopeful, but I’m still apprehensive about reaching out for support. I’m scared of showing vulnerability.",
+            "Counselor": "It’s completely natural to feel apprehensive. Seeking help reflects strength, not weakness. It’s okay to be vulnerable when seeking support.",
+            "Student": "What if people judge me for struggling?",
+            "Counselor": "Many people appreciate honesty about mental health struggles. It’s likely that those around you have faced their own challenges. Would you like to explore ways to take that first step together?",
+            "Student": "That sounds helpful! I think I’m ready to start that journey."
+        }
+    }
+}

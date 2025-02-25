@@ -1,0 +1,25 @@
+{
+    "User Id": 8,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the semester begins, Olivia finds herself feeling increasingly overwhelmed by the demands of her International Relations major. She recently participated in a seminar where she felt pressured to present her ideas, but received harsh criticism from both her professor and peers. This experience leaves her feeling anxious and self-critical, particularly since her mother has always encouraged her to excel in communication skills. Olivia feels doubts about her abilities to navigate her studies while living up to her family's expectations.",
+            "Mental State": ["anxious", "self-critical", "overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "During a group project, Olivia struggles to speak up and share her thoughts. Her classmates seem confident and articulate, making her feel even more hampered by insecurity. With each passing meeting, Olivia withdraws further, resulting in feelings of inadequacy. She worries that her opinions won’t be valued, reinforcing her self-doubt and leading to frustration with her inability to participate fully.",
+            "Mental State": ["frustrated", "isolated", "insecure"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As the weeks progress, Olivia’s anxiety worsens, and she begins avoiding not only social events but also necessary interactions in class. At a family gathering, where her brother discusses his triumphs in med school, she feels overshadowed and increasingly disconnected from her family's supportive environment. This comparison heightens her feelings of despair, making her doubt whether she can succeed in her chosen path.",
+            "Mental State": ["despairing", "unmotivated", "frustrated"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After experiencing weeks of persistent anxiety, Olivia finally seeks help from a campus counseling center. In her first session, she shares her feelings of inadequacy, fear of judgment, and reluctance to engage in her program. While she feels relief in opening up, deeper issues of perfectionism and her need for validation remain unresolved. Olivia recognizes that to move forward, she needs to work on improving her self-confidence, but she feels uncertain about the steps to take to achieve this.",
+            "Mental State": ["relieved", "uncertain", "hopeful"]
+        }
+    }
+}

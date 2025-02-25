@@ -1,0 +1,25 @@
+{
+    "User Id": 18,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sophie starts the semester excited about her Environmental Science major but soon feels overwhelmed by her class schedule. She is taking multiple difficult courses and leading a campus environmental club. As the weeks go by, she realizes that she can't manage all her responsibilities and begins to feel anxious about her ability to keep up. Her brother Daniel encourages her to ask for help, but Sophie feels embarrassed to admit that she is struggling.",
+            "Mental State": ["Anxious", "Overwhelmed", "Embarrassed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Sophie’s anxiety increases as she tries to balance her studies, club activities, and personal commitments. During a club meeting, some members express frustration with the lack of progress on their projects. Sophie feels the weight of their expectations and starts to doubt her leadership abilities. Instead of addressing the concerns, she withdraws, thinking that if she just works harder, things will get better. This cycle of self-imposed pressure leaves her feeling isolated from her peers.",
+            "Mental State": ["Isolated", "Frustrated", "Doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms approach, Sophie has a breakdown after a particularly stressful day where she misses a deadline for an important project in her Environmental Science lab. Her best friend, Mia, notices that Sophie has been distant and reaches out to her. During their conversation, Sophie expresses how overwhelmed she feels but struggles to articulate her fears about failing her courses. She feels guilty for letting her club and her friend down, leading her to spiral deeper into self-doubt.",
+            "Mental State": ["Guilty", "Overwhelmed", "Unsure"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After much encouragement from Mia, Sophie decides to meet with a university counselor for help. She is nervous about opening up but knows she needs support. In the meeting, she talks about her anxiety and the pressures she feels from both her studies and her role in the club. The counselor suggests developing better time management skills and strategies to balance her responsibilities. While Sophie feels a bit relieved to talk about her struggles, she is unsure if she can implement these changes and still worries about disappointing others.",
+            "Mental State": ["Relieved", "Hopeful", "Unsure"]
+        }
+    }
+}

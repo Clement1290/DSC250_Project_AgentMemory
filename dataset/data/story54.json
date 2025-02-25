@@ -1,0 +1,25 @@
+{
+    "User Id": 54,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Zara is feeling the pressure as a senior biochemistry student with increasing demands from her classes and upcoming exams. Despite her passion for the subject, the workload is overwhelming, making her doubt her ability to manage everything successfully. Conversations with her classmates often revolve around their frantic study schedules and stress about grades, which adds to Zara's anxiety. She finds herself feeling inadequate compared to her peers and fears she might not achieve the academic success her family expects.",
+            "Mental State": ["overwhelmed", "inadequate", "anxious"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As midterms approach, Zara's anxiety escalates. She becomes increasingly withdrawn, spending late nights studying while neglecting her hobbies like painting and cooking, which used to bring her joy. During a group study session, she feels overshadowed by her more outspoken classmates, like Fahim, who confidently contribute to discussions. When asked for her input, Zara hesitates, fearing that her ideas are not valuable. This further diminishes her confidence and leads to feelings of isolation as she questions her own self-worth.",
+            "Mental State": ["anxious", "isolated", "frustrated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "With just days left before the midterm exams, Zara feels a mixture of dread and hopelessness. After isolating herself from friends and family, she receives a concerned text from her brother Leo, who wants to check in on her. However, she brushes him off, feeling ashamed to admit that she is struggling. Staring blankly at her study materials, she experiences a wave of self-doubt and paralyzing pressure to not let her family down. The fear of failure looms large, and she feels helpless in the face of these heightened expectations.",
+            "Mental State": ["hopeless", "ashamed", "paralyzed"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "The day of the midterms arrives, and Zara is a bundle of nerves. She feels a mix of excitement and dread as she prepares to take her exams. Despite spending countless hours studying, the fear of disappointing her family and her own high expectations consumes her thoughts. During the exam, she struggles to focus, her mind racing with worries about her performance. After finishing, she speaks with Fahim, who reassures her about her abilities, yet she still feels conflicted, uncertain if her efforts were enough. While she leaves the exam feeling somewhat relieved, she continues to grapple with her anxieties about her future in biochemistry and her self-belief.",
+            "Mental State": ["anxious", "conflicted", "relieved"]
+        }
+    }
+}

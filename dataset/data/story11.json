@@ -1,0 +1,25 @@
+{
+    "User Id": 11,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Aiden is excited about his upcoming environmental project for class, where he plans to create a community garden. However, during a group meeting with classmates, he finds that his ideas are not taken seriously. His classmate, Jake, dismisses Aiden's suggestions, stating they're impractical. This undermines Aiden's confidence in his abilities and leaves him feeling frustrated and undervalued.",
+            "Mental State": ["Frustrated", "Undervalued", "Insecure"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "After the meeting, Aiden tries to continue working on the project but feels increasingly isolated. He avoids contacting his group members, fearing further rejection. As the deadline approaches, he is overwhelmed by self-doubt, as well as the pressure to succeed. He confides in his sister Mia, who encourages him but he still feels like he is letting everyone down.",
+            "Mental State": ["Overwhelmed", "Anxious", "Isolated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As the project deadline nears, Aiden’s anxiety peaks. Despite Mia's encouragement, he feels stuck and decides to skip the next group meeting, believing that he won't contribute anything valuable. During this time, he reflects on how his self-doubt is affecting his motivation and passion for environmental work. This leads him to question his future in the field.",
+            "Mental State": ["Self-doubting", "Withdrawn", "Frustrated"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After some time away from the group, Aiden realizes that he needs to communicate his feelings and actively participate if he wants to salvage the project and regain his confidence. He considers reaching out to both his group members and his professor for guidance. While he feels nervous about expressing his struggles, he also begins to feel a glimmer of hope that he can regain control and make a meaningful contribution.",
+            "Mental State": ["Hopeful", "Determined", "Nervous"]
+        }
+    }
+}

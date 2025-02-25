@@ -1,0 +1,31 @@
+{
+    "User Id": 64,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "They suggested I try setting some boundaries and prioritize self-care..."
+        },
+        "question": "What did Liam receive as advice for managing his mental health?",
+        "answer": "He was suggested to try setting some boundaries and prioritize self-care."
+    },
+    "long_term_QA": {
+        "question": "How did Liam initially feel about his semester and what factors contributed to his feelings of overwhelm?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I went to see a counselor on campus, and it felt good to talk about everything I\u2019ve been experiencing."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m really excited about this semester. I\u2019m studying Political Science and looking forward to getting involved in advocacy work."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Counselor",
+            "quote": "That does sound like a heavy load to carry. Have you had any time to take care of yourself amidst all these commitments?"
+        },
+        "answer": "Liam initially felt really excited about the semester and his studies in Political Science, looking forward to advocacy work, but he became overwhelmed due to a heavy load of commitments, including classes, supporting his sister Priya, and his responsibilities in student government."
+    }
+}

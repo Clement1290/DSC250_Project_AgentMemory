@@ -1,0 +1,31 @@
+{
+    "User Id": 22,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I talked to Maya and apologized for my outburst."
+        },
+        "question": "What did Aisha do before this conversation with the counselor?",
+        "answer": "She talked to Maya and apologized."
+    },
+    "long_term_QA": {
+        "question": "How did Aisha react to her stress before reaching out to Maya, and what led her to feel regretful about her actions?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I talked to Maya and apologized for my outburst."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I lashed out at Maya because I felt overwhelmed."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "How did you feel afterward when you realized how you reacted?"
+        },
+        "answer": "Aisha reacted to her stress by lashing out at Maya because she felt overwhelmed, which made her feel horrible and regretful about her outburst."
+    }
+}

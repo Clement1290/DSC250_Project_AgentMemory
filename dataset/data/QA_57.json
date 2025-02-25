@@ -1,0 +1,31 @@
+{
+    "User Id": 57,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019m worried about how to balance my studies with my emotional health."
+        },
+        "question": "What is Sara worried about regarding her studies?",
+        "answer": "She is worried about how to balance her studies with her emotional health."
+    },
+    "long_term_QA": {
+        "question": "How did Sara initially feel after attending the mental health awareness meeting, and what led her to become overwhelmed and withdraw from social interactions?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I attended a friend's birthday party recently, but I felt really disconnected from everyone."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I connected with someone named Alex who shared their struggles with anxiety. It resonated with me because I sometimes struggle with self-doubt."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Counselor",
+            "quote": "It sounds like the pressure is really getting to you. It\u2019s tough when you feel both overwhelmed and isolated."
+        },
+        "answer": "After attending the mental health awareness meeting, Sara felt inspired and connected but later became overwhelmed by her coursework, leading her to withdraw from social interactions."
+    }
+}

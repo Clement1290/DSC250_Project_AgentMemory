@@ -1,0 +1,153 @@
+{
+    "User Id": 60,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T09:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Ethan. It's nice to meet you!"
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Ethan! It's great to meet you too. What would you like to talk about today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm really excited about this semester! I'm studying Psychology, and I'm also hoping to volunteer more in mental health advocacy."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like a wonderful opportunity! What's inspiring you to get involved in mental health advocacy?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I want to help people, especially my friend Jake. He's been struggling with anxiety lately, and I feel a lot of pressure to support him."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's admirable that you want to help your friend, but it's understandable to feel some pressure. How do you feel about balancing your studies and supporting Jake?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T15:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I feel more overwhelmed now. Juggling my studies and supporting Jake is tougher than I expected."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Ethan! I'm glad you came back. Can you tell me more about what's been overwhelming you?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm staying awake late worrying about Jake and my classes. I feel like I'm falling behind in both areas."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really tough. It's important to look after your own well-being too while trying to help Jake. Have you considered setting boundaries on how much you can take on?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm not sure. I just feel like if I don't help him enough, I'm failing as a friend."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's natural to feel that way, but remember that you can't pour from an empty cup. Finding balance is key. What activities do you enjoy that could help you relieve some of this pressure?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, I've just come from a meeting for a mental health initiative, and I felt really detached from everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Ethan. I'm sorry to hear that. What contributed to that feeling of detachment?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I was worried about Jake, and after discussing plans, I realized I'm not as prepared as I should be. I felt lost."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It seems like you have a lot on your mind. Have you had a chance to talk to anyone about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I talked to my sister, Mia, but I still feel burdened. I fear I'm letting Jake and myself down."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's a heavy weight to carry, Ethan. You are doing your best, and it's okay to seek help. What small steps can you take to feel more grounded right now?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! After talking with my family, I decided to see the campus counselor. I shared how overwhelmed I've been."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's a great step, Ethan! How did that conversation go for you?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It felt relieving to share my feelings. They suggested creating boundaries to help me manage my time better."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds like valuable advice. How do you feel about implementing those changes?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I feel a bit hopeful, but I'm still uncertain about balancing everything, especially supporting Jake."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's completely normal to feel uncertain about changes. Maybe start with small boundaries and gradually build on them. Remember, you are allowed to prioritize your well-being."
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Thank you. I appreciate your support! I'm going to try to reach out to Jake and suggest a casual hangout."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That sounds like a great idea! Keep nurturing that connection. I'm here if you need further support!"
+            }
+        ]
+    }
+}

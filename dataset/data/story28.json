@@ -1,0 +1,25 @@
+{
+    "User Id": 28,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Jasmine Thompson has recently begun her final year studying English Literature, and she feels an immense pressure to perform well in her essays and projects. While she is passionate about her major, the expectations of completing her thesis project are weighing heavily on her. Jasmine's best friend, Claire, is also going through a tough time as her family is facing financial difficulties, and Jasmine feels compelled to support her. Balancing her studies and her commitment to her friend leaves Jasmine feeling stressed and fatigued, which begins to affect her mental health.",
+            "Mental State": ["stressed", "fatigued", "obligated"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As weeks pass, Jasmine attempts to juggle her academic workload while being there for Claire. She starts to feel guilty for not being able to devote enough time to her studies as her focus often drifts to Claire’s struggles. The emotional demands of her friend’s situation begin to drain Jasmine’s energy. During class, she finds it hard to concentrate and her mind wanders, worrying about Claire and her own upcoming deadlines. As her academic performance starts to slip, Jasmine feels unprepared for upcoming exams and overwhelmed by her responsibilities.",
+            "Mental State": ["guilty", "anxious", "overwhelmed"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "After a particularly tough week, Jasmine has a negative interaction with Claire, who lashes out at her for being distant due to her academic pressures. This confrontation leaves Jasmine feeling hurt and misunderstood, deepening her feelings of isolation. Despite wanting to help, she becomes more withdrawn, avoiding social interactions and isolating herself from friends and family. The emotional weight of supporting Claire coupled with her academic struggles makes Jasmine feel lost and unsure about her own needs, leading to a significant decline in her mental well-being.",
+            "Mental State": ["isolated", "hurt", "lost"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Jasmine finally begins to realize that neglecting her own mental health is unsustainable after attending a literature seminar where she hears a speaker emphasize the importance of self-care and emotional balance for creative individuals. This prompts her to contemplate seeking help but fears judgment and vulnerability. She acknowledges her need for support but feels apprehensive about taking that first step towards reaching out. This internal conflict leaves Jasmine feeling both hopeful about the possibility of healing and scared about confronting her struggles openly.",
+            "Mental State": ["hopeful", "apprehensive", "vulnerable"]
+        }
+    }
+}

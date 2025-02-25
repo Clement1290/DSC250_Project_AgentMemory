@@ -1,0 +1,49 @@
+{
+    "User Id": 70,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I’m Elena Torres. This is my first time here.",
+            "Counselor": "Hi, Elena! Welcome! How are you feeling today?",
+            "Student": "I’m a bit overwhelmed. I just started my Psychology classes after a summer filled with mental health workshops.",
+            "Counselor": "That sounds like a meaningful summer! What’s been causing you to feel overwhelmed?",
+            "Student": "I was excited to share my insights, but during my first class, I noticed my classmates seemed more focused on grades than real discussions.",
+            "Counselor": "It can be disappointing when peers don’t share the same enthusiasm. Have you had a chance to express your thoughts in class?",
+            "Student": "I tried, but it felt like my ideas were brushed off, which left me feeling disheartened.",
+            "Counselor": "That sounds tough. It’s understandable to feel frustrated in that situation. Let’s explore how you might approach this moving forward."
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-29T15:00:00",
+        "Dialogue": {
+            "Student": "Hi, I'm back. I've been feeling kind of lonely lately.",
+            "Counselor": "Hi, Elena! I'm glad you came back. What has been going on?",
+            "Student": "I talked to my brother about my disconnect with classmates, but he just told me to focus on my grades.",
+            "Counselor": "I’m sorry to hear that. It must feel frustrating to not get the support you were hoping for. How did that make you feel?",
+            "Student": "I felt really unsupported and it caused me to doubt if I should keep pursuing my passion.",
+            "Counselor": "It’s completely normal to feel that way. Sometimes it helps to reframe how you look at your classmates’ attitudes. What do you think might help you regain some confidence in your ideas?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-10T14:00:00",
+        "Dialogue": {
+            "Student": "Hey, I need to discuss my community project.",
+            "Counselor": "Hello again, Elena! What’s happening with the project?",
+            "Student": "I’m excited about my topic on social issues in mental health, but during our group meeting, my ideas felt ignored.",
+            "Counselor": "That must have been discouraging. How did that affect your motivation for the project?",
+            "Student": "I ended up withdrawing from sharing my ideas. I felt like my creativity wasn’t valued.",
+            "Counselor": "That’s really tough, especially when you want to make an impact. Is there a way you can express your thoughts differently or find allies in your class?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-01T13:00:00",
+        "Dialogue": {
+            "Student": "Hi, I want to talk about my presentation today.",
+            "Counselor": "Hi, Elena! How did your presentation go?",
+            "Student": "I felt so much pressure and when I presented, I struggled to connect with my audience. They seemed indifferent.",
+            "Counselor": "I can imagine how that felt. It’s hard to put your heart into something and not feel it resonate. What are you feeling now after that experience?",
+            "Student": "I feel like I failed and I’m questioning if I should switch to something like art therapy instead.",
+            "Counselor": "It's completely fine to reflect on your path and consider new directions. Have you thought about how you might combine both passions in a way that feels fulfilling?"
+        }
+    }
+}

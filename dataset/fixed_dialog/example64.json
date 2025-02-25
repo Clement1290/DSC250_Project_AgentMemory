@@ -1,0 +1,148 @@
+{
+    "User Id": 64,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T09:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Liam Johnson. It's nice to meet you!"
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Liam! It's great to meet you too. What brings you in today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm really excited about this semester. I'm studying Political Science and looking forward to getting involved in advocacy work."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds fantastic! Advocacy work can be very rewarding. Do you have any specific goals for this semester?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Well, I want to secure an internship, but I'm feeling anxious about the competition and managing my grades. Plus, my sister Priya is struggling in high school, and I want to support her."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's commendable that you want to help your sister while also pursuing your goals. How do you feel about balancing these responsibilities?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I'm feeling really overwhelmed right now."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Liam! I'm glad to see you back. What's been making you feel overwhelmed?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It's just a lot. Between classes, trying to help Priya, and my responsibilities in student government, I feel exhausted."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That does sound like a heavy load to carry. Have you had any time to take care of yourself amidst all these commitments?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Not really. I haven't been able to play soccer or hang out with friends much, and I miss that."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Self-care is really important, especially when you're balancing so much. What if you set aside just a small amount of time each week to engage in those activities?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T13:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, I just came back from a group meeting and I felt really inadequate."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Liam. I'm sorry to hear that. What made you feel inadequate during the meeting?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I struggled to contribute meaningfully, and my peers ended up picking up the slack. I just felt so lost."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's understandable to feel that way, especially under pressure. Did you talk with anyone in your group about how you were feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I talked to Josh, but I'm still feeling disheartened. I keep doubting my abilities both academically and as a brother."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's a tough position to be in. You're trying to support yourself and your sister, and it's okay to feel overwhelmed. What would you consider as a practical step to regain your confidence?"
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T11:15:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I went to see a counselor on campus, and it felt good to talk about everything I've been experiencing."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's great to hear, Liam! How did it feel to express your feelings?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It was relieving. They suggested I try setting some boundaries and prioritize self-care, but I'm unsure if I can really do that."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's completely normal to feel unsure about making changes. What's one specific boundary you could start with this week?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "Maybe I could reserve some time for soccer practice a couple of days a week\u2014that would help me mentally."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds like a positive step! Remember, taking care of yourself will ultimately help you support others better. Keep me posted on how it goes!"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Thank you for your support! I really appreciate it."
+            }
+        ]
+    }
+}

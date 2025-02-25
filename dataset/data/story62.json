@@ -1,0 +1,25 @@
+{
+    "User Id": 62,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Isabella begins the semester filled with excitement about her Graphic Design major and her upcoming art exhibition. However, she faces pressure as she attempts to balance her academic workload while preparing her portfolio. Additionally, her father has been feeling unwell, which adds to her worries. Isabella feels a strong sense of responsibility to support her family while also pursuing her own creative passions.",
+            "Mental State": ["Excitement", "Concern", "Responsibility"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks pass, Isabella feels increasingly overwhelmed. The combination of her father's health issues and the approaching exhibition deadline makes her anxious. She notices she's having trouble concentrating on her studies and her creative work. Hours spent sketching turn into frustration as she struggles to organize her thoughts and ideas. Additionally, she has been distancing herself from friends, not wanting to appear weak or burdened.",
+            "Mental State": ["Overwhelmed", "Anxiety", "Isolation"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "During a group critique for a class project, Isabella feels exposed when her designs are critiqued harshly by her peers. Already feeling vulnerable, she suddenly doubts her abilities and fears that she will not succeed in her upcoming exhibition. After class, she speaks with her roommate Lucia about her feelings of inadequacy. Despite Lucia's support and encouragement, Isabella leaves feeling disheartened and confused about her path.",
+            "Mental State": ["Inadequate", "Disheartened", "Confusion"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Feeling the weight of her struggles, Isabella finally decides to seek support from a campus counselor. During their session, she openly discusses her anxiety, frustrations, and the pressures surrounding her family and schoolwork. The counselor suggests implementing self-care practices and finding moments to recharge her creativity. Although Isabella leaves the session feeling some relief, she still grapples with uncertainty about her ability to juggle her responsibilities and maintain her artistic vision.",
+            "Mental State": ["Relief", "Hopefulness", "Uncertainty"]
+        }
+    }
+}

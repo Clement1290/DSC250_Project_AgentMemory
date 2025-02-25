@@ -1,0 +1,31 @@
+{
+    "User Id": 50,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I had a panic attack just before I was supposed to speak."
+        },
+        "question": "What specific event triggered Ella's panic attack during her presentation?",
+        "answer": "The panic attack was triggered just before she was supposed to speak."
+    },
+    "long_term_QA": {
+        "question": "How did Ella initially feel about her presentation, and what contributed to her stress and withdrawal as the date approached?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I talked to Maddie, and it felt good to finally let it out."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "Honestly, I'm feeling quite anxious. I have an important presentation coming up in my psychology class."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "I'm doubting if I can engage my classmates properly, and it's isolating."
+        },
+        "answer": "Ella felt quite anxious about her presentation and experienced stress due to the pressure to perform well. As the date approached, she began to doubt her ability to engage her classmates, which resulted in feelings of isolation and self-doubt."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "User Id": 56,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Omar Farooq. It's nice to meet you.",
+            "Counselor": "Hello, Omar! It’s great to meet you too. How are you feeling today?",
+            "Student": "I’m feeling a bit overwhelmed with my coursework in physics and also trying to explore my interest in photography.",
+            "Counselor": "That sounds like a lot to handle! What specifically is making you feel overwhelmed right now?",
+            "Student": "As a senior, I feel pressure to maintain my grades while also wanting to develop my photography skills. It’s hard to balance both.",
+            "Counselor": "It’s a common struggle, especially in your final year. Have you found any strategies that help you manage both interests?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I wanted to talk about my anxiety as midterms approach. It’s escalating.",
+            "Counselor": "Hi, Omar! I'm glad you came back. What’s been increasing your anxiety?",
+            "Student": "I feel like I’m stuck focusing more on physics and neglecting my photography, which I really miss.",
+            "Counselor": "That sounds tough. Have you discussed your thoughts with friends or classmates?",
+            "Student": "I mentioned it to Farah once, but I didn’t want to seem like I was complaining.",
+            "Counselor": "It’s understandable to feel that way, but sharing your feelings can often help. Would you feel comfortable opening up to her more?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hello, I’m feeling stuck and stressed with just days left before exams.",
+            "Counselor": "Hi, Omar! I’m here for you. What’s been going on?",
+            "Student": "I’ve been avoiding social activities to study, but I still feel overwhelmed. Aisha noticed I’ve been off and tried to help, but I brushed her off.",
+            "Counselor": "It’s tough to feel that way, especially with family wanting to help. How does isolating yourself affect your mood?",
+            "Student": "I feel hopeless and like I’m letting everyone down if I don’t perform well. I can’t seem to find a balance.",
+            "Counselor": "It’s perfectly okay to ask for help. Have you thought about what you need to create a better balance?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I had my first midterm exam today, and it was tough.",
+            "Counselor": "Hi, Omar! How did you feel going into the exam?",
+            "Student": "I felt a mix of anxiety and regret about not prioritizing my photography earlier. I couldn't focus as much as wanted.",
+            "Counselor": "That’s understandable, and it can be hard to let go of those feelings. Did you get any positive feedback during the exam?",
+            "Student": "I managed to answer a few questions well, but I still feel uncertain overall.",
+            "Counselor": "Remember, it takes time to process experiences, especially after exams. Are you considering ways to re-engage with photography now that exams are over?"
+        }
+    }
+}

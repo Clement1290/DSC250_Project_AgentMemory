@@ -1,0 +1,31 @@
+{
+    "User Id": 29,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "We can come up with a plan together to make it easier for you to share your feelings with someone you trust."
+        },
+        "question": "What does Oliver plan to do to facilitate reaching out for support?",
+        "answer": "Come up with a plan together to share his feelings."
+    },
+    "long_term_QA": {
+        "question": "How did Oliver feel before he began to feel hopeful about seeking help, and what event inspired this change?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "Honestly, it\u2019s been tough. I had a fight with my fellow club members, and now I feel really isolated."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "They were upset with me for not being more involved, and I snapped back. Now, I feel misunderstood and alone."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I attended a workshop on mental health recently, and it made me realize that I need to prioritize my own well-being."
+        },
+        "answer": "Before feeling hopeful, Oliver felt really isolated and misunderstood after conflicts with his fellow club members. The workshop on mental health inspired his change, helping him realize the importance of prioritizing his well-being."
+    }
+}

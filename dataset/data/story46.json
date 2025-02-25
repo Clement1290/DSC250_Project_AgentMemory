@@ -1,0 +1,25 @@
+{
+    "User Id": 46,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Jamila starts her senior year with excitement about her studies in Environmental Studies but quickly feels overwhelmed by the pressure to secure internships and perform well academically. With graduate applications on the horizon, she worries about meeting the high expectations set by her family, particularly her mother, who is heavily invested in her success. The stress from her rigorous coursework and the competitive nature of environmental careers is starting to take a toll on her mental well-being, leading her to feel anxious and unprepared.",
+            "Mental State": ["anxious", "overwhelmed", "insecure"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "At a university networking event, Jamila watches as her peers effortlessly connect with industry professionals. When she has the chance to introduce herself, she stumbles over her words and feels flustered when questioned about her experiences. Overhearing others discuss their impressive internships makes her feel inadequate. As she leaves the event, she feels increasingly isolated and doubts her ability to succeed in the field, leading to thoughts about whether she should change her major or career aspirations.",
+            "Mental State": ["frustrated", "isolated", "self-critical"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "In an attempt to cope, Jamila volunteers for a local environmental organization aiming to raise awareness about sustainability. During a community cleanup, she encounters a group of volunteers who have vast experience in environmental advocacy. While they inspire her, she also feels a pang of jealousy and insecurity, comparing their backgrounds with her own. Instead of enjoying the experience, she becomes discouraged when she realizes how much she has to learn, prompting her to retreat emotionally during the event.",
+            "Mental State": ["discouraged", "overwhelmed", "doubtful"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After reflecting for a week, Jamila seeks support from her brother, Amir, who has experience in a competitive field. She opens up about her struggles with self-worth and her feelings of inadequacy in comparison to her peers. Amir reassures her that everyone has their unique path and encourages her to focus on her strengths. While Jamila feels comforted by his support, she remains torn about taking the next steps towards seeking mentorship or internships, fearing further exposure of her insecurities. She ends the conversation feeling slightly uplifted but still unsure of her direction.",
+            "Mental State": ["conflicted", "hopeful", "unsure"]
+        }
+    }
+}

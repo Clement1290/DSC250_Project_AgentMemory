@@ -1,0 +1,138 @@
+{
+    "User Id": 88,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T15:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi! I'm Sophia Wang. This is my first time here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Sophia! It's great to meet you. How can I assist you today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm feeling a bit frustrated with my graphic design class."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. What's been particularly frustrating for you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "We have a group project on mental health awareness, and one of my teammates, Liam, seems really disengaged."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds challenging. Have you had a chance to reach out to Liam about how you're feeling?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T15:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. Things have gotten a bit more complicated."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Sophia! What's been going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I tried to take the lead by presenting my ideas in the last meeting, but everyone seemed indifferent and unresponsive, especially Liam."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That must be discouraging. How did that make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It made me anxious about my ability to lead the group. I doubt my capacity to motivate my teammates."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Those feelings are completely valid. Leadership can be tough, especially when you want to inspire others. Have you considered how you might try to engage your team again?"
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T15:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi. I'm feeling very burnt out right now."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Sophia. I'm here to help. What's contributing to your burnout?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "With the project deadline nearing, I've taken on most of the work, hoping to compensate for Liam and others. My presentation rehearsal went poorly, and I felt embarrassed afterward."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It sounds incredibly overwhelming, especially when you've put in so much effort. Have you reached out to anyone in your group for help or support?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "No, I don't want to add to their stress. I feel so isolated right now."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T15:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "I finally opened up to my family about the group project, and they encouraged me to talk to my teammates."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I'm glad to hear that, Sophia! How did it feel sharing your struggles with your family?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It felt relieving, but I'm still unsure about how to approach my team. I want to communicate honestly but without causing more tension."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a thoughtful approach. Remember, open communication can help foster understanding. What do you think you'll say to them?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I want to express my feelings but I'm not sure how to frame it."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Perhaps you could write down your thoughts. It might help organize what you want to communicate. You can do this, I believe in you!"
+            }
+        ]
+    }
+}

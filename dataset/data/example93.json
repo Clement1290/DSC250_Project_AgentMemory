@@ -1,0 +1,57 @@
+{
+    "User Id": 93,
+    "Stage 1 dialogue": 
+    {
+        "timestamp": "2023-09-16T09:30:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m Ava Kim. This is my first time here.",
+            "Counselor": "Hello, Ava! It’s great to meet you. How are you feeling today?",
+            "Student": "I’m feeling a bit overwhelmed to be honest. I just started the semester.",
+            "Counselor": "That’s completely understandable. Starting a new semester can be a lot to handle. What’s been on your mind?",
+            "Student": "After going through the syllabus, I see I have so many projects and deadlines coming up. It’s kind of scary.",
+            "Counselor": "It can be intimidating to look at a full schedule like that. Have you been able to share your feelings with anyone?",
+            "Student": "I talked to my mom about it, but I still feel a lot of pressure. I want to perform well and keep my scholarship.",
+            "Counselor": "It’s commendable to have high aspirations, but it’s also important to balance those expectations. What do you think would help ease your stress?"
+        }
+    },
+    "Stage 2 dialogue": 
+    {
+        "timestamp": "2023-09-30T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I’m struggling to keep up with my workload and it’s affecting my confidence.",
+            "Counselor": "Welcome back, Ava! I appreciate you coming in. Can you tell me more about what’s been difficult for you?",
+            "Student": "In group projects, I’m hesitant to share my ideas. I feel like I don’t measure up to my classmates, especially Lisa who is very assertive.",
+            "Counselor": "It’s tough to feel overshadowed like that. Have you thought about how you could communicate your ideas more assertively?",
+            "Student": "I haven’t really. It’s hard to find the courage when I feel so insecure.",
+            "Counselor": "It’s completely normal to feel that way, but you have valuable insights to share. Perhaps you can prepare your thoughts ahead of meetings to build your confidence.",
+            "Student": "That could help. I just worry they won’t find my ideas important."
+        }
+    },
+    "Stage 3 dialogue": 
+    {
+        "timestamp": "2023-10-20T13:00:00Z",
+        "Dialogue": {
+            "Student": "Hey, I’m back again. I’ve been feeling really lonely lately.",
+            "Counselor": "Hi Ava. I’m glad you returned. Can you share what’s causing you to feel that way?",
+            "Student": "As midterms approach, I feel overwhelmed with work. I’ve been declining invites to hang out and now I worry I'm missing out.",
+            "Counselor": "It’s understandable to want to focus on your studies, but social connections are also important. How did you feel when you turned down your brother’s invitation?",
+            "Student": "I feel guilty, especially since he looks up to me. I want to be there for him like he’s been for me.",
+            "Counselor": "Family relationships can be difficult during stressful times. It's okay to be honest with him about your struggles. Have you considered talking to him about how you're feeling?",
+            "Student": "I’ve thought about it, but I fear it will worry him more."
+        }
+    },
+    "Stage 4 dialogue": 
+    {
+        "timestamp": "2023-11-05T11:30:00Z",
+        "Dialogue": {
+            "Student": "Hi! I finally to spoke with my advisor, and it felt really good.",
+            "Counselor": "That’s fantastic to hear, Ava! What came up in your conversation?",
+            "Student": "I shared my feelings of inadequacy and my struggles in group settings. They provided advice that really resonated with me.",
+            "Counselor": "That’s a great step forward! What did you find particularly helpful?",
+            "Student": "They encouraged me to embrace my creativity without fear of judgment and to find little ways to express my ideas confidently.",
+            "Counselor": "That sounds empowering! How do you feel about approaching your classes and your peers now?",
+            "Student": "I feel more hopeful and motivated. I think I can learn to express myself better moving forward.",
+            "Counselor": "That’s wonderful to hear! Remember, it’s a process, and you’re not alone in this. Keep nurturing that creativity, and reach out whenever you need support."
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "User Id": 2,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sarah has just returned to campus for the new semester after a refreshing summer break filled with hiking and photography. However, she quickly feels the pressure of upcoming exams and assignments in her Biology classes. While reconnecting with friends, she notices that they have also become preoccupied with their own commitments, making her feel somewhat left behind and worried about her academic performance. This change makes her nostalgic for the carefree summer moments.",
+            "Mental State": ["nostalgic", "anxious", "overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "After a few weeks of classes, Sarah attends a group study session. During the session, Sarah feels overshadowed by the performance of her peers, particularly her brother Joon, who always seems to excel effortlessly. The constant comparison makes her question her abilities and worthiness in the Biology program. While she tries to contribute, she ends up feeling discouraged and withdrawn, leading to increased stress about falling behind.",
+            "Mental State": ["discouraged", "withdrawn", "stressed"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As the semester progresses, Sarah becomes increasingly anxious, leading to sleepless nights filled with worry about her grades. She misses a few assignments due to her lack of focus driven by self-doubt. Sarah attempts to reach out to friends for support, but finds them too busy, which further deepens her feelings of isolation. She starts avoiding social situations, fearing judgment and criticism from her peers, exacerbating her emotional struggle.",
+            "Mental State": ["isolated", "self-critical", "exhausted"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of mounting emotional turmoil, Sarah finally decides to seek help from her campus counselor. In her first session, she opens up about her anxiety, feelings of inadequacy compared to family and friends, and fear of failure. While she feels a sense of relief in expressing her struggles, the deep-rooted issues of confidence and fear of judgment remain unresolved. Sarah recognizes that she needs to work on her self-esteem and coping strategies but feels anxious about the journey ahead.",
+            "Mental State": ["relieved", "anxious", "hopeful"]
+        }
+    }
+}

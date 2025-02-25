@@ -1,0 +1,25 @@
+{
+    "User Id": 13,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Maya starts her semester feeling energized and motivated to excel in her Psychology major. However, during her first group project meeting, she feels sidelined when her teammates, especially Emma, dominate the conversation and dismiss Maya's ideas. This situation makes her feel frustrated and unnoticed, amplifying her self-doubt about her contributions in a team setting.",
+            "Mental State": ["Frustrated", "Unnoticed", "Insecure"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Following the group meeting, Maya becomes increasingly anxious about speaking up in class or during group sessions. She starts to withdraw from her peers and frequently doubts her qualifications. During a lunch with her friend Kevin, she expresses her worries about not fitting in and feeling left out, which makes her question her decision to pursue a Psychology degree.",
+            "Mental State": ["Anxious", "Isolated", "Doubtful"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms approach, Maya feels overwhelmed with stress and self-doubt. She spends long hours studying alone but feels increasingly disconnected from her classmates. With each passing day, she struggles to stay motivated, often contemplating whether she should drop the group project to avoid further embarrassment. Conversations with her family reveal their encouragement, but Maya still feels trapped in her negative thoughts.",
+            "Mental State": ["Overwhelmed", "Self-doubting", "Withdrawn"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After much reflection and discussion with her family, Maya recognizes the importance of reaching out for help. She decides to contact her professor to discuss her feelings of anxiety and her participation in the group project. Although nervous about initiating this conversation, she feels a surge of hope that this could lead to a resolution of her struggles. Maya understands that she needs to advocate for herself and is determined to seek the support she needs.",
+            "Mental State": ["Hopeful", "Determined", "Nervous"]
+        }
+    }
+}

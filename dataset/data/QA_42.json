@@ -1,0 +1,31 @@
+{
+    "User Id": 42,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "He encouraged me to seek professional support for my struggles."
+        },
+        "question": "What did Sophia's brother encourage her to do?",
+        "answer": "Seek professional support."
+    },
+    "long_term_QA": {
+        "question": "How did Sophia initially handle her emotional struggles, and what prompted her to begin seeking support from others?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel somewhat relieved after talking but still unsure about taking that step."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "Honestly, I'm feeling a bit anxious. I just started my final year in Environmental Science, and I\u2019m already overwhelmed."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It\u2019s wonderful that you have Aryan\u2019s support. Seeking help can be a significant decision."
+        },
+        "answer": "Initially, Sophia felt anxious and overwhelmed, expressing that she was 'anxious' about her final year. Her conversation with Aryan about seeking professional support marked the beginning of her journey toward being more open about her struggles."
+    }
+}

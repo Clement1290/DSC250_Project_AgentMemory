@@ -1,0 +1,57 @@
+{
+    "User Id": 9,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi there! I'm Sophia Patel. I’m a 22-year-old environmental science major.",
+            "Counselor": "Hello Sophia! It's great to meet you. How are you doing today?",
+            "Student": "I’ve been feeling inspired after a recent hiking trip but also confused about a conversation with my friend.",
+            "Counselor": "That sounds like a mix of emotions. What happened during the hike?",
+            "Student": "We came across some volunteers cleaning the trails, and I felt really passionate about starting an environmental campaign at school. But my best friend, Mira, wasn’t very enthusiastic about it.",
+            "Counselor": "It’s understandable to feel slightly offended when someone close to you doesn’t share your excitement. How did that make you feel?",
+            "Student": "Honestly, it made me feel a bit let down and confused about her lack of interest.",
+            "Counselor": "That’s completely valid. It seems like you really wanted to share this passion with her. Have you talked to Mira about it?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hey, I’m back. Things have been frustrating. I’ve been trying to plan this campaign, but nobody seems to want to join.",
+            "Counselor": "I’m glad you reached out again, Sophia. It sounds challenging to feel unsupported. What’s been going on with your friends?",
+            "Student": "I invited Mira to help, but she keeps making excuses because of her job and other things. It's making me feel really lonely.",
+            "Counselor": "That’s tough. It’s hard when someone you count on isn’t available. How do you feel about your friendship with Mira now?",
+            "Student": "I’m starting to question if she really cares. I just wish she would show some interest in my goals.",
+            "Counselor": "It sounds like you’re feeling a mix of frustration and doubt. Have you thought about talking to her about how you feel?",
+            "Student": "Yes, but I’m worried it might lead to more tension.",
+            "Counselor": "That’s a valid concern. Communication can be tricky, but it might bring some clarity. Want to brainstorm how you could approach her?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T16:00:00Z",
+        "Dialogue": {
+            "Student": "I’m really overwhelmed right now. The deadline for my campaign is approaching, and I feel like I’m all alone in this.",
+            "Counselor": "It’s understandable to feel overwhelmed with so much on your plate. Have you been able to connect with anyone else for support?",
+            "Student": "Not really. I’ve reached out, but most people seem uninterested. It's really disheartening.",
+            "Counselor": "I can see how that would affect your motivation. You mentioned confronting Mira. How did that go?",
+            "Student": "It didn’t go well. We ended up having a heated argument. She said I was trying to push her into things she wasn’t ready for.",
+            "Counselor": "That sounds very frustrating. Conflicts can often lead to deeper misunderstandings. How did that leave you feeling?",
+            "Student": "I felt angry and even more isolated. It just feels like I can't get through to her.",
+            "Counselor": "It’s tough when communication breaks down. Have you had a chance to process those feelings since the argument?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T11:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again. I’ve been reflecting a lot lately and realized I need to talk to Mira about how I feel.",
+            "Counselor": "That’s a great insight, Sophia. Self-reflection is an important step. What do you want to communicate to her?",
+            "Student": "I want to express that I appreciate her and that I’m feeling overwhelmed without her support. I hope she can understand.",
+            "Counselor": "That sounds like a constructive approach. It shows both vulnerability and understanding of her perspective. How do you feel about confronting her now?",
+            "Student": "I feel determined but also a little hopeful. I want to reconnect with her.",
+            "Counselor": "That’s a wonderful mindset! It’s great to hear you’re feeling hopeful. How do you plan to start that conversation?",
+            "Student": "I think I’ll invite her for coffee and share my thoughts openly. I feel like communication can really help clear the air.",
+            "Counselor": "That sounds perfect! Remember, having an open dialogue can help repair misunderstandings. I’m here for you if you need to talk again.",
+            "Student": "Thank you so much! I appreciate your insights and support. I’ll keep you updated!",
+            "Counselor": "You’re very welcome, Sophia! Best of luck with your conversation. Take care!"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "User Id": 39,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:15:00Z",
+        "Dialogue": {
+            "Student": "Hi, I'm Mia Chen. It's nice to meet you.",
+            "Counselor": "Hello Mia! It’s great to meet you too. How are you feeling as the new semester is starting?",
+            "Student": "I'm excited about my biochemistry courses, but I’m feeling a bit anxious too.",
+            "Counselor": "That’s perfectly understandable! What’s contributing to your anxiety?",
+            "Student": "I feel a lot of pressure to excel since my mom is a professor. Plus, I've signed up for some volunteer projects.",
+            "Counselor": "It sounds like you have a lot on your plate. Balancing academics and volunteering can be challenging. Have you talked to anyone about it?",
+            "Student": "Not really. I don’t want to let anyone down by admitting I’m struggling.",
+            "Counselor": "It’s okay to express that you're feeling overwhelmed. Sharing your feelings can actually help lighten the burden. Have you thought about setting a schedule to manage your time better?",
+            "Student": "I haven’t made a plan yet. Maybe that would help me feel more in control.",
+            "Counselor": "Creating a plan sounds like a great starting point! And it’s also essential to take breaks for activities you enjoy. What do you like to do in your free time?",
+            "Student": "I love hiking and photography, but I’ve been so busy lately that I haven’t been able to do either.",
+            "Counselor": "Those activities can really help reduce stress. Try to carve out time for them when you can!"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:15:00Z",
+        "Dialogue": {
+            "Student": "Hi, it's Mia again. I'm really feeling stressed this week.",
+            "Counselor": "Hi Mia! I’m sorry to hear that. What’s been troubling you?",
+            "Student": "Midterms are coming up, and I’m struggling to manage my time between classes and the volunteer group.",
+            "Counselor": "That sounds challenging. How has your volunteer experience been lately?",
+            "Student": "During a meeting, I mentioned feeling overwhelmed, but my suggestions were dismissed by a more assertive member, Kevin.",
+            "Counselor": "That must have felt frustrating. How did that interaction affect you?",
+            "Student": "It made me feel undervalued and isolated. Now I'm doubting whether I belong in the group.",
+            "Counselor": "Those feelings are valid. It can be hard when you don’t feel your contributions are appreciated. Have you had a chance to talk about how you’re feeling?",
+            "Student": "No, I don’t want to seem weak or make them feel like I can’t handle responsibilities.",
+            "Counselor": "It's normal to have those fears, but expressing what you're experiencing could lead to better understanding within the group. Would you be willing to try?",
+            "Student": "I can try to talk to someone I trust in the group. Thanks for the suggestion."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:15:00Z",
+        "Dialogue": {
+            "Student": "Hey, it’s Mia again. I’m feeling pretty low today.",
+            "Counselor": "Hi Mia, I’m here to listen. What’s been going on?",
+            "Student": "I got a disappointing grade on my last paper, and it’s really affected my confidence.",
+            "Counselor": "I’m sorry to hear that. How did the grade impact your feelings?",
+            "Student": "It made me feel like I’m not cut out for this field. Then at a group meeting, Kevin criticized my ideas again.",
+            "Counselor": "That sounds disheartening. How did you handle it in the moment?",
+            "Student": "I just stood there, feeling embarrassed and doubting myself even more. Now I want to avoid the group entirely.",
+            "Counselor": "It’s tough to face criticism, especially when confidence is already low. Have you thought about reaching out to someone in your group to express how you're feeling?",
+            "Student": "I’m afraid it will just lead to more conflict.",
+            "Counselor": "It can feel risky, but sometimes addressing the issue directly can clear up misunderstandings. You can express your feelings without blaming anyone."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:15:00Z",
+        "Dialogue": {
+            "Student": "Hi, Counselor! I finally spoke with Dr. Garcia about everything.",
+            "Counselor": "Hi Mia! How did that conversation go?",
+            "Student": "It felt really good to share my feelings about the academic and social pressures I'm facing.",
+            "Counselor": "That’s wonderful to hear! What feedback did Dr. Garcia give you?",
+            "Student": "She was really supportive and talked about the importance of self-care and communication.",
+            "Counselor": "That sounds very encouraging! How do you feel about implementing those suggestions?",
+            "Student": "I’m hopeful but still nervous about confronting Kevin and the group about my concerns.",
+            "Counselor": "Feeling nervous is normal, but it shows you care about resolving the situation. Perhaps you could prepare your thoughts beforehand?",
+            "Student": "I’ll definitely do that. Thanks for encouraging me to express myself. I feel a bit more in control now.",
+            "Counselor": "You’re welcome, Mia! It’s great to see your progress. Remember, taking things one step at a time is key. Let me know how it goes next time!"
+        }
+    }
+}

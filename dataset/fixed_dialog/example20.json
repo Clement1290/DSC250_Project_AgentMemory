@@ -1,0 +1,168 @@
+{
+    "User Id": 20,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Amara Johnson. This is my first time here."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Amara! It's nice to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm really excited about the new semester, but I'm also feeling a bit anxious."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's completely understandable! What's making you feel anxious?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I have a lot of responsibilities\u2014my environmental studies classes and my activism projects. I worry about not living up to my expectations."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "Feeling overwhelmed with so much on your plate can definitely lead to anxiety. Have you been able to share these feelings with anyone?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I feel guilty for not handling everything well, and I don't want to burden my friends or family."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's admirable that you care about others, but it's also important to express your feelings. Sometimes sharing this burden can lighten it significantly. Would you like to brainstorm some strategies to manage your workload?"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back. I've been feeling even more stressed this week."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Amara. I'm glad you came in. What's been going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "With deadlines approaching, I just can't balance everything. I feel isolated and unsure about how to manage my time."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It sounds like you're carrying a heavy load. Have you had a chance to talk to your brother Malik or anyone else about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I've been shutting people out, even Malik. He invited me to go climbing this weekend, but I declined. I just feel like I can't waste time."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to want to prioritize your studies, but taking breaks is essential for your mental health. What are your thoughts on finding some time to reconnect?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I know I should, but I feel guilty about taking a break when there's so much to do."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello, I had a really tough week."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi, Amara! I'm sorry to hear that. What happened this week?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I got a lower grade than I expected on my first big paper, and it triggered a breakdown. During a group project meeting, I lashed out at my friends."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds really overwhelming. How did it feel when you reacted to your friends?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I felt defensive at first but then immediately regretful. I'm worried I'm going to lose these friendships."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's natural to feel regret after such interactions, but acknowledging how you feel is the first step. Have you thought about reaching out to them to apologize?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I haven't yet, and I keep thinking about how to fix this mess without seeming weak."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T15:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I talked to my friends about what happened. I apologized for my behavior."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That's great to hear, Amara! How did the conversation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It felt really good to open up. They were supportive and said they understood. We talked about how to work better together."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's wonderful! It sounds like you have a solid support system. How are you feeling now about your commitments?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I feel relieved, but I'm still anxious about keeping everything on track and my ideals about environmental advocacy."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's normal to feel a bit anxious. Remember, progress doesn't have to be perfect. Have you considered setting realistic goals to help you stay balanced?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Yes, I think I need to create a plan that allows some flexibility. Thanks for all your advice!"
+            }
+        ]
+    }
+}

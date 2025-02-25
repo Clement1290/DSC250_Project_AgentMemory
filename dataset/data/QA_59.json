@@ -1,0 +1,31 @@
+{
+    "User Id": 59,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "They encouraged me to create a self-care schedule and even suggested a fun team-building activity for my classmates, which gave me a bit of hope."
+        },
+        "question": "What did Amira's campus counselor suggest to help her feel more supported?",
+        "answer": "To create a self-care schedule and suggested a fun team-building activity for her classmates."
+    },
+    "long_term_QA": {
+        "question": "How did Amira feel before seeking support, and what motivated her to seek help and change her perspective?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I shared my feelings, and it felt good to open up."
+        },
+        "long-term evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "I feel frustrated and inadequate. I really take their attitudes to heart."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It can be really helpful to express your feelings."
+        },
+        "answer": "Before seeking support, Amira felt frustrated and inadequate, struggling with her responsibilities. What motivated her to change was the realization that expressing her feelings could be helpful."
+    }
+}

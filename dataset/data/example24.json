@@ -1,0 +1,48 @@
+{
+    "User Id": 24,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T09:30:00Z",
+        "Dialogue": {
+            "Student": "Hi, I'm Samantha Lee. It's my first time here.",
+            "Counselor": "Hello, Samantha! It’s great to meet you. How are you feeling today?",
+            "Student": "I’m excited about the new semester but also a bit anxious.",
+            "Counselor": "That’s perfectly normal! What’s making you feel anxious specifically?",
+            "Student": "I’m eager to dive into my Psychology major, but I’m worried about maintaining my grades and managing my time with various volunteer activities.",
+            "Counselor": "It sounds like you have a lot of commitments and aspirations. Have you had a chance to think about how you’re going to balance everything?",
+            "Student": "Not really, I guess. I just keep hoping that I can handle it all.”
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:00:00Z",
+        "Dialogue": {
+            "Student": "Hi again! I’m feeling a bit more stressed this week.",
+            "Counselor": "Welcome back, Samantha! What’s been going on this week?",
+            "Student": "I’ve been working late into the night to keep up with my assignments. I’ve also started to decline invitations from my friends.",
+            "Counselor": "That sounds tough. How does that make you feel when you decline those invitations?",
+            "Student": "I feel guilty for not seeing my friends and participating in social activities. I miss them, but I keep telling myself I need to focus on school.",
+            "Counselor": "It’s important to maintain those connections, and balance is key. Have you thought about scheduling specific times for both studying and socializing?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:30:00Z",
+        "Dialogue": {
+            "Student": "Hello, I had a really difficult week.",
+            "Counselor": "Hi, Samantha! I’m sorry to hear that. What happened this week?",
+            "Student": "I received disappointing feedback on a lab report, and I ended up snapping at my friend Maya during a study group. I feel terrible about it.",
+            "Counselor": "It’s completely understandable to feel overwhelmed and react that way sometimes. How did that confrontation impact you?",
+            "Student": "I felt defensive at first but quickly realized I didn’t mean to take my stress out on her. Now I’m worried it might hurt our friendship.",
+            "Counselor": "Acknowledging how you feel is a great first step. Have you considered reaching out to Maya to talk about what happened?"
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T15:00:00Z",
+        "Dialogue": {
+            "Student": "Hi! I finally reached out to Maya and apologized.",
+            "Counselor": "That’s fantastic to hear, Samantha! How did that conversation go?",
+            "Student": "It was really good. I opened up about feeling overwhelmed, and she understood. It felt nice to share my feelings.",
+            "Counselor": "That’s wonderful! How are you feeling about your academic pressures now?",
+            "Student": "I feel a bit more relieved, but I’m still anxious about my grades and how to balance everything.",
+            "Counselor": "It’s perfectly okay to feel that way. Remember that communication and small adjustments can help you manage the stress. What’s your plan moving forward?"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "User Id": 85,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hi! I’m Isabella Torres. This is my first visit.",
+            "Counselor": "Hello Isabella! Welcome! How can I assist you today?",
+            "Student": "I’m feeling a bit frustrated about my new semester in environmental science.",
+            "Counselor": "I’m sorry to hear that. What’s been frustrating you?",
+            "Student": "I’m part of a group project focused on waste reduction, and one of my teammates, Jordan, isn’t contributing. It’s hard to stay motivated.",
+            "Counselor": "That sounds tough. Have you had a chance to talk to Jordan about how you’re feeling?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hi, I’m back. Things have gotten a little more complicated.",
+            "Counselor": "Welcome back, Isabella! What’s been happening?",
+            "Student": "I tried to take charge during our last meeting, but my ideas weren’t well received. My classmates seemed indifferent, which is making me anxious.",
+            "Counselor": "That sounds disheartening. It’s hard when you put in effort and don’t get the response you hoped for. Have you considered how you might approach your classmates again?",
+            "Student": "I’m not sure. I’m starting to doubt if I’m cut out to lead the group."
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00Z",
+        "Dialogue": {
+            "Student": "Hello! I’m feeling really burnt out and overwhelmed right now.",
+            "Counselor": "Hi Isabella. I’m here to help. What’s making you feel burnt out?",
+            "Student": "I’ve been working nights to make up for the lack of participation. During our last rehearsal, I stumbled through my presentation. I felt like I let everyone down.",
+            "Counselor": "That’s a heavy burden to carry. It’s understandable to feel overwhelmed under such pressure. Have you talked to anyone in your group about your feelings?",
+            "Student": "No, I don’t want to worry them. I just feel embarrassed."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T14:00:00Z",
+        "Dialogue": {
+            "Student": "I spoke up after the presentation, and it felt a bit better.",
+            "Counselor": "That’s a brave step, Isabella! How did your peers respond?",
+            "Student": "They were supportive and shared their struggles too. But I still feel uncertain about my ability to lead effectively.",
+            "Counselor": "It’s great that you created an open environment for sharing. Remember, learning from each experience will help you grow as a leader. What do you think would help you feel more confident?",
+            "Student": "I think talking to a mentor could help, but I’m hesitating.",
+            "Counselor": "That’s a positive idea! Seeking guidance shows a willingness to improve, which is admirable. I’m here to support you as you navigate this process.",
+            "Student": "Thank you for your help! I really appreciate it.",
+            "Counselor": "You’re welcome, Isabella! Take care of yourself, and don’t hesitate to reach out anytime you need support."
+        }
+    }
+}

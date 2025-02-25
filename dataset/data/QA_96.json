@@ -1,0 +1,31 @@
+{
+    "User Id": 96,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I want to reconnect with my friends and family while balancing my studies."
+        },
+        "question": "What does Sofia plan to do next after her conversation with her advisor?",
+        "answer": "Reconnect with her friends and family."
+    },
+    "long_term_QA": {
+        "question": "How did Sofia feel about her social connections and academic pressures before seeking help, and what led her to reach out for support?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I\u2019m drowning in work for midterms, and I haven't been able to hang out with friends or family."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I felt guilty. I don\u2019t want them to think I don\u2019t care about spending time with them."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I opened up about my struggles, and they offered me valuable advice to manage my stress."
+        },
+        "answer": "Before seeking help, Sofia felt overwhelmed and guilty about not being able to spend time with friends and family due to academic pressures. She reached out for support after opening up about her struggles, which led to valuable advice for managing her stress."
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "User Id": 100,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Aisha Patel. I'm 22 and studying Environmental Studies."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello, Aisha! Nice to meet you. How are you feeling as the semester starts?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Thanks! I'm feeling excited about my classes, but I'm also a bit overwhelmed."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's completely normal! What's been making you feel overwhelmed?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I really want to keep up with my coursework while also volunteering, but I'm starting to doubt whether I can manage everything."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's a tough situation to be in. Balancing academic and personal commitments can be challenging. Have you found any strategies to help manage your time?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm still trying to figure that out. I just feel torn between my responsibilities and my passion for volunteering."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's great that you have such a passion for volunteering! Maybe we can explore ways to create a balance between your studies and your commitments."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I'm feeling more anxious. My stress levels have been rising."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I'm here for you, Aisha. Can you share what's been causing your stress?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "In a group project, I feel overshadowed by Sam, a confident classmate who always dominates discussions."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That sounds frustrating. It's tough when you feel like your voice isn't being heard. How did that make you feel about your contributions?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It really hit my self-esteem hard. I feel like I'm not good enough to express my ideas."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's understandable to feel that way. You matter and your contributions are valuable. Have you talked to anyone about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not yet, I've been keeping it to myself."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Sharing how you feel could help lighten the load. Maybe you could discuss this with your sister Riya or a trusted friend."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hello again. I tried to take charge in my community service project but I felt so nervous during the meeting."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "I'm sorry to hear that. What happened in the meeting?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I stumbled over my words and my classmates looked confused. I felt like they thought I wasn't prepared."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's normal to feel nervous, especially in a leadership role. Have you thought about preparing some key points before meetings?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I think that would help, but I can't shake off this feeling of inadequacy."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's important to remember that everyone has moments of doubt. What strengths do you bring to your projects?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I care deeply about environmental issues and want to help make a difference."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:00:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I've had a challenging week. I overheard Sam making a joke about me needing to 'speak up more.'"
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "That sounds hurtful, Aisha. How did that make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It made me feel angry and sad. I thought we had a supportive group."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's understandable to feel upset by that comment. It can be difficult when assumptions are made about us."
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I want to confront Sam about it, but I'm scared he'll brush it off."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's okay to take your time. Sometimes expressing feelings can feel risky, but it might provide clarity. Would you want to write down how you feel first?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "That could help. I just feel so detached from everyone lately."
+            }
+        ]
+    }
+}

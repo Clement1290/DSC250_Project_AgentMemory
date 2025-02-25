@@ -1,0 +1,31 @@
+{
+    "User Id": 74,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019ve been preparing for a conversation with Dan to clear the air, but I'm super nervous."
+        },
+        "question": "What is causing Chloe to feel nervous in her final session?",
+        "answer": "Chloe is nervous about preparing for a conversation with Dan."
+    },
+    "long_term_QA": {
+        "question": "How did Chloe's feelings of being unsupported during conflicts with Dan influence her decision to prepare for a conversation aimed at improving communication within the team?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I felt hurt and unsupported. It made me question if I should even lead this project anymore."
+        },
+        "long-term evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019ve been preparing for a conversation with Dan to clear the air, but I'm super nervous."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "What are you hoping to achieve from this discussion?"
+        },
+        "answer": "Chloe felt hurt and unsupported during conflicts with Dan, leading her to question her leadership. This experience prompted her to prepare for a conversation to clear the air and improve communication within the team."
+    }
+}

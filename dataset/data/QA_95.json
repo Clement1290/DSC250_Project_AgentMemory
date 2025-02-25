@@ -1,0 +1,31 @@
+{
+    "User Id": 95,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "They encouraged me to embrace my creativity and to actively participate without fear of judgment."
+        },
+        "question": "What does Nina plan to do next in her classes after speaking with her advisor?",
+        "answer": "She plans to actively participate without fear of judgment."
+    },
+    "long_term_QA": {
+        "question": "What struggles does Nina experience regarding her feelings of loneliness and guilt, and what motivates her to seek help from her advisor?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I\u2019ve been focusing too much on my studies and have started to decline invitations to hang out. I miss my friends and family."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I brushed him off, saying I was too busy. I regret not spending time with him. I feel guilty."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I opened up about my anxiety and how I felt inadequate in group settings. It was really relieving."
+        },
+        "answer": "Nina feels isolated and guilty for not spending time with her family and friends while focusing on her studies, which motivates her to seek help and express her struggles to her advisor."
+    }
+}

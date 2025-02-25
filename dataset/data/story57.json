@@ -1,0 +1,25 @@
+{
+    "User Id": 57,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sara attends a university club meeting for mental health awareness, where she feels inspired to make a difference. During the meeting, she connects with a fellow student, Alex, who shares a personal story about their struggles with anxiety. This conversation deeply resonates with Sara, reminding her of her own struggles with self-doubt as she pursues her psychology major. She leaves the meeting feeling motivated but also reflective on her emotional vulnerabilities.",
+            "Mental State": ["Inspiration", "Empathy", "Self-Reflection"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "In the following weeks, Sara begins to feel overwhelmed by her academic workload and her desire to excel in her major. Her interactions with fellow students turn sparser as she begins to withdraw into herself, fearing judgment about her academic capabilities. Despite her enthusiasm for volunteering, she hesitates to engage with the mental health community out of fear of being perceived as inadequate. This internal conflict leads her to feel isolated and anxious.",
+            "Mental State": ["Overwhelmed", "Withdrawal", "Anxiety"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Sara attends a friend's birthday party, but she struggles to socialize due to her lingering feelings of doubt and anxiety. As she watches her peers interact effortlessly, she feels a significant disconnect from the group. When a friend tries to include her in a conversation, she forces a smile but avoids deeper engagement. This situation exacerbates her feeling of loneliness, and she starts questioning whether she truly fits in among her peers.",
+            "Mental State": ["Loneliness", "Disconnection", "Self-Doubt"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Sara decides to reach out to Alex, the student she met at the mental health awareness meeting, for support. They meet for coffee, and as Sara shares her experiences of feeling overwhelmed and isolated, she feels a mix of relief and vulnerability. Alex listens intently and shares similar experiences, which helps Sara feel validated. However, she leaves the conversation still uncertain about how to balance her academic pressures with her emotional well-being, prompting her to consider seeking professional help.",
+            "Mental State": ["Relief", "Vulnerability", "Uncertainty"]
+        }
+    }
+}

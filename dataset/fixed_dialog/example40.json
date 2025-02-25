@@ -1,0 +1,233 @@
+{
+    "User Id": 40,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-15T10:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Sofia Ramirez. It's nice to meet you."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello Sofia! It's great to meet you too. How are you feeling as the new semester begins?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm excited to start my Graphic Design courses, but I'm feeling a bit overwhelmed already."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's understandable! What is making you feel overwhelmed?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I have a lot of responsibilities with my classes and several volunteer projects. I don't want to disappoint anyone."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It sounds like you have a lot on your plate. Have you had a chance to talk about your concerns with anyone in your family or volunteer group?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Not really. I don't want to seem like I can't handle things."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's completely normal to feel overwhelmed. Sometimes talking about it can help. Have you thought about how you could manage your time better?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I guess I should try making a schedule or something."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Absolutely! Planning it out might help you feel more in control. What do you like to do when you have some free time?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I enjoy painting and hiking, but it feels like I haven't had time to do either lately."
+            },
+            {
+                "role": "Counselor",
+                "round": 6,
+                "content": "It's important to make time for those activities. They can help you relax and recharge!"
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T10:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, it's Sofia again. I'm feeling really stressed this week."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Sofia! I'm sorry to hear that. What's been causing you stress?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Midterms are coming up, and it's hard to keep up with classes and the volunteer work."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a challenging situation. How has the volunteer work been for you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "During a meeting, I shared my ideas for the upcoming art event, but one of my classmates, Emily, dismissed them, which upset me."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That must have been difficult to hear. How did that affect your feelings about the group?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I felt undervalued and started to question whether I even belong in that group."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Those feelings are valid. Have you talked to anyone in the group about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "No, I'm scared they'll think I'm being dramatic."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "Expressing how you feel doesn't make you dramatic; it's a part of open communication. Would you consider reaching out to a supportive friend from the group?"
+            },
+            {
+                "role": "Student",
+                "round": 6,
+                "content": "I'll think about it. Thank you for your understanding."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T10:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, it's Sofia. I'm really having a hard time today."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Sofia, I'm here to listen. What's been going on?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I got a disappointing grade on my last paper, and it made me feel terrible."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm really sorry to hear that. How did it make you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "It made me feel like I'm not cut out for this major. When I was in my group, Kevin criticized my ideas again."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds quite discouraging. Criticism can be tough, especially when paired with self-doubt. How did you respond to Kevin?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I just kept quiet. I feel like I can't share my ideas anymore."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "It's understandable to feel that way, but not sharing could lead you to feel even more isolated. Would it help to practice what you want to say before addressing Kevin again?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I guess practicing might make it easier. I could use that to rebuild my confidence."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-05T10:30:00Z",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, Counselor! I finally had a conversation with Dr. Garcia."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Sofia! How did the conversation go?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I opened up about my feelings of pressure and the criticism I faced, and Dr. Garcia was really encouraging."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's wonderful to hear! What advice did they give you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "She emphasized the importance of being true to myself and not letting others' opinions define my worth."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That's an important lesson! How do you feel about approaching your group with that newfound perspective?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I feel hopeful but still a bit anxious. I want to assert my ideas without conflict."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's a valid feeling. Maybe try to frame it as sharing your thoughts rather than confrontation. Have you found time for any hobbies lately?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I went hiking last weekend, and it was refreshing! I need to remember to take time for myself."
+            },
+            {
+                "role": "Counselor",
+                "round": 5,
+                "content": "That's fantastic! Balancing work and personal interests is key to maintaining your well-being. I'm proud of your growth, Sofia!"
+            }
+        ]
+    }
+}

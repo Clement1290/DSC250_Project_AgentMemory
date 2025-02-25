@@ -1,0 +1,31 @@
+{
+    "User Id": 35,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I finally talked to Dr. Lewis about everything."
+        },
+        "question": "What did Ethan do before this conversation with the counselor?",
+        "answer": "He talked to Dr. Lewis."
+    },
+    "long_term_QA": {
+        "question": "How did Ethan feel before he engaged in open communication about his challenges, and what led him to recognize the importance of addressing these issues?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I felt unsupported and frustrated, especially since I value harmony in the group."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "It\u2019s made me doubt myself and my abilities, and I feel like withdrawing from both the project and my friends."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "That\u2019s wonderful to hear! How did Dr. Lewis respond? They were really understanding and provided me with communication strategies."
+        },
+        "answer": "Before engaging in open communication, Ethan felt unsupported and frustrated, doubting himself and considering withdrawal due to the challenges he faced. After talking to Dr. Lewis, he recognized the importance of communication and received strategies that empowered him to address his issues."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "User Id": 17,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I\u2019ll try."
+        },
+        "question": "What does Elena plan to do after taking advice from the counselor?",
+        "answer": "She plans to reach out to her friends."
+    },
+    "long_term_QA": {
+        "question": "How did Elena's feelings of guilt and resentment limit her willingness to seek support before, and what led her to finally reach out for help?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I feel guilty and worried that I might have ruined our friendship."
+        },
+        "long-term evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "It was hard to talk about my feelings, but also really relieving."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I took your advice and saw a campus counselor."
+        },
+        "answer": "Before seeking help, Elena felt guilty and worried that she had ruined her friendship. Ultimately, she experienced a breakdown while preparing for an important presentation, which led her to reach out to a campus counselor."
+    }
+}

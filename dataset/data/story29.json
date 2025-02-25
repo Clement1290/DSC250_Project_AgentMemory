@@ -1,0 +1,25 @@
+{
+    "User Id": 29,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Oliver Chen has just stepped into his final year of studying Environmental Science, and he feels overwhelmed by the expectations placed upon him. With multiple projects, a thesis to complete, and the pressure of making impactful presentations, Oliver begins to feel the weight of these responsibilities. On top of his academic obligations, he has taken on a leadership role in a campus environmental club, where he is responsible for organizing events. Meanwhile, his younger sister, Emily, recently mentioned her interest in pursuing a career in environmental science, further intensifying Oliver's desire to set a positive example. This combination of academic pressure and family expectations begins to lead to feelings of stress and fatigue.",
+            "Mental State": ["overwhelmed", "stressed", "obligated"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As Oliver attempts to juggle his numerous commitments, he feels increasingly guilty for not prioritizing his studies. He often finds himself distracted by club meetings and the responsibilities of supporting Emily in her pursuits. During class, he struggles to concentrate as his mind races with thoughts about upcoming events and presentations. A few weeks into the semester, Oliver is anxious about a major project and fears that his lack of focus might affect his grades. He realizes that his emotional well-being is deteriorating but feels ashamed to express his struggles to those around him, believing he should be strong and supportive as a role model.",
+            "Mental State": ["guilty", "anxious", "distracted"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "After pushing through weeks of mounting pressure, Oliver experiences a breakdown. Following a heated argument with his fellow club officers about an upcoming event, he feels misunderstood and hurt. This incident makes him withdraw further, as he worries that opening up about his struggles will burden others. He isolates himself from friends and family, spending more time alone in his room, and neglecting his hobbies like photography and guitar playing. The emotional weight of his responsibilities and the conflict with his peers leads to feelings of profound isolation, causing him to question his ability to manage both his academic and personal life effectively.",
+            "Mental State": ["isolated", "hurt", "questioning"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Oliver has a breakthrough moment during a university workshop focused on mental health and resilience. The workshop's message about the importance of seeking help and prioritizing mental well-being resonates deeply with him. Although he feels a sense of hope, he also grapples with feelings of shame for not addressing his problems earlier. Contemplating reaching out for support, he battles against feelings of vulnerability, fearing that admitting his struggles may look weak to those he wants to inspire. This internal conflict leaves him feeling both encouraged by the idea of seeking help and apprehensive about actually taking that first step.",
+            "Mental State": ["hopeful", "apprehensive", "vulnerable"]
+        }
+    }
+}

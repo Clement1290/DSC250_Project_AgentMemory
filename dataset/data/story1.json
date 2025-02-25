@@ -1,0 +1,25 @@
+{
+    "User Id": 1,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Emma's semester has just started, and she feels overwhelmed with her course load in Psychology. The pressure to excel in her classes weighs heavily on her. Additionally, she's experiencing a sense of isolation as her friends have started new jobs and are less available to spend time with her. This lack of support makes her question her ability to manage both academic and personal commitments.",
+            "Mental State": ["overwhelmed", "isolated", "anxious"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "Emma attends a family gathering, hoping to find comfort and support. While she enjoys her family’s company, she is met with questions about her future from her relatives that only heighten her anxiety. She finds herself feeling inadequate compared to her brother Alejandro, who is thriving in his environmental science program, and this exacerbates her feelings of self-doubt. Emma starts to withdraw emotionally, becoming quieter in conversations.",
+            "Mental State": ["inadequate", "withdrawn", "anxious"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As the semester progresses, Emma struggles to keep up with her assignments and feels increasingly stressed. She tries to reach out to her friends for support, but they seem consumed by their own busy lives. Emma decides to focus on her studies, but this isolation drives her into a deeper state of loneliness. A particularly challenging week leads her to miss a deadline, and she feels like a failure, prompting her to question whether she belongs in her program.",
+            "Mental State": ["stressed", "lonely", "self-doubting"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of feeling disconnected and overwhelmed, Emma finally seeks help from her university's counseling services. During her first session, she expresses her feelings of anxiety and isolation. Although she feels a little relieved to talk about her struggles, the underlying issues of self-criticism and pressure are still unresolved. She recognizes the steps needed for healing but still feels apprehensive about making those changes.",
+            "Mental State": ["relieved", "apprehensive", "hopeful"]
+        }
+    }
+}

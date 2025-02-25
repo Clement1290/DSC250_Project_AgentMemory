@@ -1,0 +1,31 @@
+{
+    "User Id": 4,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I think I managed to channel a lot of my feelings into it."
+        },
+        "question": "What did Daniela manage to channel into her painting?",
+        "answer": "Her feelings."
+    },
+    "long_term_QA": {
+        "question": "How was Daniela coping with her anxiety before seeking help, and what factors prompted her to finally reach out for support?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "That\u2019s wonderful! Art is such a powerful way to express emotions. Do you feel like this helped alleviate some of your anxiety?"
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I felt like I was stuck in a shadow, and it made me less motivated in my design work."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "In her first session, she opens up about her anxiety and fear of inadequacy in her major, feeling slightly relieved to express her struggles."
+        },
+        "answer": "Before seeking help, Daniela was coping with her anxiety by feeling 'stuck in a shadow' and becoming less motivated in her design work. Ultimately, the need to express her anxiety and fear of inadequacy during her first session prompted her to reach out for support."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "User Id": 56,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I had my first midterm exam today, and it was tough."
+        },
+        "question": "What did Omar do before this dialogue?",
+        "answer": "He had his first midterm exam."
+    },
+    "long_term_QA": {
+        "question": "How did Omar feel about his academic performance and personal passions before discussing his feelings with his friend, and what led him to start feeling hopeful about pursuing photography?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "He feels a flicker of hope to revisit his passion for photography, but continues to battle the fear of falling short in his academics."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I feel hopeless and like I\u2019m letting everyone down if I don\u2019t perform well. I can\u2019t seem to find a balance."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "It\u2019s perfectly okay to ask for help. Have you thought about what you need to create a better balance?"
+        },
+        "answer": "Before discussing his feelings with Farah, Omar felt hopeless and like he was letting everyone down due to his academic pressures. This conversation helped him start feeling a flicker of hope to revisit his passion for photography."
+    }
+}

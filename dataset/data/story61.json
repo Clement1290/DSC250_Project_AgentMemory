@@ -1,0 +1,25 @@
+{
+    "User Id": 61,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Sophia begins the semester with enthusiasm for her Biology major and her new role as a volunteer coordinator for an environmental group on campus. However, she feels anxious about her new responsibilities. Additionally, she notices her younger brother Diego has been feeling stressed about soccer tryouts and is not as cheerful as usual. Sophia feels a strong sense of duty to support him, which adds to her concerns about managing her own commitments.",
+            "Mental State": ["Enthusiasm", "Anxiety", "Concern"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks progress, Sophia finds herself overwhelmed by the demands of school and her volunteer work. She tries to help Diego with his soccer practices while also studying for midterms and planning an upcoming community event. Feeling stretched too thin, Sophia starts to lose sleep and her usual enjoyment of hobbies like painting and cooking. Her worries about how well she’s supporting her brother weigh heavily on her mind, leading to increased stress.",
+            "Mental State": ["Overwhelmed", "Fatigue", "Guilt"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "During a team meeting for the environmental group, Sophia attempts to inspire her peers with her vision for the upcoming event, but her message falls flat as she struggles to articulate her thoughts. After the meeting, she confides in her best friend, Clara, about feeling inadequate and worries that she’s failing in both her volunteer role and her duties as a sister. Despite Clara's encouragement, Sophia leaves feeling even more burdened and doubting her abilities.",
+            "Mental State": ["Inadequate", "Burdened", "Sadness"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After reflecting on her feelings and the toll of her responsibilities, Sophia decides to reach out to a school counselor. During their session, she shares her anxiety, her struggles with balancing commitments, and her concerns for Diego. The counselor encourages her to prioritize self-care and establish clearer boundaries between her commitments. While Sophia feels a sense of relief after sharing, she remains uncertain if she can implement these strategies effectively while still being there for her brother.",
+            "Mental State": ["Relief", "Hopefulness", "Uncertainty"]
+        }
+    }
+}

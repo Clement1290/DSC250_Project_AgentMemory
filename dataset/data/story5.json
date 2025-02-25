@@ -1,0 +1,25 @@
+{
+    "User Id": 5,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the new semester starts, Sophia begins to feel overwhelmed by the demanding workload of her Psychology major. She recently participated in a group project, during which she felt she had to suppress her ideas to accommodate others. Even though she values cooperation, not voicing her opinions left her feeling frustrated and anxious about her contributions, particularly as she remembers her father's emphasis on strong communication skills. This pressure manifests as fear of judgment from her peers, making her doubt her abilities.",
+            "Mental State": ["anxious", "frustrated", "self-doubting"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "During a critical presentation in class, Sophia finds herself faltering when it's her turn to speak. Her classmates are engaging and assertive, and she struggles to project her voice and ideas confidently. After the presentation, a few classmates comment positively on the group’s overall performance, but Sophia feels lost amidst their praise. This incident deepens her self-doubt and fear of participating in future discussions, leading her to avoid social interactions, fearing further embarrassment.",
+            "Mental State": ["embarrassed", "isolated", "insecure"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As the semester progresses, Sophia’s anxiety escalates. She begins to withdraw from social events and group discussions altogether. While attending a family gathering where her father is showcasing his latest music project, she feels increasingly inadequate. Watching her father confidently engage with others highlights her own struggles in communication and networking, leading to feelings of despair and motivating her to think she might not succeed in her future career as a psychologist.",
+            "Mental State": ["despairing", "unmotivated", "frustrated"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After weeks of feeling trapped in her anxiety, Sophia decides to seek out support from the campus counseling center. In her first session, she opens up about the overwhelming feelings of inadequacy and her reluctance to engage in her psychology program fully. While she feels somewhat relieved to express her struggles, she realizes that her deep-rooted fears of judgment and perfectionism remain unresolved. Sophia acknowledges the need to work on her self-confidence but feels unsure about the right steps to take to overcome her communication barriers.",
+            "Mental State": ["relieved", "uncertain", "hopeful"]
+        }
+    }
+}

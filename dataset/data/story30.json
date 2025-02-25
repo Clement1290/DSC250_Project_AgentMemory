@@ -1,0 +1,25 @@
+{
+    "User Id": 30,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Isabella Martinez is eagerly starting her final year studying Psychology. However, she begins to feel a deep sense of pressure regarding her academic performance, particularly with her thesis project. Compounding this stress, Isabella is also dealing with the emotional turbulence of a close friend, Sarah, who has recently lost a family member. Feeling obligated to support Sarah while maintaining her academic focus leads Isabella to experience feelings of anxiety and stress, as she finds herself torn between her commitments.",
+            "Mental State": ["anxious", "stressed", "obligated"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks go by, Isabella tries to juggle her thesis work with her commitment to help Sarah. While she wants to be there for her friend, she increasingly feels guilty about not dedicating enough time to her studies. In class, she finds it challenging to concentrate, as her mind often drifts to thoughts of Sarah's situation. With deadlines approaching, her anxiety escalates, and she worries about falling behind on her projects.",
+            "Mental State": ["guilty", "overwhelmed", "distracted"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Following a particularly intense week, Isabella has a confrontation with Sarah, who expresses frustration over Isabella's perceived distance and inattention. This confrontation leaves Isabella feeling hurt and misunderstood, leading to more isolation. She begins withdrawing from social gatherings and refraining from reaching out to her family for support, fearing her struggles might burden them. The accumulating emotional weight leads to a decline in her mental well-being, and she starts questioning her ability to manage her own life while being there for others.",
+            "Mental State": ["hurt", "isolated", "questioning"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After attending a campus workshop on emotional well-being and self-care, Isabella realizes the importance of prioritizing her mental health. The speaker's message about the necessity of seeking help resonates with her. Yet, she grapples with feelings of shame for not having addressed her issues sooner. Despite feeling a sense of hope, she battles apprehension about reaching out for help, worried about appearing weak in front of those she wishes to inspire. Isabella acknowledges her need for support but remains unsure about how to take that first step towards healing.",
+            "Mental State": ["hopeful", "apprehensive", "vulnerable"]
+        }
+    }
+}

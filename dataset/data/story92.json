@@ -1,0 +1,25 @@
+{
+    "User Id": 92,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Samuel has just returned to university after a long summer break. While he enjoyed his time off, he feels stressed about the new semester and the pressure to perform academically, especially since he wants to maintain his scholarship. As he chats with friends about their summer experiences, he feels a nagging worry that he hasn't done enough with his time off. This anxiety is compounded by their discussions about internships and job opportunities, making him question whether he is on the right path.",
+            "Mental State": ["anxious", "inadequate", "overwhelmed"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As Samuel settles into the semester, he finds himself struggling to balance his coursework and personal life. He feels overwhelmed by group assignments and the growing expectation to participate in extracurricular activities. During a group project meeting, he is hesitant to voice his ideas, worried they won’t be taken seriously compared to his more assertive group members, particularly Alex, who dominates the conversation. Samuel's insecurity leads him to hold back, which frustrates him and deepens his feelings of inadequacy.",
+            "Mental State": ["frustrated", "self-doubting", "isolated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As midterms approach, Samuel feels increasingly stifled by the pressure to excel. He begins to withdraw from his friends and family, missing out on social gatherings where he would usually shine. He grows concerned that his struggles will disappoint his family, especially his father, who is a driving force in his life. One day, he bumps into his sister Sofia, who senses that something is off. Samuel feels guilty for not sharing his struggles and for not being the supportive brother he wants to be. This moment heightens his sense of loneliness as he grapples with his internal conflict.",
+            "Mental State": ["lonely", "guilty", "overwhelmed"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After a particularly tough week, Samuel finally opens up to a close friend about his feelings of inadequacy and anxiety. His friend encourages him to seek help and reminds him of the strengths he brings to their group. Taking their advice, Samuel visits a campus counselor. During the session, he expresses his fears about underperforming and reconnects with his passion for psychology. He starts to feel hopeful as he realizes that his experiences can be useful in his journey toward becoming a counselor, which reignites his motivation to push through the semester.",
+            "Mental State": ["hopeful", "determined", " empowered"]
+        }
+    }
+}

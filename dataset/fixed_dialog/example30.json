@@ -1,0 +1,193 @@
+{
+    "User Id": 30,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm Isabella Martinez. I'm here for my first session."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hello Isabella! It's great to meet you. How are you feeling today?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I feel a bit overwhelmed, to be honest. I just started my final year, and there's a lot of pressure."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's completely understandable. What kind of pressures are you experiencing?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm working on my thesis project, and I want to make sure I do well. On top of that, my best friend is going through a tough time, and I feel like I need to support her."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It sounds like you have a lot on your plate. Balancing your own academic stress with supporting a friend can be difficult. How are you managing that?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I'm not sure. I feel obligated to help her, but it's causing me more stress, and I'm worried about falling behind in my studies."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Those feelings are valid. It's important to acknowledge your own needs as well. Have you found moments to take care of yourself during all this?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "Not really. I feel guilty taking time for myself when I know she needs me."
+            }
+        ]
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hey, it's Isabella again."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Welcome back, Isabella! How have you been since our last session?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "I'm still feeling really guilty. I want to support Sarah, but I'm falling behind in my studies."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "It's tough to balance everything. What kind of academic responsibilities are weighing on you?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm struggling to focus on my thesis because I keep thinking about Sarah and how much she needs me right now."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It sounds like your thoughts are very much tied to her situation. Have you had a chance to communicate with Sarah about how you're feeling?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "No, I haven't. I worry that if I bring it up, she might feel abandoned or think I don't care."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "That's a common concern. But it might actually help strengthen your friendship if you share your feelings with her. You can express that you want to be supportive while also needing to focus on your schoolwork."
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "That could help, yeah. I'll think about talking to her."
+            }
+        ]
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi, I'm back."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Isabella! It's good to see you again. How have you been feeling since we last spoke?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "Honestly, it's been really rough. I had a confrontation with Sarah last week."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "I'm sorry to hear that. What happened during the confrontation?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "She got angry with me for being distant and not helping enough. Now, I feel hurt and misunderstood."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "That sounds like a difficult situation. It's painful when someone you care for expresses frustration. Have you been able to talk with her since then?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "I've been avoiding her. I feel so isolated, and I'm not sure how to approach her again."
+            },
+            {
+                "role": "Counselor",
+                "round": 4,
+                "content": "Avoiding the situation can often make feelings of isolation worse. Sometimes, sharing your side might help clear the air. Would it be possible for you to reach out to her and express how the confrontation made you feel?"
+            },
+            {
+                "role": "Student",
+                "round": 5,
+                "content": "I guess I could try. I just feel so lost right now."
+            }
+        ]
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:30:00",
+        "Dialogue": [
+            {
+                "role": "Student",
+                "round": 1,
+                "content": "Hi again. I came in after the workshop I attended."
+            },
+            {
+                "role": "Counselor",
+                "round": 1,
+                "content": "Hi Isabella! That's great to hear. What are your thoughts after the workshop?"
+            },
+            {
+                "role": "Student",
+                "round": 2,
+                "content": "It really opened my eyes about self-care. I've been neglecting my mental health, and I need to make changes."
+            },
+            {
+                "role": "Counselor",
+                "round": 2,
+                "content": "That's a positive realization! How does that make you feel about seeking support from others?"
+            },
+            {
+                "role": "Student",
+                "round": 3,
+                "content": "I'm hopeful but still hesitant. I'm worried about looking weak by admitting I need help."
+            },
+            {
+                "role": "Counselor",
+                "round": 3,
+                "content": "It's common to feel apprehensive, but reaching out is a sign of strength. It shows awareness of your needs. Would you like to explore how to take that first step in seeking help?"
+            },
+            {
+                "role": "Student",
+                "round": 4,
+                "content": "Yes, I think I'm ready to take action, but I'm nervous about how to approach it."
+            }
+        ]
+    }
+}

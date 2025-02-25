@@ -1,0 +1,25 @@
+{
+    "User Id": 21,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "As the semester begins, Elena is excited to participate in various cultural events and initiatives within her International Relations program. However, she starts to feel the pressure of balancing her academic workload with her passion for volunteering. The rigorous schedule begins to overwhelm her, and she becomes anxious about the possibility of not performing well academically, which leads her to question her abilities and commitments.",
+            "Mental State": ["Anxious", "Overwhelmed", "Eager"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As deadlines for assignments and projects draw closer, Elena feels increasingly burdened by her obligations. Her close friend, Maya, notices that Elena has been less responsive and tries to reach out, but Elena declines invitations to outings. She convinces herself that she needs to focus more on her studies, but deep down, she feels guilty for not being there for her friends and family, which adds to her stress and loneliness.",
+            "Mental State": ["Guilty", "Isolated", "Frustrated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "The pressure continues to mount as midterms approach, and Elena receives low feedback on a presentation she had hoped would be stronger. Feeling devastated and doubting her abilities, she has a confrontation with Maya, who expresses concern for her well-being. In turn, Elena, feeling cornered, lashes out in frustration, which creates tension in their friendship. This event leaves her feeling regretful and questions her emotional resilience, increasing her sense of vulnerability.",
+            "Mental State": ["Defensive", "Regretful", "Emotionally drained"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After some time of reflection, Elena reaches out to Maya to apologize for her previous behavior. They meet for coffee, and Elena opens up about the pressures she has been feeling. This meaningful conversation helps Elena feel heard and understood. While she experiences relief from sharing her struggles, she still grapples with anxiety about her academic performance and whether she can maintain the balance in her life while nurturing her friendships.",
+            "Mental State": ["Relieved", "Hopeful", "Anxious"]
+        }
+    }
+}

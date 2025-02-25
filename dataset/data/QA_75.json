@@ -1,0 +1,31 @@
+{
+    "User Id": 75,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I just want my team to understand why I\u2019ve struggled and maybe come together to support each other."
+        },
+        "question": "What does Ethan hope his team will understand about him?",
+        "answer": "He wants his team to understand why he\u2019s struggled."
+    },
+    "long_term_QA": {
+        "question": "How was Ethan experiencing self-doubt and isolation before, and what factors contributed to his hesitation in seeking support from his peers?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I decided I need to talk to my group about what I\u2019ve been feeling. I\u2019m nervous about it."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I just felt paralyzed by self-doubt, and when I finally said something, Jamie dismissed my idea without thinking."
+        },
+        "insight evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "Those fears are common, but you might be surprised at how supportive they can be."
+        },
+        "answer": "Before, Ethan felt paralyzed by self-doubt and remained hesitant to engage with his group, saying, 'I just felt paralyzed by self-doubt,' which contributed to his isolation. The fear of being judged led to his reluctance to share, as noted by the counselor's observation that 'those fears are common.'"
+    }
+}

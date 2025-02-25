@@ -1,0 +1,31 @@
+{
+    "User Id": 98,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "It triggered a lot of emotions in me\u2014anger, hurt, and I feel so disconnected."
+        },
+        "question": "What emotions did Emily experience after overhearing the jokes about introverted students?",
+        "answer": "Anger, hurt, and feeling disconnected."
+    },
+    "long_term_QA": {
+        "question": "How did Emily feel at the start of the semester, and what experiences led to a decrease in her self-confidence during group interactions?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I overheard some classmates making jokes about introverted students."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I'm feeling excited but also a bit anxious about the new semester."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Counselor",
+            "quote": "It\u2019s hard to feel heard, especially when you\u2019re trying to express your ideas."
+        },
+        "answer": "At the start of the semester, Emily felt excited but also a bit anxious about the new semester. However, experiences during group interactions, particularly feeling overlooked and struggling to assert herself, led to decreased self-confidence."
+    }
+}

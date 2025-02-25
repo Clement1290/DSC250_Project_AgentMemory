@@ -1,0 +1,31 @@
+{
+    "User Id": 23,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "How do you plan to manage your time moving forward?"
+        },
+        "question": "What is David planning to do to manage his time moving forward?",
+        "answer": "It's about progress and not perfection."
+    },
+    "long_term_QA": {
+        "question": "How did David express his feelings and manage relationships before he recognized the need for change, and what prompted him to reconnect with Ethan?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I lashed out at Ethan during our study group when he brought up taking a break. I just felt overwhelmed."
+        },
+        "long-term evidence": {
+            "stage": 3,
+            "role": "Counselor",
+            "quote": "It\u2019s normal to feel defensive when stressed."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I shared what I've been going through, and he was really understanding."
+        },
+        "answer": "Before recognizing the need for change, David expressed his feelings by lashing out at Ethan, feeling overwhelmed and defensive. This prompted him to reconnect with Ethan by sharing what he\u2019s been going through, leading to a better understanding between them."
+    }
+}

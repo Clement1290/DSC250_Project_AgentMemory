@@ -1,0 +1,25 @@
+{
+    "User Id": 43,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Amara returns to college for her senior year, but she is feeling increasingly anxious about her future after graduation. She has a strong desire to make a difference in cultural advocacy but feels overwhelmed by the uncertainty of job prospects in her field. Adding to her stress, she recently learned that many of her friends have accepted internships or job offers, leaving her feeling behind in comparison. This comparison is further complicated by her family, who expect her to be successful, given her talents and their strong values regarding education and community involvement.",
+            "Mental State": ["anxious", "overwhelmed", "insecure"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "During a conference on cultural sustainability, Amara attends workshops where other students confidently present their projects. Feeling out of place, she hesitates to share her own ideas, fearing they might not be as impactful. After one session, she overhears a group discussing job opportunities and realizes her reluctance to engage leaves her feeling even more isolated. Despite wanting to connect, she begins to withdraw from the experience, echoing her earlier insecurities about not measuring up to her peers.",
+            "Mental State": ["frustrated", "insecure", "isolated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "Seeking solace in her passion for cooking, Amara invites her fellow anthropology students, Mia and Jason, over for a cultural dinner night. However, the evening quickly turns into a discussion where they share their plans and achievements. As her friends excitedly talk about their internship experiences, Amara feels a tempest of emotions and realizes she has not made significant progress in her plans. Overwhelmed, she quietly retreats into the kitchen to gather herself, feeling a mix of helplessness and disappointment as she questions her path.",
+            "Mental State": ["helpless", "overwhelmed", "disappointed"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Amara confides in her older brother, Khaled, after the dinner. She expresses her feelings of inadequacy and fears that she won’t find a meaningful job in cultural anthropology. Khaled reassures her that it's okay to feel lost at times and encourages her to consider seeking advice from a mentor or career counselor. While Amara appreciates her brother's support, she still struggles with the idea of reaching out for help, fearing that it may reveal her uncertainties rather than alleviate them. The conversation leaves her feeling somewhat hopeful yet unsure about what steps to take next.",
+            "Mental State": ["conflicted", "hopeful", "unsure"]
+        }
+    }
+}

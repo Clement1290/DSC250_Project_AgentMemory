@@ -1,0 +1,25 @@
+{
+    "User Id": 32,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Aria Patel has just started her final year in Chemical Engineering and is filled with excitement about the projects she will undertake. However, she begins to feel an immense pressure to excel, especially with her thesis looming ahead. Compounding this stress, her friend Sarah, who is struggling with anxiety, confides in Aria about her difficulties. Aria feels a strong sense of responsibility to be there for Sarah while managing her own academic commitments, leading her to feel anxious and overwhelmed by the dual pressures on her.",
+            "Mental State": ["anxious", "overwhelmed", "obligated"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As the weeks pass, Aria finds herself increasingly stressed while trying to support Sarah and keep up with her studies. She begins to feel guilty for not giving Sarah enough attention while also fearing that her own studies may suffer because of her distractions. In class, she struggles to focus, often drifting into thoughts about Sarah's problems and how she can help. The burden of her emotional investment in Sarah's well-being starts to take a toll, leaving Aria feeling both guilty and worried about potentially falling behind academically.",
+            "Mental State": ["guilty", "worried", "distracted"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "After a particularly tough week, Aria has a heated discussion with Sarah, who feels that Aria is prioritizing her studies over their friendship. This confrontation leaves Aria feeling hurt and misunderstood. With her sensitive nature, she internalizes the conflict, leading to further isolation from friends and family. She starts withdrawing from social gatherings and stops pursuing her hobbies like painting and cycling, reflecting her diminishing mental health. This emotional strain causes her to question her ability to balance her friendship with academic success.",
+            "Mental State": ["hurt", "isolated", "questioning"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "Attending a campus workshop on mental health and wellness allows Aria to reflect on her situation. The speaker discusses the importance of self-care and setting boundaries, inspiring Aria to think about how she has neglected her own needs. Despite feeling a sense of hope about prioritizing her mental well-being, she is still apprehensive about reaching out for support from her family and friends, worrying they might not understand her struggles. This internal conflict between wanting help and fearing vulnerability leaves her hopeful but hesitant about the next steps she should take.",
+            "Mental State": ["hopeful", "apprehensive", "vulnerable"]
+        }
+    }
+}

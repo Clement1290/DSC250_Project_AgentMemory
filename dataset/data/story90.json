@@ -1,0 +1,25 @@
+{
+    "User Id": 90,
+    "Event": {
+        "Stage 1": {
+            "Date": "2023-09-15",
+            "Description": "Emily receives her midterm grades and feels disappointed after three of her grades are lower than she expected. Despite putting in a considerable amount of effort into her studies, she begins to fear that she is falling behind compared to her peers. This situation causes her to question her competence and future in the biochemistry program. She confides in her brother Mark, who encourages her to seek help from her professors.",
+            "Mental State": ["disappointed", "insecure", "doubtful"]
+        },
+        "Stage 2": {
+            "Date": "2023-09-30",
+            "Description": "As Emily attends tutoring sessions at her university to catch up, she feels anxiety each time she speaks up in class, fearing negative judgment from her peers. During a collaborative group project, she struggles to express her ideas because of her persistent self-doubt and worries about being overshadowed by more outspoken classmates. She feels out of place, particularly with a group member, Sarah, who dominates discussions and often disregards Emily's contributions.",
+            "Mental State": ["anxious", "isolated", "frustrated"]
+        },
+        "Stage 3": {
+            "Date": "2023-10-20",
+            "Description": "As the group project deadline approaches, Emily is overwhelmed by stress and feels she cannot keep up with her peers. She starts to withdraw from group activities, even avoiding communicating with Sarah and the others, which heightens her feelings of loneliness and inadequacy. She feels trapped and blames herself for not being able to contribute, increasing her fear of failure and disappointing others.",
+            "Mental State": ["overwhelmed", "withdrawn", "fearful"]
+        },
+        "Stage 4": {
+            "Date": "2023-11-05",
+            "Description": "After a particularly tough week, Emily finally opens up to her mother about her struggles. Her mother reminds her of her strengths and encourages her to focus on progress, not perfection. Inspired by her mother’s words, Emily decides to take a leap of faith and shares her ideas during the final group meeting. Although still nervous, she embraces the opportunity to express herself and realizes the importance of her voice within the group. This moment marks a pivotal change in her attitude towards her abilities and future.",
+            "Mental State": ["nervous", "hopeful", "empowered"]
+        }
+    }
+}

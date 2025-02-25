@@ -1,0 +1,31 @@
+{
+    "User Id": 70,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel like I failed and I\u2019m questioning if I should switch to something like art therapy instead."
+        },
+        "question": "What alternative career path is Elena considering after feeling she failed at her presentation?",
+        "answer": "Art therapy"
+    },
+    "long_term_QA": {
+        "question": "What was Elena's initial outlook on her Psychology classes, and what experiences led her to question her commitment to psychology?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I feel like I failed and I\u2019m questioning if I should switch to something like art therapy instead."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I was excited to share my insights, but during my first class, I noticed my classmates seemed more focused on grades than real discussions."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "It\u2019s completely fine to reflect on your path and consider new directions."
+        },
+        "answer": "Elena initially felt excited to share her insights in her Psychology classes, but after facing repeated indifference and feeling like she failed during her presentation, she started questioning her commitment and considered switching to something like art therapy."
+    }
+}

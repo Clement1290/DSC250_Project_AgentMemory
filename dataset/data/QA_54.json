@@ -1,0 +1,31 @@
+{
+    "User Id": 54,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "There were moments of praise, but I keep focusing on my fears rather than the positive feedback."
+        },
+        "question": "What does Zara tend to focus on instead of the positive feedback she received?",
+        "answer": "Her fears."
+    },
+    "long_term_QA": {
+        "question": "How did Zara initially approach her academic challenges, and what influenced her to begin feeling overshadowed by her classmates?",
+        "local evidence": {
+            "stage": 3,
+            "role": "Student",
+            "quote": "I feel bad for brushing off my brother, who tried to help."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling a bit overwhelmed. I\u2019m juggling multiple projects for my biochemistry classes right now."
+        },
+        "insight evidence": {
+            "stage": 2,
+            "role": "Student",
+            "quote": "During study groups, I struggle to voice my ideas, especially with someone like Fahim contributing so confidently."
+        },
+        "answer": "Initially, Zara approached her academic challenges by juggling multiple projects for her biochemistry classes despite feeling overwhelmed. However, as she struggled to express her ideas during study groups, especially feeling overshadowed by confidently contributing classmates like Fahim, she began to feel increasingly withdrawn."
+    }
+}

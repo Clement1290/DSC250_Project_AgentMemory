@@ -1,0 +1,31 @@
+{
+    "User Id": 84,
+    "simple_QA": {
+        "evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "I finally spoke up after our project presentation, and it felt refreshing."
+        },
+        "question": "What did Maya do after the project presentation?",
+        "answer": "She spoke up."
+    },
+    "long_term_QA": {
+        "question": "How did Maya feel initially about her project and what led her to experience a shift towards relief and hopefulness?",
+        "local evidence": {
+            "stage": 4,
+            "role": "Student",
+            "quote": "They were really supportive and shared their struggles too. It felt good to connect over our challenges, but I'm still uncertain about my leadership abilities."
+        },
+        "long-term evidence": {
+            "stage": 1,
+            "role": "Student",
+            "quote": "I\u2019m feeling a bit frustrated about my new semester in biochemical engineering."
+        },
+        "insight evidence": {
+            "stage": 4,
+            "role": "Counselor",
+            "quote": "Taking that step shows strength and a desire to grow, which is commendable."
+        },
+        "answer": "Initially, Maya felt frustrated about her new semester, concerned about her teammate Alex's lack of participation. However, after speaking openly with her friends who shared their own struggles, she felt a sense of relief and hope for personal growth, recognizing that her actions demonstrated strength and a desire to develop."
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "User Id": 32,
+    "Stage 1 dialogue": {
+        "timestamp": "2023-09-16T10:00:00",
+        "Dialogue": {
+            "Student": "Hi, I’m Aria Patel. This is my first session here.",
+            "Counselor": "Hello Aria! It’s great to meet you. How are you feeling today?",
+            "Student": "I’m feeling a bit overwhelmed, actually. I just started my final year in Chemical Engineering.",
+            "Counselor": "That’s a big step! What’s been making you feel overwhelmed?",
+            "Student": "I have a thesis project coming up, and I feel a lot of pressure to meet expectations. Plus, my friend Sarah is going through a tough time, and I want to support her.",
+            "Counselor": "That sounds like a lot to handle. Supporting a friend while managing your own academic responsibilities can be really challenging. How have you been coping?",
+            "Student": "I feel stressed, and sometimes it feels like too much. I want to help Sarah, but it’s taking a toll on me.",
+            "Counselor": "Those feelings are completely valid. It’s important to consider your own well-being as well. Have you had any time for self-care during all of this?"
+        }
+    },
+    "Stage 2 dialogue": {
+        "timestamp": "2023-09-30T11:00:00",
+        "Dialogue": {
+            "Student": "Hi, it’s Aria again.",
+            "Counselor": "Welcome back, Aria! How have you been since our last session?",
+            "Student": "I’m still feeling guilty. I’m trying to manage my studies, but I feel like I’m neglecting Sarah.",
+            "Counselor": "That sounds difficult. What has you feeling guilty about your time spent on studies versus supporting Sarah?",
+            "Student": "I’m worried that if I focus too much on my thesis, I’m not being a good friend, and Sarah needs me.",
+            "Counselor": "It’s tough to balance both your studies and your friend’s needs. Have you talked to Sarah about how you’re feeling?",
+            "Student": "No, I haven’t. I just feel like if I tell her I can’t help as much, she might think I don’t care.",
+            "Counselor": "Being open about your struggles can actually strengthen your friendship. It shows that you care. Would you feel comfortable sharing your feelings with her?"
+        }
+    },
+    "Stage 3 dialogue": {
+        "timestamp": "2023-10-20T14:00:00",
+        "Dialogue": {
+            "Student": "Hey, I’m back.",
+            "Counselor": "Hi Aria! It’s good to see you again. How have you been since we last spoke?",
+            "Student": "It’s been pretty rough. I had a confrontation with Sarah, and now I feel really hurt.",
+            "Counselor": "I’m sorry to hear that. What happened between you two?",
+            "Student": "She was upset that I haven’t been there for her. She said I’m prioritizing my studies over our friendship, and it made me feel bad.",
+            "Counselor": "That sounds really painful. It’s hard when you feel like you’re letting someone down. Have you had any time to talk about this after the confrontation?",
+            "Student": "I’ve been avoiding her. I feel isolated and question whether I can balance my friendships with everything else going on.",
+            "Counselor": "Isolation can make those feelings even heavier. Maybe reaching out to her to explain how you feel could help rebuild your connection."
+        }
+    },
+    "Stage 4 dialogue": {
+        "timestamp": "2023-11-06T09:30:00",
+        "Dialogue": {
+            "Student": "Hi again, it’s Aria.",
+            "Counselor": "Hi Aria! It’s great to see you back. What’s been on your mind since our last session?",
+            "Student": "I went to a workshop on mental health, and it helped me realize I need to take care of myself.",
+            "Counselor": "That’s a positive realization! How does that make you feel about seeking help or support?",
+            "Student": "I feel hopeful but also nervous. I’m still worried about how others will perceive my struggles.",
+            "Counselor": "It’s completely normal to feel apprehensive. Seeking help is often a sign of strength, and many people appreciate honesty about mental health. Would you like to discuss how to approach talking to Sarah about what you’re feeling?",
+            "Student": "Yes, I think that would help. I want to find a way to express that I care while also taking care of myself."
+        }
+    }
+}
