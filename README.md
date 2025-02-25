@@ -43,9 +43,10 @@ agent.query(prompt)
 ```python
 from dataset import MultiSessionDialog
 
-dialog, qa = MultiSessionDialog()
-
+dataset = MultiSessionDialog()
 print(len(dataset))
+
+dialog, qa = dataset[0]
 print(dialog)
 print(qa)
 ```
