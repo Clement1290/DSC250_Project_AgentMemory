@@ -28,7 +28,7 @@ class OpenAIAgent():
             self.reset()
         self.history.append({"role":"user", "content": prompt})
         completion = self.client.chat.completions.create(
-            model=model_name,
+            model=self.model_name,
             messages=self.history
         )
         content = completion.choices[0].message.content
