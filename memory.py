@@ -50,7 +50,7 @@ def get_fact_retrieval_prompt(new_conversation: str) -> str:
     }}
 
     # Conversation
-    Below is a 20-round conversation between student and counsellor.
+    Below is a conversation between student and counsellor.
     {new_conversation}
 
     # Output Rules

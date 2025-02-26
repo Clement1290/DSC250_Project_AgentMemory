@@ -1,6 +1,6 @@
 import os
 import json
-from torch.utils.data import Dataset
+#from torch.utils.data import Dataset
 from glob import glob
 
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
@@ -24,9 +24,9 @@ BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 
 class MultiSessionDialog():
     def __init__(self):
-        self.N = len(glob(f"{BASE_PATH}/data/QA_*.json"))
-        self.dialog_files = [f"{BASE_PATH}/fixed_dialog/example{i}.json" for i in range(self.N)]
-        self.qa_files = [f"{BASE_PATH}/data/QA_{i}.json" for i in range(self.N)]
+        self.N = len(glob(f"{BASE_PATH}\\data\\QA_*.json"))
+        self.dialog_files = [f"{BASE_PATH}\\fixed_dialog\\example{i}.json" for i in range(self.N)]
+        self.qa_files = [f"{BASE_PATH}\\data\\QA_{i}.json" for i in range(self.N)]
         
     def __len__(self):
         return self.N

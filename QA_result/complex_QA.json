@@ -1,0 +1,695 @@
+[
+    {
+        "User Id": 1,
+        "question": "How was Emma feeling about her coursework and support system before she sought help, and what led her to finally reach out for counseling?",
+        "answer_wm": "Before seeking help, Emma was feeling overwhelmed and isolated due to her heavy coursework, which made it difficult for her to keep up with assignments. She also felt lonely and frustrated because her friends were busy with new jobs, leading to a lack of support. Additionally, she experienced anxiety during family gatherings and felt inadequate compared to her brother. These feelings of anxiety and isolation ultimately led her to reach out for counseling to address her struggles.",
+        "answer_wom": "Before seeking help, Emma was feeling overwhelmed by anxiety and isolation regarding her coursework and likely lacked a supportive routine or structure in her life. Her feelings of apprehension about making changes and fear of failure probably contributed to her reluctance to seek help initially. Ultimately, the relief she experienced after talking about her feelings indicated that she recognized the need for support and accountability, which led her to reach out for counseling.",
+        "gold_answer": "Before seeking help, Emma felt overwhelmed and was struggling with her coursework in Psychology. This led her to feel anxious and isolated. Finally, she acknowledged her feelings and realized the need for change, prompting her to reach out for counseling."
+    },
+    {
+        "User Id": 2,
+        "question": "What was Sarah experiencing that made her feel overwhelmed, and what led her to seek help to address these feelings?",
+        "answer_wm": "Sarah was experiencing anxiety and feelings of inadequacy, which made her feel overwhelmed. She was struggling with self-doubt, pressure from her academic performance, and comparisons to her brother's success. These overwhelming feelings led her to seek help through counseling to address her anxiety and improve her study habits.",
+        "answer_wom": "Sarah was experiencing anxiety and feelings of inadequacy, which made her feel overwhelmed. She sought help to address these feelings by attending a counseling session.",
+        "gold_answer": "Before seeking help, Sarah was feeling overwhelmed with the pressures of the new semester, stating, 'I'm feeling a bit overwhelmed,' and she felt anxious about her performance. Her decision to seek help came after discussing her struggles, which included talking about her anxiety and feelings of inadequacy."
+    },
+    {
+        "User Id": 3,
+        "question": "How did Amina perceive herself and her ability to participate in class prior to expressing her concerns, and what led her to seek help to address these feelings?",
+        "answer_wm": "Prior to expressing her concerns, Amina perceived herself as unqualified in class and struggled with feelings of inadequacy and self-doubt. She felt overshadowed by her classmates and was anxious about speaking up, leading to missed opportunities to participate due to fear of judgment. These feelings of insecurity and isolation prompted her to seek help in counseling to address her anxiety and build her confidence in class participation.",
+        "answer_wom": "Amina perceived herself as unqualified in class, which contributed to her feelings of uncertainty about being able to complete her degree. This lack of confidence in her abilities likely prompted her to seek help in order to address her emotions and improve her situation.",
+        "gold_answer": "Amina felt isolated and anxious about participating in class, perceiving her self-doubt as a barrier to speaking up, which ultimately led her to seek help in discussing her feelings and finding ways to improve."
+    },
+    {
+        "User Id": 4,
+        "question": "How was Daniela coping with her anxiety before seeking help, and what factors prompted her to finally reach out for support?",
+        "answer_wm": "Before seeking help, Daniela was coping with her anxiety primarily through her interest in painting, as a way to express her feelings. However, she struggled with confidence in class, which compounded her anxiety. The pressures from family expectations, particularly from her father, and experiences of criticism likely contributed to her feelings of inferiority. These accumulating pressures and her ongoing struggles prompted her to finally reach out for support, as she recognized the need for help in managing her anxiety and building her confidence.",
+        "answer_wom": "Before seeking help, Daniela was likely coping with her anxiety by engaging in creative activities, such as painting, which allowed her to express herself and channel her feelings. However, she still struggled with low confidence in class, indicating that her coping mechanisms were not fully alleviating her anxiety. The need for greater support in building her confidence and the desire for connection with her classmates prompted her to reach out for help.",
+        "gold_answer": "Before seeking help, Daniela was coping with her anxiety by feeling 'stuck in a shadow' and becoming less motivated in her design work. Ultimately, the need to express her anxiety and fear of inadequacy during her first session prompted her to reach out for support."
+    },
+    {
+        "User Id": 5,
+        "question": "How was Sophia experiencing her anxiety and communication struggles prior to seeking help, and what specific event prompted her to change her approach toward addressing these challenges?",
+        "answer_wm": "Prior to seeking help, Sophia was experiencing her anxiety through feelings of being overwhelmed and anxious about family expectations, as well as struggling with voicing her opinions in group projects and feeling overshadowed by more confident classmates. A specific event that prompted her to change her approach was realizing she had accomplished more than she had given herself credit for when she started writing down her achievements. This eye-opening experience contributed to her increased hopefulness about her future and motivated her to take small steps, such as asking questions after lectures, to engage more in class participation.",
+        "answer_wom": "Sophia was experiencing anxiety and communication struggles, particularly in relation to participating in class. Before seeking help, she likely underestimated her accomplishments and felt less confident about her abilities. The specific event that prompted her to change her approach was the realization, through writing down her accomplishments, that she had achieved more than she previously credited herself for, which led to a sense of hope and a desire to engage more actively in her studies.",
+        "gold_answer": "Prior to seeking help, Sophia felt overwhelmed and anxious, particularly struggling with participating in class. The event that prompted her to confront these challenges was a family gathering where her father's showcase made her feel inadequate and increased her feelings of comparison."
+    },
+    {
+        "User Id": 6,
+        "question": "How did Ethan feel before seeking help, and what led him to realize the need for support?",
+        "answer_wm": "Before seeking help, Ethan felt anxious and inadequate, especially after receiving critical feedback, which contributed to his feelings of being overwhelmed and not cut out for environmental science. He also felt overshadowed by his classmates and worried about living up to family expectations. These struggles likely led him to realize the need for support, as he recognized the importance of reflecting on his motivations and seeking guidance to navigate his emotional landscape.",
+        "answer_wom": "Before seeking help, Ethan likely felt uncertain or hesitant about his motivations and engagement in his environmental science program. He realized the need for support when he acknowledged that he was struggling with participating in group discussions, prompting him to reflect on his motivations and seek guidance to regain his confidence and optimism.",
+        "gold_answer": "Before seeking help, Ethan felt inadequate and thought, 'I keep thinking I'm not cut out for this.' This feeling was intensified by comparing himself to his family's achievements, prompting him to realize he needed support."
+    },
+    {
+        "User Id": 7,
+        "question": "How did Maya's feelings of inadequacy manifest before she sought support, and what specific comparison prompted her to feel this way?",
+        "answer_wm": "Maya's feelings of inadequacy manifested through experiences of anxiety and feelings of being overwhelmed, particularly due to critical feedback she received. This was compounded by her worries about measuring up to her family's expectations, especially in comparison to her brother who is succeeding in medical school, leading her to feel inadequate during family gatherings.",
+        "answer_wom": "Maya's feelings of inadequacy manifested through her struggle with participating in class discussions, which led to her feelings of being less engaged and confident in her program. The specific comparison that prompted her to feel this way likely stemmed from comparing herself to her peers, thinking they were more articulate or knowledgeable, which made her doubt her own contributions and accomplishments.",
+        "gold_answer": "Maya's feelings of inadequacy manifested as a worry that she wouldn’t measure up to her family’s expectations, which was heightened by her perception of her brother's medical school success, prompting her to compare herself unfavorably and leading her to seek support."
+    },
+    {
+        "User Id": 8,
+        "question": "How did Olivia's initial feelings of being overwhelmed and self-critical lead her to seek help for her anxiety?",
+        "answer_wm": "Olivia's initial feelings of being overwhelmed and self-critical likely stemmed from the pressure she felt regarding her academic performance and her family's expectations, particularly that of her mother. These emotions may have contributed to her anxiety about participating in classes and group projects. Recognizing her struggles, she decided to seek help to understand and manage her feelings, leading her to engage in self-reflection and ultimately share her experiences with a counselor. This process of reflection helped her realize her capabilities and set personal goals, which is a positive step in addressing her anxiety and building confidence.",
+        "answer_wom": "Olivia's initial feelings of being overwhelmed and self-critical likely made her question her abilities and worth in her studies. These negative emotions, combined with anxiety about participating in class, prompted her to seek help in order to gain support, reflect on her achievements, and build her confidence. Engaging in this process has helped her recognize her goals and interests, leading to a more positive outlook on her academic experience.",
+        "gold_answer": "Olivia felt overwhelmed with the start of the semester and shared that she felt anxious and self-critical, leading her to eventually seek help, where she opened up about her feelings of inadequacy."
+    },
+    {
+        "User Id": 9,
+        "question": "How was Sophia feeling about her campaign and friendship with Mira before the argument, and what led her to feel more isolated and misunderstood?",
+        "answer_wm": "Before the argument, Sophia was feeling inspired after a hiking trip, but she also felt let down and confused about her friendship with Mira, particularly regarding Mira's lack of enthusiasm for Sophia's interest in the environmental campaign. This lack of support from Mira, combined with feelings of loneliness and frustration about friendship dynamics, led Sophia to feel more isolated and misunderstood. The heated argument intensified her feelings of anger and isolation, as she struggled to connect with her peers for support and felt disheartened by their disinterest.",
+        "answer_wom": "Before the argument, Sophia was feeling overwhelmed and likely underappreciated in her friendship with Mira. This sense of being overwhelmed and lacking support led to feelings of isolation and misunderstanding, prompting her to reflect on her emotions and realize the importance of communicating her feelings to Mira.",
+        "gold_answer": "Before the argument, Sophia felt frustrated and lonely, and she was starting to question if Mira really cared about her goals. The argument led her to feel even angrier and more isolated, as she couldn't understand Mira's perspective, which contributed to her feeling misunderstood."
+    },
+    {
+        "User Id": 10,
+        "question": "How did Emily feel before her decision to seek assistance, and what led her to consider reaching out for support?",
+        "answer_wm": "Before deciding to seek assistance, Emily felt disappointed, insecure about forming friendships, lonely, and experienced heightened anxiety and feelings of isolation. Her feelings of disconnect and being misunderstood contributed to her questioning her path in psychology and feeling discouraged. These emotional challenges led her to consider reaching out to a professor for understanding and to explore more opportunities to connect with others who share her interests.",
+        "answer_wom": "Before her decision to seek assistance, Emily likely felt a mix of confusion and loneliness, as she was reflecting on her situation and her feelings. This introspection led her to consider reaching out for support, motivated by a desire for understanding and to connect with others who share her interests.",
+        "gold_answer": "Before considering to talk to a professor, Emily felt disconnected and believed that nobody understood her struggles. This realization prompted her to reflect on her situation and ultimately led her to feel hopeful about reaching out for help."
+    },
+    {
+        "User Id": 11,
+        "question": "How did Aiden initially feel about his contributions to the group, and what led to his worsened confidence and withdrawal from participating?",
+        "answer_wm": "Aiden initially felt frustrated and undervalued regarding his contributions to the group, particularly after experiencing dismissal of his project ideas by a classmate named Jake. This dismissal, coupled with his feelings of isolation after a meeting, contributed to his worsened confidence and led to his withdrawal from participating in group activities.",
+        "answer_wom": "Aiden initially felt anxious about his contributions to the group, which led to struggles with his confidence and ultimately caused him to withdraw from participating.",
+        "gold_answer": "Initially, Aiden felt 'undervalued and insecure about my abilities' after his ideas were dismissed, which worsened to feeling 'stuck and doubting' his major and led to him wanting to express his struggles to regain confidence."
+    },
+    {
+        "User Id": 12,
+        "question": "How did Sofia feel about seeking help before her decision to reach out to her professor, and what led her to change her mind?",
+        "answer_wm": "Before her decision to reach out to her professor, Sofia felt embarrassed, self-conscious, and nervous about addressing her concerns. She also experienced increased anxiety and feelings of isolation, which contributed to her doubts about belonging in the academic environment. What led her to change her mind was the realization that she couldn't do this alone and the understanding that reaching out for help is a sign of strength.",
+        "answer_wom": "Before her decision to reach out to her professor, Sofia felt nervous about seeking help. However, she recognized the importance of addressing her concerns and realized that she couldn't face her struggles alone, which led her to change her mind and decide to reach out for guidance.",
+        "gold_answer": "Before her decision, Sofia felt terrified of failing and was hesitant to reach out due to fears of rejection. Her realization that she can't do this alone prompted her to change her mind and seek help."
+    },
+    {
+        "User Id": 13,
+        "question": "How was Maya feeling before she decided to reach out for help, and what prompted her to make that decision?",
+        "answer_wm": "Before reaching out for help, Maya was feeling anxious about the project, as well as experiencing self-doubt and a sense of being overwhelmed with her coursework and upcoming midterms. She was also feeling trapped in negative thoughts and had experienced conflict with a teammate, which contributed to her nervousness. What prompted her to make the decision to reach out was the realization that she couldn't handle everything alone and the hope of finding guidance and support from her professor.",
+        "answer_wom": "Before Maya decided to reach out for help, she was feeling anxious about her project. This feeling of anxiety prompted her to seek support from her professor, as she realized she couldn't handle the situation alone and felt the need for guidance.",
+        "gold_answer": "Before deciding to reach out, Maya was feeling overwhelmed and was struggling to keep up, thinking about dropping the group project altogether. This led her to realize, after discussions with her family, that she needed to seek guidance and support."
+    },
+    {
+        "User Id": 14,
+        "question": "How did Elena feel about her abilities before she decided to seek help, and what motivated her to take that step?",
+        "answer_wm": "Before deciding to seek help, Elena felt frustrated and questioned her suitability for her major, struggling with self-perception and anxiety about her performance. The motivation to reach out for help stemmed from her recognition that she couldn't tackle her issues alone and her realization that she needed support, which made her feel both nervous and hopeful.",
+        "answer_wom": "Before deciding to seek help, Elena felt anxious and likely overwhelmed, indicating a lack of confidence in her abilities to handle the group project alone. Her motivation to reach out to her professor stemmed from the realization that she couldn't tackle the situation by herself and a desire for support.",
+        "gold_answer": "Before deciding to seek help, Elena felt lost and scared of failing in front of everyone. Her motivation to seek help stemmed from the realization that she couldn't tackle her struggles alone, leading her to feel hopeful about reaching out to her professor."
+    },
+    {
+        "User Id": 15,
+        "question": "How did Nina feel about her situation before seeking help, and what prompted her to change her approach to advocating for herself?",
+        "answer_wm": "Before seeking help, Nina felt anxious, nervous, overwhelmed, and disconnected, experiencing feelings of embarrassment and frustration due to her ideas being dismissed in a group project. She also felt like she didn’t belong and was not capable, leading to a withdrawal from discussions in class. What prompted her to change her approach to advocating for herself was the realization that she could not handle the situation alone anymore and the need for support. This recognition motivated her to reach out to her professor to express her anxieties and seek guidance.",
+        "answer_wom": "Nina felt anxious about her situation and was struggling to engage with her group. This overwhelming feeling prompted her to change her approach and seek help by reaching out to her professor, as she recognized the importance of advocating for herself and acknowledged that she couldn't handle the situation alone anymore.",
+        "gold_answer": "Before seeking help, Nina felt overwhelmed and considered dropping the group project due to her fears of failure. This experience prompted her to realize the importance of advocating for herself, leading her to feel hopeful and determined to express her feelings to her professor."
+    },
+    {
+        "User Id": 16,
+        "question": "How does Liam's initial feeling of being overshadowed by classmates impact him, and what motivates him to take action regarding his participation?",
+        "answer_wm": "Liam's initial feeling of being overshadowed by classmates contributes to his anxiety about participating in class, making him feel embarrassed and discouraged when he struggles to engage. This sense of discouragement is compounded by worries about his grades and feeling overwhelmed, which can create a cycle of self-doubt. However, despite these challenges, his motivation to take action regarding his participation stems from a desire to regain his confidence and improve his situation. The hope of turning to his professor for support serves as a catalyst for him to address his anxiety and seek constructive solutions.",
+        "answer_wom": "Liam's initial feeling of being overshadowed by his classmates likely contributes to his anxiety and a lack of confidence in participating in class. This feeling can make him hesitant to engage and express himself, which may further impact his academic experience. However, his motivation to take action regarding his participation stems from a desire to regain confidence and improve his situation. The hope of overcoming his struggles and the supportive encouragement he receives are driving factors that empower him to initiate a conversation with his professor.",
+        "gold_answer": "Initially, Liam felt embarrassed and overshadowed during his seminar presentation, which frustrated him. However, he realized that he needed to address his anxiety about participation and decided to take action by talking to his professor."
+    },
+    {
+        "User Id": 17,
+        "question": "How did Elena's feelings of guilt and resentment limit her willingness to seek support before, and what led her to finally reach out for help?",
+        "answer_wm": "Elena's feelings of guilt and resentment likely stemmed from the pressure she felt to meet personal and familial expectations, which made her hesitant to seek support. She may have felt that asking for help would be seen as a weakness or an inability to cope, leading her to push her feelings away instead of addressing them. However, the relief she experienced in talking to the campus counselor, coupled with the realization that acknowledging her feelings was a crucial part of managing her stress, ultimately encouraged her to reach out for help. This shift in her mindset allowed her to recognize that seeking support is a positive step towards improving her emotional well-being.",
+        "answer_wom": "Elena's feelings of guilt and resentment likely made her hesitant to seek support because she may have felt that she should be able to handle her emotions and struggles on her own, or that reaching out would be a sign of weakness. These emotions can create a barrier to vulnerability and sharing one’s challenges. However, she eventually reached out for help after recognizing the need for support and the potential benefits it could bring, which was reinforced by taking the step to see a campus counselor. The relief she felt from talking about her feelings and receiving coping strategies helped her see that seeking help was a positive and necessary action.",
+        "gold_answer": "Before seeking help, Elena felt guilty and worried that she had ruined her friendship. Ultimately, she experienced a breakdown while preparing for an important presentation, which led her to reach out to a campus counselor."
+    },
+    {
+        "User Id": 18,
+        "question": "What was Sophie experiencing before she sought help, and what influenced her decision to reach out for support?",
+        "answer_wm": "Before she sought help, Sophie was experiencing anxiety and feelings of being overwhelmed due to the pressures of managing her responsibilities, as well as worries about disappointing others. The influence that prompted her decision to reach out for support was her struggles with these pressures and her desire to find coping strategies, as indicated by her decision to meet with a university counselor.",
+        "answer_wom": "Before Sophie sought help, she was experiencing anxiety and feeling pressured about her responsibilities, leading to worries about disappointing others. The culmination of these struggles likely influenced her decision to reach out for support from a university counselor.",
+        "gold_answer": "Before seeking help, Sophie was feeling overwhelmed with her classes and responsibilities, saying she was excited but a bit overwhelmed. Her decision to reach out for support came after much encouragement from her friend Mia, which led her to meet with a university counselor."
+    },
+    {
+        "User Id": 19,
+        "question": "How was Oliver's ability to connect with others before he experienced a significant emotional breakdown, and what prompted him to reassess his capacity to manage his responsibilities?",
+        "answer_wm": "Before experiencing a significant emotional breakdown, Oliver struggled to connect with others due to feelings of guilt, stress, and irritability. He expressed feelings of embarrassment for not being open and connecting with friends and family, particularly regarding his sister Sofia. The confrontation with his friend Jake, which led to a realization of the consequences of shutting people out, prompted Oliver to reassess his capacity to manage his responsibilities. This moment of reflection, along with the pressure he felt, ultimately led him to seek support and be more honest about his feelings.",
+        "answer_wom": "Before experiencing a significant emotional breakdown, Oliver struggled with connecting to others, as evidenced by him shutting Jake out. This disconnect likely contributed to his feelings of pressure and anxiety. The need to reassess his capacity to manage his responsibilities was prompted by the accumulation of stress and the realization that he couldn't face it alone, leading him to reach out and apologize to Jake for his previous withdrawal.",
+        "gold_answer": "Before the breakdown, Oliver was feeling irritable and found it difficult to connect with his friends and family. The breakdown prompted him to acknowledge that he was shutting everyone out and reassess how he was managing his responsibilities."
+    },
+    {
+        "User Id": 20,
+        "question": "How did Amara's defensiveness impact her relationships, and what led her to recognize the need to communicate her struggles more openly?",
+        "answer_wm": "Amara's defensiveness, particularly after lashing out at her friends during a group project, created tension and conflict in her relationships, leading to worries about losing those friendships. This defensive behavior likely stemmed from her anxiety and stress regarding her commitments and responsibilities, which made her feel overwhelmed. The realization of needing to communicate her struggles more openly came when she reflected on the negative impact of her actions and recognized the importance of maintaining her support system. By apologizing and opening up to her friends, she was able to foster understanding and support, which helped her feel more relieved and connected.",
+        "answer_wom": "Amara's defensiveness likely created distance in her relationships, making it difficult for her friends to understand her feelings and challenges. By acknowledging her behavior and apologizing, she recognized the importance of communicating her struggles openly. This realization came through her conversations with friends, who were supportive and helped her see the value of being honest about her vulnerabilities, ultimately leading to a more collaborative approach in her commitments and allowing her to feel relieved and better connected.",
+        "gold_answer": "Amara's defensiveness led her to lash out at her friends, which created a rift in her relationships. This overwhelming stress prompted her to recognize the need to communicate more openly, leading her to apologize for her behavior."
+    },
+    {
+        "User Id": 21,
+        "question": "How did Elena's feelings of devastation after lashing out at Maya reflect her struggles, and what prompted her to change her approach to their friendship?",
+        "answer_wm": "Elena's feelings of devastation after lashing out at Maya reflect her struggles with stress and the pressure of her academic workload, which led her to act in a way that she later regretted. This emotional turmoil likely stemmed from her anxiety about balancing her commitments and maintaining friendships. The catalyst for her change in approach to their friendship was her recognition of the impact her actions had on Maya and the desire to restore that relationship, prompting her to reach out, apologize, and open up about her struggles.",
+        "answer_wom": "Elena's feelings of devastation after lashing out at Maya reflect her struggles with emotional regulation and the pressure of her academic workload. These pressures likely contributed to her behavior, leading her to apologize and seek to amend the friendship. Her decision to change her approach was prompted by the desire for honesty and understanding in her relationships, as well as a need to address the underlying anxiety she felt about balancing her commitments and maintaining her friendships. Opening up to Maya marked a significant step towards repairing their relationship and alleviating some of her emotional burdens.",
+        "gold_answer": "Elena felt defensive after lashing out at Maya, realizing she possibly hurt their friendship due to her struggles with stress and disappointment. This reflection prompted her to open up about her challenges to Maya, leading to an understanding conversation."
+    },
+    {
+        "User Id": 22,
+        "question": "How did Aisha react to her stress before reaching out to Maya, and what led her to feel regretful about her actions?",
+        "answer_wm": "Before reaching out to Maya, Aisha reacted to her stress by lashing out at her friend, which caused feelings of guilt and regret. She felt overwhelmed by academic pressure and was avoiding friends, particularly Maya, due to her anxiety and fear of pushing her away. This emotional turmoil led her to regret her outburst and motivated her to apologize and open up about her feelings.",
+        "answer_wom": "Aisha reacted to her stress by experiencing an outburst, indicating that she was overwhelmed and likely struggling to manage her emotions and academic pressure. This outburst led her to feel regretful about her actions, prompting her to reach out to Maya to apologize and address her feelings.",
+        "gold_answer": "Aisha reacted to her stress by lashing out at Maya because she felt overwhelmed, which made her feel horrible and regretful about her outburst."
+    },
+    {
+        "User Id": 23,
+        "question": "How did David express his feelings and manage relationships before he recognized the need for change, and what prompted him to reconnect with Ethan?",
+        "answer_wm": "David expressed his feelings by experiencing stress and overwhelming emotions, which led him to withdraw from social interactions and work late on his studies. He lashed out at his friend Ethan during a study group due to this stress, indicating that he was struggling to manage his relationships effectively. The guilt he felt for not being there for his friends prompted him to recognize the need for change, ultimately leading him to reconnect with Ethan, apologize for his reaction, and share his personal struggles.",
+        "answer_wom": "David initially expressed his feelings through a strong reaction that led to a disconnect in his relationship with Ethan. He recognized the need for change after reflecting on his feelings and the impact they had on his friendships. This self-awareness prompted him to reach out and apologize to Ethan, allowing him to open up about his struggles and rebuild their connection.",
+        "gold_answer": "Before recognizing the need for change, David expressed his feelings by lashing out at Ethan, feeling overwhelmed and defensive. This prompted him to reconnect with Ethan by sharing what he’s been going through, leading to a better understanding between them."
+    },
+    {
+        "User Id": 24,
+        "question": "How did Samantha's feelings of being overwhelmed affect her interactions with friends, and what inspired her to open up and apologize to Maya?",
+        "answer_wm": "Samantha's feelings of being overwhelmed led her to decline invitations from friends, causing her to feel guilty about those decisions and creating concern about her friendship with Maya. This emotional burden motivated her to reach out and apologize to Maya, as she recognized the importance of communicating her feelings and the impact her stress had on their relationship. By opening up, she sought to mend the connection and alleviate some of her anxiety through understanding and support.",
+        "answer_wom": "Samantha's feelings of being overwhelmed likely led her to withdraw or feel disconnected from her friends, including Maya, as she was struggling with anxiety about her grades and balancing her responsibilities. The relief she experienced after reaching out and sharing her feelings inspired her to open up and apologize to Maya, indicating that she recognized the importance of communication and the support of her friendships in managing her stress.",
+        "gold_answer": "Samantha felt overwhelmed and ended up snapping at Maya, which made her feel terrible. This prompted her to acknowledge her feelings and apologize to Maya, leading to a supportive conversation about her struggles."
+    },
+    {
+        "User Id": 25,
+        "question": "How did Maya feel about managing her studies and relaxation before, and what led her to increasingly feel overwhelmed?",
+        "answer_wm": "Maya felt overwhelmed about managing her studies and struggled to switch off from her academic responsibilities. She had difficulty disconnecting from the study mindset, which contributed to her stress and feelings of guilt about not balancing her academics effectively. This accumulation of academic pressure, combined with her feelings of isolation and irritability, led to her increasingly feeling overwhelmed.",
+        "answer_wom": "Maya felt overwhelmed managing her studies and relaxation, which suggests she was struggling to find a balance between academic responsibilities and personal well-being. Her conversation indicates that despite reaching out to a friend for support, she found it difficult to open up about her feelings, leading to increased pressure and resistance to seeking help. This difficulty in expressing her emotions may have contributed to her feelings of overwhelm.",
+        "gold_answer": "Before, Maya was trying to keep up with everything and felt the pressure of midterms, but after the hiking trip, she struggled to concentrate, leading to her feeling overwhelmed."
+    },
+    {
+        "User Id": 26,
+        "question": "How did Aisha feel about her responsibilities before she started to feel trapped and apprehensive about seeking help, and what led to this shift in her emotional state?",
+        "answer_wm": "Before Aisha started feeling trapped and apprehensive about seeking help, she felt overwhelmed and anxious about her responsibilities, particularly regarding the mental health seminar she was organizing. She struggled with feelings of being unprepared and that she was letting everyone down, despite receiving positive feedback. This culminated in her feeling exhausted and guilty for not doing more for her friend Fatima, which likely contributed to her emotional shift towards feeling trapped in her thoughts and hesitant to seek support.",
+        "answer_wom": "Before Aisha started to feel trapped and apprehensive about seeking help, she was likely holding in her emotions and managing her responsibilities without addressing her feelings. The shift in her emotional state occurred after the incident at the charity volunteer event, where she snapped at someone unexpectedly, which made her realize how much she had been suppressing her emotions. This realization led to her feelings of being overwhelmed and apprehensive about seeking help.",
+        "gold_answer": "Aisha felt anxious and overwhelmed with her responsibilities, stating she had a lot on her plate. This feeling evolved into a sense of being trapped in her thoughts, especially as she recognized her emotional struggles and the need for help yet felt apprehensive about seeking it."
+    },
+    {
+        "User Id": 27,
+        "question": "How does Sophie initially experience feelings of being overwhelmed and isolated, and what leads her to recognize her need for support?",
+        "answer_wm": "Sophie initially experiences feelings of being overwhelmed and isolated due to her concerns for her close friend Claire, which creates a sense of guilt about balancing her studies and helping her friend. Additionally, she feels drained after conversations with Claire and tends to withdraw from friends and family to avoid burdening them. This mix of emotional strain and the realization during her photography class that she needs to take care of herself leads her to recognize her need for support.",
+        "answer_wom": "Sophie initially experiences feelings of being overwhelmed and isolated during her photography class, which prompts her realization that she needs to take care of herself. This moment of clarity signifies her acknowledgment of her struggles and the recognition that seeking help is necessary for her well-being.",
+        "gold_answer": "Sophie initially feels overwhelmed and isolated, stating, 'I’ve been feeling really isolated. After a tough conversation with Claire, I feel drained.' This experience prompts a breakthrough during her photography class, leading her to realize, 'I need to take care of myself,' which helps her acknowledge her need for support."
+    },
+    {
+        "User Id": 28,
+        "question": "What was Jasmine's state of mind regarding her own needs before the change, and what event led her to realize the importance of self-care?",
+        "answer_wm": "Before the change, Jasmine's state of mind regarding her own needs was marked by feelings of being overwhelmed, stressed, and fatigued due to high expectations, along with guilt about neglecting her mental health and supporting her friend Claire. The event that led her to realize the importance of self-care was attending a seminar.",
+        "answer_wom": "Before the change, Jasmine was neglecting her mental health and may not have fully recognized her own needs. The event that led her to realize the importance of self-care was attending a seminar.",
+        "gold_answer": "Before the change, Jasmine felt lost and overwhelmed, saying, 'I feel so lost right now, and I just want to help Claire.' The important realization about self-care came after attending a seminar where she recognized, 'I feel like I can’t keep neglecting my mental health.'"
+    },
+    {
+        "User Id": 29,
+        "question": "How did Oliver feel before he began to feel hopeful about seeking help, and what event inspired this change?",
+        "answer_wm": "Before Oliver began to feel hopeful about seeking help, he felt overwhelmed, stressed, and fatigued due to pressure from multiple projects. He also experienced feelings of misunderstanding and isolation, particularly after a conflict with club members, which made him apprehensive about opening up and scared of how others might perceive his struggles. The event that inspired this change was attending a workshop on mental health, which helped him realize the need to prioritize his well-being.",
+        "answer_wom": "Before Oliver began to feel hopeful about seeking help, he felt apprehensive and scared about opening up, particularly regarding how others might perceive his struggles. The event that inspired this change was attending a workshop on mental health, which made him realize the importance of prioritizing his own well-being.",
+        "gold_answer": "Before feeling hopeful, Oliver felt really isolated and misunderstood after conflicts with his fellow club members. The workshop on mental health inspired his change, helping him realize the importance of prioritizing his well-being."
+    },
+    {
+        "User Id": 30,
+        "question": "How did Isabella's feelings of isolation and inability to manage her life lead her to realize the importance of prioritizing her mental health?",
+        "answer_wm": "Isabella's feelings of isolation and her struggle to manage her responsibilities likely contributed to a growing awareness of her neglect towards her mental health. The stress from academic pressures and her sense of guilt related to supporting her friend left her feeling overwhelmed. As she reflected on these emotions and recognized the toll they were taking on her well-being, she began to understand that prioritizing self-care is essential for her overall mental health. This realization was further emphasized by her attendance at the workshop, which helped clarify the importance of seeking help and making positive changes.",
+        "answer_wom": "Isabella's feelings of isolation and difficulty in managing her life likely created a sense of overwhelm and led her to neglect her mental health. The workshop made her aware of the impact of self-care on her well-being, helping her recognize the importance of prioritizing her mental health as a necessary step towards improving her overall quality of life. This realization shows that she understands her needs better and is beginning to see the value in seeking support to address her mental health challenges.",
+        "gold_answer": "Isabella's feelings of isolation made her realize that she has been neglecting her mental health, prompting her to recognize the need for self-care and support."
+    },
+    {
+        "User Id": 31,
+        "question": "How does Isabella feel about her mental health and responsibilities at the beginning, and what causes her guilt and distraction later on?",
+        "answer_wm": "At the beginning, Isabella feels both hopeful and apprehensive about her mental health, recognizing the importance of prioritizing it while also feeling scared to open up to others. Her guilt stems from neglecting her self-care and feeling guilty about not supporting her friend Sarah adequately, which also leads to her distraction from her academic responsibilities. Additionally, she feels overwhelmed and conflicted about managing her friendship with Sarah alongside her schoolwork, contributing to her feelings of isolation.",
+        "answer_wom": "Isabella feels both hopeful and apprehensive about her mental health at the beginning. She recognizes that she has been neglecting her self-care, which contributes to her feelings of guilt and distraction. The realization from the workshop highlights her awareness of the importance of prioritizing her mental health, but her fear of opening up to others creates additional difficulty in addressing her responsibilities.",
+        "gold_answer": "Initially, Isabella feels overwhelmed with her responsibilities and begins to experience guilt because she wants to support Sarah, but is falling behind in her studies."
+    },
+    {
+        "User Id": 32,
+        "question": "What was Aria's mental state like before she realized the importance of self-care, and what inspired her to reflect on her needs?",
+        "answer_wm": "Before realizing the importance of self-care, Aria's mental state was characterized by feelings of being overwhelmed and stressed due to academic pressure. She also felt guilty about neglecting her friend Sarah, experienced feelings of isolation, and questioned her ability to manage relationships. Her attendance at a mental health workshop inspired her to reflect on her needs and recognize the importance of caring for herself.",
+        "answer_wom": "Before realizing the importance of self-care, Aria likely felt overwhelmed or disconnected from her own needs, which contributed to her apprehension about seeking help. Her participation in a workshop on mental health inspired her to reflect on her needs and acknowledge the necessity of taking care of herself.",
+        "gold_answer": "Before realizing the importance of self-care, Aria felt overwhelmed and anxious about her studies. The workshop on mental health helped her understand the need to prioritize her well-being, prompting her to reflect on her needs."
+    },
+    {
+        "User Id": 33,
+        "question": "How did Emma feel before seeking help, and what led her to realize the need for assistance?",
+        "answer_wm": "Before seeking help, Emma felt exhausted, guilty for not being happy, and experienced anxiety about change. She felt like a failure after struggling academically and was going through feelings of isolation, believing she was facing her struggles alone. These feelings and her recognition of the impact on her mental state led her to realize the need for assistance and ultimately reach out for counseling services.",
+        "answer_wom": "Before seeking help, Emma felt anxious and possibly overwhelmed, as indicated by her nerves about reaching out. She realized the need for assistance when she recognized that talking to someone who understood her feelings provided relief and a sense of hope for the future.",
+        "gold_answer": "Before seeking help, Emma felt overwhelmed as she just started her final year and felt the pressure. This prompted her to realize she needed assistance, which she understood as a big step towards feeling better."
+    },
+    {
+        "User Id": 34,
+        "question": "How did Sophia feel before she reached out to her mentor, and what led her to decide to communicate her fears?",
+        "answer_wm": "Before reaching out to her mentor, Sophia felt quite stressed, isolated, overwhelmed, and disheartened. She was experiencing anxiety and doubting her leadership skills, particularly due to a disagreement and the fear of judgment from a team member. These feelings of being lost and overwhelmed ultimately led her to decide to communicate her fears to her mentor.",
+        "answer_wom": "Before reaching out to her mentor, Sophia likely felt anxious and overwhelmed by her fears about leadership and expectations. The pressure from these feelings prompted her to decide to communicate with her mentor, seeking support and advice to help manage her responsibilities better.",
+        "gold_answer": "Before reaching out to her mentor, Sophia was disheartened and doubted herself, feeling the urge to withdraw from her friends. She decided to communicate her fears because she found it relieving to share her feelings."
+    },
+    {
+        "User Id": 35,
+        "question": "How did Ethan feel before he engaged in open communication about his challenges, and what led him to recognize the importance of addressing these issues?",
+        "answer_wm": "Before engaging in open communication about his challenges, Ethan felt anxious, overwhelmed, and unsupported, particularly due to a disagreement during a study group and negative remarks from a peer. He doubted himself and considered withdrawing from both the project and his friendships. His conversation with Dr. Lewis helped him recognize the importance of addressing these issues, as he felt relieved after sharing his feelings and received communication strategies that empowered him. This shift in perspective led him to feel hopeful about tackling his concerns with his project team.",
+        "answer_wom": "Before engaging in open communication about his challenges, Ethan felt anxious and possibly overwhelmed. He recognized the importance of addressing these issues after having a relieving conversation with Dr. Lewis, who was understanding and provided him with communication strategies. This guidance made him feel more empowered and hopeful, leading him to decide to express his concerns openly with his project team.",
+        "gold_answer": "Before engaging in open communication, Ethan felt unsupported and frustrated, doubting himself and considering withdrawal due to the challenges he faced. After talking to Dr. Lewis, he recognized the importance of communication and received strategies that empowered him to address his issues."
+    },
+    {
+        "User Id": 36,
+        "question": "How did Ava's feelings of defeat and anxiety about her challenges lead to a transformation towards hope and empowerment after seeking advice?",
+        "answer_wm": "Ava's journey from feelings of defeat and anxiety to hope and empowerment began when she decided to open up about her pressures and feelings of inadequacy to Dr. Brown. By expressing her concerns and receiving valuable advice on self-care and setting boundaries, she felt more equipped to handle her challenges. This newfound understanding allowed her to see the importance of addressing her feelings with her project group, fostering hope that open communication could resolve ongoing tensions. Additionally, engaging in hobbies like dancing provided her with a therapeutic outlet, reinforcing her resilience and sense of agency. Overall, seeking support and prioritizing self-care transformed Ava's perspective, empowering her to face her challenges with a more hopeful mindset.",
+        "answer_wom": "Ava's feelings of defeat and anxiety stemmed from the pressures and feelings of inadequacy she was experiencing. By speaking with Dr. Brown, she was able to open up about these challenges, which allowed her to receive valuable advice on self-care and setting boundaries. This conversation helped her feel more equipped to handle her situation, leading to a sense of empowerment. Her desire to express her concerns to her project group reflects her newfound hope and initiative to resolve tensions, signaling a transformation from anxiety to a proactive approach in her challenges. Additionally, engaging in activities like dancing further contributed to her well-being, reinforcing her positive emotional shift.",
+        "gold_answer": "Ava was feeling defeated due to her challenges, but after speaking with Dr. Brown, who provided excellent advice, she began to feel a flicker of hope and empowerment to address her challenges."
+    },
+    {
+        "User Id": 37,
+        "question": "How did Samuel feel about himself before he sought advice from Dr. Richards, and what did Dr. Richards encourage him to do that sparked a change in his perspective?",
+        "answer_wm": "Before seeking advice from Dr. Richards, Samuel felt inadequate and experienced anxiety, particularly regarding his upcoming interactions in group settings. Dr. Richards encouraged him to focus on self-care and to assert his thoughts in the group, which helped spark a change in his perspective and made him feel a bit more empowered.",
+        "answer_wom": "Before seeking advice from Dr. Richards, Samuel felt inadequate. Dr. Richards encouraged him to prioritize self-care and assert his thoughts in the group, which sparked a change in his perspective by making him feel a bit more empowered.",
+        "gold_answer": "Before seeking advice from Dr. Richards, Samuel felt like he was 'just not good enough,' especially after receiving criticism and feeling low. Dr. Richards encouraged him to recognize his value and to assert his thoughts in the group, which sparked a change in his perspective."
+    },
+    {
+        "User Id": 38,
+        "question": "How did Olivia feel about her situation before reaching out for help, and what specific guidance prompted her to feel more empowered and determined afterward?",
+        "answer_wm": "Before reaching out for help, Olivia felt overwhelmed by stress and criticism, along with feelings of anxiety about managing her commitments. She also felt undervalued and dismissed in group settings, which affected her confidence. After speaking with Dr. Garcia, Olivia felt liberated after sharing her feelings and received encouraging guidance on self-care techniques. This support made her feel lighter and more empowered, as she became excited about being able to express her feelings.",
+        "answer_wom": "Before reaching out for help, Olivia felt stressed and criticized, which likely contributed to her feelings of heaviness and burden. After speaking with Dr. Garcia, who was encouraging and suggested self-care techniques, Olivia felt liberated and a little lighter. The specific guidance that prompted her to feel more empowered was the encouragement to express her feelings and the suggestion to prepare her communication with her group ahead of time, enabling her to assert herself calmly and clearly.",
+        "gold_answer": "Before reaching out for help, Olivia felt like she wasn’t good enough and experienced defeat and anxiety. After receiving encouragement and self-care techniques from Professor Garcia, she felt lighter and more empowered."
+    },
+    {
+        "User Id": 39,
+        "question": "How did Mia feel about her abilities before seeking support, and what encouragement helped her feel more empowered afterwards?",
+        "answer_wm": "Before seeking support, Mia felt nervous, experienced self-doubt, and lacked confidence, particularly regarding her abilities to confront Kevin and communicate her feelings effectively. After speaking with Dr. Garcia, she felt encouraged by the supportive feedback about the importance of self-care and communication, which helped her feel more in control and hopeful about expressing herself.",
+        "answer_wom": "Before seeking support, Mia felt overwhelmed by academic and social pressures, which likely made her feel anxious and uncertain about her ability to confront her concerns. After speaking with Dr. Garcia and receiving encouragement to express herself, particularly the emphasis on self-care and communication, Mia felt more in control and empowered to prepare for the conversation with Kevin and the group.",
+        "gold_answer": "Before seeking support, Mia felt like she was 'not cut out for this field.' After receiving encouragement from Dr. Garcia, who validated her feelings and emphasized 'self-care and communication,' Mia felt a bit more in control and empowered."
+    },
+    {
+        "User Id": 40,
+        "question": "How did Sofia feel about herself before discussing her challenges with Dr. Garcia, and what advice helped prompt a change in her perspective?",
+        "answer_wm": "Before discussing her challenges with Dr. Garcia, Sofia felt overwhelmed, undervalued, and anxious. She experienced fear of disappointing others, felt she couldn't share her ideas, and questioned her belonging in her group. The advice that helped prompt a change in her perspective was Dr. Garcia's emphasis on the importance of being true to herself and not letting others' opinions define her worth.",
+        "answer_wom": "Before discussing her challenges with Dr. Garcia, Sofia felt pressure and faced criticism, which likely affected her self-worth. The advice that helped prompt a change in her perspective was the emphasis on being true to herself and not allowing others' opinions to define her worth.",
+        "gold_answer": "Before the conversation, Sofia felt defeated and questioned whether she was 'cut out for this major' and felt she couldn't share her ideas. After discussing her struggles, Dr. Garcia emphasized the importance of being true to herself, which helped Sofia realize that setbacks are part of the creative process and positively impacted her self-esteem."
+    },
+    {
+        "User Id": 41,
+        "question": "How did Ella feel about her situation before talking to her friend Mia, and what did Mia say that encouraged Ella to consider seeking help?",
+        "answer_wm": "Before talking to her friend Mia, Ella felt overwhelmed, insecure, and inadequate compared to her siblings, and she was also trying to handle her emotional struggles on her own. Mia encouraged Ella to confront her feelings and think about seeking professional help, which was an eye-opening suggestion for Ella.",
+        "answer_wom": "Before talking to her friend Mia, Ella likely felt uncertain and weighed down by her feelings. Mia encouraged her to confront her emotions and consider seeking professional help, which prompted Ella to feel a bit hopeful despite her fears.",
+        "gold_answer": "Before talking to her friend Mia, Ella felt exhausted, and it’s like she was withdrawing from friends and activities she used to enjoy, adding to her sense of being overwhelmed by starting her third year of college. Mia encouraged her to confront her feelings and think about seeking professional help."
+    },
+    {
+        "User Id": 42,
+        "question": "How did Sophia initially handle her emotional struggles, and what prompted her to begin seeking support from others?",
+        "answer_wm": "Sophia initially handled her emotional struggles by trying to stay busy to cope with her feelings, which included anxiety and sadness, particularly related to environmental issues and the recent loss of her family pet. Her conversation with her brother Aryan, who encouraged her to seek professional support, prompted her to begin considering reaching out for help. This discussion provided her with some relief, but she still felt unsure about taking the next step.",
+        "answer_wom": "Sophia initially handled her emotional struggles by confiding in her brother, Aryan, who encouraged her to seek professional support. After their conversation, she felt somewhat relieved, which prompted her to consider reaching out for help.",
+        "gold_answer": "Initially, Sophia felt anxious and overwhelmed, expressing that she was 'anxious' about her final year. Her conversation with Aryan about seeking professional support marked the beginning of her journey toward being more open about her struggles."
+    },
+    {
+        "User Id": 43,
+        "question": "How did Amara feel before her conversation with Khaled, and what led her to start thinking about seeking advice from a mentor?",
+        "answer_wm": "Before her conversation with Khaled, Amara felt anxious, overwhelmed, and frustrated about starting her senior year. She was struggling with feelings of uncertainty regarding her job prospects and self-doubt about her ideas. This emotional struggle, coupled with pressure to succeed and compare herself to her peers, led her to start thinking about seeking advice from a career counselor for guidance. Khaled's supportive suggestion to consider talking to a career counselor helped her to explore this option further.",
+        "answer_wom": "Before her conversation with Khaled, Amara likely felt uncertain and vulnerable about her feelings and situation. Talking with Khaled provided her with supportive feedback, which encouraged her to consider seeking advice from a career counselor, as he suggested she might benefit from professional guidance.",
+        "gold_answer": "Before her conversation with Khaled, Amara felt helpless and disappointed in herself. After talking to Khaled, he reassured her and encouraged her to consider seeking advice from a mentor, which helped her start thinking about her next steps."
+    },
+    {
+        "User Id": 44,
+        "question": "How did Nathan's feelings of uncertainty affect him before he decided to confide in his sister, and what prompted him to seek her support?",
+        "answer_wm": "Before Nathan decided to confide in his sister, his feelings of uncertainty likely contributed to his experiences of inadequacy and anxiety about his future. He was worried about his career aspirations and felt pressured by his peers, which intensified his mental state. These emotions may have led him to feel overwhelmed and isolated, ultimately prompting him to seek support from Sofia to share his struggles and gain encouragement.",
+        "answer_wom": "Before Nathan decided to confide in his sister, his feelings of inadequacy and worries about the future led to uncertainty, making him hesitant to take proactive steps like pursuing mentorship opportunities. He sought his sister's support because he needed someone to talk to about his emotions and to gain encouragement in navigating his feelings and potential action steps.",
+        "gold_answer": "Before confiding in his sister, Nathan felt heavy-hearted and questioned his ability to handle the emotional demands of a psychology career, which left him feeling uncertain. His sister's support prompted him to consider mentorship opportunities, which suggested that mentors could help him learn and grow."
+    },
+    {
+        "User Id": 45,
+        "question": "How did Talia's feelings of inadequacy affect her willingness to reach out for support, and what prompted her to reconsider this after talking to her brother?",
+        "answer_wm": "Talia's feelings of inadequacy made her hesitant to reach out for support because she feared that seeking mentorship might highlight her inexperience and make her feel vulnerable. However, after talking to her brother Ethan, who offered reassurance and suggested looking for mentorship opportunities, Talia began to reconsider this stance. The support and encouragement from her brother helped her feel more positive and open to the idea of seeking guidance, allowing her to see that mentorship could be a beneficial step in her growth rather than a source of embarrassment.",
+        "answer_wom": "Talia's feelings of inadequacy initially made her hesitant to reach out for support, as she feared that seeking mentorship could highlight her inexperience. However, after talking to her brother Ethan, who offered reassurance and suggested mentorship as a positive opportunity for guidance, Talia began to reconsider her stance. The encouragement she received from her brother helped her recognize that mentorship could be a valuable resource for her growth, prompting her to take the idea more seriously despite her fears of vulnerability.",
+        "gold_answer": "Talia felt inadequate and preferred to withdraw instead of reaching out, as she didn't want to burden her friends. However, after confiding in her brother about her feelings, he reassured her and suggested looking for mentorship opportunities, which helped her reconsider seeking support."
+    },
+    {
+        "User Id": 46,
+        "question": "How did Jamila initially feel about her future and what sparked a change in her perspective after talking to her brother?",
+        "answer_wm": "Initially, Jamila felt inadequate and overwhelmed about her future, particularly due to pressure surrounding graduate school applications and concerns about her inexperience. After talking to her brother Amir, who was supportive and suggested seeking mentorship, she began to feel a little more confident and open to the idea of reaching out for guidance. This supportive conversation sparked a change in her perspective, making her consider taking that first step toward mentorship.",
+        "answer_wom": "Jamila initially felt inadequate and uncertain about her future, but after talking to her brother Amir, who was supportive and suggested seeking mentorship, she began to feel more confident and open to the idea of reaching out for guidance.",
+        "gold_answer": "Initially, Jamila felt overwhelmed due to pressures regarding graduate school applications, but talking to her brother encouraged her and made her feel a little more confident about seeking mentorship."
+    },
+    {
+        "User Id": 47,
+        "question": "How did Ethan feel before he confided in his sister, and what prompted him to express his feelings and seek mentorship?",
+        "answer_wm": "Before confiding in his sister, Ethan felt feelings of inadequacy, anxiety related to graduate applications, and insecurity about meeting expectations. These feelings were likely exacerbated by his comparison to peers and the high expectations placed on him by his mother. The conversation with his sister prompted him to express his worries and consider seeking mentorship opportunities in his field as a way to gain support and guidance.",
+        "answer_wom": "Before confiding in his sister, Ethan likely felt feelings of inadequacy and nervousness about his experiences and skills. His conversation with his sister prompted him to express these feelings and consider seeking mentorship as a way to gain guidance and support in his field.",
+        "gold_answer": "Before confiding in his sister, Ethan felt discouraged and unsure of his value in this field. After sharing his worries with her, she suggested he seek mentorship opportunities, prompting him to express his feelings and consider mentorship."
+    },
+    {
+        "User Id": 48,
+        "question": "How did Priya feel about her future before her conversation with her brother, and what encouraged her to consider mentorship afterward?",
+        "answer_wm": "Before her conversation with her brother, Priya felt anxious and worried about her future, particularly regarding graduate school applications, and she experienced feelings of inadequacy and discouragement when comparing herself to others. Her brother's supportive response and suggestion to seek mentorship encouraged her to consider this option as a way to receive guidance and support in navigating her challenges.",
+        "answer_wom": "Before her conversation with her brother, Priya felt worried about her future and her insecurities. After talking with Rohan, his support and suggestion to look for a mentor encouraged her to consider mentorship as a good opportunity for growth.",
+        "gold_answer": "Before her conversation with her brother, Priya felt pretty anxious about her future due to the pressure to apply for graduate school. Afterward, he encouraged her to look for a mentor to guide her, which instilled a sense of hopefulness."
+    },
+    {
+        "User Id": 49,
+        "question": "How did Samantha's feelings of isolation and defensiveness impact her ability to communicate with her family before she opened up, and what prompted her to finally express her struggles?",
+        "answer_wm": "Samantha's feelings of isolation and defensiveness likely made it difficult for her to communicate openly with her family, as she may have felt that they would not understand her struggles or that she would be judged. This could have led to a buildup of emotions and stress, making it harder for her to share her feelings. However, her need for support and the realization that she didn't have to face her challenges alone prompted her to finally express her struggles to her family, leading to a sense of relief and vulnerability after opening up.",
+        "answer_wom": "Samantha's feelings of isolation and defensiveness likely made it difficult for her to communicate openly with her family, as these emotions can create barriers to vulnerability and honesty. Before she opened up, she might have felt overwhelmed by her struggles and unable to share her feelings due to fear of judgment or a belief that she needed to handle things on her own. The turning point that prompted her to finally express her struggles was likely her realization that she didn't have to go through these challenges alone, combined with the overwhelming need for support that led her to reach out.",
+        "gold_answer": "Before she opened up, Samantha felt so withdrawn and experienced guilt for not being social, which limited her ability to connect with her family. The vulnerability she felt when she finally broke down prompted her to express her struggles, leading to her family's support."
+    },
+    {
+        "User Id": 50,
+        "question": "How did Ella initially feel about her presentation, and what contributed to her stress and withdrawal as the date approached?",
+        "answer_wm": "Ella initially felt anxious and overwhelmed about her presentation, which culminated in a panic attack just before she was supposed to speak. This anxiety stemmed from her feelings of inadequacy and the pressure to perform well, contributing to her stress and withdrawal as the date approached.",
+        "answer_wom": "Ella initially felt anxious about her presentation, which culminated in a panic attack just before she was supposed to speak. The pressure of the upcoming presentation contributed to her stress and feelings of inadequacy and embarrassment afterward.",
+        "gold_answer": "Ella felt quite anxious about her presentation and experienced stress due to the pressure to perform well. As the date approached, she began to doubt her ability to engage her classmates, which resulted in feelings of isolation and self-doubt."
+    },
+    {
+        "User Id": 51,
+        "question": "How did Sophia initially feel about expressing her ideas, and what led to her growing frustration and doubts as the project progressed?",
+        "answer_wm": "Initially, Sophia felt anxious about expressing her ideas in the group project, fearing conflict and having concerns about voicing her opinions. As the project progressed, her frustration and doubts grew due to her tendency to compare herself to Mark, who dominated discussions, leading her to feel inadequate and frustrated despite receiving positive feedback. She also felt overwhelmed during presentations and noted an inner critic that made it hard for her to believe in herself.",
+        "answer_wom": "Sophia initially felt nervous about expressing her ideas during the presentation. Her growing frustration and doubts stemmed from stumbling through her part and comparing herself unfavorably to Mark, despite receiving some positive feedback. This inner criticism made it difficult for her to acknowledge her own value and contributions.",
+        "gold_answer": "Sophia initially felt anxious but passionate about her ideas in the group project, but as Mark dominated discussions, she began to find it hard to voice her opinions, leading to growing frustration and doubts about her worth."
+    },
+    {
+        "User Id": 52,
+        "question": "How did Elias feel about his future before he spoke with his sister, and what did she say that prompted a shift in his outlook?",
+        "answer_wm": "Before speaking with his sister, Elias felt disillusioned about the future, experienced feelings of excitement and dread regarding career opportunities, and was unsure of his worth. After their conversation, his sister, Hannah, encouraged him to embrace his unique perspective, which helped him feel more positive about his situation, although he remained conflicted about his career path.",
+        "answer_wom": "Before speaking with his sister, Elias felt conflicted and unsure about his worth and future, particularly after the career fair where he felt overlooked in regard to his creative interests. His sister, Hannah, encouraged him to embrace his unique perspective, which helped him to start shifting his outlook towards a more positive view of his path.",
+        "gold_answer": "Before speaking with his sister, Elias felt lost and frustrated about his future. After their conversation, Hannah encouraged him to embrace his unique perspective, prompting a small glimmer of hope in him."
+    },
+    {
+        "User Id": 53,
+        "question": "How did Maya initially feel about her projects, and what specific experience during the exhibition led her to feel a sense of hope despite her anxiety?",
+        "answer_wm": "Maya initially felt overwhelmed and anxious about her projects, particularly regarding meeting her personal standards and the high expectations from her parents. Despite her anxiety during the exhibition, she experienced a sense of hope when some visitors praised her design, indicating that her work was appreciated, even though she struggled to fully embrace that positive feedback.",
+        "answer_wom": "Maya initially felt anxious about her projects, feeling overwhelmed during the exhibition setup and wanting to engage but being held back by her anxiety. Despite this, she experienced a sense of hope when some visitors praised her design, indicating that her work was appreciated, even though she initially brushed off the compliments.",
+        "gold_answer": "Initially, Maya felt overwhelmed with multiple projects due, but during the exhibition, despite her anxiety, some visitors praised her design, which led her to recognize her talent and experience a sense of hope."
+    },
+    {
+        "User Id": 54,
+        "question": "How did Zara initially approach her academic challenges, and what influenced her to begin feeling overshadowed by her classmates?",
+        "answer_wm": "Zara initially approached her academic challenges with determination, trying her best in her studies and engaging in projects related to her Biochemistry major. However, her feelings of inadequacy and anxiety were influenced by her tendency to compare herself to her classmates, particularly feeling overshadowed by peers like Fahim, who exuded confidence. This comparison contributed to her feelings of overwhelm and disconnection, leading her to focus more on her fears and worries than on her achievements.",
+        "answer_wom": "Zara initially approached her academic challenges with effort and a sense of relief after completing her midterms. However, the mix of relief and anxiety, particularly her focus on fears and doubts rather than positive feedback, suggests that her self-perception and comparison to classmates may have influenced her feelings of being overshadowed. This tendency to dwell on worries rather than recognize her successes may have contributed to her anxiety about her performance.",
+        "gold_answer": "Initially, Zara approached her academic challenges by juggling multiple projects for her biochemistry classes despite feeling overwhelmed. However, as she struggled to express her ideas during study groups, especially feeling overshadowed by confidently contributing classmates like Fahim, she began to feel increasingly withdrawn."
+    },
+    {
+        "User Id": 55,
+        "question": "How did Amina initially feel about her academic pressures, and what led to her increased anxiety as exams approached?",
+        "answer_wm": "Amina initially felt overwhelmed by her academic pressures, experiencing anxiety from comparing herself to her classmates and feeling overshadowed, especially during group study sessions. As exams approached, this pressure intensified, leading to worsening anxiety and feelings of being lost. The emphasis on academic success from her family further contributed to her stress and feelings of being overwhelmed this semester.",
+        "answer_wom": "Amina initially felt a mix of relief and dread about her academic pressures as she progressed through her first exam. Her anxiety increased as she worried about her performance, overshadowing her moments of pride in her answers and leading to an overall sense of fear about not doing well.",
+        "gold_answer": "Amina initially felt overwhelmed with multiple projects and exams in her psychology classes, but as exams approached, her anxiety increased, leading her to withdraw from social activities."
+    },
+    {
+        "User Id": 56,
+        "question": "How did Omar feel about his academic performance and personal passions before discussing his feelings with his friend, and what led him to start feeling hopeful about pursuing photography?",
+        "answer_wm": "Omar felt uncertain about his academic performance after the midterm exam and experienced a mix of anxiety and regret, particularly concerning his lack of prioritization of photography, which he views as a positive hobby. Before discussing his feelings with his friend, he struggled with overwhelming stress and feelings of hopelessness. His hope for pursuing photography began to emerge through the acknowledgment of his interest and the potential to re-engage with it now that exams are over, as suggested by the counselor.",
+        "answer_wom": "Omar felt a mix of anxiety and regret about not prioritizing his photography earlier, which affected his focus during the exam. Despite this, he managed to answer some questions well, but he still felt uncertain about his overall performance. The conversation with the counselor likely helped him process his feelings and consider re-engaging with photography now that exams are over, leading him to feel hopeful about pursuing his passion.",
+        "gold_answer": "Before discussing his feelings with Farah, Omar felt hopeless and like he was letting everyone down due to his academic pressures. This conversation helped him start feeling a flicker of hope to revisit his passion for photography."
+    },
+    {
+        "User Id": 57,
+        "question": "How did Sara initially feel after attending the mental health awareness meeting, and what led her to become overwhelmed and withdraw from social interactions?",
+        "answer_wm": "Sara initially felt relieved and validated after attending the mental health awareness meeting, as she connected with others who shared similar struggles. However, she became overwhelmed due to the pressure of managing her coursework and her emotional health, which led her to withdraw from social interactions.",
+        "answer_wom": "Initially, Sara felt validated after reaching out to Alex for support and connecting over shared experiences. However, she became overwhelmed and withdrew from social interactions due to worries about balancing her studies with her emotional health.",
+        "gold_answer": "After attending the mental health awareness meeting, Sara felt inspired and connected but later became overwhelmed by her coursework, leading her to withdraw from social interactions."
+    },
+    {
+        "User Id": 58,
+        "question": "How did Maya feel about her ability to support her friend, and what led her to realize the importance of seeking help for her own emotional needs?",
+        "answer_wm": "Maya felt overwhelmed and inadequate about her ability to support her friend, Priya, especially as she was concerned about Priya seeming distant and struggled with the fear of intruding or making things worse. This emotional struggle led her to reflect on her own feelings and consider the importance of seeking help, as she recognized that professional support might help her sort through her own emotions. After talking to her academic advisor, who suggested speaking to a mental health professional, she felt a sense of relief and began to acknowledge her need for support in managing her own struggles.",
+        "answer_wom": "Maya felt relieved after speaking with her academic advisor, which indicated a recognition of the importance of seeking help for her own emotional needs. Her decision to reflect on her struggles and talk to an advisor showed her awareness of the challenges she faced. The advisor's suggestion to consider talking to a mental health professional highlighted the need for additional support, and despite her uncertainty, she acknowledged that seeking help could assist her in sorting through her feelings. This process led her to realize that taking care of herself was essential.",
+        "gold_answer": "Maya felt disheartened and inadequate in her ability to support Priya, but after reflecting on her experiences, she realized that seeking help might assist her in sorting through everything."
+    },
+    {
+        "User Id": 59,
+        "question": "How did Amira feel before seeking support, and what motivated her to seek help and change her perspective?",
+        "answer_wm": "Before seeking support, Amira felt overwhelmed, frustrated, and inadequate, carrying a significant emotional burden. She also experienced hesitation about following through with self-care strategies. Her motivation to seek help stemmed from her desire to address these feelings and find a way to support herself and others, leading her to share her concerns with a campus counselor and ultimately look for positive changes in her life.",
+        "answer_wom": "Before seeking support, Amira likely felt overwhelmed and uncertain about her feelings, as indicated by her decision to open up to a campus counselor. Her motivation to seek help stemmed from a desire to share her feelings and find a way to cope better, which ultimately led to her feeling a sense of hope after receiving suggestions for self-care and a team-building activity.",
+        "gold_answer": "Before seeking support, Amira felt frustrated and inadequate, struggling with her responsibilities. What motivated her to change was the realization that expressing her feelings could be helpful."
+    },
+    {
+        "User Id": 60,
+        "question": "How does Ethan feel about his situation before reaching out for help, and what leads him to seek professional support?",
+        "answer_wm": "Before reaching out for help, Ethan feels overwhelmed, detached, and lost. He worries about supporting his friend Jake, who is struggling with anxiety, while also feeling like he is falling behind in his studies. This burden of managing both his own feelings and supporting Jake leads him to seek professional support from the campus counselor.",
+        "answer_wom": "Before reaching out for help, Ethan feels overwhelmed by his circumstances. He decides to seek professional support after discussing his feelings with his family, indicating that he recognizes the need for assistance to manage his emotional strain and find better balance in his life.",
+        "gold_answer": "Before reaching out for help, Ethan feels burdened and fears he’s letting Jake and himself down. After talking with his family, he decides to seek professional support, which leads to a feeling of relief in sharing his emotions."
+    },
+    {
+        "User Id": 61,
+        "question": "What was Sophia feeling before she sought help, and what influences led her to decide to reach out for support?",
+        "answer_wm": "Before seeking help, Sophia was feeling overwhelmed, detached, and inadequate, often burdened by worries about her responsibilities as a sister and her pressure to excel in studies. Her concerns were compounded by the stress of supporting her younger brother, Diego, who was anxious about soccer tryouts. These feelings of pressure and the struggle to balance her obligations ultimately influenced her decision to reach out for support, as she recognized the need to open up and seek guidance to manage her emotional state and responsibilities better.",
+        "answer_wom": "Before seeking help, Sophia was likely feeling overwhelmed and possibly isolated, as she had a lot going on but hadn't opened up about it. The influence that led her to reach out for support was the realization that she needed to talk about her feelings and the understanding that sharing her experiences could provide relief. The encouragement to prioritize self-care and set boundaries may have further motivated her to seek guidance.",
+        "gold_answer": "Sophia was feeling overwhelmed and burdened, struggling with a sense of inadequacy and doubt in her roles, which influenced her decision to seek help as she needed to prioritize self-care and set boundaries."
+    },
+    {
+        "User Id": 62,
+        "question": "How did Isabella's initial excitement for her semester change, and what factors contributed to her feeling overwhelmed and anxious?",
+        "answer_wm": "Isabella's initial excitement for her semester changed as she faced pressure and anxiety from balancing her coursework with preparing for an upcoming art exhibition. Contributing factors to her feeling overwhelmed included concerns about her father's health, which affected her family dynamics and emotional state, as well as the stress of feeling inadequate after group critiques. Additionally, her worries about not giving enough attention to her studies and family further compounded her sense of overwhelm.",
+        "answer_wom": "Isabella's initial excitement for her semester changed as she began to feel overwhelmed and anxious about her responsibilities and the adjustments required for her to maintain self-care and boundaries. Factors contributing to her feelings include the pressure to implement changes suggested by the counselor and uncertainty about her ability to follow through with self-care practices.",
+        "gold_answer": "Isabella begins the semester filled with excitement about her Graphic Design major and her upcoming art exhibition, but as her father's health declines and the exhibition approaches, she feels overwhelmed and anxious, ultimately doubting her abilities after harsh feedback during a critique."
+    },
+    {
+        "User Id": 63,
+        "question": "What challenges does Aiden face that contribute to his feelings of inadequacy, and what leads him to seek help from a counselor?",
+        "answer_wm": "Aiden faces challenges such as anxiety about his internship search, overwhelming academic pressures from classes and projects, and concerns about competing with others while maintaining his grades. Additionally, he feels inadequate, struggles to keep up in group projects, and fears letting people down, particularly when helping his sister. These cumulative pressures contribute to his feelings of inadequacy, leading him to seek help from a counselor as a way to address his emotional struggles and find guidance on implementing self-care and setting boundaries.",
+        "answer_wom": "Aiden faces challenges related to managing his emotions and possibly feeling overwhelmed, which contributes to his feelings of inadequacy. He recognizes the importance of self-care and setting boundaries but is unsure how to apply these concepts in his life. This uncertainty and the weight of his struggles lead him to seek help from a campus counselor, where he felt relief in expressing his feelings.",
+        "gold_answer": "Aiden feels overwhelmed and inadequate due to stress from his responsibilities and an inability to contribute in group projects, which leads him to seek help from a campus counselor to articulate his feelings and consider self-care."
+    },
+    {
+        "User Id": 64,
+        "question": "How did Liam initially feel about his semester and what factors contributed to his feelings of overwhelm?",
+        "answer_wm": "Liam initially felt overwhelmed and exhausted during his semester. Contributing factors to his feelings of overwhelm included a heavy academic workload, anxiety about securing an internship, and the emotional strain of trying to support his sister, Priya, who was struggling in high school.",
+        "answer_wom": "Liam initially felt overwhelmed, and this was likely due to various pressures he was facing at school, which he discussed with the counselor. The details of those pressures are not explicitly mentioned, but the need for counseling and the relief he felt from expressing his experiences suggest that he was dealing with significant stress and possibly a lack of self-care.",
+        "gold_answer": "Liam initially felt really excited about the semester and his studies in Political Science, looking forward to advocacy work, but he became overwhelmed due to a heavy load of commitments, including classes, supporting his sister Priya, and his responsibilities in student government."
+    },
+    {
+        "User Id": 65,
+        "question": "How did Maya initially express her engagement in environmental studies, and what led her to start questioning her abilities in this field?",
+        "answer_wm": "Maya initially expressed her engagement in environmental studies through her passion for the topic, which she cared deeply about. However, during her recent project presentation, her anxiety led her to freeze up and struggle to convey this passion, prompting her to question her abilities in this field.",
+        "answer_wom": "Maya initially expressed her engagement in environmental studies through her passion for the project she presented. However, she began to question her abilities in this field after experiencing anxiety during the presentation, which led to her feeling that she messed up and fixating on her performance rather than the positive feedback she received.",
+        "gold_answer": "Initially, Maya expressed her engagement by saying she's always been confident about wanting to help the environment. However, she began to feel inadequate when she compared herself to her brother, leading her to question her abilities."
+    },
+    {
+        "User Id": 66,
+        "question": "How did Tara feel about her connection with her peers initially, and what led her to feel even more isolated after reaching out for support?",
+        "answer_wm": "Initially, Tara felt overwhelmed and disconnected from her classmates, struggling to connect with them due to differing awareness of global issues. After reaching out for support, she felt dismissed by a friend, which led to feelings of isolation and being undervalued, amplifying her sense of loneliness.",
+        "answer_wom": "Initially, Tara felt discouraged by her peers' unenthusiastic response during the presentation, which drained her motivation and contributed to her feelings of isolation. After reaching out for support, her sense of failure and questioning of her chosen field intensified her feelings of isolation, making her doubt her place in international relations.",
+        "gold_answer": "Initially, Tara felt frustrated and expressed that she struggled to connect with her classmates. After reaching out for support, she felt dismissed and more isolated, stating, 'I felt dismissed,' which contributed to her feelings of isolation."
+    },
+    {
+        "User Id": 67,
+        "question": "How was Sofia feeling about her passion for mental health advocacy before she confided in Alicia, and what led her to feel invalidated afterwards?",
+        "answer_wm": "Before confiding in Alicia, Sofia felt deeply passionate about mental health advocacy, indicating a strong emotional investment in the subject. However, after her feelings were dismissed by Alicia during a conversation, she felt invalidated and hurt, leading to a sense of discouragement regarding sharing her thoughts and experiences with others.",
+        "answer_wom": "Before confiding in the counselor, Sofia was feeling passionate about mental health advocacy. However, after her presentation, she struggled to connect with the audience and felt significant pressure, which led her to feel like a failure. This experience caused her to question her focus on psychology, making her feel invalidated in her passion for mental health.",
+        "gold_answer": "Before confiding in Alicia, Sofia felt frustrated and isolated as her classmates trivialized mental health issues. After the conversation, she felt lonely and invalidated, leading her to question if her passions mattered."
+    },
+    {
+        "User Id": 68,
+        "question": "How did Javier feel about his passion for environmental science before he faced challenges with his peers, and what led him to doubt that passion later on?",
+        "answer_wm": "Before facing challenges with his peers, Javier likely felt a sense of commitment to his passion for environmental science, possibly motivated by his experiences volunteering at a wildlife sanctuary and his interest in community activism. However, the feelings of being overwhelmed, disconnected from classmates, and having his ideas dismissed in group discussions led him to doubt his passion for environmental advocacy and contributed to his consideration of switching to photography after struggling with his presentation.",
+        "answer_wom": "Before facing challenges with his peers, Javier had a strong passion for environmental science. However, after struggling to effectively engage his audience during his presentation and feeling overwhelming pressure, he began to doubt his abilities and considered shifting his focus to photography, which led him to question if he should continue pursuing environmental science.",
+        "gold_answer": "Javier initially felt excited about his environmental science classes and was impacted by his transformative summer volunteering at a wildlife sanctuary. However, he began to doubt his passion when he felt unsupported and disconnected, leading him to question whether he should continue advocating for environmental causes."
+    },
+    {
+        "User Id": 69,
+        "question": "How did Amina initially feel about her creative abilities, and what led her to start doubting herself?",
+        "answer_wm": "Initially, Amina felt that her creativity was valid and that she had a passion for graphic design. However, during her presentation, she sensed the audience's indifference, which made her feel pressured and discouraged. As a result, she began to question whether graphic design was truly the right path for her, leading her to doubt her creative instincts and consider focusing more on photography instead.",
+        "answer_wom": "Amina initially felt pressured and passionate about her creative abilities, particularly regarding her design presentation. However, she began to doubt herself after perceiving the audience's indifference during her presentation, leading her to question if Graphic Design is truly the right field for her and consider focusing more on photography instead.",
+        "gold_answer": "Initially, Amina was feeling inspired about her Graphic Design classes, but after talking to her brother, she felt invalidated and began to question her own creative instincts."
+    },
+    {
+        "User Id": 70,
+        "question": "What was Elena's initial outlook on her Psychology classes, and what experiences led her to question her commitment to psychology?",
+        "answer_wm": "Elena's initial outlook on her Psychology classes was positive, as she was eager to explore her passion for mental health and helping others. However, her recent experiences—particularly feeling pressure during her presentation, struggling to connect with her audience, and perceiving indifference from her classmates—led her to question her commitment to psychology. She also expressed feelings of failure, prompting her to consider switching to art therapy as an alternative career path.",
+        "answer_wom": "Elena initially had an interest in her Psychology classes, but her experience during the recent presentation—where she felt pressure, struggled to connect with her audience, and perceived indifference from them—has led her to question her commitment to psychology. She is now contemplating a switch to art therapy as an alternative career path.",
+        "gold_answer": "Elena initially felt excited to share her insights in her Psychology classes, but after facing repeated indifference and feeling like she failed during her presentation, she started questioning her commitment and considered switching to something like art therapy."
+    },
+    {
+        "User Id": 71,
+        "question": "How did Sofia feel at the beginning of the semester, and what specific experience led her to doubt her ideas?",
+        "answer_wm": "At the beginning of the semester, Sofia felt excitement; however, she later experienced disheartenment, particularly after her classmates dismissed her ideas during discussions. This experience of being dismissed contributed to her doubts about her advocacy for her ideas and her suitability for the biochemistry major.",
+        "answer_wom": "Sofia felt enthusiastic and passionate about biochemistry at the beginning of the semester. However, her experience of delivering a presentation, where she struggled to engage the audience and perceived their indifference, led her to doubt her commitment and consider focusing on art or photography instead.",
+        "gold_answer": "At the beginning of the semester, Sofia felt a lot of excitement, but after her ideas were dismissed in favor of more generic concepts, she began to feel defeated and question if she was cut out for biochemistry."
+    },
+    {
+        "User Id": 72,
+        "question": "How did Mateo initially feel about his commitment to social issues, and what experiences led him to question his path?",
+        "answer_wm": "Mateo initially felt a sense of commitment to social issues and was engaged in political science; however, he began to question his path due to feelings of failure and self-doubt after struggling to connect with his audience during a presentation. Additionally, experiences of feeling invalidated during group work and a lack of support from his sister contributed to his sense of disconnection and led him to contemplate switching to a different field, like tech consulting.",
+        "answer_wom": "Mateo initially felt a strong commitment to social issues and wanted to share his vision through his presentation. However, after struggling to connect with the audience during the presentation, he began to question his abilities and whether he was cut out for political science, leading him to consider switching to tech consulting.",
+        "gold_answer": "Mateo initially felt inspired by his summer internship with an NGO, but after feeling dismissed and failing to connect with his classmates, he questioned if he was cut out for political science."
+    },
+    {
+        "User Id": 73,
+        "question": "How did Sarah feel about contributing to discussions before she started confiding in her brother, and what made her continue to struggle with confidence?",
+        "answer_wm": "Before Sarah started confiding in her brother, she felt unheard during group discussions and experienced feelings of anxiety and inadequacy, which contributed to her struggle with confidence. Her peer conflict with a classmate who dominated conversations further exacerbated her feelings of frustration and made it difficult for her to assert herself and contribute effectively.",
+        "answer_wom": "Before she started confiding in her brother, Sarah felt nervous about contributing to discussions and was worried that her ideas wouldn't be well received. Her struggle with confidence was compounded by her anxiety during presentations, making her feel like she was shaking.",
+        "gold_answer": "Sarah initially felt a bit overwhelmed and struggled to speak up due to her excitement and new environment. However, after confiding in her brother, she continued to avoid discussions, indicating her ongoing struggle with confidence."
+    },
+    {
+        "User Id": 74,
+        "question": "How did Chloe's feelings of being unsupported during conflicts with Dan influence her decision to prepare for a conversation aimed at improving communication within the team?",
+        "answer_wm": "Chloe's feelings of being unsupported during conflicts with Dan fueled her desire to address the issue directly through conversation. The hurt she experienced from being dismissed led her to recognize the importance of expressing her feelings and seeking to improve communication within the team. This motivation to clear the air indicates her commitment to fostering a more collaborative environment, showing that her negative experiences with Dan influenced her proactive approach to resolving the conflict.",
+        "answer_wom": "Chloe's feelings of being unsupported during conflicts with Dan motivated her to prepare for a conversation in order to express her hurt and seek improved communication within the team. She recognizes the need to address the issue directly to facilitate a better collaborative environment, indicating that her negative experiences have spurred her to take proactive steps toward resolution and to ensure her voice is heard.",
+        "gold_answer": "Chloe felt hurt and unsupported during conflicts with Dan, leading her to question her leadership. This experience prompted her to prepare for a conversation to clear the air and improve communication within the team."
+    },
+    {
+        "User Id": 75,
+        "question": "How was Ethan experiencing self-doubt and isolation before, and what factors contributed to his hesitation in seeking support from his peers?",
+        "answer_wm": "Ethan was experiencing self-doubt and isolation primarily due to overwhelming feelings, anxiety related to feedback, and questioning his leadership ability in academic settings. His concerns about not meeting academic goals and the fear of being judged by friends contributed to his hesitation in seeking support. He felt embarrassed to share his feelings and worried about how his peers would react, which made him reluctant to open up, despite his friends noticing a change in him and trying to reach out.",
+        "answer_wom": "Ethan was experiencing self-doubt and isolation due to his worries about how his peers would react to his feelings and concerns. He feared that opening up would change their perception of him, which contributed to his hesitation in seeking support from his group. The anxiety about vulnerability and the potential impact on team dynamics were significant factors in his reluctance to share his struggles.",
+        "gold_answer": "Before, Ethan felt paralyzed by self-doubt and remained hesitant to engage with his group, saying, 'I just felt paralyzed by self-doubt,' which contributed to his isolation. The fear of being judged led to his reluctance to share, as noted by the counselor's observation that 'those fears are common.'"
+    },
+    {
+        "User Id": 76,
+        "question": "What was Sophia's confidence level regarding her role in the project before taking any action, and what factors contributed to her reluctance to confront the issues within her group?",
+        "answer_wm": "Sophia's confidence level regarding her role in the project was low, as she experienced doubts about her contributions and felt frustrated and isolated due to Alex's dismissive attitude. Contributing factors to her reluctance to confront the issues within her group included her fear of creating additional tension, concerns about being perceived as overreacting or too sensitive, and a desire for support from her teammates while being uncertain about their responses.",
+        "answer_wom": "Sophia's confidence level regarding her role in the project appeared to be low before taking any action, as indicated by her nervousness about confronting Alex. Factors contributing to her reluctance to address the issues within her group likely included her concern about Alex's dismissive attitude and the potential for conflict, which made her feel anxious about expressing her feelings and asserting herself.",
+        "gold_answer": "Initially, Sophia was overwhelmed and full of self-doubt, expressing worry about leading the project and feeling that she couldn't motivate her teammates, particularly due to Alex's dismissive behavior. These factors contributed to her reluctance to confront the issues within her group."
+    },
+    {
+        "User Id": 77,
+        "question": "What was Michael struggling with in his interactions with Professor Mitchell, and what led him to reconsider his approach towards seeking support and feedback?",
+        "answer_wm": "Michael was struggling with feelings of frustration, isolation, and being dismissed by Professor Mitchell regarding his project proposal. He experienced anxiety about his performance and feared others might think he wasn’t cut out for his field. This caused a lack of confidence and inner conflict about whether to give up or push through. His reconsideration of his approach towards seeking support and feedback was prompted by his desire to effectively express his struggles, gain a better understanding of his performance, and improve his rapport with Professor Mitchell for constructive guidance and support.",
+        "answer_wom": "Michael was struggling with his project and felt the need for constructive feedback from Professor Mitchell. This experience led him to reconsider his approach towards seeking support by deciding to confront the professor directly, aiming to express his perspective and seek specific guidance for improvement.",
+        "gold_answer": "Michael was feeling hurt and confused after a dismissive critique from Professor Mitchell, which made him question his abilities. This frustration led him to reconsider and decide to confront his professor about his struggles and ask for constructive feedback."
+    },
+    {
+        "User Id": 78,
+        "question": "How did Isabella's feelings about confronting Kyle evolve, and what specific incident prompted her to reconsider her approach?",
+        "answer_wm": "Isabella's feelings about confronting Kyle evolved from fear and apprehension to a mix of nervousness and hopefulness. She initially feared confrontation due to concerns about potentially creating tension in the group. However, after reflecting on her feelings and the group's dynamic, she decided to approach Kyle honestly, indicating a shift towards valuing communication. The specific incident that prompted her to reconsider her approach was Kyle's dismissive comments and the impact they had on her contributions to the project, which made her feel undervalued and isolated.",
+        "answer_wom": "Isabella's feelings about confronting Kyle evolved from a state of uncertainty to a sense of courage and hope. Initially, she may have felt apprehensive about addressing the group's dynamic, but upon reflection, she decided to confront him, indicating growth in her confidence. The specific incident that prompted her to reconsider her approach was likely the impact of Kyle's comments on her contributions to the project, suggesting that these remarks affected her sense of value and participation within the group.",
+        "gold_answer": "Isabella transitioned from feeling 'afraid of confrontation and how it might impact the group dynamic' to deciding 'I need to confront Kyle about how I've been feeling and the group's dynamic' after the incident where she felt 'humiliated and discouraged' by his sarcastic comments."
+    },
+    {
+        "User Id": 79,
+        "question": "How did Amara initially feel about balancing her responsibilities while supporting her friend, and what led her to realize this was negatively impacting her own mental health?",
+        "answer_wm": "Amara initially felt overwhelmed and was struggling to balance her responsibilities while supporting her friend. She recognized that by neglecting her own studies and well-being to help her friend, she was carrying emotional weight that negatively affected her mental health. This realization came from her experiences of emotional distress, anxiety, and isolation related to group dynamics and her thesis project, prompting her to reflect on the impact of her choices.",
+        "answer_wom": "Amara initially felt the need to suppress her emotions while trying to balance her responsibilities and support her friend, Kyle. This suppression led her to realize that it was negatively impacting her own mental health, prompting her to confront him about her feelings.",
+        "gold_answer": "Amara initially felt overwhelmed and anxious due to juggling her academic responsibilities and supporting her friend, but she realized that her focus on supporting Sarah was detrimental to her own mental health after feeling humiliated and disheartened during a class discussion."
+    },
+    {
+        "User Id": 80,
+        "question": "What challenges was Nina facing in her ability to advocate for herself before she decided to confront her classmate, and what feelings prompted her change?",
+        "answer_wm": "Before deciding to confront her classmate, Nina faced several challenges in advocating for herself, including feelings of anxiety, isolation, and defeat. She felt overwhelmed by the pressure of her academic work and was dealing with humiliation from class critiques, which contributed to her doubts about her design skills. These negative experiences may have made it difficult for her to express her feelings and stand up for herself. The turning point for her change was the realization that she could no longer bury her feelings and the hope that confronting her classmate could lead to better understanding and assertiveness in her interactions.",
+        "answer_wom": "Nina was facing the challenge of burying her feelings and not expressing how her classmate's comments affected her, which likely led to feelings of frustration and potentially diminished self-worth. The realization that she needed to confront her classmate prompted a change in her mindset, fostering a sense of hope and determination to stand up for herself.",
+        "gold_answer": "Before she decided to confront her classmate, Nina was feeling humiliated and started to doubt her design skills, which made it difficult for her to stand up for herself. This made her feel pressured and unsure about confronting her peers, but she came to the realization that she needed to express how their comments affect her."
+    },
+    {
+        "User Id": 81,
+        "question": "How was Sofia feeling and behaving before her presentation, and what motivated her to seek help afterward?",
+        "answer_wm": "Before her presentation, Sofia was feeling anxious, stressed, and experienced self-doubt. She was particularly worried about embarrassment in front of her classmates and had high expectations for herself, which contributed to feelings of pressure. After the presentation, she felt a mix of relief and disappointment because the outcome did not meet her expectations. This discontent and her exhaustion from negative emotions motivated her to seek help and take action towards self-acceptance and reducing self-criticism.",
+        "answer_wom": "Before her presentation, Sofia was feeling anxious and burdened by high expectations for herself, which likely contributed to her disappointment afterward. After the presentation, despite feeling some relief, she recognized that her expectations were unmet and felt tired of her emotional struggles, motivating her to seek help to learn self-acceptance and be less critical of herself.",
+        "gold_answer": "Sofia was feeling overwhelmed and reluctant to speak, wanting to disappear due to her fear of judgment, which prompted her to seek help because she was tired of feeling this way."
+    },
+    {
+        "User Id": 82,
+        "question": "How did Amira feel about her group project before the acknowledgment of her hard work, and what motivated her to seek help afterward?",
+        "answer_wm": "Before the acknowledgment of her hard work, Amira felt frustrated and overwhelmed due to taking on extra responsibilities because of a lack of contribution from her group member, Sam. This frustration, along with feeling unheard and unsupported, contributed to her disappointment after the presentation. Motivated by her desire to reflect on her feelings and improve her communication skills in group settings, she sought help by planning to speak with a counselor for coping strategies.",
+        "answer_wom": "Amira felt frustrated with the group project before the acknowledgment of her hard work. This frustration motivated her to seek help afterward, as she wanted to reflect on her feelings and learn coping strategies to improve her communication in group settings.",
+        "gold_answer": "Amira felt frustrated with her group's dynamics throughout the project, and after receiving acknowledgment for her hard work, she was motivated to seek help to reflect and cope with her emotional challenges."
+    },
+    {
+        "User Id": 83,
+        "question": "How did Ethan feel about managing his responsibilities before reaching out for support, and what specific event led him to express his struggles to his peers?",
+        "answer_wm": "Before reaching out for support, Ethan felt overwhelmed by the responsibility of leading his study group, worried about not being effective as a leader, and experienced feelings of inadequacy. The specific event that led him to express his struggles to his peers was opening up during a group meeting, where he shared his challenges, and his peers were receptive and shared their own challenges in return.",
+        "answer_wom": "Ethan felt inadequate about managing his responsibilities before reaching out for support. The specific event that led him to express his struggles to his peers was the last group meeting, where he finally opened up about his challenges.",
+        "gold_answer": "Before reaching out for support, Ethan felt like he was 'failing at both' managing the study group and excelling in class. The event that led him to express his struggles was opening up during a study group meeting, which created an supportive atmosphere."
+    },
+    {
+        "User Id": 84,
+        "question": "How did Maya feel initially about her project and what led her to experience a shift towards relief and hopefulness?",
+        "answer_wm": "Initially, Maya felt overwhelmed and anxious about addressing conflicts within her project group, particularly due to frustration with a teammate, Alex, who was not contributing. This sense of pressure and burnout contributed to her feelings of shame for struggling and uncertainty about her leadership abilities. However, after speaking up during the project presentation and receiving support from her friends, who also shared their struggles, she experienced a shift towards relief and hopefulness, finding comfort in the connection and understanding within her support network.",
+        "answer_wom": "Maya initially felt uncertain about her leadership abilities after the project presentation. However, she experienced a shift towards relief and hopefulness when she spoke up and connected with her friends, who were supportive and shared their own struggles, allowing her to feel a sense of camaraderie and validation.",
+        "gold_answer": "Initially, Maya felt frustrated about her new semester, concerned about her teammate Alex's lack of participation. However, after speaking openly with her friends who shared their own struggles, she felt a sense of relief and hope for personal growth, recognizing that her actions demonstrated strength and a desire to develop."
+    },
+    {
+        "User Id": 85,
+        "question": "How did Isabella's feelings of frustration and isolation in her group project lead her to take charge during a meeting despite the anxiety it caused her?",
+        "answer_wm": "Isabella's feelings of frustration and isolation in her group project likely motivated her to take charge during the meeting as a way to advocate for herself and her peers. By speaking up, she sought to create an open dialogue and foster support among her classmates, which may have helped alleviate some of her anxiety. Despite her doubts about her leadership abilities, the desire to improve the group dynamics and share her experiences prompted her to step out of her comfort zone and engage more actively in the conversation.",
+        "answer_wom": "Isabella's feelings of frustration and isolation in her group project ultimately motivated her to take charge during the meeting as a way to address her concerns and improve the situation. Despite the anxiety it caused her, she recognized the importance of speaking up to foster a more supportive and collaborative environment, which allowed her to connect with her peers and share their struggles. This experience also highlighted her desire to grow as a leader, prompting her to seek help and guidance, showing her willingness to confront her uncertainties.",
+        "gold_answer": "Isabella initially felt frustrated about her new semester in environmental science, which led her to speak up after the presentation, feeling a bit better after addressing her concerns. Despite the anxiety caused by her ideas not being well received, she attempted to take charge during her group's meetings."
+    },
+    {
+        "User Id": 86,
+        "question": "How did Aria's initial struggles with communication impact her feelings, and what led her to feel encouraged to express herself more openly later on?",
+        "answer_wm": "Aria's initial struggles with communication stemmed from her anxiety about leading her group and connecting with her teammates, which led her to feel conflicted and ashamed for struggling. This discomfort was compounded by her hesitance to reach out for help, fearing she would add to her teammates' stress. However, after sharing her feelings with her family, she received encouragement to communicate more openly with her teammates, which helped her feel a bit better and motivated her to consider expressing herself more openly in order to resolve her concerns.",
+        "answer_wom": "Aria initially struggled with communication, which likely caused her to feel isolated and conflicted about her emotions, particularly regarding her teammates. However, after sharing her feelings with her family, she felt a sense of relief, which encouraged her to express herself more openly. Her family's supportive response and encouragement to communicate with her teammates contributed to her motivation to confront her feelings, even though she still felt unsure about how to approach the situation.",
+        "gold_answer": "Initially, Aria felt ashamed for struggling and was hesitant to express her feelings, stating, 'I don’t want to add to their stress.' However, after discussing her struggles with her family, they encouraged her to talk openly with her teammates, prompting her to realize that communication could lead to better understanding."
+    },
+    {
+        "User Id": 87,
+        "question": "How did Omar initially feel about his group project and what led him to take a more proactive role in engaging his teammates?",
+        "answer_wm": "Omar initially felt frustrated due to a disengaged teammate named Alex and experienced anxiety related to group dynamics and peer interactions. This frustration and anxiety, coupled with his feelings of being burnt out and isolated, led him to take a more proactive role in engaging his teammates by deciding to open up about his personal experiences and address his feelings with them.",
+        "answer_wom": "Omar initially felt conflicted and uncertain about how to address his experiences regarding the group project, which created tension. He took a more proactive role in engaging his teammates after opening up to his family, who encouraged him to communicate with his team, leading to a sense of relief about expressing his feelings.",
+        "gold_answer": "Omar initially felt excited about the project, but was frustrated by Alex's disengagement, which prompted him to try to engage Alex and bring the group together."
+    },
+    {
+        "User Id": 88,
+        "question": "What challenges did Sophia face in her group project prior to discussing her feelings with her family, and what motivated her to seek open communication with her teammates?",
+        "answer_wm": "Prior to discussing her feelings with her family, Sophia faced several challenges in her group project, including frustration with a disengaged teammate (Liam), feelings of discouragement from her team members, anxiety about her leadership abilities, and a sense of burnout and isolation while taking on most of the work. Her motivation to seek open communication with her teammates stemmed from a desire to express her feelings honestly without causing tension, indicating a thoughtful approach to resolving conflicts within the group.",
+        "answer_wom": "Sophia faced the challenge of expressing her struggles regarding the group project, which likely involved feelings of frustration or anxiety about the dynamics with her teammates. She was motivated to seek open communication with her teammates after receiving encouragement from her family, who supported her in addressing her feelings honestly and constructively.",
+        "gold_answer": "Before discussing her feelings with her family, Sophia faced challenges such as taking on most of the work, feeling embarrassed after her presentation rehearsal went poorly, and experiencing frustration with Liam's disengagement. This prompted her to seek open communication with her teammates after receiving encouragement from her family."
+    },
+    {
+        "User Id": 89,
+        "question": "How did Aisha feel about contributing her ideas previously, and what triggered her to express her thoughts during the group presentation?",
+        "answer_wm": "Previously, Aisha felt inadequate and worried about voicing her ideas, feeling unheard and not valued in group discussions. However, her conversation with Sam triggered her to express her thoughts during the group presentation, which ultimately led to her feeling empowered and determined.",
+        "answer_wom": "Aisha previously felt nervous about contributing her ideas, but after talking with Sam, she felt empowered to express her thoughts during the group presentation.",
+        "gold_answer": "Previously, Aisha felt overwhelmed and believed that she 'still can't voice my ideas' and 'feel like I'm letting my group down'; however, after talking with Sam, she recognized that sharing her voice could lead to 'even more growth' and thus decided to express her ideas."
+    },
+    {
+        "User Id": 90,
+        "question": "How was Emily feeling about her participation in group settings before she had a breakthrough, and what helped her gain a new perspective that prompted this change?",
+        "answer_wm": "Before her breakthrough, Emily was feeling anxious and overshadowed in group settings. She experienced self-doubt and was hesitant to share her thoughts due to nervousness and fear of being perceived as incapable. Talking to her mom helped her gain a new perspective, realizing that she needed to focus on progress rather than perfection, which empowered her to actively participate and express herself in the group.",
+        "answer_wom": "Before her breakthrough, Emily was feeling nervous about participating in group settings. The conversation with her mom helped her gain a new perspective, realizing that she needed to focus on progress rather than perfection, which prompted her to take the leap and share her thoughts in the group.",
+        "gold_answer": "Before her breakthrough, Emily felt like she could not keep up with everyone, had started to withdraw from the group, and felt lonely. Talking to her mom helped her realize the importance of focusing on progress, which encouraged her to share her thoughts with the group."
+    },
+    {
+        "User Id": 91,
+        "question": "How did Zara feel about her contributions before her conversation with her mother, and what prompted her to change her mindset about participating in her group?",
+        "answer_wm": "Before her conversation with her mother, Zara felt overwhelmed, isolated, and anxious about sharing her ideas in group discussions. Her mindset changed after her mother encouraged her to focus on progress rather than perfection and to connect more with her peers, which helped her feel more hopeful and motivated to participate actively in her group.",
+        "answer_wom": "Before her conversation with her mother, Zara likely felt disengaged and uncertain about her contributions, which may have led to feelings of inadequacy. The conversation with her mother prompted her to change her mindset by encouraging her to focus on progress rather than perfection and to connect more with her peers, instilling a sense of motivation to actively participate in her group.",
+        "gold_answer": "Before the conversation with her mother, Zara felt guilty for not participating in her group. This guilt was part of the normal ups and downs she experienced in a group setting. Her mother prompted her to change her mindset by encouraging her to focus on progress rather than perfection and to connect more with her peers."
+    },
+    {
+        "User Id": 92,
+        "question": "How did Samuel's feelings of anxiety and pressure change, and what led him to seek help and rediscover his passion for counseling?",
+        "answer_wm": "Samuel's feelings of anxiety and pressure initially stemmed from returning to campus and facing overwhelming coursework, social expectations, and the pressure to perform well for his scholarship. However, after opening up to a friend about his struggles, he felt encouraged and supported, which led him to seek help from a campus counselor. This conversation helped him realize that his own challenges could contribute to his desire to become a counselor, igniting a sense of hope and determination to inspire others facing similar struggles.",
+        "answer_wom": "Samuel's feelings of anxiety and pressure changed positively after he opened up to a friend about his struggles, which provided him with emotional relief and validation. The encouragement from his friend to seek help led him to realize the importance of addressing his issues. This process not only motivated him to make an appointment with the campus counselor but also allowed him to rediscover his passion for counseling, as he recognized that his own experiences could be instrumental in helping others. His sense of hope and determination grew as he sought to inspire others, reflecting a significant shift in his outlook.",
+        "gold_answer": "Samuel's feelings changed from intense pressure and anxiety about his performance and feelings of inadequacy to a sense of hope after opening up to a friend and realizing that his struggles can inform his future work as a counselor."
+    },
+    {
+        "User Id": 93,
+        "question": "How did Ava feel about sharing her ideas in group projects prior to her conversation with her advisor, and what motivated her to embrace her creativity more after their discussion?",
+        "answer_wm": "Prior to her conversation with her advisor, Ava felt insecure and had feelings of inadequacy when it came to sharing her ideas in group projects. After discussing her feelings with her advisor, she was motivated to embrace her creativity more due to the encouragement she received to express her ideas confidently and without fear of judgment.",
+        "answer_wom": "Prior to her conversation with her advisor, Ava felt inadequate and struggled with sharing her ideas in group settings. After their discussion, she was motivated to embrace her creativity more because her advisor encouraged her to express herself without fear of judgment and to find small ways to confidently share her ideas.",
+        "gold_answer": "Ava felt hesitant and inadequate about sharing her ideas in group projects, feeling overshadowed by assertive classmates, but after speaking with her advisor, she was encouraged to embrace her creativity without fear of judgment, which motivated her to express herself more confidently."
+    },
+    {
+        "User Id": 94,
+        "question": "What were Liam's feelings about managing his workload and social connections prior to his conversation with his advisor, and what caused him to realize he could address these challenges effectively?",
+        "answer_wm": "Prior to his conversation with his advisor, Liam felt overwhelmed and stressed due to academic pressure, as well as struggling with anxiety and a lack of confidence in group settings. He experienced feelings of loneliness and pressure from midterms and worried that his family thought he didn't care about them because he was declining family invites. His realization that he could address these challenges effectively came from the encouragement he received from his advisor, who suggested he embrace his creativity and look for small ways to contribute in group discussions. This advice helped him feel hopeful about slowly reconnecting with friends and expressing his ideas more.",
+        "answer_wom": "Liam was likely feeling anxious and struggling with confidence in group settings, which suggests he was overwhelmed by his workload and social connections. His conversation with his advisor helped him realize that he could address these challenges effectively by embracing his creativity and incrementally contributing to discussions, which instilled a sense of hope in him.",
+        "gold_answer": "Before talking to his advisor, Liam felt overwhelmed by the new semester and managing projects, expressing that he was 'feeling a bit overwhelmed.' After sharing his anxiety and struggles, he realized he could 'embrace [his] creativity' and find ways to balance his responsibilities."
+    },
+    {
+        "User Id": 95,
+        "question": "What struggles does Nina experience regarding her feelings of loneliness and guilt, and what motivates her to seek help from her advisor?",
+        "answer_wm": "Nina struggles with feelings of loneliness and guilt stemming from a sense of isolation from her friends and family, as well as regrets about not spending time with them, particularly in rejecting her brother Luca's outreach. This guilt is compounded by her academic pressures and anxiety, leading her to feel inadequate, particularly in group settings. These emotional burdens likely motivated her to seek help from her advisor, as she aimed to address her anxiety and feelings of inadequacy, and to find constructive ways to cope by embracing her creativity and seeking support.",
+        "answer_wom": "Nina struggles with anxiety and feelings of inadequacy, particularly in group settings, which likely contribute to her feelings of loneliness and guilt. These emotional challenges motivate her to seek help from her advisor, as she is looking for support and guidance to cope with her struggles and improve her situation.",
+        "gold_answer": "Nina feels isolated and guilty for not spending time with her family and friends while focusing on her studies, which motivates her to seek help and express her struggles to her advisor."
+    },
+    {
+        "User Id": 96,
+        "question": "How did Sofia feel about her social connections and academic pressures before seeking help, and what led her to reach out for support?",
+        "answer_wm": "Before seeking help, Sofia felt overwhelmed by academic pressures, experiencing frustration, insecurity, and feelings of loneliness and disconnection from her friends and family. She was struggling with the demands of her coursework and felt overshadowed in class discussions, which contributed to her anxiety. These mounting pressures and her desire to improve her situation ultimately led her to reach out for support from her advisor.",
+        "answer_wom": "Sofia likely felt overwhelmed and anxious about her social connections and academic pressures, which prompted her to seek help from her advisor. By opening up about her struggles, she initiated a process to address her feelings, leading to valuable advice that empowered her to manage her stress and reconnect with her loved ones while balancing her studies.",
+        "gold_answer": "Before seeking help, Sofia felt overwhelmed and guilty about not being able to spend time with friends and family due to academic pressures. She reached out for support after opening up about her struggles, which led to valuable advice for managing her stress."
+    },
+    {
+        "User Id": 97,
+        "question": "How did Sophia initially feel about her workload and responsibilities, and what incident led her to feel lost and regretful?",
+        "answer_wm": "Sophia initially felt overwhelmed due to multiple assignments, group projects, and volunteer commitments. The incident that led her to feel lost and regretful was arguing with a friend over a minor disagreement about their project, during which she lost her cool and said hurtful things.",
+        "answer_wom": "Sophia initially felt overwhelmed by her workload and responsibilities, which contributed to her stress. The incident that led her to feel lost and regretful was the argument she had with a friend over a minor disagreement about their project, where she lost her cool and said hurtful things.",
+        "gold_answer": "At first, Sophia felt overwhelmed due to her increasing workload and responsibilities. After a tough week, an argument with a friend led her to feel lost and regretful."
+    },
+    {
+        "User Id": 98,
+        "question": "How did Emily feel at the start of the semester, and what experiences led to a decrease in her self-confidence during group interactions?",
+        "answer_wm": "At the start of the semester, Emily felt excited but also a bit anxious. Her self-confidence decreased during group interactions due to feelings of isolation, being overlooked in group projects, and a lingering fear of not fitting in. Additionally, she experiences anxiety in social situations and struggles to share her thoughts, which contributes to her feelings of disconnection and hurt when she overheard negative remarks about introverted students.",
+        "answer_wom": "At the start of the semester, Emily likely felt neutral or positive, as the conversation doesn't indicate any specific struggles. However, her self-confidence decreased during group interactions after she overheard classmates making jokes about introverted students, which triggered feelings of anger, hurt, and disconnection. This experience made her hesitant to speak up and express herself, contributing to her declining self-confidence.",
+        "gold_answer": "At the start of the semester, Emily felt excited but also a bit anxious about the new semester. However, experiences during group interactions, particularly feeling overlooked and struggling to assert herself, led to decreased self-confidence."
+    },
+    {
+        "User Id": 99,
+        "question": "How did Daniela initially feel about her classes and peer interactions, and what situation caused her to feel overshadowed in a group setting?",
+        "answer_wm": "Initially, Daniela felt excited but also overwhelmed by her classes. She experienced frustration in her peer interactions, particularly with Liam dominating discussions, which contributed to her feelings of being overshadowed in group settings.",
+        "answer_wom": "Daniela initially felt hurt and angry about her peer interactions, particularly after overhearing Liam make a joking comment about her needing to \"come out of her shell.\" This situation contributed to her feeling overshadowed in a group setting.",
+        "gold_answer": "Initially, Daniela felt excited about her classes but later experienced feelings of anger and hurt after being overshadowed by Liam during group discussions."
+    }
+]

@@ -51,7 +51,11 @@ class Evaluator:
     def compute_all_score(self, references, generated_texts):
         rouge_result = self.compute_rouges_directly(references, generated_texts)
         bleu_score = self.compute_bleu_directly(references, generated_texts)
-        result_dic = {"rouge-1":rouge_result["rouge-1"], "rouge-2":rouge_result["rouge-2"], "rouge-l":rouge_result["rouge-l"],"BLUE" :bleu_score}
+        result_dic = {"rouge-1":rouge_result["rouge-1"], 
+                      "rouge-2":rouge_result["rouge-2"], 
+                      "rouge-l":rouge_result["rouge-l"],
+                      "rouge_avg":(rouge_result["rouge-1"] + rouge_result["rouge-2"] + rouge_result["rouge-l"]) / 3,
+                      "BLUE" :bleu_score}
         return result_dic
 
 
