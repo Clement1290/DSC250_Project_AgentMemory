@@ -38,8 +38,8 @@ agent.query(prompt)
 ```
 
 
-## 使用多轮对话数据集
-在根目录下，运行
+## Usage of Multi-dialogue dataset
+In the root, run
 ```python
 from dataset import MultiSessionDialog
 
