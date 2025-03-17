@@ -1,7 +1,7 @@
 import random
 from openai import OpenAI
 
-DEFAULT_KEY = "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"
+DEFAULT_KEY = "YOUR_API_KEY"
 def OpenAIGPT(client,model_name,content):
     completion = client.chat.completions.create(
     model=model_name,

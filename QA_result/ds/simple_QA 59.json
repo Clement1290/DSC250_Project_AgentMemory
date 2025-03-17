@@ -1,0 +1,485 @@
+[
+    {
+        "User Id": 1,
+        "question": "What does Emma feel about the changes she needs to make?",
+        "answer_wm": "Emma feels apprehensive about the changes she needs to make, primarily due to a fear of failure and the difficulty of breaking out of her current cycle. She acknowledges the need for change but is hesitant and anxious about taking the necessary steps.",
+        "answer_wom": "Emma feels apprehensive about the changes she needs to make, primarily due to a fear of failing again and the difficulty of breaking out of her current cycle.",
+        "gold_answer": "She feels apprehensive about the changes."
+    },
+    {
+        "User Id": 2,
+        "question": "What does Sarah want to do as a reward for studying?",
+        "answer_wm": "Sarah wants to go hiking as a reward for studying.",
+        "answer_wom": "Sarah wants to go hiking as a reward for studying.",
+        "gold_answer": "Go hiking."
+    },
+    {
+        "User Id": 3,
+        "question": "What does Amina feel regarding her qualifications in class?",
+        "answer_wm": "Amina feels unqualified in class and worries that she won't make it through her degree.",
+        "answer_wom": "Amina feels unqualified in class and worries that she won't be able to successfully complete her degree.",
+        "gold_answer": "She feels unqualified."
+    },
+    {
+        "User Id": 4,
+        "question": "What did Daniela manage to channel into her painting?",
+        "answer_wm": "Daniela managed to channel a lot of her feelings into her painting, which helped her express herself and alleviate some of her anxiety.",
+        "answer_wom": "Daniela managed to channel a lot of her feelings into her painting.",
+        "gold_answer": "Her feelings."
+    },
+    {
+        "User Id": 5,
+        "question": "What realization did Sophia have about her accomplishments?",
+        "answer_wm": "Sophia realized that she has done a lot more than she gives herself credit for.",
+        "answer_wom": "Sophia realized that she has done a lot more than she gives herself credit for.",
+        "gold_answer": "She realized she’s done a lot more than she gives herself credit for."
+    },
+    {
+        "User Id": 6,
+        "question": "What specific action does Ethan plan to take to engage in class discussions next time?",
+        "answer_wm": "Ethan plans to start small by sharing his thoughts on a recent environmental issue they learned about in class.",
+        "answer_wom": "Ethan plans to start small by sharing his thoughts on a recent environmental issue they learned about in class.",
+        "gold_answer": "Share his thoughts on a recent environmental issue we learned about in class."
+    },
+    {
+        "User Id": 7,
+        "question": "What did Maya start doing that helped her feel more grounded?",
+        "answer_wm": "Maya started writing down her achievements, which helped her feel more grounded.",
+        "answer_wom": "Maya started writing down her achievements, which helped her feel more grounded.",
+        "gold_answer": "She started writing down her achievements."
+    },
+    {
+        "User Id": 8,
+        "question": "What topic did Olivia consider discussing in class that aligns with her interests in international relations?",
+        "answer_wm": "Olivia considered discussing a recent environmental policy that aligns with her interests in international relations.",
+        "answer_wom": "Olivia considered discussing a recent environmental policy that aligns with her interests in international relations.",
+        "gold_answer": "A recent environmental policy."
+    },
+    {
+        "User Id": 9,
+        "question": "What is causing Sophia's feelings of being overwhelmed in her current situation?",
+        "answer_wm": "Sophia's feelings of being overwhelmed are primarily caused by the lack of support from her best friend, Mira, and the approaching deadline for her environmental campaign. She feels isolated and frustrated due to the recent tension and a heated argument with Mira, which has left her feeling unsupported and disconnected. Additionally, the lack of participation from others in her campaign efforts contributes to her sense of overwhelm and isolation.",
+        "answer_wom": "Sophia is feeling overwhelmed due to a lack of support from Mira, which she values and appreciates. This absence of support is contributing to her emotional strain.",
+        "gold_answer": "Sophia feels overwhelmed without her friend's support."
+    },
+    {
+        "User Id": 10,
+        "question": "What does Emily hope to gain from talking to a professor about her feelings?",
+        "answer_wm": "Emily hopes to gain understanding and possibly find out about more opportunities to connect with others who share her interests.",
+        "answer_wom": "Emily hopes to gain understanding from the professor and possibly find out about more opportunities to connect with others who share her interests.",
+        "gold_answer": "Understanding and opportunities to connect with others who share her interests."
+    },
+    {
+        "User Id": 11,
+        "question": "What does Aiden hope to achieve by talking to his group and professor?",
+        "answer_wm": "Aiden hopes to express his struggles, reconnect with his group, and regain his confidence by talking to his group and professor.",
+        "answer_wom": "Aiden hopes to express his struggles, reconnect with his group, and regain his confidence by talking to his group and professor.",
+        "gold_answer": "He hopes to express his struggles and reconnect with the group."
+    },
+    {
+        "User Id": 12,
+        "question": "What did Sofia decide to do regarding her concerns?",
+        "answer_wm": "Sofia decided to reach out to her professor to express her struggles and seek guidance on how to participate more effectively in the lab.",
+        "answer_wom": "Sofia decided to reach out to her professor to express her struggles and seek guidance on how to participate more effectively in the lab.",
+        "gold_answer": "Reach out to her professor."
+    },
+    {
+        "User Id": 13,
+        "question": "What does Maya want to express to her professor?",
+        "answer_wm": "Maya wants to express to her professor how anxious she feels about the project and seek some support and guidance. She realizes she cannot handle the situation alone and is taking steps to ask for help.",
+        "answer_wom": "Maya wants to express to her professor how anxious she feels about the project and seek some support or guidance.",
+        "gold_answer": "She wants to express how anxious she feels about the project."
+    },
+    {
+        "User Id": 14,
+        "question": "What does Elena want to discuss with her professor?",
+        "answer_wm": "Elena wants to discuss her anxiety and seek support for her group project with her professor.",
+        "answer_wom": "Elena wants to discuss her anxiety and seek support for the group project with her professor.",
+        "gold_answer": "She wants to express how anxious she is and seek support for the group project."
+    },
+    {
+        "User Id": 15,
+        "question": "What does Nina plan to do next after this conversation with her counselor?",
+        "answer_wm": "Nina plans to reach out to her professor to express her anxieties and ask for guidance on how to better engage with her group.",
+        "answer_wom": "Nina plans to reach out to her professor to express her anxieties and ask for guidance on how to better engage with her group.",
+        "gold_answer": "Reach out to her professor."
+    },
+    {
+        "User Id": 16,
+        "question": "What does Liam plan to discuss with his professor in their upcoming conversation?",
+        "answer_wm": "Liam plans to discuss his anxiety and explore ways to improve his participation in class with his professor.",
+        "answer_wom": "Liam plans to discuss his anxiety with his professor and explore ways to improve his participation in class.",
+        "gold_answer": "His anxiety and ways to improve his participation in class."
+    },
+    {
+        "User Id": 17,
+        "question": "What does Elena plan to do after taking advice from the counselor?",
+        "answer_wm": "Elena plans to use mindfulness techniques and acknowledge her feelings instead of pushing them away as coping strategies to manage her stress and academic pressures. She is also feeling hopeful about managing her grades better despite still feeling uncertain about them.",
+        "answer_wom": "Elena plans to use mindfulness techniques and acknowledge her feelings instead of pushing them away, as suggested by the campus counselor. She is also hopeful about managing her studies better despite feeling uncertain about her grades.",
+        "gold_answer": "She plans to reach out to her friends."
+    },
+    {
+        "User Id": 18,
+        "question": "What did Sophie decide to do after meeting with the university counselor?",
+        "answer_wm": "Sophie decided to start small and try to reach out to her club members after meeting with the university counselor.",
+        "answer_wom": "Sophie decided to start small and try to reach out to her club members after meeting with the university counselor.",
+        "gold_answer": "She decided to reach out to her club members."
+    },
+    {
+        "User Id": 19,
+        "question": "What is Oliver planning to do next to manage his anxiety about balancing everything?",
+        "answer_wm": "Oliver is planning to take things one step at a time and lean on his support system, including Jake, who has offered to help with volunteer projects. He is also focusing on being honest about his feelings and managing his responsibilities gradually.",
+        "answer_wom": "Oliver plans to take things one step at a time and lean on his support system, including Jake, who offered to help with volunteer projects and get back on track together.",
+        "gold_answer": "He plans to lean on his support system."
+    },
+    {
+        "User Id": 20,
+        "question": "What did Amara do before this conversation with the counselor?",
+        "answer_wm": "Before this conversation with the counselor, Amara apologized to her friends for her behavior during a group project meeting and received their support. She also felt relieved but remained anxious about her commitments and environmental advocacy ideals, and she was considering creating a flexible plan to manage her responsibilities.",
+        "answer_wom": "Amara talked to her friends about what happened and apologized for her behavior before this conversation with the counselor.",
+        "gold_answer": "She talked to her friends and apologized for her behavior."
+    },
+    {
+        "User Id": 21,
+        "question": "What does Elena plan to do next after talking to Maya?",
+        "answer_wm": "Elena has not yet specified a concrete plan for what she will do next after talking to Maya. However, she expressed feeling relieved after sharing her struggles and is still anxious about managing her academic workload and maintaining her friendships. The counselor suggested taking small steps toward balance and communication to help her feel more at ease, but Elena has not yet outlined specific actions she plans to take.",
+        "answer_wom": "Elena has not explicitly stated her specific plans for what she will do next after talking to Maya. However, she expressed feeling relieved after the conversation but still anxious about her academic workload and maintaining her friendships. The counselor suggested taking small steps toward balance and communication, but Elena has not yet shared her concrete next steps.",
+        "gold_answer": "Taking small steps towards balance and communication."
+    },
+    {
+        "User Id": 22,
+        "question": "What did Aisha do before this conversation with the counselor?",
+        "answer_wm": "Before this conversation with the counselor, Aisha apologized to Maya for her outburst and had a good talk with her, expressing her feelings. Maya was understanding, and Aisha felt relieved after the conversation but still felt anxious about her grades and maintaining a balance with everything.",
+        "answer_wom": "Aisha talked to Maya and apologized for her outburst before this conversation with the counselor.",
+        "gold_answer": "She talked to Maya and apologized."
+    },
+    {
+        "User Id": 23,
+        "question": "What is David planning to do to manage his time moving forward?",
+        "answer_wm": "David has not yet specified a concrete plan to manage his time moving forward. He mentioned feeling anxious about maintaining his grades and friendships but has not outlined specific time management strategies. The counselor encouraged him to focus on progress rather than perfection and asked about his plans, but David has not provided details yet.",
+        "answer_wom": "The dialogue does not provide specific information about David's plans to manage his time moving forward. He expresses anxiety about maintaining his grades and friendships but does not detail any strategies or plans for time management.",
+        "gold_answer": "It's about progress and not perfection."
+    },
+    {
+        "User Id": 24,
+        "question": "What is still causing Samantha to feel anxious after reaching out to Maya?",
+        "answer_wm": "Samantha is still feeling anxious because she is worried about her grades and how to balance her academic responsibilities, despite feeling relieved after reconnecting with Maya. The academic pressures and the challenge of managing her time effectively continue to contribute to her anxiety.",
+        "answer_wom": "Samantha is still feeling anxious about her grades and how to balance everything in her academic life.",
+        "gold_answer": "Her anxiety is related to her grades and how to balance everything."
+    },
+    {
+        "User Id": 25,
+        "question": "What did Maya do before this session?",
+        "answer_wm": "Before this session, Maya reached out to her friend Priya but struggled to open up about her feelings. Priya suggested that Maya see a counselor, which made Maya feel embarrassed and resistant to the idea. Maya also expressed feeling overwhelmed and worried about what others would think regarding seeking help.",
+        "answer_wom": "Maya reached out to Priya but struggled to open up about her feelings.",
+        "gold_answer": "She reached out to Priya."
+    },
+    {
+        "User Id": 26,
+        "question": "What did Aisha do at the charity volunteer event?",
+        "answer_wm": "Aisha snapped at someone for no reason during the charity volunteer event.",
+        "answer_wom": "Aisha snapped at someone for no reason at the charity volunteer event.",
+        "gold_answer": "She snapped at someone."
+    },
+    {
+        "User Id": 27,
+        "question": "What emotions is Sophie experiencing about seeking help?",
+        "answer_wm": "Sophie is experiencing a mix of hope and apprehension about seeking help. She feels hopeful about the potential benefits of seeking support but is also apprehensive and scared of opening up to someone else. Additionally, she fears being perceived as weak for seeking help.",
+        "answer_wom": "Sophie is experiencing a mix of emotions about seeking help: she feels hopeful but also apprehensive and scared of opening up to someone else. Additionally, she fears that others will see her seeking help as a weakness.",
+        "gold_answer": "She feels hopeful but also apprehensive."
+    },
+    {
+        "User Id": 28,
+        "question": "What realization did Jasmine have after attending a seminar?",
+        "answer_wm": "Jasmine realized the importance of self-care and mental health after attending a seminar.",
+        "answer_wom": "Jasmine realized the importance of self-care and that she can't keep neglecting her mental health.",
+        "gold_answer": "Self-care is important."
+    },
+    {
+        "User Id": 29,
+        "question": "What does Oliver plan to do to facilitate reaching out for support?",
+        "answer_wm": "Oliver plans to work with the counselor to come up with a plan that makes it easier for him to share his feelings with someone he trusts, without feeling like he is burdening someone else.",
+        "answer_wom": "Oliver plans to work with the counselor to come up with a plan that makes it easier for him to share his feelings with someone he trusts, without feeling like he is burdening them.",
+        "gold_answer": "Come up with a plan together to share his feelings."
+    },
+    {
+        "User Id": 30,
+        "question": "What realization did Isabella come to about her mental health after the workshop?",
+        "answer_wm": "Isabella realized that she has been neglecting her mental health and needs to make changes to prioritize self-care.",
+        "answer_wom": "Isabella realized that she has been neglecting her mental health and needs to make changes to prioritize self-care.",
+        "gold_answer": "She realized that she’s been neglecting her mental health and needs to make changes."
+    },
+    {
+        "User Id": 31,
+        "question": "What realization did Isabella have about her well-being after attending the workshop?",
+        "answer_wm": "Isabella realized that she has been neglecting her self-care after attending the mental health workshop.",
+        "answer_wom": "Isabella realized that she has been neglecting her self-care after attending the workshop on mental health.",
+        "gold_answer": "She realized she had been neglecting her self-care."
+    },
+    {
+        "User Id": 32,
+        "question": "What does Aria plan to do next regarding her conversation with Sarah?",
+        "answer_wm": "Aria plans to discuss her feelings with Sarah, expressing that she cares while also taking care of herself. She is seeking a way to balance her support for Sarah with her own well-being.",
+        "answer_wom": "Aria plans to discuss with Sarah how to express that she cares while also taking care of herself, as part of her effort to seek help and support for her mental health.",
+        "gold_answer": "Aria plans to find a way to express that she cares while also taking care of herself."
+    },
+    {
+        "User Id": 33,
+        "question": "What hobbies does Emma want to reconnect with?",
+        "answer_wm": "Emma wants to reconnect with her hobbies of photography and yoga.",
+        "answer_wom": "Emma wants to reconnect with her hobbies of photography and yoga.",
+        "gold_answer": "Photography and yoga."
+    },
+    {
+        "User Id": 34,
+        "question": "What is Sophia planning to do next regarding her responsibilities in the organization?",
+        "answer_wm": "Sophia is planning to start delegating some tasks in the organization and focus on her well-being.",
+        "answer_wom": "Sophia is planning to start delegating some tasks in the organization and focus on her well-being.",
+        "gold_answer": "Start delegating some tasks."
+    },
+    {
+        "User Id": 35,
+        "question": "What did Ethan do before this conversation with the counselor?",
+        "answer_wm": "Before this conversation with the counselor, Ethan talked to Dr. Lewis about his feelings regarding the project and his need for harmony. He received communication strategies from Dr. Lewis and felt more empowered as a result. Additionally, Ethan went cycling over the weekend, which he found enjoyable and relieving.",
+        "answer_wom": "Before this conversation with the counselor, Ethan talked to Dr. Lewis about his feelings regarding the project and his need for harmony.",
+        "gold_answer": "He talked to Dr. Lewis."
+    },
+    {
+        "User Id": 36,
+        "question": "What activity did Ava engage in last weekend that made her feel amazing?",
+        "answer_wm": "Ava engaged in dancing last weekend, which made her feel amazing.",
+        "answer_wom": "Ava went dancing last weekend, and it made her feel amazing.",
+        "gold_answer": "Dancing."
+    },
+    {
+        "User Id": 37,
+        "question": "What does Samuel plan to do regarding his upcoming interactions in the group?",
+        "answer_wm": "Samuel plans to assert his thoughts in the group, as encouraged by Dr. Richards, despite feeling anxious about the upcoming interactions.",
+        "answer_wom": "Samuel plans to assert his thoughts in the group, as encouraged by Dr. Richards, despite feeling anxious about the upcoming interactions.",
+        "gold_answer": "He plans to assert his thoughts in the group."
+    },
+    {
+        "User Id": 38,
+        "question": "What did Olivia do before this conversation with the counselor?",
+        "answer_wm": "Before this conversation with the counselor, Olivia spoke with Dr. Garcia about the stress and criticism she has been facing. She shared her feelings and received encouragement and self-care suggestions from Dr. Garcia, which made her feel a little lighter and more liberated.",
+        "answer_wom": "Olivia spoke with Dr. Garcia about the stress and criticism she had been facing before this conversation with the counselor.",
+        "gold_answer": "spoke with Dr. Garcia"
+    },
+    {
+        "User Id": 39,
+        "question": "What aspect of support did Dr. Garcia discuss with Mia during their conversation?",
+        "answer_wm": "Dr. Garcia discussed the importance of self-care and communication with Mia during their conversation.",
+        "answer_wom": "Dr. Garcia discussed the importance of self-care and communication with Mia during their conversation.",
+        "gold_answer": "The importance of self-care and communication."
+    },
+    {
+        "User Id": 40,
+        "question": "What did Sofia do before the last session that contributed to her growth?",
+        "answer_wm": "Before the last session, Sofia had a supportive conversation with Dr. Garcia, where she opened up about her feelings of pressure and criticism. Dr. Garcia encouraged her to be true to herself and not let others' opinions define her worth. Additionally, Sofia went hiking, which she found refreshing, and she recognized the importance of taking time for personal interests. These actions contributed to her growth by helping her gain perspective, build confidence, and prioritize her well-being.",
+        "answer_wom": "Sofia had a conversation with Dr. Garcia, where she opened up about her feelings of pressure and the criticism she faced. This conversation was encouraging and helped her gain a new perspective on being true to herself and not letting others' opinions define her worth. Additionally, she went hiking, which contributed to her well-being and personal growth.",
+        "gold_answer": "She opened up about her feelings to Dr. Garcia."
+    },
+    {
+        "User Id": 41,
+        "question": "What emotion does Ella feel about seeking professional help?",
+        "answer_wm": "Ella feels hopeful but also scared about seeking professional help.",
+        "answer_wom": "Ella feels hopeful but also scared about seeking professional help.",
+        "gold_answer": "Hopeful."
+    },
+    {
+        "User Id": 42,
+        "question": "What did Sophia's brother encourage her to do?",
+        "answer_wm": "Sophia's brother, Aryan, encouraged her to seek professional support for her struggles.",
+        "answer_wom": "Sophia's brother, Aryan, encouraged her to seek professional support for her struggles.",
+        "gold_answer": "Seek professional support."
+    },
+    {
+        "User Id": 43,
+        "question": "What does Amara worry about when considering reaching out for help from a career counselor?",
+        "answer_wm": "Amara worries that reaching out to a career counselor might reveal her uncertainties and make her feel even more vulnerable.",
+        "answer_wom": "Amara worries that reaching out to a career counselor might reveal her uncertainties and make her feel even more vulnerable.",
+        "gold_answer": "She worries that it might reveal her uncertainties and make her feel even more vulnerable."
+    },
+    {
+        "User Id": 44,
+        "question": "What does Nathan plan to focus on next?",
+        "answer_wm": "Nathan plans to focus on identifying one specific area he wants to improve to build confidence and take the next step toward pursuing mentorship opportunities.",
+        "answer_wom": "Nathan plans to focus on identifying one specific area he wants to improve, as a starting point to build his confidence and address his feelings of inadequacy.",
+        "gold_answer": "One aspect to focus on."
+    },
+    {
+        "User Id": 45,
+        "question": "What did Talia share with her brother Ethan during their conversation?",
+        "answer_wm": "Talia shared her feelings of inadequacy with her brother Ethan during their conversation. Ethan suggested that she look for mentorship opportunities to guide her.",
+        "answer_wom": "Talia shared her feelings of inadequacy with her brother Ethan during their conversation.",
+        "gold_answer": "Her feelings of inadequacy."
+    },
+    {
+        "User Id": 46,
+        "question": "What did Jamila do before this conversation with the counselor?",
+        "answer_wm": "Before this conversation with the counselor, Jamila talked to her brother, Amir, about her feelings of inadequacy and her worries. Amir was supportive and suggested that she seek mentorship in her field. This conversation with her brother led her to consider mentorship as a potential strategy to address her concerns.",
+        "answer_wom": "Jamila talked to her brother, Amir, about everything she had been feeling.",
+        "gold_answer": "She talked to her brother, Amir."
+    },
+    {
+        "User Id": 47,
+        "question": "What did Ethan do to address his feelings of inadequacy?",
+        "answer_wm": "Ethan addressed his feelings of inadequacy by talking to his sister Mai about his worries. Mai suggested that he seek mentorship opportunities in his field, which Ethan considered a good idea. He also thought about reminding himself that everyone has to learn and grow, and considered writing out what he wants to gain from a mentor to clarify his expectations and make the conversation feel more structured.",
+        "answer_wom": "Ethan addressed his feelings of inadequacy by talking to his sister Mai about his worries, and she suggested he seek mentorship opportunities in his field. He also considered reminding himself that everyone has to learn and grow, and thought about writing out what he wants to gain from a mentor to clarify his expectations.",
+        "gold_answer": "He talked to his sister Mai about his feelings of inadequacy."
+    },
+    {
+        "User Id": 48,
+        "question": "What is Priya concerned about when considering seeking mentorship?",
+        "answer_wm": "Priya is concerned that seeking mentorship might expose her insecurities further.",
+        "answer_wom": "Priya is concerned that seeking mentorship might expose her insecurities further.",
+        "gold_answer": "She is worried that it might expose her insecurities further."
+    },
+    {
+        "User Id": 49,
+        "question": "What did Samantha do before this session to help with her feelings?",
+        "answer_wm": "Samantha broke down and talked to her family about her struggles, which made her feel vulnerable but also relieved. This step helped her realize she doesn't have to go through her challenges alone and that her family is supportive.",
+        "answer_wom": "Samantha broke down and talked to her family about her feelings, which helped her feel vulnerable but also relieved. This act of opening up allowed her to receive their support and realize she doesn't have to go through her struggles alone.",
+        "gold_answer": "She talked to her family."
+    },
+    {
+        "User Id": 50,
+        "question": "What specific event triggered Ella's panic attack during her presentation?",
+        "answer_wm": "The specific event that triggered Ella's panic attack was the moment just before she was supposed to speak during her presentation.",
+        "answer_wom": "The specific event that triggered Ella's panic attack was the moment just before she was supposed to speak during her presentation.",
+        "gold_answer": "The panic attack was triggered just before she was supposed to speak."
+    },
+    {
+        "User Id": 51,
+        "question": "What did Sophia want to discuss during her last session?",
+        "answer_wm": "Sophia wanted to discuss her recent presentation, which she found nerve-wracking and frustrating, particularly because she stumbled through her part and felt inadequate afterward. She also mentioned feeling conflicted about her self-esteem and comparing herself to her peer, Mark.",
+        "answer_wom": "Sophia wanted to discuss her presentation, specifically how it went and her feelings of frustration and inadequacy afterward.",
+        "gold_answer": "The presentation."
+    },
+    {
+        "User Id": 52,
+        "question": "What did Elias plan to do next after talking to Hannah about his career path?",
+        "answer_wm": "After talking to Hannah about his career path, Elias did not specify a concrete plan for what he would do next. He mentioned feeling conflicted about his path despite the encouragement he received from Hannah. Therefore, it seems he is still in the process of reflecting on his options and has not yet decided on a specific next step.",
+        "answer_wom": "Elias did not explicitly mention any specific plans for what he would do next after talking to Hannah about his career path. He expressed feeling conflicted about his path but did not outline any concrete next steps.",
+        "gold_answer": "...embrace his unique perspective."
+    },
+    {
+        "User Id": 53,
+        "question": "What did Maya do before this conversation?",
+        "answer_wm": "Before this conversation, Maya attended an exhibition where she felt anxious and overwhelmed. Despite receiving positive feedback on her design work, she struggled with self-doubt and downplayed the praise, and her anxiety held her back from engaging with others.",
+        "answer_wom": "Maya attended an exhibition where she felt anxious and overwhelmed, particularly while setting up and trying to engage with others. She also received praise for her design but struggled to accept it positively.",
+        "gold_answer": "She made it to the exhibition."
+    },
+    {
+        "User Id": 54,
+        "question": "What does Zara tend to focus on instead of the positive feedback she received?",
+        "answer_wm": "Zara tends to focus on her fears and doubts instead of the positive feedback she received.",
+        "answer_wom": "Zara tends to focus on her fears and doubts instead of the positive feedback she received.",
+        "gold_answer": "Her fears."
+    },
+    {
+        "User Id": 55,
+        "question": "What is something Amina felt proud of during her exam?",
+        "answer_wm": "Amina felt proud of a few answers she gave during her exam.",
+        "answer_wom": "Amina felt proud of a few answers she gave during her exam.",
+        "gold_answer": "A few answers."
+    },
+    {
+        "User Id": 56,
+        "question": "What did Omar do before this dialogue?",
+        "answer_wm": "Before this dialogue, Omar had his first midterm exam, which he found tough. He experienced anxiety and regret about not prioritizing his photography earlier, and he struggled to focus during the exam. Despite answering a few questions well, he felt uncertain about his performance overall.",
+        "answer_wom": "Omar had his first midterm exam, which he found tough, and he felt a mix of anxiety and regret about not prioritizing his photography earlier, which affected his focus.",
+        "gold_answer": "He had his first midterm exam."
+    },
+    {
+        "User Id": 57,
+        "question": "What is Sara worried about regarding her studies?",
+        "answer_wm": "Sara is worried about how to balance her studies with her emotional health.",
+        "answer_wom": "Sara is worried about how to balance her studies with her emotional health.",
+        "gold_answer": "She is worried about how to balance her studies with her emotional health."
+    },
+    {
+        "User Id": 58,
+        "question": "What is Maya planning to do this week?",
+        "answer_wm": "Maya is planning to look for mental health support this week.",
+        "answer_wom": "Maya is planning to look for a mental health professional this week.",
+        "gold_answer": "Look for someone to talk to for support."
+    },
+    {
+        "User Id": 59,
+        "question": "What did Amira's campus counselor suggest to help her feel more supported?",
+        "answer_wm": "Amira's campus counselor suggested that she create a self-care schedule and participate in a fun team-building activity with her classmates to help her feel more supported.",
+        "answer_wom": "Amira's campus counselor suggested that she create a self-care schedule and participate in a fun team-building activity with her classmates to help her feel more supported.",
+        "gold_answer": "To create a self-care schedule and suggested a fun team-building activity for her classmates."
+    },
+    {
+        "User Id": 60,
+        "question": "What does the counselor suggest Ethan do to help manage his feelings of being overwhelmed?",
+        "answer_wm": "The counselor suggests that Ethan start by creating small boundaries to help manage his time better and gradually build on them. They also remind Ethan that it's okay to prioritize his well-being.",
+        "answer_wom": "The counselor suggests that Ethan start with small boundaries to manage his time better and gradually build on them, while also reminding him that it's okay to prioritize his well-being.",
+        "gold_answer": "The counselor suggests that Ethan is allowed to prioritize his well-being."
+    },
+    {
+        "User Id": 61,
+        "question": "What specific plan did Sophia decide to try in order to manage her time better?",
+        "answer_wm": "Sophia decided to set specific times for studying and family time, and also reserve at least one evening for painting.",
+        "answer_wom": "Sophia decided to set specific times for studying and family time, and to reserve at least one evening for painting.",
+        "gold_answer": "Set specific times for studying and family time, and also reserve at least one evening for painting."
+    },
+    {
+        "User Id": 62,
+        "question": "What is Isabella worried about regarding the changes she needs to make?",
+        "answer_wm": "Isabella is worried about whether she can really implement the changes related to self-care and boundaries that her counselor emphasized. She feels unsure about her ability to make these changes, despite recognizing the importance of them.",
+        "answer_wom": "Isabella is worried about whether she can really make the changes related to self-care and setting boundaries, as emphasized by the counselor.",
+        "gold_answer": "She is worried about whether she can really make those changes."
+    },
+    {
+        "User Id": 63,
+        "question": "What did Aiden feel after talking to the campus counselor?",
+        "answer_wm": "Aiden felt relieved after talking to the campus counselor.",
+        "answer_wom": "Aiden felt relieved after talking to the campus counselor.",
+        "gold_answer": "He felt relieved."
+    },
+    {
+        "User Id": 64,
+        "question": "What did Liam receive as advice for managing his mental health?",
+        "answer_wm": "Liam received advice to set boundaries and prioritize self-care, specifically suggesting he reserve time for soccer practice a couple of days a week as a way to help him mentally.",
+        "answer_wom": "Liam received advice to set some boundaries and prioritize self-care to manage his mental health. Specifically, he considered reserving time for soccer practice a couple of days a week as a starting point.",
+        "gold_answer": "He was suggested to try setting some boundaries and prioritize self-care."
+    },
+    {
+        "User Id": 65,
+        "question": "What does Maya plan to do next after the project presentation?",
+        "answer_wm": "Maya plans to give herself time to reflect on the experience and process her feelings after the project presentation. She is considering changing her studies due to the anxiety she experienced during the presentation but acknowledges the need for self-reflection before making any decisions.",
+        "answer_wom": "Maya plans to give herself time to reflect on the experience.",
+        "gold_answer": "Give herself time to reflect."
+    },
+    {
+        "User Id": 66,
+        "question": "What does Tara think could be a better fit for her after her presentation struggles?",
+        "answer_wm": "Tara thinks that communication strategies could be a better fit for her after her presentation struggles.",
+        "answer_wom": "Tara thinks that communication strategies could be a better fit for her after her presentation struggles.",
+        "gold_answer": "Communication strategies."
+    },
+    {
+        "User Id": 67,
+        "question": "What did Sofia feel while giving her presentation on mental health awareness?",
+        "answer_wm": "Sofia felt pressure and struggled to connect with the audience during her presentation on mental health awareness. She also felt like a failure afterward, which led her to question whether she should change her focus from psychology to something less emotionally charged. Despite these feelings, she remains passionate about mental health awareness.",
+        "answer_wom": "Sofia felt a lot of pressure and struggled to connect with the audience while giving her presentation on mental health awareness. She also felt like a failure afterward, which led her to question whether she should change her focus from psychology to something less emotionally charged.",
+        "gold_answer": "She felt so much pressure."
+    },
+    {
+        "User Id": 68,
+        "question": "What made Javier feel like a failure after his presentation?",
+        "answer_wm": "Javier felt like a failure after his presentation because he struggled to engage the audience and felt overwhelming pressure, which made him question his abilities and consider switching his focus to photography instead of environmental science.",
+        "answer_wom": "Javier felt like a failure after his presentation because he struggled to engage the audience and felt that his message, which incorporated his personal experiences, did not land effectively. This led him to question his focus on environmental science and consider shifting to photography instead.",
+        "gold_answer": "He struggled to engage the audience, which led him to question his abilities."
+    },
+    {
+        "User Id": 69,
+        "question": "What is causing Amina to question her choice in pursuing Graphic Design?",
+        "answer_wm": "Amina is questioning her choice in pursuing Graphic Design due to feeling like a failure after a recent presentation that did not resonate with the audience. This experience has led her to feel invalidated and doubt her creative instincts, causing her to consider shifting her focus to photography instead. Additionally, she has been feeling disconnected from her classmates and undervalued in group settings, which has further contributed to her uncertainty about her career path.",
+        "answer_wom": "Amina is questioning her choice in pursuing Graphic Design because she felt the audience's indifference during her presentation, which made her feel like she failed and led her to doubt her abilities and passion for the field.",
+        "gold_answer": "She feels like she failed during her presentation."
+    }
+]

@@ -4,7 +4,7 @@ import ollama
 
 class OllamaAgent():
     def __init__(self, model_name='qwen2.5:3b'):
-        os.system("ollama serve")
+        #os.system("ollama serve")
         self.model_name = model_name
         ollama.pull(self.model_name)
         self.reset()
@@ -22,8 +22,11 @@ class OllamaAgent():
 
 
 if __name__ == '__main__':
+    print("Start")
     agent = OllamaAgent()
+    print("Start")
     print(agent.query("What is the capital of France?"))
     print(agent.query("What are some famous tourist attraction in the city mentioned above?"))
+    print("End")
 
 # %%

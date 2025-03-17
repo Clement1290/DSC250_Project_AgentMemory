@@ -43,8 +43,8 @@ def evaluate_data(data, dataset, model):
     return compare_dic, rating_dict  # 返回计算结果
 
 if __name__ == "__main__":
-    simple_data = data_load("result/simple_QA.json")
-    complex_data = data_load("result/complex_QA.json")
+    simple_data = data_load("QA_result/ds/simple_QA 59.json")
+    complex_data = data_load("QA_result/ds/complex_QA 59.json")
     dataset = MultiSessionDialog()
     n = len(dataset)
     model = OpenAIAgent()
